@@ -2,9 +2,9 @@
 
 Patch français non officiel pour **Incursion Red River 1.4.0.1** (build Steam **26487830**).
 
-**Version : 0.1.2 bêta.** Les contrôles des fichiers compilés ont réussi. Les menus et missions avaient été validés sur la version initiale, puis les catégories du marchand sur la 0.1.1. La 0.1.2 ajoute les correctifs d'inventaire en raid, de sous-titres et de textes intégrés décrits ci-dessous. Toutes les situations de jeu n'ont pas été vérifiées.
+**Version : 0.1.3 bêta.** Les contrôles des fichiers compilés ont réussi. Cette version corrige les libellés des emplacements d'équipement, ajoute les dialogues des cartes dont l'introduction de Quarry et raccourcit le texte satellite du TactiNav. Toutes les situations de jeu n'ont pas été vérifiées.
 
-[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.2-beta)
+[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.3-beta)
 
 ## Installation
 
@@ -32,6 +32,14 @@ Jeu fermé, renommez `pakchunk99-French_P.pak` en `pakchunk99-French_P.pak.disab
 
 Vous pouvez aussi retirer uniquement ce fichier du dossier `Paks`.
 
+## Corrections 0.1.3
+
+- Libellés des emplacements d'équipement traduits dans leur composant d'affichage, avec conservation des identifiants et des noms de modèles.
+- 49 répliques radio supplémentaires traduites manuellement, dont l'introduction de Quarry.
+- 86 entrées ajoutées pour Quarry, Delta, Outskirts et Bunker, portant la ressource principale à 6 756 entrées.
+- TactiNav : « Données satellite : OFF » pour l'état non chargé existant, sans modification de la logique du satellite.
+- Correctifs précédents conservés et titre **Incursion Red River** inchangé.
+
 ## Corrections 0.1.2
 
 - Le titre du jeu reste **Incursion Red River**.
@@ -52,7 +60,7 @@ L’onglet « Sécuriser le marché » devient « Marché officiel ».
 
 ## Contenu
 
-- 6 670 entrées traitées, représentant 4 345 textes distincts.
+- 6 756 entrées dans la ressource principale, dont 86 entrées supplémentaires issues des cartes.
 - Traduction automatique locale comme base de travail.
 - 1 383 textes distincts corrigés manuellement, principalement les menus, actions, soins, objectifs courts, tutoriels et réglages.
 - Lexique contrôlé pour les composants d'armes.
@@ -70,7 +78,7 @@ La compatibilité est établie pour la version 1.4.0.1 citée ci-dessus. Après 
 
 Ouvrez une [issue](https://github.com/ikkinomi/incursion-red-river-fr/issues) en indiquant la version du jeu, l'écran concerné, le texte observé et la correction proposée. Une capture aide à repérer un texte coupé ou mal placé.
 
-Les traductions éditables sont dans [`translations/fr.csv`](translations/fr.csv), avec les noms de catégories dans [`translations/categories-fr.json`](translations/categories-fr.json) et les répliques relues dans [`translations/subtitles-fr.json`](translations/subtitles-fr.json). Conservez les identifiants de la colonne `key` et les variables comme `{count}` ou `{x}`, les balises comme `<Red>...</>`, les noms de fichiers et les commandes à saisir. Une modification du CSV nécessite une recompilation du patch pour apparaître en jeu.
+Les traductions éditables sont dans [`translations/fr.csv`](translations/fr.csv), avec les noms de catégories dans [`translations/categories-fr.json`](translations/categories-fr.json) et les répliques relues dans [`translations/subtitles-fr.json`](translations/subtitles-fr.json). Conservez les identifiants de la colonne `key` et les variables comme `{count}` ou `{x}`, les balises comme `<Red>...</>`, les noms de fichiers et les commandes à saisir. Les ajouts issus des cartes sont aussi disponibles dans [`translations/map-texts-fr.csv`](translations/map-texts-fr.csv). Une modification du CSV nécessite une recompilation du patch pour apparaître en jeu.
 
 Voir aussi les [contrôles effectués](docs/VALIDATION.md), les [notes de version](RELEASE_NOTES.md) et les [crédits](CREDITS.md).
 

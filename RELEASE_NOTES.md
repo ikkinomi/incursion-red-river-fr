@@ -1,16 +1,15 @@
-# Version 0.1.2 bêta — inventaire, sous-titres et textes intégrés
+# Version 0.1.3 bêta — équipement et dialogues des cartes
 
 Pour **Incursion Red River 1.4.0.1**, build Steam **26487830**.
 
-- Nom du jeu conservé : **Incursion Red River**.
-- Traduction des titres et des emplacements de l'inventaire en raid.
-- Traduction de l'avertissement sur l'emplacement permanent du TactiNav.
-- 25 répliques de voix off relues manuellement et intégrées aux données des missions.
-- Reprise de 2 613 champs de texte intégrés aux interfaces et aux missions, dont dix composants du TactiNav.
-- Fonctions non concernées conservées à l'identique.
-- Correctif des catégories du marchand de la 0.1.1 conservé.
+- Correction des libellés des emplacements d'équipement : casque, porte-plaques, gilet tactique, armes, jumelles, sac à dos et appareil.
+- 49 répliques radio supplémentaires traduites manuellement, dont les introductions des cartes.
+- 86 entrées ajoutées : dialogues et noms de lieux de Quarry, Delta, Outskirts et Bunker.
+- Introduction de Quarry « Quarry is a riverside district… » incluse.
+- Libellé du TactiNav raccourci : « Données satellite : OFF » pour l'état non chargé existant. Le fonctionnement du satellite est conservé.
+- Corrections précédentes et titre **Incursion Red River** conservés.
 
-Les fichiers compilés et le contenu de l'archive ont passé les contrôles. Cette version est publiée à la demande du joueur ; elle reste une bêta et toutes les situations de jeu n'ont pas fait l'objet d'une validation visuelle exhaustive.
+Les contrôles des fichiers compilés ont réussi. Cette version est publiée à la demande du joueur ; elle reste une bêta et toutes les situations de jeu n'ont pas fait l'objet d'une validation visuelle exhaustive.
 
 ## Installation
 

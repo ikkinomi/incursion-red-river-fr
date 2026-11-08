@@ -8393,3 +8393,100 @@ FItemDimensions CurrentDimensions;"
 UObjectToolTips/ContainerItem:ItemDimensions,"UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)
        TArray<FGuid> RequiredFromItemUIDs;","UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)
        TArray<FGuid> RequiredFromItemUIDs;"
+/27429E0E4623DC4002CBDBACA3A97A54,"Welcome to Delta. While you're here enjoy the rice fields, abandoned buildings, the quaint town or an industrial truck depot.","Bienvenue à Delta. Vous pourrez y découvrir des rizières, des bâtiments abandonnés, une petite ville et un dépôt de camions."
+/2BAD73314D7C6D8BB12492AFB66E5D36,"Delta, like many of the regions you will visit, was quiet for a long time. Now it's a hotbed of trucks and IGC. Radio me with updates.","Delta est restée paisible pendant longtemps, comme beaucoup des régions que vous visiterez. Aujourd'hui, elle grouille de camions et de soldats de l'IGC. Tenez-moi au courant par radio."
+/C021261E41C21FCC1C32708364EDB144,"Peaceful rice fields, small towns, UICS structures but IGC control, welcome to Delta.","Des rizières paisibles, de petites villes, des installations de l'UICS, mais un territoire contrôlé par l'IGC : bienvenue à Delta."
+/D6484E404CC0D66F0A4015BF7F5D2791,"FANG reports that Delta has a lot to investigate, it will be a common place for you to visit, hope you enjoy it.","Selon FANG, il y a beaucoup à découvrir à Delta. Vous reviendrez souvent ici ; j'espère que l'endroit vous plaira."
+/3863C25841398F86A69E7EBD6248DD43,"Delta - looks may deceive you. What seems peaceful at a distance and indeed used to be, well, you'll soon find out how messy it is here.","Delta... Les apparences sont trompeuses. De loin, tout semble paisible, et ça l'était autrefois. Vous découvrirez vite à quel point la situation est chaotique."
+/9807A57C476568DF4AA6C08E9052134B,You're in the rice fields of Delta. Radio me with updates.,Vous êtes dans les rizières de Delta. Tenez-moi au courant par radio.
+/F690C8FE4F1B6F29493AC5A7B3B0E455,Operator! This is the abandoned market. It was to be a key communal area but the town's expansion slowed.,"Opérateur ! Voici le marché abandonné. Il devait être un lieu central pour la communauté, mais l'expansion de la ville a ralenti."
+/EE31A7774A6AB10A7E59F9AE591C7DCC,"These are temporary barracks set up by the IGC, just another mark of their increasing attempts to lock down the area.",Ce sont des baraquements temporaires installés par l'IGC. Un signe de plus de sa volonté de verrouiller la zone.
+/6469C3DA45E82159D15C4CADEBAE7697,"Thanks for checking in, Operator. These UICS HAS sites attempt to feed locals, though with the IGC presence they have largely been stalled.","Merci d'avoir appelé, Opérateur. Ces sites d'aide humanitaire de l'UICS tentent de nourrir les habitants, mais la présence de l'IGC a largement freiné leurs activités."
+/0F66F4D141B1FC65F882C6A9A3C1DB1B,This is an old VCUP train line that the IGC is still struggling to get under working order.,C'est une ancienne ligne ferroviaire du VCUP. L'IGC peine encore à la remettre en service.
+/55827C34452D8328B37A6481D32991D7,"How long has it been since you were in school Operator? Well, all you'll find here is a place crowded with troops.","Depuis quand n'avez-vous pas mis les pieds dans une école, Opérateur ? Ici, vous ne trouverez qu'un bâtiment rempli de soldats."
+/7FFC987B423F76A08CBED3BA2682FD1D,"IGC has descended quickly on these local homes, turning many into military offices and rooms for officials.",L'IGC a rapidement investi ces habitations. Beaucoup servent maintenant de bureaux militaires ou de logements pour ses responsables.
+/1C1C60FA4224FDE523D4B9985ED1AE51,"FANG has heard reports of locals going missing, most stay hidden or have left the area now.",FANG a reçu des signalements de disparitions. La plupart des habitants se cachent ou ont quitté la région.
+/F76B381D4E1D28540661E49EB5335228,"The IMN was an early precursor of redevelopment, the IGC now uses it as a shipment hub for their supply trucks.",L'IMN annonçait autrefois le réaménagement de la région. L'IGC l'utilise maintenant comme centre de transit pour ses camions de ravitaillement.
+/FC3AFB844914DA15E611E9A1C51108D2,Welcome to Outskirts. An early 2010s failed attempt to stabilize the government with western resort funding. Civil war broke out and now the factions share whats left.,"Bienvenue dans la Périphérie. Au début des années 2010, des investissements occidentaux dans une station touristique devaient stabiliser le gouvernement. Le projet a échoué. La guerre civile a éclaté et les factions se partagent désormais ce qu'il en reste."
+/63D9FF65418A7FA72F41FAA7D483CEC7,"Outskirts, an island region with intensely different areas each held by a different faction. Go prove yourself.","La Périphérie est une île aux secteurs très différents, chacun tenu par une faction. À vous de faire vos preuves."
+/C9D0B51B4F3FCFB740A96593ED791F1E,"The Island of Outskirts, its a lot to explore but stay focused on the important areas. Radio me with updates.","L'île de la Périphérie offre beaucoup à explorer, mais concentrez-vous sur les secteurs importants. Tenez-moi au courant par radio."
+/806C6FD540733EE9BCEF08984EC4A79B,Construction Yard,Chantier
+/7F398C244C7575ED5E2B019923836924,Gas Station,Station-service
+/2D6D646B485FC495E53A64AE8D28BAC6,Construction Yard,Chantier
+/2AB7AC824F96E15DCF29099F86A86ADF,Train Station,Gare
+/9924D5B04A0822A3F0826982840F2F6B,Apartments,Appartements
+/9AE505124A4AE821709F01A6EC92BD68,Warehouse Compound,Complexe d'entrepôts
+/FE7BE869442BE8BDCD1C65B0EC8F4173,Bike Shop,Magasin de vélos
+/F4DB9F3F420F3BF06C612998A9717CEA,Processing Plant,Usine de traitement
+/554B96CF44D7D66964509E90C5D2F3F9,Nature Huts,Cabanes
+/5E3389D542D75FF854D3DF9D063DCC7C,"The purpose of these apartments? Nothing in my notes on them, I'd imagine they house workers in the area.",À quoi servent ces appartements ? Mes notes n'en disent rien. Ils doivent loger les ouvriers du secteur.
+/0644CABB42C3EACA3DE27DBBC8A43EEC,"Operator? Ah, yeah, these warehouses store general supplies. Leftovers from the port's successful past.","Opérateur ? Oui, ces entrepôts contiennent des fournitures courantes. Des vestiges de l'époque où le port prospérait."
+/7A0D8A4746474F6ABA991CAB277C8DE5,"You found the bike shop? Yeah, its suprisingly untouched by the violence, which is good news for you, should be some useful parts around.","Vous avez trouvé le magasin de vélos ? Étonnamment, il a été épargné par les violences. Bonne nouvelle pour vous : il doit rester des pièces utiles."
+/0CC9362C4CB36B2986CEBFB1FB6752EE,"This area? A processing plant; it's under construction, which means sparse cover.",Ce secteur ? Une usine de traitement en construction. Vous y trouverez peu de couvert.
+/D958C4BE44D8322F8687ED814C9EC39E,Surprised to find homes here? It's unclear if they are UICS expansion points or locals.,Surpris de trouver des maisons ici ? On ignore s'il s'agit de nouvelles implantations de l'UICS ou de logements d'habitants.
+/1E7E17E54153DEC813CCA3B596CA7058,"Welcome to Quarry, Operator, get your bearings. The region has a marble quarry, military base, and factory. Stay on task and good luck.","Bienvenue dans la Carrière, Opérateur. Prenez vos repères : la région comprend une carrière de marbre, une base militaire et une usine. Restez concentré sur votre mission. Bonne chance."
+/40571B0A42BB4B4E35E5979F772C3EB6,"Welcome, Quarry has changed hands many times. It was once government controlled, but now the UICS have secured the area.","Bienvenue. La Carrière a souvent changé de mains. Autrefois contrôlée par le gouvernement, elle est désormais tenue par l'UICS."
+/9F4DFC2D4B3F246A65F628B51C110B39,The UICS fill Quarry. You know what you are doing. Radio me with updates.,L'UICS est omniprésente dans la Carrière. Vous savez ce que vous avez à faire. Tenez-moi au courant par radio.
+/6D46C9E74328FE53FB1D83A187B40FCC,Quarry is a riverside district where the UICS has concentrated their forces and humanitarian support. You know your task. Radio me with updates.,La Carrière est un secteur au bord de la rivière où l'UICS a concentré ses forces et son aide humanitaire. Vous connaissez votre mission. Tenez-moi au courant par radio.
+/A8C17F784966BFFE873B4DA5DD9D76F3,"Welcome, Quarry was once the foundation of Vietnam's marble export, now its home to the UICS. You know what you need to do, radio with updates.",Bienvenue. La Carrière était autrefois au cœur des exportations de marbre du Vietnam. Elle abrite maintenant l'UICS. Vous savez ce que vous avez à faire. Tenez-moi au courant par radio.
+/EDE8921348949736A14025994D999F72,"You're in Quarry, UICS are all over the place. Radio me with updates.",Vous êtes dans la Carrière. L'UICS est partout. Tenez-moi au courant par radio.
+/92B0360847EE5D5AAE27F080F6CB6400,"Yeah, my notes are pretty sparse on the use of this space, FANG recon didn't get in here, interested to see what you find.",Mes notes sur cet endroit sont plutôt maigres. Les éclaireurs de FANG n'ont pas pu entrer. Je suis curieuse de savoir ce que vous trouverez.
+/F0EB4CEB49F3B7AC9E6B259D1B504EEF,"The machines here are quiet, instead FANG sources say food and supplies are unpacked inside.","Les machines sont à l'arrêt. Selon les sources de FANG, on déballe plutôt de la nourriture et des fournitures à l'intérieur."
+/82726E334873E87063ABC79CCAFF694E,"These small huts used to be homes, now they stage whichever faction needs the protection of wooden walls",Ces petites cabanes étaient autrefois des habitations. Elles servent maintenant d'abri à la faction qui a besoin de leurs murs en bois.
+/2FF378984E7A8D298BEE06AE30BFB257,"And here it is, the UICS in full force, haven't been there myself, but sounds like the UICS has really put down some roots there, good luck fighting through it.","Nous y voilà : l'UICS est ici en force. Je n'y suis jamais allée, mais elle semble s'être solidement implantée. Bonne chance pour vous frayer un chemin."
+/6C0EDC8B46E88DB7D6D16CB42181269F,"These white walls around you are all marble, the veins of the Quarry, the regions namesake
+","Ces parois blanches autour de vous sont en marbre. Ce sont les veines de la Carrière, qui a donné son nom à la région."
+/44736D87489B32B2EC6A788B3F535300,"Thanks for calling in. Another UICS blue roof, kind of isolated, intel says it's more of an office","Merci d'avoir appelé. Encore un toit bleu de l'UICS, assez isolé. D'après les renseignements, ce serait plutôt un bureau."
+/A9ED9F054BC77B1F5F8CB39CA402BC06,"Are you getting used to the Humanitarian Aid Sites yet? I kind of like the acronym. HAS, HAS, HAAAS, but the troops around them and learning all you can is the focus, yeah?","Vous commencez à connaître les sites d'aide humanitaire ? J'aime bien leur acronyme : HAS, HAS, HAAAS ! Mais votre priorité reste de surveiller les soldats et d'en apprendre le plus possible, d'accord ?"
+/3532F5794A2F8E9A1D9899BB20465370,"These small docks connect the UICS to Outskirts, with IGC controlling the skies, boats are key.","Ces petits quais relient l'UICS à la Périphérie. L'IGC contrôle le ciel, alors les bateaux sont essentiels."
+/7CF44A7F4105F2C88B7CE3987990440E,"Welcome to Bunker, the VLF are packed down in here, don't become a burried body. Radio me with updates.",Bienvenue dans le Bunker. Le VLF est très présent ici. Ne finissez pas enterré sous terre. Tenez-moi au courant par radio.
+/2EFEF136444D82E190B95BA3BB4E10DE,"Bunker once had a secret millitary operation that hid behind the abandonded mine, now, well, the VLF call it home and the location's existence is decently known.","Le Bunker abritait autrefois une opération militaire secrète dissimulée derrière la mine abandonnée. Aujourd'hui, le VLF y a élu domicile, et l'existence du site est assez bien connue."
+/63D6ECED4525888FDFA88AB450318050,"Several stories below the ground, this is Bunker. From mining, to Soviet weapons, the lineage of the tunnels is long and the VLF are the newest inhabitants.","À plusieurs niveaux sous terre, voici le Bunker. De l'exploitation minière aux armes soviétiques, ces tunnels ont une longue histoire. Le VLF en est le dernier occupant."
+/5DA2FFDB4FDCBDEAEA04C088C87BA4B0,Bunker was left undiscovered for years but now VLF stage most of their opperations in the caves. Radio me with updates.,Le Bunker est resté caché pendant des années. Le VLF mène maintenant la plupart de ses opérations depuis ces grottes. Tenez-moi au courant par radio.
+/2145F22A48DF93D5224FEEAC141287EF,"Boo! Haha, just prepping you as it gets scary down in these tunnels. Oh, welcome to Bunker. Radio me with updates.","Bouh ! Haha ! Je vous prépare : ces tunnels peuvent faire peur. Ah, et bienvenue dans le Bunker. Tenez-moi au courant par radio."
+/6644A6E34493D0080B26C6889F9DAADB,"You're in Bunker. Tight walls, dark corners. Radio with updates.",Vous êtes dans le Bunker : des parois étroites et des recoins sombres. Tenez-moi au courant par radio.
+/1825F6F14C9CBADC4F4715A17A7979D0,"Oh, the cells, FANG recon found evidence of over 50 years of prisoners, hopefully they provide safety for you where they didn't for others.",Les cellules... Les éclaireurs de FANG ont trouvé des traces de plus de cinquante ans de détention. Espérons qu'elles vous offriront la protection que d'autres n'y ont pas trouvée.
+/8CBDC30E4140D74155894FA613D692BC,"You found a tunnel in the cells, haha, I'm surprised no one's cared enough to fill it.",Vous avez trouvé un tunnel dans les cellules ? Haha ! Étonnant que personne n'ait pris la peine de le boucher.
+/BF9D56294D7264A8A48C1DB61BA11D83,Just the food storage for the soldiers here.,C'est simplement la réserve de nourriture des soldats.
+/E65ED4014993921BA5B786ACF38E2CA5,"If you can't put factions aside and see how impressive this space is, well, take a moment to do so. Then focus up because this place is a mess of sightlines and filled to the brim with VLF.","Mettez un instant les factions de côté pour admirer cet endroit. Puis reconcentrez-vous : les lignes de tir se croisent partout, et le VLF occupe les lieux en nombre."
+/401FE7E347D841F690C722A51B3D0103,This room is the operational and strategic center of the VLF Bunker,Cette salle est le centre opérationnel et stratégique du Bunker du VLF.
+/52FCBB974100A891CC320DB6B7867E03,"Operator? That's right, the lift isn't functional, and if it were, I'm sure it would be loud enough for every VLF soldier under the hills to hear it and find you. Keep on your stealthy way.","Opérateur ? Oui, l'ascenseur est hors service. Même s'il fonctionnait, il ferait assez de bruit pour attirer tous les soldats du VLF sous ces collines. Continuez discrètement."
+/1EECA9E644FEEC62CA74FC8BC3810810,These rooms make up the medical bay. The bodies here are just a small toll of the conflict. Stay sharp so you don't join them,Ces pièces constituent l'infirmerie. Les corps ne représentent qu'une petite partie des victimes du conflit. Restez vigilant pour ne pas les rejoindre.
+/C9C936AB4C8A6E3FE7AFBE891875F9E2,VLF Main Base,Base principale du VLF
+/5AB5453147C7D804123B58BE21FD1AD2,To Industrial Zone,Vers la zone industrielle
+/469643254BAA8E2EE9A61EBD3FC29E75,To Cargo Storage,Vers les entrepôts
+/F76803EC4F2D27CED409C9A30DEC3296,"To Exterior
+or Main Bunker
+","Vers la sortie
+ou le bunker principal
+"
+/FCBF7491453E0771363D7AA63BA84720,To Main Bunker,Vers le bunker principal
+/A422136F4E71434A5781F39D01EFCEE9,To Main Bunker,Vers le bunker principal
+/2B849E964951E3E292AEA69DF5D51DAB,To Industrial Zone,Vers la zone industrielle
+/0B66661B425D7C188EF882B093AD617F,Office Cells,Bureaux des cellules
+/79FC1AB2469A64CDCE39449779BA3D13,Command Room,Salle de commandement
+/3B3C97A44D53A92577C72F8BDA705D25,Command Room,Salle de commandement
+/140482E04C239F26220C328EEB0DA9F9,"To Cave Transition
+","Vers le passage de la grotte
+"
+/5001CBC54C5371DD7474069D6FDF1C0F,Vehicle Lift,Monte-charge
+/4F7BA1BE42D092426129B6A31E928FB3,"To Exterior
+or Industrial Zone","Vers la sortie
+ou la zone industrielle"
+/CD5F1C324550C123D663249F31A1A8E1,"To Cave
+","Vers la grotte
+"
+/D33DA17547CF3209D196FC8AC501A3A5,Upwards,Vers le haut
+/D72DC369498C108D519594A59CE94516,To Cave Transition,Vers le passage de la grotte
+/BB42EC444A707D5E39A6B8B9F06EAA2A,To Exterior,Vers la sortie
+/FDE350044A84E2A82DCCC1975588E6BA,To Cave,Vers la grotte
+/916C3209460B58A9A774C48AE1269CF9,To Cave,Vers la grotte
+/B85CE9E34D7ABE1BF920DEA0FD24165E,Control Console,Console de commande
+/F590E01D4FB064576311FDA997194EB8,To Extract A,Vers l'extraction A
+/02DDCAE9456B2A78A598D1881BADD8FA,Prisoner Cells,Cellules des prisonniers
+/ACD45E864AFB0D71612B7F8B67EC49AD,Cargo Storage,Entrepôts
+/ECA0FA774B8CFD607EB120ACBB52E072,Medbay,Infirmerie
+/9DFB4BFE4D33D9CE20970AA56A413304,Cafeteria / Bathrooms,Cafétéria / Toilettes
+/9CAEE34249BBA75BFB4F368CE6DF5BB1,Cafeteria,Cafétéria
+/E6400DCE4A105497DD6A52A83F95D1F5,Bathroom A,Toilettes A
+/908A2CCE4CCC603B036B95AB292DD1AA,Bathroom B,Toilettes B
