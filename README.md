@@ -2,9 +2,9 @@
 
 Patch français non officiel pour **Incursion Red River 1.4.0.1** (build Steam **26487830**).
 
-**Version : 0.1.1 bêta.** Le chargement du patch a été vérifié dans le journal du jeu. Les menus et les missions ont été testés et validés visuellement par le joueur le 8 novembre 2026. La correction des catégories du marchand a également été validée par le joueur. Une validation complète de toutes les situations de jeu reste à faire.
+**Version : 0.1.2 bêta.** Les contrôles des fichiers compilés ont réussi. Les menus et missions avaient été validés sur la version initiale, puis les catégories du marchand sur la 0.1.1. La 0.1.2 ajoute les correctifs d'inventaire en raid, de sous-titres et de textes intégrés décrits ci-dessous. Toutes les situations de jeu n'ont pas été vérifiées.
 
-[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.1-beta)
+[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.2-beta)
 
 ## Installation
 
@@ -32,6 +32,18 @@ Jeu fermé, renommez `pakchunk99-French_P.pak` en `pakchunk99-French_P.pak.disab
 
 Vous pouvez aussi retirer uniquement ce fichier du dossier `Paks`.
 
+## Corrections 0.1.2
+
+- Le titre du jeu reste **Incursion Red River**.
+- Titres et emplacements de l'inventaire en raid traduits.
+- Avertissement sur l'emplacement permanent du TactiNav traduit à l'affichage.
+- 25 répliques de voix off identifiées, relues manuellement et intégrées aux données des missions.
+- Textes intégrés des interfaces et des missions repris, dont dix composants du TactiNav.
+- Fonctions qui ne nécessitent aucun changement conservées à l'identique.
+- Correctif des catégories du marchand de la 0.1.1 conservé.
+
+Les fichiers reconstruits ont été relus pour contrôler leur contenu, les instructions modifiées et les traductions attendues. Cette version reste une bêta : le résultat de chaque sous-titre, écran ou situation doit encore être confirmé en jeu.
+
 ## Correction des catégories du marchand
 
 Cette version traduit les catégories et sous-catégories du marchand : Munitions, Canon, Poignée avant, Conteneurs, etc. Une table de libellés dédiée est ajoutée, car ces noms étaient générés directement à partir des identifiants internes. Ces identifiants et le fonctionnement des filtres sont conservés.
@@ -58,7 +70,7 @@ La compatibilité est établie pour la version 1.4.0.1 citée ci-dessus. Après 
 
 Ouvrez une [issue](https://github.com/ikkinomi/incursion-red-river-fr/issues) en indiquant la version du jeu, l'écran concerné, le texte observé et la correction proposée. Une capture aide à repérer un texte coupé ou mal placé.
 
-Les traductions éditables sont dans [`translations/fr.csv`](translations/fr.csv), avec les noms de catégories dans [`translations/categories-fr.json`](translations/categories-fr.json). Conservez les identifiants de la colonne `key` et les variables comme `{count}` ou `{x}`, les balises comme `<Red>...</>`, les noms de fichiers et les commandes à saisir. Une modification du CSV nécessite une recompilation du patch pour apparaître en jeu.
+Les traductions éditables sont dans [`translations/fr.csv`](translations/fr.csv), avec les noms de catégories dans [`translations/categories-fr.json`](translations/categories-fr.json) et les répliques relues dans [`translations/subtitles-fr.json`](translations/subtitles-fr.json). Conservez les identifiants de la colonne `key` et les variables comme `{count}` ou `{x}`, les balises comme `<Red>...</>`, les noms de fichiers et les commandes à saisir. Une modification du CSV nécessite une recompilation du patch pour apparaître en jeu.
 
 Voir aussi les [contrôles effectués](docs/VALIDATION.md), les [notes de version](RELEASE_NOTES.md) et les [crédits](CREDITS.md).
 

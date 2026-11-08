@@ -1,16 +1,16 @@
 {
-  "patch_version": "0.1.1-beta",
+  "patch_version": "0.1.2-beta",
   "game_version": "1.4.0.1",
   "steam_build_id": "26487830",
-  "locres_entries": 6670,
-  "category_table_entries": 1010,
-  "locres_corrections": 25,
-  "widget_serialization_verified": true,
-  "unchanged_widget_data_preserved": true,
-  "function_bytecode_sizes_verified": true,
-  "category_table_roundtrip_verified": true,
-  "visual_category_validation": "confirmed_by_player",
-  "patch_sha256": "f1126b058fc15fbc575fa056c629b5262a8c3466f9b048da48155fc2d5b389e3",
-  "player_feedback": "Ça me semble nickel",
-  "validation_date": "2026-11-08"
+  "main_entries": 6670,
+  "modified_ui_and_mission_assets": 267,
+  "embedded_fields_translated": 2613,
+  "manually_reviewed_voice_subtitle_fields": 25,
+  "tactinav_assets_checked_and_patched": 10,
+  "compiled_assets_roundtrip_verified": true,
+  "title_preserved": "Incursion Red River",
+  "visual_validation": "not_exhaustively_reported",
+  "patch_sha256": "f6dea25aae8946455730bceb203535437299805750bcc11d21f39648e5752e10",
+  "publication_requested_by_user": true,
+  "publication_date": "2026-11-08"
 }
