@@ -1,5 +1,5 @@
 {
-  "patch_version": "0.1.5-beta",
+  "patch_version": "0.1.6-beta",
   "game_version": "1.4.0.1",
   "steam_build_id": "26487830",
   "main_entries": 6756,
@@ -19,7 +19,7 @@
   "satellite_existing_state": "unloaded; preserved",
   "earlier_category_fix_retained": true,
   "visual_validation": "not_tested_in_game",
-  "patch_sha256": "c76f84d8474a7a06786f6fde59b787cac9343f6e090f5c8beef2876553b37b19",
+  "patch_sha256": "120eaeb177aa325abccfac266920f0546a963b7be886609e8319a56cbab76f28",
   "publication_requested_by_user": true,
   "publication_date": "2026-11-08",
   "installed_on_player_pc": false,
@@ -28,12 +28,15 @@
   "reflex_option_source": "Boost",
   "reflex_option_target": "Boost",
   "modified_package_files": [
-    "Test_C/Content/Localization/ST_IncursionFR.uasset",
-    "Test_C/Content/Localization/ST_IncursionFR.uexp",
-    "Test_C/Content/Localization/Game/en/Game.locres"
+    "Test_C/Content/Localization/Game/en/Game.locres",
+    "Test_C/Content/Blueprints/UICore/Widgets/Menu/WB_MainMenu.uasset",
+    "Test_C/Content/Blueprints/UICore/Widgets/Menu/WB_MainMenu.uexp"
   ],
   "graphics_widget_roundtrip_verified": true,
   "corrected_item_source": "Empty Ammo Can",
   "corrected_item_target": "Boîte de munitions vide",
-  "string_table_roundtrip_verified": true
+  "string_table_roundtrip_verified": true,
+  "corrected_menu_source": "Discord",
+  "corrected_menu_target": "Discord",
+  "main_menu_roundtrip_verified": true
 }

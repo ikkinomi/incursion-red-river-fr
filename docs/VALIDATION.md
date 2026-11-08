@@ -1,16 +1,12 @@
-# Contrôles de la version 0.1.5
+# Contrôles de la version 0.1.6
 
 Cible : Incursion Red River 1.4.0.1, build Steam 26487830.
 
-- Nom Empty Ammo Can corrigé en Boîte de munitions vide dans les deux tables qui contenaient la traduction erronée.
-- 6 756 entrées réexportées depuis la ressource compilée et comparées aux traductions attendues.
-- Identifiants et empreintes sources inchangés par rapport à la 0.1.4 ; format de ressource version 3 conservé.
-- Table de noms reconstruite, réexportée et comparée intégralement à la table attendue.
-- Seulement trois fichiers du contenu du patch modifiés : ressource principale et paire de fichiers de la table de noms. Tous les autres fichiers conservés à l'identique, dont le correctif Boost de Nvidia Reflex.
-- Préparation dans une copie séparée. Empreinte du patch installé contrôlée avant et après : fichier inchangé. La 0.1.5 n'a pas été installée automatiquement.
+- Discord conserve son nom dans la ressource de langue et le menu principal.
+- 6 756 entrées compilées réexportées et comparées aux traductions attendues.
+- Identifiants et empreintes sources conservés, format de ressource version 3 inchangé.
+- Menu principal reconstruit puis relu ; données des exports et instructions des fonctions vérifiées.
+- Seulement trois fichiers modifiés : ressource de langue et paire de fichiers du menu principal. Tous les autres fichiers de la 0.1.5 conservés à l'identique.
+- Travail dans une copie séparée ; patch installé inchangé et nouvelle version non installée automatiquement.
 
-## Portée de la validation en jeu
-
-Cette correction n'a pas encore été vérifiée visuellement en jeu. Pour les vérifications antérieures, voir l'historique des versions. Des textes non rencontrés et des maladresses peuvent subsister.
-
-Détails des contrôles et empreinte du nouveau patch : [validation.json](validation.json).
+Cette correction reste à vérifier visuellement en jeu. Détails : [validation.json](validation.json).
