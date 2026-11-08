@@ -2,9 +2,9 @@
 
 Patch français non officiel pour **Incursion Red River 1.4.0.1** (build Steam **26487830**).
 
-**Version : 0.1.4 bêta.** L'option **Boost** de **Nvidia Reflex** conserve son appellation d'origine. Les corrections précédentes sont incluses. Les contrôles des fichiers compilés ont réussi ; cette correction reste à vérifier visuellement en jeu.
+**Version : 0.1.5 bêta.** Le nom de l'objet « Empty Ammo Can » est corrigé en **Boîte de munitions vide**. Les corrections précédentes sont incluses. Les contrôles des fichiers compilés ont réussi ; cette correction reste à vérifier visuellement en jeu.
 
-[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.4-beta)
+[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.5-beta)
 
 ## Installation
 
@@ -31,6 +31,10 @@ Aucun injecteur ni UE4SS n'est nécessaire. L'installation ajoute une archive de
 Jeu fermé, renommez `pakchunk99-French_P.pak` en `pakchunk99-French_P.pak.disabled`. Pour réactiver la traduction, remettez son nom d'origine.
 
 Vous pouvez aussi retirer uniquement ce fichier du dossier `Paks`.
+
+## Correction 0.1.5
+
+Le nom de l'objet **Empty Ammo Can** devient **Boîte de munitions vide**, dans la ressource principale et dans la table de noms d'objets.
 
 ## Correction 0.1.4
 

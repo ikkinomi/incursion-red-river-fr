@@ -1,11 +1,12 @@
-# Version 0.1.4 bêta — option NVIDIA Reflex
+# Version 0.1.5 bêta — boîte de munitions vide
 
 Pour **Incursion Red River 1.4.0.1**, build Steam **26487830**.
 
-- L'option **Boost** de **Nvidia Reflex** conserve son appellation d'origine. La traduction incorrecte « Coup de pouce » a été supprimée de la ressource de langue et du menu graphique.
-- Les corrections de la 0.1.3 sont incluses.
+- Le nom de l'objet **Empty Ammo Can** devient **Boîte de munitions vide**, à la place de « Vider la boîte munitions » : il décrit un objet vide, pas une action.
+- Correction dans la ressource principale et dans la table de noms d'objets utilisée par le marchand.
+- Les corrections précédentes, dont l'option **Boost** de **Nvidia Reflex**, sont incluses.
 
-Les 6 756 entrées compilées et leurs empreintes sources ont été vérifiées. Le composant du menu graphique a été reconstruit puis relu. Cette correction n'a pas encore été vérifiée visuellement en jeu ; elle est publiée en bêta à la demande du joueur.
+Les 6 756 entrées compilées et leurs empreintes sources ont été vérifiées. La table de noms a été reconstruite puis relue. Cette correction reste à vérifier visuellement en jeu.
 
 ## Installation
 
