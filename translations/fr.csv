@@ -1828,7 +1828,7 @@ niveau d'accès requis: Quartermaster."
 /285DC0A94FF638B39EF91F9CF8FB6EB7,Bandage,Bandage
 /EFFEEE4843DA5BE546AC7E8904E526D8,Bandage,Bandage
 /805B3E1D4A5C91836065B7A10370CEAC,"Bare Crye AVS carrier. Holds plates and nothing else, so pair it with a chest rig.","Porte-AVS Bare Crye. Prend des plaques et rien d'autre, alors joignez-les à un gilet tactique."
-/5FAF5FC446C071032731A1936F753F84,Barrel,canon
+/5FAF5FC446C071032731A1936F753F84,Barrel,Canon
 /ECDFED3C4A90834996E9C6BAA842D07E,Barrel nut that slightly reduces heat of the barrel.,écrou canon qui réduit légèrement la chaleur du canon.
 /5B5C7DC14DA2E75CD442A188AB234802,Base Satellite,Satellite de la base
 /883158934DCAE36387FE08BAA660B5A8,Base Sense Delay,Délai de détection de base
@@ -2135,7 +2135,7 @@ Vous recevrez également des mises à jour de factions et des avis système"
 /03BFD53147AEDC11904DF0B39BA7CD33,Clear H.A.S.,Effacer les H.A.S.
 /4821229B47184BB7BC6DC68EBFD56495,Clear H.A.S.,Effacer les H.A.S.
 /BC31DD6D475E1E665C10FAB7DAD8D659,Clear H.A.S.,Effacer les H.A.S.
-/7F6ABABE48F30482C14E888C187D0223,Clear Market,Sécuriser le marché
+/7F6ABABE48F30482C14E888C187D0223,Clear Market,Marché officiel
 /40EE8A04470139D851D21DBFB2985706,Clear Wave 1!,Éliminez la vague 1 !
 /678B94AF4E7C18EB0EF02FBF9FF14F77,Clear Wave 2!,Éliminez la vague 2 !
 /0D1D92DF4344FE0EC2B2BAA5F2E28770,Clear the HAS between the Fishing Village and the Quarry.,Effacer le HAS entre le village de pêche et la carrière.
@@ -2842,8 +2842,8 @@ La Garde de fer opère sous l'hypothèse d'une infiltration jusqu'à preuve du c
 /E744EC7548E2D591C2E8F9850C4711CD,Durability Burn,Usure
 /C85262E04C208852A5796E94C011766D,Durable and lightweight replacement handguard designed for AK-47 and AK-74 rifles manufactured by Izhmash.,Remplacement durable et léger garde-main conçu pour les fusils AK-47 et AK-74 fabriqués par Izhmash.
 /C7AF64F44801DD7B7D5008A15B764232,Duration,Durée
-/14C7C2714BAE3FB4972C598513CB8D16,Dust Cover,Culasse capot de
-/76BDA22F4589A2A5FED2AD8077D964D0,Dust Cover,Culasse capot de
+/14C7C2714BAE3FB4972C598513CB8D16,Dust Cover,Capot de culasse
+/76BDA22F4589A2A5FED2AD8077D964D0,Dust Cover,Capot de culasse
 /0E6262BA48F21B6A60C631A3253D5174,Dust cover for the RPK featuring a picatinny rail for mounting a scope.,capot de culasse pour le RPK avec un rail picatinny pour monter une portée.
 /983C7A2048DC1F3A26D47CA39E2E1575,Dust cover for the Saiga-12K shotgun,capot de culasse for the Saiga-12K fusil à pompe
 /B5B23C304FD1755895928EB756263452,Dust cover of the first generation AK-12 rifle.,capot de culasse du fusil de première génération AK-12.
@@ -3374,9 +3374,9 @@ Le journal d'accès au système sera examiné lors de la prochaine synchronisati
 /0E66B06C4792EC09930AA0A989E6EBD8,Gas Block for the AR-10 style rifles. Doesn't obscure the sight picture.,bloc d'emprunt de gaz pour les fusils de style AR-10. Ne masque pas la vue.
 /296484094F19145DB2B1519A4AD7F94D,Gas Can,Bidon de carburant
 /EC29CAC54C2021B4813F2DAA4B5FFD2A,Gas Can,Bidon de carburant
-/152B2C2A482A1496BD09F3A4C541512A,Gas Tube,tube à gaz
-/62C063AD44E78849A26E95B38B9B3A4A,Gas Tube,tube à gaz
-/9D11AAEB4C1283A1C347968C1148B20E,Gas Tube,tube à gaz
+/152B2C2A482A1496BD09F3A4C541512A,Gas Tube,Tube à gaz
+/62C063AD44E78849A26E95B38B9B3A4A,Gas Tube,Tube à gaz
+/9D11AAEB4C1283A1C347968C1148B20E,Gas Tube,Tube à gaz
 /997A698547112D64B06D55996B43B0B7,Gas Tube for the AKS-74U.,tube à gaz pour le AKS-74U.
 /4F2E02674ABC5C4DF6DE9992C758359E,Gas tube for Saiga-12K shotgun.,tube à gaz pour Saiga-12K fusil à pompe.
 /1F725C5644073822226E3481E9AA5E9C,Gear,Équipement
@@ -3633,8 +3633,8 @@ Try: dir, cd Briefings, login, read, scan, download, run, pop, hack."
 /607782EF4E5A4913C83B5CB13790B093,Handgaurd for the MDT ESS chassis.,Handgaurd pour le châssis MDT ESS.
 /65B0932E4ECE27FFA65B34B09A003C86,Handgaurd for the MDT ESS chassis.,Handgaurd pour le châssis MDT ESS.
 /70B330E34DA779A2B912548F89CC2605,Handgaurd for the MDT ESS chassis.,Handgaurd pour le châssis MDT ESS.
-/49B89A4D4132F0B7F11742B20CC0D8AF,Handguard,garde-main
-/A77BEC6A4B896EAF882CC6BD27BE4865,Handguard,garde-main
+/49B89A4D4132F0B7F11742B20CC0D8AF,Handguard,Garde-main
+/A77BEC6A4B896EAF882CC6BD27BE4865,Handguard,Garde-main
 /624FFE5A4FEA95248110B58AF6E8C408,Handguard Panel,garde-main Panel
 /80E81CED45DAE8EF67E8668A1C70B82A,Handguard for AR-10 style rifles.,garde-main pour fusils de style AR-10.
 /98DE3CBA4C7E230B536A6AB3948CF65F,Handguard for AR-10 style rifles.,garde-main pour fusils de style AR-10.
@@ -4836,7 +4836,7 @@ Celui qui quitte le générateur pendant la nuit peut l'entendre de la route. To
 /5D443EFE4BCEA20442DCF693F47BC690,Machete,Machette
 /AC2FE0AC45B9DC227616859BE5D8F242,Machete,Machette
 /721ABF5F44F7B6F70BB494B0806D612E,Machine,Machine
-/4664361C4526F0378274E09A201D5A4C,Mag,chargeur
+/4664361C4526F0378274E09A201D5A4C,Mag,Chargeur
 /53C4ED1F428F2AD8DA5410A315819BD8,Magpul CTR is a Buttstock designed for the AR-15 family. It requires a buffertube.,Magpul CTR est un crosse conçu pour la famille AR-15. Il nécessite un tube de crosse.
 /92711E4E4124F39918538DA889CF186C,Magpul M-LOK 2x1 Inch Rail,Magpul M-LOK 2x1 pouces rail
 /C0596C524446D5FC923783A64285405F,Magpul M-LOK 4x1 Inch Rail,Magpul M-LOK 4x1 pouces rail
@@ -4967,10 +4967,10 @@ Celui qui quitte le générateur pendant la nuit peut l'entendre de la route. To
 /F60397F747F75BEAFE87578D50BEEDAF,Music In Raid Volume,Volume de la musique en raid
 /465846E244CD8D45EE3A4680031D9045,Music Volume,Volume de la musique
 /F5E671AC495A4E0EDBD47598C4D3B6BD,Music Volume,Volume de la musique
-/19ADE6E142633E9C3F936E8DD26E85A6,Muzzle,bouche
-/84E420734BF86D51F2FCF7AB136E75AD,Muzzle,bouche
-/92F6EAC442D66CD362AFB4B3C2F170F2,Muzzle,bouche
-/AFF3339E46C7E1F8736071AA157B317C,Muzzle,bouche
+/19ADE6E142633E9C3F936E8DD26E85A6,Muzzle,Dispositif de bouche
+/84E420734BF86D51F2FCF7AB136E75AD,Muzzle,Dispositif de bouche
+/92F6EAC442D66CD362AFB4B3C2F170F2,Muzzle,Dispositif de bouche
+/AFF3339E46C7E1F8736071AA157B317C,Muzzle,Dispositif de bouche
 /1BFFBCC94E4D24A6AB5BA182132B1458,Muzzle Velocity,bouche Velocity
 /A55FE82148100BE3345A1490E6E91A13,Muzzle accessory for M9A3.,Accessoire bouche pour M9A3.
 /B103C88E422DB26087C86A86B996D490,Muzzle accessory for M9A3.,Accessoire bouche pour M9A3.
@@ -5516,7 +5516,7 @@ Document d'essai derrière un élément verrouillé. L'atteindre signifie l'exig
 /0A9D6AD0488592186511CB91592F426F,Pistol,Pistol
 /54D921AD42528FF41CD535B1B73C2433,Pistol,Pistol
 /EF219EF14049F42E11AAAD8FADB8B73E,Pistol,Pistol
-/3BC036F0466644D6908E23BF9556818E,Pistol Grip,poignée pistolet
+/3BC036F0466644D6908E23BF9556818E,Pistol Grip,Poignée pistolet
 /2BAB06EC4E226058FABC07AAF849D3BE,Pistol grip for AK family of rifles. Manufactured by Magpul.,poignée pistolet pour la famille de fusils AK. Fabriqué par Magpul.
 /A46342DF4125833E873A3FA83311B868,Pistol grip of the AS Val.,poignée pistolet du AS Val.
 /48E027F44C4921E6D218F88CFFBBE7BD,Place Bomb,Placer une bombe
@@ -5812,8 +5812,8 @@ près de la grotte."
 /BDCA71CC4DE366B001538A95790AC154,Radio Handset,Combiné radio
 /7C8997C94A7D59EF09C94683B9EF2819,Raid Settings,Réglages du raid
 /910858734E65E3591AABFBA050FFC933,Raid Time:,Durée du raid :
-/7C2EAA7746653E92FE93D58AB654BED1,Rail,rail
-/C278905E473CC01B33ABDEB3FC017BFA,Rail,rail
+/7C2EAA7746653E92FE93D58AB654BED1,Rail,Rail
+/C278905E473CC01B33ABDEB3FC017BFA,Rail,Rail
 /0D5AF7A246CE359585615FB91D683165,Rail attachment for your M14.,Fixation ferroviaire pour votre M14.
 /A560C46245818EA4B372B7B9060EF7EB,Rail to fit on a picatinny rail compatible foregrip as well as a sight mounted tactical device.,Rail pour s'adapter sur un rail de picatinny compatible poignée avant ainsi qu'un appareil tactique monté à vue.
 /AD431BB544D50E3EA5B236A262B63DF2,Range,Portée
@@ -5836,7 +5836,7 @@ près de la grotte."
 /B054C1A14BB8C885B34035B53E60F680,Rebar Cutter,Coupe-fer à béton
 /CBE810064D3BA06F0B97C8A024D037CE,Rebar Cutter,Coupe-fer à béton
 /93C99E4040AA7C76F15959B2BACA3CB5,Rebuild Collisions,Reconstruire les collisions
-/26F8140B4540771F559DEEB02E2B3294,Receiver,Culasse boîtier de
+/26F8140B4540771F559DEEB02E2B3294,Receiver,Boîtier de culasse
 /80EB5B9A4C7EB33B8120E29A777AB6FF,Recenter,Recentrer
 /097A9D93439B236F172271861BE679A1,Recoil,Recul
 /92D4FBAF4BF00DB712F926A31C871F2B,Recoil,Recul
@@ -6309,7 +6309,7 @@ Vous pouvez maintenant extraire en toute sécurité."
 /36F524764146BB6B25E078BBC80883DA,Sig Sauer MPX 9x19mm submachine gun.,Sig Sauer MPX 9x19mm pistolet-mitrailleur.
 /502B290A45E8CBBF295B5EBBA9840131,Sig Sauer P320,Sig Sauer P320
 /3F9CD8F64AB46432BA06D786933B7163,Sig Sauer SRD762 Suppressor,Silencieux Sig Sauer SRD762
-/F8986CC248497609E78821BD51427C39,Sight,Sight
+/F8986CC248497609E78821BD51427C39,Sight,Viseur
 /4E747D3E44872774A3445999B781E81D,Sighting Range,Portée de visée
 /EA87F10746F6B867F12512AC1A996064,Silencer for all 5.45 chambered weapons manufactured by Steel PATRIOT.,"silencieux pour toutes les chambres 5,45 armes fabriquées par Steel PATRIOT."
 /62334BB04F2B0B999926FD823E44D7E0,Silencer for the AR-15 family and needs the Gate LOK Adapter to fit on any barrel.,silencieux pour la famille AR-15 et a besoin de l'adaptateur Gate LOK pour s'adapter à n'importe quel canon.
@@ -6470,11 +6470,11 @@ Parent : {Mission Name}"
 /964E844C452D597386B705B8FB272040,Steyr AUG A1,Steyr AUG A1
 /8B89238041C86F800C96C6A0EF0F3904,Steyr AUG A3,Steyr AUG A3
 /3BE0CE2F434279C2D9F5368AE3A6B32E,"Sticks and tape. Fixes a fracture once, slowly...","Fixe une fracture une fois, lentement..."
-/3D2E8F4F47998C3F6A83B996372AE847,Stock,crosse
-/3FB5E6334103C8519F640493F70A5671,Stock,crosse
-/863190E04654FF567B6D6DBBBD2AA088,Stock,crosse
-/8875666644738D7CD37B029538F9816F,Stock,crosse
-/A29B24AF4BAEBA7BC17B20AA4A52E8A8,Stock,crosse
+/3D2E8F4F47998C3F6A83B996372AE847,Stock,Crosse
+/3FB5E6334103C8519F640493F70A5671,Stock,Crosse
+/863190E04654FF567B6D6DBBBD2AA088,Stock,Crosse
+/8875666644738D7CD37B029538F9816F,Stock,Crosse
+/A29B24AF4BAEBA7BC17B20AA4A52E8A8,Stock,Crosse
 /53A06D41481CC3E52CAA3387420323A5,Stock for RPK-74 LMG.,crosse pour RPK-74 LMG.
 /C879606F4228A77E256D3CA723C80076,Stock for the Honey Badger rifle.,crosse pour le fusil Honey Badger.
 /90DF538C4977F72FAD6C229B5B25D7F3,Stock for the RPK produced by the ukrainian company KPYK,crosse for the RPK produced by the ukrainian company KPYK
@@ -6592,7 +6592,7 @@ Parent : {Mission Name}"
 /66714564490A55D6E5D92AA93E006837,TSR,TSR
 /19ADBD344E494EE34312649E81EB5404,TW,TW
 /0D9B699A46460BEF8CBF399FF581C8ED,TactiNav Communicator X-7,Communicateur TactiNav X-7
-/7D2A70924A3DC90228A61FAF9166A3C3,Tactical,Tactique
+/7D2A70924A3DC90228A61FAF9166A3C3,Tactical,Accessoires tactiques
 /7AAA57324DFEBCA4838567AFFC67831F,Tactical Belt,Ceinture tactique
 /23AE547E4BAEB569A38491A662C9D1B4,Tactical belt to fit in ammunition or medical equipment.,Ceinture tactique pour s'adapter en munitions ou équipement médical.
 /9BF14DDC426397CDE583BF80E69C9FE1,Tactical handguard for Saiga-12 shotgun.,garde-main tactique pour Saiga-12 fusil à pompe.

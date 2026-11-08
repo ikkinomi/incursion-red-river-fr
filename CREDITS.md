@@ -9,3 +9,5 @@
 - Export et import des ressources de langue : [UnrealLocres](https://github.com/akintos/UnrealLocres).
 
 Les exécutables de ces outils, le modèle de traduction, les sauvegardes du joueur et les archives originales du jeu ne sont pas inclus dans cette publication.
+
+Correction du widget et création de la table de catégories : utilisation de [UAssetAPI / UAssetGUI](https://github.com/atenfyr/UAssetAPI).

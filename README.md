@@ -2,9 +2,9 @@
 
 Patch français non officiel pour **Incursion Red River 1.4.0.1** (build Steam **26487830**).
 
-**Version : 0.1.0 bêta.** Le chargement du patch a été vérifié dans le journal du jeu. Les menus et les missions ont été testés et validés visuellement par le joueur le 8 novembre 2026. Une validation complète de toutes les situations de jeu reste à faire.
+**Version : 0.1.1 bêta.** Le chargement du patch a été vérifié dans le journal du jeu. Les menus et les missions ont été testés et validés visuellement par le joueur le 8 novembre 2026. La correction des catégories du marchand a également été validée par le joueur. Une validation complète de toutes les situations de jeu reste à faire.
 
-[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.0-beta)
+[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.1-beta)
 
 ## Installation
 
@@ -32,6 +32,12 @@ Jeu fermé, renommez `pakchunk99-French_P.pak` en `pakchunk99-French_P.pak.disab
 
 Vous pouvez aussi retirer uniquement ce fichier du dossier `Paks`.
 
+## Correction des catégories du marchand
+
+Cette version traduit les catégories et sous-catégories du marchand : Munitions, Canon, Poignée avant, Conteneurs, etc. Une table de libellés dédiée est ajoutée, car ces noms étaient générés directement à partir des identifiants internes. Ces identifiants et le fonctionnement des filtres sont conservés.
+
+L’onglet « Sécuriser le marché » devient « Marché officiel ».
+
 ## Contenu
 
 - 6 670 entrées traitées, représentant 4 345 textes distincts.
@@ -52,7 +58,7 @@ La compatibilité est établie pour la version 1.4.0.1 citée ci-dessus. Après 
 
 Ouvrez une [issue](https://github.com/ikkinomi/incursion-red-river-fr/issues) en indiquant la version du jeu, l'écran concerné, le texte observé et la correction proposée. Une capture aide à repérer un texte coupé ou mal placé.
 
-Les traductions éditables sont dans [`translations/fr.csv`](translations/fr.csv). Conservez les identifiants de la colonne `key` et les variables comme `{count}` ou `{x}`, les balises comme `<Red>...</>`, les noms de fichiers et les commandes à saisir. Une modification du CSV nécessite une recompilation du patch pour apparaître en jeu.
+Les traductions éditables sont dans [`translations/fr.csv`](translations/fr.csv), avec les noms de catégories dans [`translations/categories-fr.json`](translations/categories-fr.json). Conservez les identifiants de la colonne `key` et les variables comme `{count}` ou `{x}`, les balises comme `<Red>...</>`, les noms de fichiers et les commandes à saisir. Une modification du CSV nécessite une recompilation du patch pour apparaître en jeu.
 
 Voir aussi les [contrôles effectués](docs/VALIDATION.md), les [notes de version](RELEASE_NOTES.md) et les [crédits](CREDITS.md).
 
