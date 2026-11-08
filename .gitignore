@@ -1,0 +1,9 @@
+# Données locales et fichiers de travail
+work/
+backup/
+Saved/
+*.log
+*.disabled
+__pycache__/
+.env
+.env.*

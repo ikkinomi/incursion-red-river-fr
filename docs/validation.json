@@ -1,0 +1,26 @@
+{
+  "game_version": "1.4.0.1",
+  "steam_build_id": "26487830",
+  "entries": 6670,
+  "unique_sources": 4345,
+  "manually_reviewed_unique_sources": 1383,
+  "controlled_equipment_labels": 537,
+  "changed_entries": 5590,
+  "syntax_errors": 0,
+  "unmodified_original_locres_sha256": "f730796660b06f02515e4debb2a05a906f840f06b45a13cd3740dcb09adfe06c",
+  "patch_version": "0.1.0-beta",
+  "roundtrip_entry_mismatches": 0,
+  "patch_sha256": "9afd3909ec16a45d1d8351c6e6291f29114bc7aeb42d3cd5fb0cb0fa372f3082",
+  "pak_file_entries": [
+    "Test_C/Content/Localization/Game/en/Game.locres"
+  ],
+  "runtime_archive_mounted": true,
+  "player_test": {
+    "date": "2026-11-08",
+    "menu": "confirmed",
+    "missions": "confirmed",
+    "inventory": "not_separately_confirmed",
+    "all_screens": "not_exhaustively_tested"
+  },
+  "publication_contents": "translation patch, editable translation table and documentation only"
+}
