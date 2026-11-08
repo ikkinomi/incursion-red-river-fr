@@ -2,9 +2,9 @@
 
 Patch français non officiel pour **Incursion Red River 1.4.0.1** (build Steam **26487830**).
 
-**Version : 0.1.3 bêta.** Les contrôles des fichiers compilés ont réussi. Cette version corrige les libellés des emplacements d'équipement, ajoute les dialogues des cartes dont l'introduction de Quarry et raccourcit le texte satellite du TactiNav. Toutes les situations de jeu n'ont pas été vérifiées.
+**Version : 0.1.4 bêta.** L'option **Boost** de **Nvidia Reflex** conserve son appellation d'origine. Les corrections précédentes sont incluses. Les contrôles des fichiers compilés ont réussi ; cette correction reste à vérifier visuellement en jeu.
 
-[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.3-beta)
+[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.4-beta)
 
 ## Installation
 
@@ -31,6 +31,10 @@ Aucun injecteur ni UE4SS n'est nécessaire. L'installation ajoute une archive de
 Jeu fermé, renommez `pakchunk99-French_P.pak` en `pakchunk99-French_P.pak.disabled`. Pour réactiver la traduction, remettez son nom d'origine.
 
 Vous pouvez aussi retirer uniquement ce fichier du dossier `Paks`.
+
+## Correction 0.1.4
+
+L'option **Boost** de **Nvidia Reflex** conserve son nom d'origine dans la ressource de langue et dans le menu graphique. Elle n'est plus affichée comme « Coup de pouce ».
 
 ## Corrections 0.1.3
 

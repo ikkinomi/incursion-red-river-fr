@@ -1,5 +1,5 @@
 {
-  "patch_version": "0.1.3-beta",
+  "patch_version": "0.1.4-beta",
   "game_version": "1.4.0.1",
   "steam_build_id": "26487830",
   "main_entries": 6756,
@@ -18,8 +18,19 @@
   "satellite_caption": "Données satellite : OFF",
   "satellite_existing_state": "unloaded; preserved",
   "earlier_category_fix_retained": true,
-  "visual_validation": "not_exhaustively_reported",
-  "patch_sha256": "145c873fe5c6b8481cc1dd2ddfbf9ef7f0e2986f0b6847153862a08cb415f4d1",
+  "visual_validation": "not_tested_in_game",
+  "patch_sha256": "693c6e670e4f141bb95fb194c5b9c42f97789c83afb3cf76fb9e034790b0587d",
   "publication_requested_by_user": true,
-  "publication_date": "2026-11-08"
+  "publication_date": "2026-11-08",
+  "installed_on_player_pc": false,
+  "installed_patch_untouched": true,
+  "installed_patch_sha256": "145c873fe5c6b8481cc1dd2ddfbf9ef7f0e2986f0b6847153862a08cb415f4d1",
+  "reflex_option_source": "Boost",
+  "reflex_option_target": "Boost",
+  "modified_package_files": [
+    "Test_C/Content/Localization/Game/en/Game.locres",
+    "Test_C/Content/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.uasset",
+    "Test_C/Content/Blueprints/UICore/Widgets/Settings/WB_GraphicSettings.uexp"
+  ],
+  "graphics_widget_roundtrip_verified": true
 }
