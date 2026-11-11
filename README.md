@@ -2,16 +2,16 @@
 
 Patch français non officiel pour **Incursion Red River 1.4.0.2** (build Steam **26596277**).
 
-**Version : 0.1.7 bêta.** Adaptation au hotfix 1.4.0.2. Les nouvelles chaînes ont été traduites, et le lancement ainsi que l’affichage en français ont été confirmés en jeu.
+**Patch 0.1.7 bêta.** Le lancement du jeu et l’affichage en français ont été confirmés en jeu sur le build Steam **26596277**.
 
-[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.7-beta)
+[Télécharger le ZIP de la 0.1.7 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.1.7-beta/Incursion_Red_River_FR_1.4.0.2_v0.1.7-beta.zip) · [Voir la publication GitHub](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.7-beta)
 
 ## Installation
 
 1. Fermez le jeu.
-2. Téléchargez l'archive ZIP attachée à la version ci-dessus et extrayez-la.
+2. Téléchargez le ZIP ci-dessus et extrayez-le.
 3. Dans Steam : **Incursion Red River → Propriétés → Fichiers installés → Parcourir**.
-4. Copiez le dossier `Test_C` de l'archive dans le dossier d'installation du jeu, généralement nommé `PROJECT QUARANTINE`.
+4. Copiez le dossier `Test_C` de l’archive dans le dossier du jeu, généralement nommé `PROJECT QUARANTINE`. Pour mettre à jour une ancienne version, acceptez le remplacement de `pakchunk99-French_P.pak`.
 5. Vérifiez la présence de ce seul fichier ajouté :
 
    ```text
@@ -28,7 +28,7 @@ Aucun injecteur ni UE4SS n'est nécessaire. L'installation ajoute une archive de
 
 ## Avertissement au démarrage
 
-Le jeu détecte `pakchunk99-French_P.pak` comme un mod et peut afficher « Mods are installed » en anglais. La fenêtre signale les mods installés et rappelle que des mods conçus pour une version précédente peuvent provoquer un plantage. Si le jeu se lance normalement, fermez la fenêtre pour continuer. Le message peut revenir après une mise à jour du jeu ou un changement de mod.
+Depuis le hotfix 1.4.0.2, le jeu peut afficher « Mods are installed » en anglais et lister `pakchunk99-French_P.pak`. Si le jeu démarre normalement, fermez la fenêtre pour accéder au menu. Le message peut réapparaître après une mise à jour du jeu ou une modification des mods.
 
 ## Désactivation
 
@@ -38,7 +38,7 @@ Vous pouvez aussi retirer uniquement ce fichier du dossier `Paks`.
 
 ## Adaptation 0.1.7
 
-Les réglages IA et les nouveaux textes de mission, de terminal et d’inventaire sont traduits. Voir le [rapport d’audit](docs/VALIDATION.md).
+La 0.1.7 adapte 79 entrées nouvelles ou modifiées, dont les réglages IA, une réplique de mission et le message de piratage. L’inventaire affiche aussi « Vivres ». Les corrections précédentes sont incluses. [Rapport d’audit](docs/VALIDATION.md) · [Textes ajoutés ou corrigés](translations/update-1.4.0.2-fr.csv)
 
 ## Correction 0.1.6
 
@@ -90,7 +90,7 @@ Les noms de marques, modèles, identifiants et commandes à saisir dans les term
 
 ## Limites connues
 
-C'est une première bêta. Les longs briefings et certaines descriptions n'ont pas tous été relus intégralement : des maladresses ou approximations peuvent subsister. Des textes codés en dur, contenus dans des images ou provenant d'autres ressources peuvent rester en anglais. Tous les écrans, toutes les résolutions et le multijoueur n'ont pas été validés.
+Cette traduction est en bêta. Les longs briefings et certaines descriptions n'ont pas tous été relus intégralement : des maladresses ou approximations peuvent subsister. Des textes codés en dur, contenus dans des images ou provenant d'autres ressources peuvent rester en anglais. Tous les écrans, toutes les résolutions et le multijoueur n'ont pas été validés.
 
 Cette version cible le jeu 1.4.0.2, build Steam 26596277. Après une mise à jour du jeu, de nouveaux textes ou des textes modifiés peuvent rester en anglais. Désactivez le patch si vous constatez un problème.
 
