@@ -1,0 +1,95 @@
+﻿key,source,target
+/99B54F454FBE674F3ED5A1835AC26EAE,5.56x45mm  BLK assault rifle designed by SIG Sauer. Smaller variant of MCX Virtus.,"Fusil d’assaut SIG Sauer en 5,56 × 45 mm. Variante compacte du MCX Virtus."
+/22195C244BF0320BCF22D199DD11FB31,5.56x45mm BLK assault rifle designed by SIG Sauer.,"Fusil d’assaut SIG Sauer en 5,56 × 45 mm."
+/E031854B4D6D33D6503B7AA6AE7F3096,"Good work Operator. Given you're using that provided equipment, we followed your marker and sent backup to collect the mission intel you extracted. Should be here any minute now.","Beau travail, opérateur. Comme vous utilisez l’équipement fourni, nous avons suivi votre balise et envoyé une équipe récupérer les renseignements de la mission que vous avez rapportés. Elle devrait arriver d’un instant à l’autre."
+/2FC5979C45940FC6C9FE0F90D79209A5,Hacking started...,Piratage lancé…
+/617F716C4D9F4659E73FE3AF465AE301,Hacking started...,Piratage lancé…
+/D0552E6841EE2EDF0A3D49B532DC0953,Hacking started...,Piratage lancé…
+/E9530EDB42DD81F32B969E8E6935BB5F,Hacking started...,Piratage lancé…
+/F66DCFE04DAA2F50A07CE298BFE1EBE8,Hacking started...,Piratage lancé…
+/6FE3F6404C5A4B75BD15C0B391C57E72,High,Élevé
+/4AAC8D924D182A65ACA4859527A00230,Low,Faible
+/20E7BBF4485494E7110B7683AB59D84E,MRAD,MRAD
+/942020754CE0EE04C49FDFB5DBBBED55,MRAD,MRAD
+/9E301F604A697380050313B1A60EBBA2,Normal,Normal
+/664ACDFC453BA4CC07FAFDBF8211A85E,Potato,Très faible
+/BDDF66CD417355A7FAADD3826C7F95D8,Used by electricians to cut wires. It has blue plastic handles protecting them from deadly electric currents,Pince utilisée par les électriciens pour couper des fils. Ses poignées en plastique bleu les protègent des chocs électriques mortels.
+/9E0F377C49C6A08B7A8B09B36A0DF135,m,m
+/AE2892904A74C87CD94F1E9967D8C150,m,m
+/D184497944E8A2970944F3914521DAF0,m/s,m/s
+/F2BEB24340475A52048F47B34551AF05,m/s,m/s
+/ADB29A7348365AA82443C78646D7915C,mm,mm
+/F63E684F4C2B7C570944EA9113369270,mm,mm
+/4F0F7DF04D96DE9CAF9CA68B461E2482,rpm,c/min
+/C19233C445AD8CE3B474A3A5B7AC98E1,rpm,c/min
+IRRAISettingRow.Description/AISettings.DeliberateMissChance,"After the guaranteed misses, each shot still has this chance (0 to 1) to miss on purpose for the next few seconds, so bots walk their fire onto a target instead of landing the first hits.","Après les tirs qui ratent à coup sûr, chaque tir a encore cette probabilité (de 0 à 1) de rater volontairement pendant quelques secondes. Les bots ajustent ainsi leur tir progressivement."
+IRRAISettingRow.Description/AISettings.bCanAimForHead,Allows bots to pick the head as the point they aim at.,Permet aux bots de viser la tête.
+IRRAISettingRow.Description/AISettings.PerceptionAngle,Angle in degrees from where a bot is looking within which it can see a target.,"Angle du champ de vision du bot, en degrés."
+IRRAISettingRow.Description/AISettings.Aggressiveness,"Controls multiple behaviors, such as how long bots wait before searching for enemies, how likely they are to return fire on first contact, and how likely they take aggressive positions when given the opportunity.","Influe sur plusieurs comportements : le délai avant de chercher un ennemi, la probabilité de riposter au premier contact et la tendance à prendre des positions offensives quand l’occasion se présente."
+IRRAISettingRow.Description/AISettings.OnTargetAimThreshold,Controls the randomized spread bots have when shooting.,Règle la dispersion aléatoire des tirs des bots.
+IRRAISettingRow.Description/AISettings.bAISuppressTargets,"Enable or disable bots suppressing the last known location of their enemy. If disabled, bots only shoot when they can see their enemy.","Active ou désactive le tir de suppression des bots sur la dernière position connue de leur ennemi. Si cette option est désactivée, ils ne tirent que s’ils voient leur cible."
+IRRAISettingRow.Description/AISettings.PerceptionBaseDelay,"Every sense on a bot has an enforced delay before it actually registers what it sensed. This is the base time for that delay, in seconds.","Délai de base, en secondes, avant qu’un bot réagisse à ce qu’il perçoit."
+IRRAISettingRow.Description/AISettings.SearchCasualtyHoldTime,For how many seconds a bot killed while searching for you still counts toward the searcher limits on you. Stops the next squad in line from walking into the same spot right away. 0 turns this off.,"Durée, en secondes, pendant laquelle un bot tué en vous recherchant compte encore dans la limite des bots à votre recherche. Cela évite que l’escouade suivante se rende aussitôt au même endroit. 0 désactive ce délai."
+IRRAISettingRow.Description/AISettings.FiredUponSearchTime,"For how many seconds after a bot is hit or a bullet passes close by its squad will search for the shooter, ignoring the search distance and searcher limits. 0 turns this off.","Durée, en secondes, pendant laquelle l’escouade recherche le tireur après qu’un bot a été touché ou qu’une balle est passée près de lui. Les limites de distance et d’effectif ne s’appliquent pas. 0 désactive cette recherche."
+IRRAISettingRow.Description/AISettings.GrenadeInaccuracy,"How far a bot's grenade can land from where it aimed, in centimeters per 10 meters of throw distance. 0 lands every throw on target.","Écart possible entre le point visé par un bot et le point de chute de sa grenade, en centimètres par tranche de 10 mètres de lancer. À 0, tous les lancers atteignent le point visé."
+IRRAISettingRow.Description/AISettings.Coordination_PerceptionShareRadius,How far bots automatically share what they perceive with friendly bots. A bot that spots an enemy tells every friendly within this radius.,"Rayon dans lequel un bot partage automatiquement ses observations avec les alliés. S’il repère un ennemi, il en informe tous les alliés à portée."
+IRRAISettingRow.Description/AISettings.MaxSearchAreaSize,"How far, in meters of walking distance, a search can spread out from where bots last sensed you. 0 means no limit.","Distance maximale à pied, en mètres, sur laquelle les recherches peuvent s’étendre à partir de votre dernière position connue. À 0, la distance est illimitée."
+IRRAISettingRow.Description/AISettings.AIMemoryLength,How long after a bot searches your last known location before it returns to a peaceful state and de-aggros. Bots that are not allowed to search for you de-aggro this long after they last sensed you.,"Temps nécessaire à un bot pour revenir au calme après avoir fouillé votre dernière position connue. S’il ne peut pas vous rechercher, le délai commence à sa dernière détection."
+IRRAISettingRow.Description/AISettings.PerceptionBaseTimeToSee,"How long, in seconds, a target has to stay in view before a bot reacts to it. Distance, light and weather make this longer or shorter.","Durée, en secondes, pendant laquelle une cible doit rester visible avant que le bot réagisse. La distance, la luminosité et la météo modifient ce délai."
+IRRAISettingRow.Description/AISettings.MaxSearchersAtOnce,"How many bots can search at once across the whole map, for all enemies combined.","Nombre maximal de bots qui peuvent chercher simultanément, sur toute la carte et toutes cibles confondues."
+IRRAISettingRow.Description/AISettings.MaxSearchersPerTarget,"How many bots of one faction can search for the same enemy at once. Squads are sent whole, so a squad can go slightly over this limit.",Nombre maximal de bots d’une faction qui peuvent rechercher le même ennemi. Une escouade est envoyée au complet et peut donc dépasser légèrement cette limite.
+IRRAISettingRow.Description/AISettings.PerceptionDistanceFalloff,"How much harder a target is to spot as it gets further away, inside the perception range. 1 follows the base distance curve. Higher values make a distant target take longer to notice, values below 1 make it quicker. How far a bot can see does not change.","Difficulté à repérer une cible éloignée dans le champ de perception. À 1, la courbe de base s’applique. Au-dessus de 1, le repérage à distance prend plus de temps. En dessous de 1, il est plus rapide. La portée maximale reste la même."
+IRRAISettingRow.Description/AISettings.PerceptionMinScore,How much of a target has to be visible before a bot can see it at all. Lower values let bots spot targets that are barely peeking out.,"Part minimale d’une cible qui doit être visible pour être détectée. Avec une valeur plus faible, les bots repèrent les cibles à peine visibles."
+IRRAISettingRow.Description/AISettings.FullAutoDistanceThreshold,"If a bot is shooting at someone further than this distance, in meters, it switches to semi-auto. Closer than that it uses full auto when the weapon has it.","Au-delà de cette distance en mètres, les bots passent au tir semi-automatique. En deçà, ils utilisent le tir automatique si leur arme le permet."
+IRRAISettingRow.Description/AISettings.FullAutoBurstLengthMultiplier,Increase or decrease how long bots hold the trigger on full auto before they need to recover and re-aim.,Modifie la durée pendant laquelle les bots tirent en rafale automatique avant de reprendre leur visée.
+IRRAISettingRow.Description/AISettings.AimInitialDelayMultiplier,"Increase or decrease how long bots wait before they can fire their first shots when aiming. Linear multiplier, so a value of 2.0 doubles the wait.","Modifie le temps d’attente avant les premiers tirs lorsque les bots visent. Une valeur de 2,0 double ce délai."
+IRRAISettingRow.Description/AISettings.AimRecoveryDelayMultiplier,"Increase or decrease how long bots wait between firing single shots or bursts. Linear multiplier, so a value of 2.0 doubles the wait.","Modifie le temps d’attente entre deux tirs ou rafales. Une valeur de 2,0 double ce délai."
+IRRAISettingRow.Description/AISettings.bFlashlightDetectionToggle,Lets bots notice an enemy's flashlight.,Permet aux bots de repérer la lampe d’un ennemi.
+IRRAISettingRow.Description/AISettings.bLaserDetectionToggle,Lets bots notice an enemy's weapon laser.,Permet aux bots de repérer le laser de l’arme d’un ennemi.
+IRRAISettingRow.Description/AISettings.bCanThrowGrenades,Lets bots throw the grenades they carry at you.,Permet aux bots de lancer sur vous les grenades qu’ils portent.
+IRRAISettingRow.Description/AISettings.AIMultiplier,"Scales the map's enemy count, including solo. Each extra coop player adds a further share on top.","Ajuste le nombre d’ennemis sur la carte, y compris en solo. Chaque joueur supplémentaire en coop ajoute des ennemis."
+IRRAISettingRow.Description/AISettings.MaxSearchDistance,"The farthest walking distance, in meters, from a squad to your last known location for that squad to come searching for you. Squads farther away hold their area.","Distance maximale à pied, en mètres, entre une escouade et votre dernière position connue pour que celle-ci parte à votre recherche. Au-delà, elle reste dans sa zone."
+IRRAISettingRow.Description/Simulation.BotMovementTicksPerSec,"The lowest rate, in updates per second, at which distant bots still move. Higher values make bots look smoother at range at the cost of performance.","Fréquence minimale, en mises à jour par seconde, du déplacement des bots éloignés. Une valeur élevée rend leur déplacement plus fluide au prix de performances moindres."
+IRRAISettingRow.Description/AISettings.PerceptionRange,"The maximum distance, in centimeters (100 = 1 m), at which a bot can perceive an enemy.","Distance maximale, en centimètres (100 = 1 m), à laquelle un bot peut percevoir un ennemi."
+IRRAISettingRow.Description/AISettings.PerceptionInitialContactAdditionalDelay,"When a bot goes from being at peace or on patrol to combat, this is added on top of the base sense delay, so the first contact takes longer to react to.",Délai ajouté au délai de perception de base lorsqu’un bot passe du repos ou de la patrouille au combat. Il ralentit sa réaction au premier contact.
+IRRAISettingRow.Description/AISettings.DeliberateMissTime,"When a bot starts shooting at a target, its shots are guaranteed to miss until it has aimed at that target for this many seconds. Starts over when the bot switches targets.","Quand un bot ouvre le feu sur une cible, ses tirs ratent à coup sûr jusqu’à ce qu’il ait visé cette cible pendant cette durée en secondes. Le délai repart à zéro lorsqu’il change de cible."
+IRRAISettingRow.Description/AISettings.RepeatSenseMaxCoef,"When you are in or near the spot a bot thinks you are, whether it heard or saw you there, it gains sight of you faster. This is how much faster, at most; the effect fades the further you are from that spot.",Un bot vous repère plus vite si vous êtes près de l’endroit où il pense vous avoir entendu ou vu. Cette valeur fixe l’accélération maximale. L’effet diminue à mesure que vous vous éloignez de cet endroit.
+IRRAISettingRow.Label/AISettings.AIMemoryLength,AI Memory Length,Durée de mémoire de l’IA
+IRRAISettingRow.Label/AISettings.AIMultiplier,AI Multiplier,Multiplicateur du nombre de bots
+IRRAISettingRow.Label/AISettings.Aggressiveness,Aggression,Agressivité
+IRRAISettingRow.Label/AISettings.AimRecoveryDelayMultiplier,Aim Recovery Delay Multiplier,Multiplicateur du délai entre les tirs
+IRRAISettingRow.Label/AISettings.SearchCasualtyHoldTime,Casualty Hold Time,Délai après la perte d’un bot
+IRRAISettingRow.Label/AISettings.PerceptionDistanceFalloff,Distance Sight Falloff,Détection visuelle à distance
+IRRAISettingRow.Label/AISettings.FiredUponSearchTime,Fired Upon Search Time,Durée de recherche après un tir reçu
+IRRAISettingRow.Label/AISettings.FullAutoBurstLengthMultiplier,Full Auto Burst Length Multiplier,Multiplicateur de durée des rafales
+IRRAISettingRow.Label/AISettings.GrenadeInaccuracy,Grenade Inaccuracy,Imprécision des grenades
+IRRAISettingRow.Label/AISettings.MaxSearchAreaSize,Max Search Area Size,Étendue maximale de la zone de recherche
+IRRAISettingRow.Label/AISettings.MaxSearchDistance,Max Search Distance,Distance maximale de recherche
+IRRAISettingRow.Label/AISettings.MaxSearchersAtOnce,Max Searchers At Once,Nombre maximal de bots en recherche
+IRRAISettingRow.Label/AISettings.MaxSearchersPerTarget,Max Searchers Per Enemy,Nombre maximal de bots par cible
+IRRAISettingRow.Label/AISettings.PerceptionRange,Perception Range,Portée de perception
+IRRAISettingRow.Label/AISettings.OnTargetAimThreshold,Target Aim Threshold,Dispersion des tirs
+IRRAISettingRow.Label/AISettings.bCanThrowGrenades,Throw Grenades,Lancer de grenades
+IRRAISettingRow.Warning/AISettings.AIMultiplier,Be careful — more enemies can hurt performance. Values over 2.0 are not recommended for normal gameplay.,"Attention : augmenter le nombre d’ennemis peut réduire les performances. Une valeur supérieure à 2,0 est déconseillée pour une partie normale."
+IRRAISettingRow.Warning/AISettings.MaxSearchersAtOnce,High values can cause swarming and cost performance.,Une valeur élevée peut faire affluer les bots et réduire les performances.
+IRRAISettingRow.Warning/AISettings.MaxSearchDistance,High values make bots from across the map converge on every fight.,Une valeur élevée fait converger vers chaque combat des bots venus de toute la carte.
+IRRAISettingRow.Warning/AISettings.GrenadeInaccuracy,Higher = grenades land further off.,Une valeur élevée augmente l’écart à l’arrivée des grenades.
+IRRAISettingRow.Warning/AISettings.FullAutoBurstLengthMultiplier,Higher = longer full-auto bursts.,Une valeur élevée allonge les rafales automatiques.
+IRRAISettingRow.Warning/AISettings.AimRecoveryDelayMultiplier,Higher = slower fire rate.,Une valeur élevée ralentit la cadence de tir.
+IRRAISettingRow.Warning/AISettings.OnTargetAimThreshold,Higher values = more spread and randomization.,Une valeur élevée augmente la dispersion des tirs.
+IRRAISettingRow.Warning/AISettings.Aggressiveness,Low values can cause overly passive bots who sit and wait. High values can cause swarming in some situations.,Une valeur faible peut rendre les bots trop passifs. Une valeur élevée peut les faire affluer dans certaines situations.
+/0411BBA14CE740D916890891E6B2EBEB,Provisions,Vivres
+/B5581B6A42C6A9624EDFF29DFF6B191D,Provisions,Vivres
+IRRModWarning/Body,"Mods are installed:
+
+{0}
+
+Mods made for an older version of the game often crash it at startup after an update. If the game crashes, remove them (Content\Paks\~mods, Content\Paks\LogicMods, Binaries\Win64\äss) and verify the game files in Steam.
+
+This message shows again when the game updates or your mods change.","Des mods sont installés :
+
+{0}
+
+Les mods prévus pour une ancienne version peuvent faire planter le jeu au démarrage après une mise à jour. En cas de plantage, retirez les mods de Content\Paks\~mods, Content\Paks\LogicMods et Binaries\Win64, puis vérifiez les fichiers du jeu dans Steam.
+
+Ce message réapparaît après une mise à jour du jeu ou une modification de vos mods."

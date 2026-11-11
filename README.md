@@ -1,10 +1,10 @@
 # Incursion Red River — Traduction française
 
-Patch français non officiel pour **Incursion Red River 1.4.0.1** (build Steam **26487830**).
+Patch français non officiel pour **Incursion Red River 1.4.0.2** (build Steam **26596277**).
 
-**Version : 0.1.6 bêta.** Le bouton **Discord** du menu principal conserve son nom d'origine. Les corrections précédentes sont incluses. Contrôles des fichiers compilés réussis ; affichage à confirmer en jeu.
+**Version : 0.1.7 bêta.** Adaptation au hotfix 1.4.0.2. Les nouvelles chaînes ont été traduites, et le lancement ainsi que l’affichage en français ont été confirmés en jeu.
 
-[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.6-beta)
+[Télécharger la version bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.7-beta)
 
 ## Installation
 
@@ -26,11 +26,19 @@ Patch français non officiel pour **Incursion Red River 1.4.0.1** (build Steam *
 
 Aucun injecteur ni UE4SS n'est nécessaire. L'installation ajoute une archive de traduction séparée, sans remplacer les archives originales et sans modifier les sauvegardes.
 
+## Avertissement au démarrage
+
+Le jeu détecte `pakchunk99-French_P.pak` comme un mod et peut afficher « Mods are installed » en anglais. La fenêtre signale les mods installés et rappelle que des mods conçus pour une version précédente peuvent provoquer un plantage. Si le jeu se lance normalement, fermez la fenêtre pour continuer. Le message peut revenir après une mise à jour du jeu ou un changement de mod.
+
 ## Désactivation
 
 Jeu fermé, renommez `pakchunk99-French_P.pak` en `pakchunk99-French_P.pak.disabled`. Pour réactiver la traduction, remettez son nom d'origine.
 
 Vous pouvez aussi retirer uniquement ce fichier du dossier `Paks`.
+
+## Adaptation 0.1.7
+
+Les réglages IA et les nouveaux textes de mission, de terminal et d’inventaire sont traduits. Voir le [rapport d’audit](docs/VALIDATION.md).
 
 ## Correction 0.1.6
 
@@ -72,7 +80,7 @@ L’onglet « Sécuriser le marché » devient « Marché officiel ».
 
 ## Contenu
 
-- 6 756 entrées dans la ressource principale, dont 86 entrées supplémentaires issues des cartes.
+- 6 834 entrées dans la ressource principale, dont 86 entrées supplémentaires issues des cartes.
 - Traduction automatique locale comme base de travail.
 - 1 383 textes distincts corrigés manuellement, principalement les menus, actions, soins, objectifs courts, tutoriels et réglages.
 - Lexique contrôlé pour les composants d'armes.
@@ -84,7 +92,7 @@ Les noms de marques, modèles, identifiants et commandes à saisir dans les term
 
 C'est une première bêta. Les longs briefings et certaines descriptions n'ont pas tous été relus intégralement : des maladresses ou approximations peuvent subsister. Des textes codés en dur, contenus dans des images ou provenant d'autres ressources peuvent rester en anglais. Tous les écrans, toutes les résolutions et le multijoueur n'ont pas été validés.
 
-La compatibilité est établie pour la version 1.4.0.1 citée ci-dessus. Après une mise à jour du jeu, de nouveaux textes ou des textes modifiés peuvent rester en anglais. Désactivez le patch si vous constatez un problème.
+Cette version cible le jeu 1.4.0.2, build Steam 26596277. Après une mise à jour du jeu, de nouveaux textes ou des textes modifiés peuvent rester en anglais. Désactivez le patch si vous constatez un problème.
 
 ## Signaler une correction
 

@@ -1,42 +1,50 @@
 {
-  "patch_version": "0.1.6-beta",
-  "game_version": "1.4.0.1",
-  "steam_build_id": "26487830",
-  "main_entries": 6756,
-  "additional_map_entries": 86,
-  "manually_translated_map_radio_lines": 49,
-  "map_roots_examined": [
-    "Quarry",
-    "Delta",
-    "Outskirts",
-    "Bunker"
-  ],
-  "intro_quarry_reported_line_included": true,
-  "all_main_entries_roundtrip_verified": true,
-  "all_source_hashes_verified": true,
-  "actual_equipment_slot_widget_corrected": true,
-  "satellite_caption": "Données satellite : OFF",
-  "satellite_existing_state": "unloaded; preserved",
-  "earlier_category_fix_retained": true,
-  "visual_validation": "not_tested_in_game",
-  "patch_sha256": "120eaeb177aa325abccfac266920f0546a963b7be886609e8319a56cbab76f28",
-  "publication_requested_by_user": true,
-  "publication_date": "2026-11-08",
-  "installed_on_player_pc": false,
-  "installed_patch_untouched": true,
-  "installed_patch_sha256": "145c873fe5c6b8481cc1dd2ddfbf9ef7f0e2986f0b6847153862a08cb415f4d1",
-  "reflex_option_source": "Boost",
-  "reflex_option_target": "Boost",
-  "modified_package_files": [
+  "build": "26596277",
+  "packages": 26,
+  "indexed_files": 99812,
+  "compared_files": {
+    "identical": 687,
+    "baseline_missing": 248,
+    "new": 1,
+    "changed": 21
+  },
+  "patch_overrides": {
+    "identical": 524,
+    "changed": 13,
+    "absent": 4
+  },
+  "old_locres": 6670,
+  "new_locres": 6746,
+  "locres_delta": 79,
+  "locres_new_keys": 76,
+  "locres_removed": 0,
+  "embedded_delta": 197,
+  "embedded_not_in_locres": 37,
+  "game_locales": [
+    "Test_C/Content/Localization/Game/de/Game.locres",
     "Test_C/Content/Localization/Game/en/Game.locres",
-    "Test_C/Content/Blueprints/UICore/Widgets/Menu/WB_MainMenu.uasset",
-    "Test_C/Content/Blueprints/UICore/Widgets/Menu/WB_MainMenu.uexp"
+    "Test_C/Content/Localization/Game/es-ES/Game.locres",
+    "Test_C/Content/Localization/Game/ja/Game.locres",
+    "Test_C/Content/Localization/Game/ko/Game.locres",
+    "Test_C/Content/Localization/Game/ru/Game.locres",
+    "Test_C/Content/Localization/Game/zh-Hans/Game.locres"
   ],
-  "graphics_widget_roundtrip_verified": true,
-  "corrected_item_source": "Empty Ammo Can",
-  "corrected_item_target": "Boîte de munitions vide",
-  "string_table_roundtrip_verified": true,
-  "corrected_menu_source": "Discord",
-  "corrected_menu_target": "Discord",
-  "main_menu_roundtrip_verified": true
+  "game_version": "1.4.0.2",
+  "patch_version": "0.1.7-beta",
+  "compiled_entries": 6834,
+  "map_entries_revalidated": 86,
+  "carried_asset_pairs": 262,
+  "rebased_asset_pairs": 7,
+  "rebased_text_fields": 91,
+  "removed_asset_pairs": [
+    "Test_C/Content/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Bunker/Sabotage/DA_BLUEFOR_ADLER_Contract_Bunker_Sabotage_Jammer_A"
+  ],
+  "package_files": 539,
+  "all_source_hashes_verified": true,
+  "compiled_translations_verified": true,
+  "visual_validation": "startup_and_french_display_confirmed_by_player",
+  "patch_sha256": "3d0ce5de86ebac1aef8d46942da456c40c824c4b5c3e195ce290ec72c0fd93d4",
+  "all_packaged_files_verified": 539,
+  "startup_mod_notice": "displayed_in_english",
+  "installed_patch_verified": true
 }
