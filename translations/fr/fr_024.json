@@ -16,7 +16,7 @@
       "ns": "",
       "key": "B98429FB48EB6388064AF0BA562C0A8D",
       "source": "Shutting down the terminal...\r\nTerminal secure. You may now extract safely.",
-      "text": "Arrêter le terminal...\nVous pouvez maintenant extraire en toute sécurité."
+      "text": "Arrêt du terminal...\r\nTerminal sécurisé. Tu peux maintenant rejoindre l'extraction."
     },
     {
       "ns": "",
@@ -70,7 +70,7 @@
       "ns": "",
       "key": "B9E0859942652AFA7388F88141AD8C44",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -100,13 +100,13 @@
       "ns": "",
       "key": "B9F77DD7429C1EDCB21FAA844DE1745D",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
       "key": "B9F7B337407FF3B71EE8AFA30ADB5A43",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -154,7 +154,7 @@
       "ns": "",
       "key": "BA585A0149ED219EDAD8FF81B9A19E0B",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -244,7 +244,7 @@
       "ns": "",
       "key": "BAEAC9314C52D8AE8EC4AC80DD6B4ED1",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -268,7 +268,7 @@
       "ns": "",
       "key": "BB1C42FE45A696B8A99D978CCBCC9105",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -304,7 +304,7 @@
       "ns": "",
       "key": "BB4CCC78431DEF2AFA55D79AAF431286",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -400,7 +400,7 @@
       "ns": "",
       "key": "BC12256D4F4F495230B3F2B522060CA2",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -412,13 +412,13 @@
       "ns": "",
       "key": "BC2129664CAECF472DD13090C6A9DC35",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "BC31DD6D475E1E665C10FAB7DAD8D659",
       "source": "Clear H.A.S.",
-      "text": "Effacer les H.A.S."
+      "text": "Sécuriser les H.A.S."
     },
     {
       "ns": "",
@@ -436,7 +436,7 @@
       "ns": "",
       "key": "BC5F45AB47C576B30F256C9BC6646E39",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -562,7 +562,7 @@
       "ns": "",
       "key": "BCE8F25844A67ECBBEE6DBB6C6388528",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -580,7 +580,7 @@
       "ns": "",
       "key": "BD2849064F1304D7DA29BC8F2F626E72",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -664,7 +664,7 @@
       "ns": "",
       "key": "BDC95BBC428DC3D8EEE56AB02EDD2BCA",
       "source": "# VLF TERMINAL SYSTEM – README\r\n\r\nWelcome to the VLF Secure Operations Terminal.\r\n\r\nThis terminal operates under the authority of the Vietnamese Liberation Front and is reserved for trusted personnel only. Unauthorized access is a breach of operational protocol. All usage is monitored and archived by the Internal Oversight Division.\r\n\r\n## SYSTEM FUNCTIONS\r\n\r\n- **read** – View the contents of a file  \r\n- **run** – Execute scripts or VLF-compatible operations  \r\n- **scan** – Analyze files for intel, threats, or encoded data  \r\n- **download** – Save files from the terminal to your local cache  \r\n\r\nNeed assistance? Use the `help` command for more detailed instructions.\r\n\r\n## USER LEVELS\r\n\r\n- Guest: Limited access to general notices and surface-level records  \r\n- Admin: Full system authority, including access to encrypted data and override commands\r\n\r\n## CODE OF CONDUCT\r\n\r\n- Confirm your clearance before issuing commands  \r\n- Never share credentials or transfer them via unsecured channels  \r\n- Report suspicious terminal behavior to Command Liaison using form CL-09  \r\n- If you suspect infiltration or compromise, initiate Contingency Protocol Blackline immediately\r\n\r\n## SUPPORT CONTACT\r\n\r\nFor technical issues, submit a secured query through Node V-42 or contact Engineering Command directly.\r\n\r\n## FINAL NOTICE\r\n\r\nThis terminal is an asset of the Vietnamese Liberation Front. Tampering, unauthorized use, or compromise will be treated as an internal threat and handled accordingly.\r\n\r\nVLF — The Red River is ours.\r\n\r\n> END OF FILE",
-      "text": "# SYSTEME TERMINAL VLF – LECTURE\n\nBienvenue au terminal d'exploitation sécurisé VLF.\n\nCe terminal fonctionne sous l'autorité du Front de libération vietnamien et est réservé uniquement au personnel de confiance. L'accès non autorisé est une violation du protocole opérationnel. Toutes les utilisations sont surveillées et archivées par la Division du contrôle interne.\n\nFONCTIONS DU SYSTÈME\n\n- **read** – Visualiser le contenu d'un fichier  \n- **run** – Exécuter des scripts ou des opérations compatibles avec VLF  \n- **scan** – Analyser les fichiers pour les informations, les menaces ou les données codées  \n- **download** – Enregistrer les fichiers du terminal vers votre cache local  \n\nBesoin d'aide? `help` commande pour des instructions plus détaillées.\n\n## NIVEAUX D'UTILISATEUR\n\n- Guest: Accès limité aux avis généraux et aux enregistrements de surface  \n- Admin: Autorité complète du système, y compris l'accès aux données chiffrées et les commandes de dépassement\n\n## CODE DE CONDUITE\n\n- Confirmez votre niveau d'accès avant l'émission des commandes  \n- Ne jamais partager des identifiants ou les transférer via des canaux non sécurisés  \n- Signaler le comportement suspect du terminal à Command Liaison en utilisant le formulaire CL-09  \n- Si vous soupçonnez une infiltration ou un compromis, lancez immédiatement le protocole d'urgence Blackline\n\nSOUTIEN AU CONTACT\n\nPour les questions techniques, soumettez une requête sécurisée via Node V-42 ou contactez directement Engineering Command.\n\n## AVIS FINAL\n\nCe terminal est un atout du Front de libération vietnamien. Le tapage, l'utilisation non autorisée ou le compromis seront traités comme une menace interne et traités en conséquence.\n\nVLF — La rivière Rouge est à nous.\n\n> FIN DU DOSSIER"
+      "text": "# SYSTEME TERMINAL VLF – LECTURE\r\n\r\nBienvenue au terminal d'exploitation sécurisé VLF.\r\n\r\nCe terminal fonctionne sous l'autorité du Front de libération vietnamien et est réservé uniquement au personnel de confiance. L'accès non autorisé est une violation du protocole opérationnel. Toutes les utilisations sont surveillées et archivées par la Division du contrôle interne.\r\n\r\nFONCTIONS DU SYSTÈME\r\n\r\n- **read** – Visualiser le contenu d'un fichier  \r\n- **run** – Exécuter des scripts ou des opérations compatibles avec VLF  \r\n- **scan** – Analyser les fichiers pour les informations, les menaces ou les données codées  \r\n- **download** – Enregistrer les fichiers du terminal vers votre cache local  \r\n\r\nBesoin d'aide? `help` commande pour des instructions plus détaillées.\r\n\r\n## NIVEAUX D'UTILISATEUR\r\n\r\n- Guest: Accès limité aux avis généraux et aux enregistrements de surface  \r\n- Admin: Autorité complète du système, y compris l'accès aux données chiffrées et les commandes de dépassement\r\n\r\n## CODE DE CONDUITE\r\n\r\n- Confirmez votre niveau d'accès avant l'émission des commandes  \r\n- Ne jamais partager des identifiants ou les transférer via des canaux non sécurisés  \r\n- Signaler le comportement suspect du terminal à Command Liaison en utilisant le formulaire CL-09  \r\n- Si vous soupçonnez une infiltration ou un compromis, lancez immédiatement le protocole d'urgence Blackline\r\n\r\nSOUTIEN AU CONTACT\r\n\r\nPour les questions techniques, soumettez une requête sécurisée via Node V-42 ou contactez directement Engineering Command.\r\n\r\n## AVIS FINAL\r\n\r\nCe terminal est un atout du Front de libération vietnamien. Le tapage, l'utilisation non autorisée ou le compromis seront traités comme une menace interne et traités en conséquence.\r\n\r\nVLF — La rivière Rouge est à nous.\r\n\r\n> FIN DU DOSSIER"
     },
     {
       "ns": "",
@@ -676,19 +676,19 @@
       "ns": "",
       "key": "BDD8CC304C8A4184B8259D888C75206C",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "BDD8D7A44E821A565249D4AC8C0877D7",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
       "key": "BDDCC84C4B9485FF663A6696C3397E1F",
       "source": "Go to the warehouse and install the bugs.",
-      "text": "Allez à l'entrepôt et installez les bugs."
+      "text": "Allez à l'entrepôt et installez les micros."
     },
     {
       "ns": "",
@@ -700,7 +700,7 @@
       "ns": "",
       "key": "BDDE169C4D4FCC1D137D3EB705F17463",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -736,7 +736,7 @@
       "ns": "",
       "key": "BE053D0D491FD73215A61AB48C958008",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -826,7 +826,7 @@
       "ns": "",
       "key": "BEAB26E24E8CC2C32A2B3F9A2AC35C0B",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -838,7 +838,7 @@
       "ns": "",
       "key": "BEBE41CB47D18422999874B3AF29A29B",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -862,7 +862,7 @@
       "ns": "",
       "key": "BF1DAB2C47239B3A7C5785ACF0A29F9E",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -880,7 +880,7 @@
       "ns": "",
       "key": "BF2328E54A1B72CD2D380AB9D6B0ACA1",
       "source": "Key for most doors on Outskirts.",
-      "text": "Clé pour la plupart des portes sur Périphérie."
+      "text": "Clé pour la plupart des portes sur Outskirts."
     },
     {
       "ns": "",
@@ -1006,7 +1006,7 @@
       "ns": "",
       "key": "C08E8F1D4ABECB5A4F9FBFB2952FD66D",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -1048,7 +1048,7 @@
       "ns": "",
       "key": "C0E0E6A047C0ABFE7E4841A536188E9D",
       "source": "Basketball",
-      "text": "Basketball"
+      "text": "Ballon de basket"
     },
     {
       "ns": "",
@@ -1060,7 +1060,7 @@
       "ns": "",
       "key": "C0ED5E864D64D12B27D306BD17C9B294",
       "source": "Caves absorb history. Whispers, footfalls, fear. That one near the factory? It's been echoing with the wrong voices.\r\nYou’re going to seal it. Place the charges and leave before the sound stops.\r\nLet the rock remember our silence — not their occupation.",
-      "text": "Les grottes absorbent l'histoire. Whispers, pas à pas, peur. Celui près de l'usine ? Ça fait écho aux mauvaises voix.\nPlacez les charges et partez avant que le son ne s'arrête.\nQue le rocher se souvienne de notre silence, et non de leur occupation."
+      "text": "Les grottes absorbent l'histoire. Whispers, pas à pas, peur. Celui près de l'usine ? Ça fait écho aux mauvaises voix.\r\nPlacez les charges et partez avant que le son ne s'arrête.\r\nQue le rocher se souvienne de notre silence, et non de leur occupation."
     },
     {
       "ns": "",
@@ -1078,7 +1078,7 @@
       "ns": "",
       "key": "C11A9BCF4514F7F6D7A29CB7D0762E43",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",

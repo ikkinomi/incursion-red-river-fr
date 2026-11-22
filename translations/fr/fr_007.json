@@ -4,7 +4,7 @@
       "ns": "",
       "key": "30AF021A410BC82C757010B125663EFA",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -28,13 +28,13 @@
       "ns": "",
       "key": "30CD485F42BB558B73F9959C8176728C",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
       "key": "30DA978A475D6A1BACE73EB887CB737C",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -58,7 +58,7 @@
       "ns": "",
       "key": "30F8D16F4F3A1E8D2BE696B48EDD9206",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -208,7 +208,7 @@
       "ns": "",
       "key": "323FF6784ECC7ED441DC918D28875038",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -238,7 +238,7 @@
       "ns": "",
       "key": "326477A34789E629FCFBFD902E266F63",
       "source": "Scan QuarryTargets.zip from the intel directory within the terminal.",
-      "text": "Numériser QuarryTargets.zip à partir du répertoire des informations dans le terminal."
+      "text": "Analyse QuarryTargets.zip dans le répertoire intel du terminal."
     },
     {
       "ns": "",
@@ -268,7 +268,7 @@
       "ns": "",
       "key": "32965D7C4E8FB43E93748DA7F130CB08",
       "source": "Venture into the Quarry under the cover of anonymity. Secure classified intel from the Iron Guard Corps and discretely deposit it in a UICS controlled area. Be the unseen hand; leave no evidence of tampering. This operation requires a blend of finesse and stealth. Once the task is complete, withdraw unnoticed, as if you were never there.",
-      "text": "S'aventurer dans la carrière sous couvert d'anonymat. Des informations classifiées sécurisées de la Iron Guard Corps et les déposent discrètement dans une zone contrôlée UICS. Soyez la main invisible; ne laissez aucune trace d'altération. Cette opération nécessite un mélange de finesse et de furtivité. Une fois la tâche terminée, retirez-vous inaperçue, comme si vous n'étiez jamais là."
+      "text": "S'aventurer à Quarry sous couvert d'anonymat. Des informations classifiées sécurisées de la Iron Guard Corps et les déposent discrètement dans une zone contrôlée UICS. Soyez la main invisible; ne laissez aucune trace d'altération. Cette opération nécessite un mélange de finesse et de furtivité. Une fois la tâche terminée, retirez-vous inaperçue, comme si vous n'étiez jamais là."
     },
     {
       "ns": "",
@@ -322,19 +322,19 @@
       "ns": "",
       "key": "32F580C943A6AF744CB4F9A3C3C1FB18",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "32FD7EBB40B04884BFD50DA305052690",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
       "key": "330581E343541B137B4081940D567961",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -358,19 +358,19 @@
       "ns": "",
       "key": "332A902B4AA8BF4CB926D9B6026022C9",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
       "key": "332E92294EC931CDD8ACCF9501F60311",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "332F5C28432B3346CA2D209D426D268D",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -412,19 +412,19 @@
       "ns": "",
       "key": "336AF103474F259775FA6786AB810C3E",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "3372808B47E2DFBD84BFA9BA7B09773F",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "337835BF45C93529CF4606A14DC083C5",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -436,13 +436,13 @@
       "ns": "",
       "key": "33838A864AC8E5F29CB21583A169996E",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "3384BAB64357B9C45ACF0382CFBF8D56",
       "source": "Go to the training ground and install the bugs.",
-      "text": "Allez sur le terrain d'entraînement et installez les bugs."
+      "text": "Allez sur le terrain d'entraînement et installez les micros."
     },
     {
       "ns": "",
@@ -610,7 +610,7 @@
       "ns": "",
       "key": "34F3F2364EDD06CAB87FA28715367440",
       "source": "Translations are initially generated with AI and may contain mistakes. \r\n\r\nHelp improve them by suggesting translations and voting on existing ones in our community localisation editor.\r\n\r\nTogether, we can build translations reviewed by the community.",
-      "text": "Les traductions sont initialement générées avec l'IA et peuvent contenir des erreurs. \n\nAidez-les à les améliorer en suggérant des traductions et en votant sur celles existantes dans notre éditeur de localisation communautaire.\n\nEnsemble, nous pouvons construire des traductions examinées par la communauté."
+      "text": "Les traductions sont initialement générées avec l'IA et peuvent contenir des erreurs. \r\n\r\nAidez-les à les améliorer en suggérant des traductions et en votant sur celles existantes dans notre éditeur de localisation communautaire.\r\n\r\nEnsemble, nous pouvons construire des traductions examinées par la communauté."
     },
     {
       "ns": "",
@@ -640,7 +640,7 @@
       "ns": "",
       "key": "35194AEB47B938D5CE42988E90D71262",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -814,7 +814,7 @@
       "ns": "",
       "key": "36607AFD48971A26F10088B9E31FF932",
       "source": "Scan QuarryTargets.zip from the intel directory within the terminal.",
-      "text": "Numériser QuarryTargets.zip à partir du répertoire des informations dans le terminal."
+      "text": "Analyse QuarryTargets.zip dans le répertoire intel du terminal."
     },
     {
       "ns": "",
@@ -844,7 +844,7 @@
       "ns": "",
       "key": "36E3D2114ADEBE44654480B455062FA5",
       "source": "# PORT BULLETIN - OUTSKIRTS\r\n\r\nEffective immediately:\r\n\r\n1. Curfew on the harbor road runs 21:00-05:00. Anyone moving between the ports and the coastal apartments after curfew is stopped and searched.\r\n2. The processing plant is still under construction. There is next to no cover on the site. Do not cross it in daylight.\r\n3. The locked warehouses at the old quay belong to VCUP and the old IGC. Leave them shut. They are not ours to open.\r\n4. The resort is VLF ground. Patrols turn back at the beach road.\r\n5. Aircraft over the island are IGC traffic for the airstrip. Do not engage unless fired upon.\r\n6. Ration distribution for the coastal apartments moves to the small village hall on Thursdays.\r\n\r\nThe western money is gone, but the ports still matter. Hold them.",
-      "text": "# BULLETIN DE PORT - Périphérie\n\nEntrée en vigueur immédiate:\n\n1. Le couvre-feu sur la route portuaire court 21:00-05:00. Quiconque se déplace entre les ports et les appartements côtiers après le couvre-feu est arrêté et fouillé.\n2. L'usine de transformation est toujours en construction. Il n'y a pas de couverture sur le site. Ne le croisez pas en plein jour.\n3. Les entrepôts verrouillés de l'ancien quai appartiennent à VCUP et à l'ancien IGC. Laissez-les fermer. Ils ne sont pas à nous pour ouvrir.\n4. La station est VLF sol. Patrouilles tourner en arrière sur la route de la plage.\n5. Les avions au-dessus de l'île sont le trafic IGC pour la piste d'atterrissage. Ne vous engagez pas à moins d'être tiré dessus.\n6. La distribution des rations pour les appartements côtiers se déplace vers la petite salle de village le jeudi.\n\nL'argent de l'Ouest a disparu, mais les ports comptent toujours."
+      "text": "# BULLETIN DE PORT - OUTSKIRTS\r\n\r\nEntrée en vigueur immédiate:\r\n\r\n1. Le couvre-feu sur la route portuaire court 21:00-05:00. Quiconque se déplace entre les ports et les appartements côtiers après le couvre-feu est arrêté et fouillé.\r\n2. L'usine de transformation est toujours en construction. Il n'y a pas de couverture sur le site. Ne le croisez pas en plein jour.\r\n3. Les entrepôts verrouillés de l'ancien quai appartiennent à VCUP et à l'ancien IGC. Laissez-les fermer. Ils ne sont pas à nous pour ouvrir.\r\n4. La station est VLF sol. Patrouilles tourner en arrière sur la route de la plage.\r\n5. Les avions au-dessus de l'île sont le trafic IGC pour la piste d'atterrissage. Ne vous engagez pas à moins d'être tiré dessus.\r\n6. La distribution des rations pour les appartements côtiers se déplace vers la petite salle de village le jeudi.\r\n\r\nL'argent de l'Ouest a disparu, mais les ports comptent toujours."
     },
     {
       "ns": "",
@@ -862,7 +862,7 @@
       "ns": "",
       "key": "36ECFF414915FFF8AF0796AF081C1EE2",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -892,7 +892,7 @@
       "ns": "",
       "key": "370032F24FA08F98779C1B93B16D1E11",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -910,7 +910,7 @@
       "ns": "",
       "key": "371E73E04344A76209EDDBBF1283D7D9",
       "source": "Setting to turn on/off Lumen. Recommended to turn on if hardware is capable of doing so. \r\nEnables Realtime Global Illumination.",
-      "text": "Réglage pour allumer/éteindre Lumen. Recommandé d'allumer si le matériel est capable de le faire. \nActive l'éclairage global en temps réel."
+      "text": "Réglage pour allumer/éteindre Lumen. Recommandé d'allumer si le matériel est capable de le faire. \r\nActive l'éclairage global en temps réel."
     },
     {
       "ns": "",
@@ -928,7 +928,7 @@
       "ns": "",
       "key": "37396A944EF4371842AFB48C54CB11EA",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -988,7 +988,7 @@
       "ns": "",
       "key": "377B747E45FA540591BD7AAF588EDBFF",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -1018,7 +1018,7 @@
       "ns": "",
       "key": "378F069D4C9CBA2B52A45B93B55B1195",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -1060,7 +1060,7 @@
       "ns": "",
       "key": "37AAADA246D6020BE79A4995631F32F0",
       "source": "Document Title: “SYSTEM INTEGRITY ALERT – BLACKGRID ANOMALIES”\r\nDate: 2024-12-02\r\nClassification: Command Eyes Only\r\n\r\nDocument successfully scanned and secured.\r\nPreview of Document Content:\r\n\r\n-----------------------------------------------------\r\n\"SYSTEM INTEGRITY ALERT:\r\n\r\nRecent automated audits across peripheral BlackGrid nodes have detected irregular data signatures inconsistent with Iron Guard encryption standards. While no confirmed breach has been identified, multiple markers align with known UICS signal forensics and residual civilian contractor frameworks.\r\n\r\nAffected sectors include logistics mirrors, mission cache relays, and auxiliary terminal endpoints operating under reduced oversight. These anomalies do not appear accidental.\r\n\r\nAll Operators are hereby instructed to immediately scan newly accessed files for tampering indicators, foreign metadata, or unauthorized execution flags. Execution of scripts with unverified origin is strictly prohibited.\r\n\r\nFailure to report irregularities will be treated as willful negligence under Directive IRON-LAW/7.\r\n\r\nThe Iron Guard operates under the assumption of infiltration until proven otherwise.\"\r\n-----------------------------------------------------\r\n",
-      "text": "Titre du document : ALERT D'INTEGRITÉ SYSTEM – ANOMIES BLACKGRID\nDate: 2024-12-02\nClassement : Yeux de commandement seulement\n\nDocument scanné et sécurisé.\nAperçu du contenu du document :\n\n-----------------------------------------------------\nALERTE DE L'INTÉGRITÉ SYSTEM :\n\nDes audits automatisés récents sur les nœuds périphériques BlackGrid ont détecté des signatures de données irrégulières incompatibles avec les normes de chiffrement Iron Guard. Bien qu'aucune faille confirmée n'ait été décelée, plusieurs marqueurs s'harmonisent avec les systèmes de détection des signaux UICS connus et les cadres d'entrepreneurs civils résiduels.\n\nLes secteurs touchés comprennent les miroirs logistiques, les relais de cache de mission et les terminaux auxiliaires fonctionnant sous une surveillance réduite. Ces anomalies ne semblent pas accidentelles.\n\nTous les opérateurs ont par la présente pour instruction d'accéder immédiatement aux fichiers scan nouvellement consultés pour les indicateurs de manipulation, les métadonnées étrangères ou les drapeaux d'exécution non autorisés. L'exécution de scripts d'origine non vérifiée est strictement interdite.\n\nL'omission de signaler des irrégularités sera traitée comme une négligence volontaire en vertu de la directive IRON-LAW/7.\n\nLa Garde de fer opère sous l'hypothèse d'une infiltration jusqu'à preuve du contraire. »\n-----------------------------------------------------\r\n"
+      "text": "Titre du document : \"ALERTE SUR L’INTÉGRITÉ DU SYSTÈME - ANOMALIES BLACKGRID\"\r\nDate: 2024-12-02\r\nClassification : réservé au commandement\r\n\r\nDocument analysé et sécurisé avec succès.\r\nAperçu du contenu du document :\r\n\r\n-----------------------------------------------------\r\n\"ALERTE SUR L’INTÉGRITÉ DU SYSTÈME :\r\n\r\nDe récents audits automatisés des nœuds périphériques de BlackGrid ont détecté des signatures de données inhabituelles, incompatibles avec les normes de chiffrement de l'Iron Guard. Aucune intrusion n'est confirmée, mais plusieurs indicateurs correspondent aux techniques d'analyse des transmissions de l'UICS et à des infrastructures résiduelles de prestataires civils.\r\n\r\nLes secteurs touchés comprennent les miroirs logistiques, les relais de cache des missions et les terminaux auxiliaires soumis à une surveillance réduite. Ces anomalies ne semblent pas accidentelles.\r\n\r\nTous les opérateurs doivent immédiatement analyser les nouveaux fichiers consultés afin de détecter toute altération, métadonnée étrangère ou autorisation d'exécution non approuvée. L'exécution de scripts d'origine non vérifiée est strictement interdite.\r\n\r\nTout manquement au signalement de ces irrégularités sera considéré comme une négligence délibérée au titre de la directive IRON-LAW/7.\r\n\r\nL'Iron Guard considère le réseau comme infiltré jusqu'à preuve du contraire.\"\r\n-----------------------------------------------------\r\n"
     },
     {
       "ns": "",
@@ -1090,7 +1090,7 @@
       "ns": "",
       "key": "37FBF0AC4C36C0F46B4C1E975709399B",
       "source": "Cornflakes",
-      "text": "Cornouillers"
+      "text": "Flocons de maïs"
     },
     {
       "ns": "",
@@ -1168,7 +1168,7 @@
       "ns": "",
       "key": "38A172DF46AF09BCE6A0F3B614B91CA0",
       "source": "Explore and get familiar with Quarry!",
-      "text": "Explorez la Carrière pour vous familiariser avec les lieux !"
+      "text": "Explorez Quarry pour vous familiariser avec les lieux !"
     },
     {
       "ns": "",
@@ -1192,7 +1192,7 @@
       "ns": "",
       "key": "38CB8B5B4E9904BE80A40A8EBAB6EC87",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",

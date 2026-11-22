@@ -2,22 +2,22 @@
 
 Traduction communautaire pour **Incursion Red River 1.4.0.4**, build Steam **26761568**.
 
-**Version 0.1.8 bêta.** Le démarrage et le menu français ont été vérifiés. Le joueur a également confirmé le fonctionnement lors de son essai en partie.
+**Version 0.1.9 bêta.** Audit et corrections du 22 novembre 2026. Les contrôles statiques des fichiers sont réussis ; la validation en jeu de cette révision reste à effectuer. Le test en partie précédemment confirmé concernait la 0.1.8.
 
-[Télécharger la 0.1.8 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.1.8-beta/Incursion_Red_River_FR_1.4.0.4_v0.1.8-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.8-beta)
+[Télécharger la 0.1.9 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.1.9-beta/Incursion_Red_River_FR_1.4.0.4_v0.1.9-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.9-beta)
 
 ## Migration depuis la 0.1.7 et les versions précédentes
 
-**Fermez le jeu et désactivez l’ancien patch avant d’installer la 0.1.8.**
+**Fermez le jeu et désactivez l’ancien patch avant d’installer la 0.1.9.**
 
 1. Dans Steam, ouvrez **Incursion Red River → Propriétés → Fichiers installés → Parcourir**.
 2. Ouvrez `Test_C/Content/Paks`.
 3. Renommez uniquement `pakchunk99-French_P.pak` en `pakchunk99-French_P.pak.disabled`, ou déplacez ce fichier dans un dossier de sauvegarde hors du jeu.
 4. Installez ensuite le dossier `fr` selon les étapes ci-dessous.
 
-L’ancien patch remplaçait des composants du jeu prévus pour une version antérieure. La 0.1.8 utilise le système de langues communautaires intégré au jeu depuis les derniers hotfixes.
+L’ancien patch remplaçait des composants du jeu prévus pour une version antérieure. La 0.1.9 utilise le système de langues communautaires intégré au jeu depuis les derniers hotfixes.
 
-## Installation de la 0.1.8
+## Installation de la 0.1.9
 
 1. Lancez le jeu une fois pour qu’il crée son dossier de traductions, puis fermez-le.
 2. Téléchargez et extrayez le ZIP ci-dessus.
@@ -29,13 +29,16 @@ Lors d’une prochaine mise à jour de la traduction, jeu fermé, remplacez les 
 
 ## Nouveautés et validation
 
-- Migration vers le format JSON pris en charge par le jeu.
-- 6 773 textes du modèle courant chargés et 96 entrées supplémentaires acceptées par le moteur.
-- 50 entrées nouvelles ou modifiées prises en charge, notamment les annonces de ressources, les invites des coffres et « Récupérer » les récompenses.
-- Le rapport du jeu indique **0 erreur de formatage et 0 fichier illisible**.
-- 25 libellés d’outils d’édition ou identifiants internes restent en anglais.
+- 6 894 entrées : les 6 798 textes du modèle courant et 96 entrées supplémentaires.
+- 1 092 entrées modifiées ou ajoutées, dont 78 changements limités aux espaces et sauts de ligne.
+- Corrections du terminal, des messages radio récurrents, de plusieurs briefings et de libellés mal traduits.
+- Noms du jeu, des cartes, des personnages et des marques préservés, notamment Discord et NVIDIA Reflex / Boost.
+- Les 25 textes internes auparavant manquants sont couverts ; ils ne correspondent pas à 25 nouveautés de gameplay.
+- Contrôles des identifiants, sources, doublons, variables, balises, sauts de ligne et noms propres réussis.
 
-Les traductions des noms propres et les corrections précédentes, dont **Discord**, **NVIDIA Reflex / Boost** et **Boîte de munitions vide**, sont reprises lorsqu’elles correspondent aux sources actuelles. Des maladresses ou textes absents du modèle peuvent subsister. Chaque mission et chaque écran n’ont pas été testés individuellement.
+**Limites connues :** les en-têtes d’inventaire, certaines catégories dynamiques du marché, des titres de commandes, « Joinability » et « RANDOM » sont construits hors du système de localisation. Les JSON seuls ne peuvent pas les corriger. Aucun ancien .pak n’est réactivé.
+
+Cette bêta n’a pas encore été testée en jeu. Le rapport sans erreur de la 0.1.8 ne vaut pas validation de la 0.1.9. La relecture sémantique est ciblée ; chaque longue description, chaque mission et chaque écran n’ont pas été validés individuellement. [Audit détaillé et diagnostic des textes bloqués](docs/AUDIT-0.1.9.md).
 
 ## Si le jeu plante au démarrage
 

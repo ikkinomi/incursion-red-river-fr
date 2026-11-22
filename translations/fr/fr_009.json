@@ -10,7 +10,7 @@
       "ns": "",
       "key": "40DE00604745DB1EFF5DB182FEE1952A",
       "source": "Setting to turn on/off Lumen. Recommended to turn on if hardware is capable of doing so. \r\nEnables Realtime Global Illumination.",
-      "text": "Réglage pour allumer/éteindre Lumen. Recommandé d'allumer si le matériel est capable de le faire. \nActive l'éclairage global en temps réel."
+      "text": "Réglage pour allumer/éteindre Lumen. Recommandé d'allumer si le matériel est capable de le faire. \r\nActive l'éclairage global en temps réel."
     },
     {
       "ns": "",
@@ -34,7 +34,7 @@
       "ns": "",
       "key": "412DD75F4586A23CA800BEA23BE8E9AA",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -64,13 +64,13 @@
       "ns": "",
       "key": "414DAE804C6B9CD18F3AE38643C3653A",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
       "key": "415DAC1F4096249CC3E7CAB4639F18FA",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -100,7 +100,7 @@
       "ns": "",
       "key": "41C2BA114008A76A1C7938BFA880574F",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -142,7 +142,7 @@
       "ns": "",
       "key": "42317150413CF4077D441390E986D9A5",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -184,7 +184,7 @@
       "ns": "",
       "key": "424D97C74FBB32743CC4D3A1D8E428D1",
       "source": "Accessory designed for PTR-91 and other HK G3-style rifles. This handguard replaces the standard handguard and offers three Picatinny rails for attaching attachments.",
-      "text": "Accessoire conçu pour les fusils PTR-91 et autres fusils de type HK G3. Ce garde-main remplace le garde-main standard et offre trois rails Picatinny pour la fixation des pièces jointes."
+      "text": "Accessoire conçu pour les fusils PTR-91 et autres fusils de type HK G3. Ce garde-main remplace le garde-main standard et offre trois rails Picatinny pour la fixation des accessoires."
     },
     {
       "ns": "",
@@ -208,7 +208,7 @@
       "ns": "",
       "key": "42685F4741A86183E0E8B8AA30EF30E2",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -238,13 +238,13 @@
       "ns": "",
       "key": "4280B7A84739F5D7B0F1E08DA75AF49A",
       "source": "Longbow carry handle for QBZ-97. Features rails for attachments.",
-      "text": "Poignée de transport Longbow pour QBZ-97. Caractéristiques rails pour les pièces jointes."
+      "text": "Poignée de transport Longbow pour QBZ-97, avec rails pour accessoires."
     },
     {
       "ns": "",
       "key": "429EA8F74A9BB0C9739D429A28A95C90",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -274,7 +274,7 @@
       "ns": "",
       "key": "42C719C3410A93B02FA9C0900972B58B",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -286,7 +286,7 @@
       "ns": "",
       "key": "42D3C3EC4F715BE006D2F087C965A82A",
       "source": "...hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "... Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -328,7 +328,7 @@
       "ns": "",
       "key": "42F149DA483D3BD2568F94A7B236FA2C",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -346,7 +346,7 @@
       "ns": "",
       "key": "4313C9174C4AF299BAB14DA43E6A66B8",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -364,7 +364,7 @@
       "ns": "",
       "key": "433854D94244DDD070F4E2BFEB4AF9DD",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -406,13 +406,13 @@
       "ns": "",
       "key": "439CC1CF4FBB2465D585E9AB68782A88",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
       "key": "43B57EE74DB2D321626A36928E2F3419",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -526,7 +526,7 @@
       "ns": "",
       "key": "445228434D598CF020EFB4A8BBC57B34",
       "source": "Shutting down the terminal...\r\nTerminal secure. You may now extract safely.",
-      "text": "Arrêter le terminal...\nVous pouvez maintenant extraire en toute sécurité."
+      "text": "Arrêt du terminal...\r\nTerminal sécurisé. Tu peux maintenant rejoindre l'extraction."
     },
     {
       "ns": "",
@@ -640,7 +640,7 @@
       "ns": "",
       "key": "452673804D810CB78151B5ACD95059B7",
       "source": "Explore and get familiar with Outskirts!",
-      "text": "Explorez la Périphérie pour vous familiariser avec les lieux !"
+      "text": "Explorez Outskirts pour vous familiariser avec les lieux !"
     },
     {
       "ns": "",
@@ -670,7 +670,7 @@
       "ns": "",
       "key": "45567F584B88595B5F13288C03C5B41E",
       "source": "# UICS TERMINAL SYSTEM – README\r\n\r\nWelcome to the Unified Intercontinental Command Structure (UICS) Secure Terminal.\r\n\r\nThis terminal is part of the authorized network infrastructure under UICS Directive GridNet-4B. It is designed for use by certified personnel only. Access is monitored, logged, and subject to review by Central Systems Authority (CSA).\r\n\r\n## SYSTEM FUNCTIONS\r\n\r\n- **read** – Open and view a file's contents  \r\n- **run** – Execute a script or terminal-compatible file  \r\n- **scan** – Check a file for security classification or hidden data  \r\n- **download** – Save a file from the terminal to your local device  \r\n\r\nNeed more info? Use the `help` command at any time for detailed usage.\r\n## USER LEVELS\r\n\r\n- Guest: View-only access to non-sensitive bulletins and maintenance schedules\r\n- Admin: Full terminal control, including configuration management and override protocols\r\n\r\n## CODE OF CONDUCT\r\n\r\n- Always verify your clearance level before executing commands.\r\n- Do not share access credentials under any circumstance.\r\n- Report any system anomalies or suspicious activity using form 11-17A (System Irregularity Report).\r\n- In case of compromised access, initiate Lockdown Sequence Alpha and disconnect from the local grid.\r\n\r\n## SUPPORT CONTACT\r\n\r\nFor technical assistance, contact Central Systems Authority via secure channel [Node U-91].\r\n\r\n## FINAL NOTICE\r\n\r\nThis terminal is property of the UICS. Unauthorized use is a breach of intercontinental security law and may result in disciplinary action, including confinement and clearance revocation.\r\n\r\nUICS — Order. Stability. Control.\r\n\r\n> END OF FILE",
-      "text": "# SYSTEME TERMINAL UICS – LECTURE\n\nBienvenue au terminal sécurisé de la structure de commandement intercontinentale unifiée (UICS).\n\nCe terminal fait partie de l'infrastructure de réseau autorisée en vertu de la directive UICS GridNet-4B. Il est conçu pour être utilisé uniquement par du personnel certifié. L'accès est surveillé, enregistré et soumis à l'examen de la Central Systems Authority (CSA).\n\nFONCTIONS DU SYSTÈME\n\n- **read** – Ouvrez et visualisez le contenu d'un fichier  \n- **run** – Exécuter un script ou un fichier compatible avec le terminal  \n- **scan** – Vérifiez un fichier pour la classification de sécurité ou les données cachées  \n- **download** – Enregistrer un fichier depuis le terminal vers votre appareil local  \n\nVous avez besoin de plus d'informations? `help` commande à tout moment pour une utilisation détaillée.\n## NIVEAUX D'UTILISATEUR\n\n- Guest: Accès direct aux bulletins non sensibles et aux horaires de maintenance\n- Admin: Contrôle terminal complet, y compris gestion de configuration et protocoles de dépassement\n\n## CODE DE CONDUITE\n\n- Vérifiez toujours votre niveau niveau d'accès avant d'exécuter les commandes.\n- Ne partagez pas d'identifiants d'accès en aucune circonstance.\n- Signaler toute anomalie du système ou toute activité suspecte au moyen du formulaire 11-17A (Rapport d'irrégularité du système).\n- En cas d'accès compromis, lancez Lockdown Sequence Alpha et déconnectez-vous de la grille locale.\n\nSOUTIEN AU CONTACT\n\nPour toute assistance technique, contactez l'Autorité centrale des systèmes via un canal sécurisé [Node U-91].\n\n## AVIS FINAL\n\nCe terminal est la propriété du UICS. L'utilisation non autorisée est une violation de la loi sur la sécurité intercontinentale et peut entraîner des mesures disciplinaires, y compris l'internement et la révocation de niveau d'accès.\n\nUICS — Ordre. Stabilité.\n\n> FIN DU DOSSIER"
+      "text": "# SYSTEME TERMINAL UICS – LECTURE\r\n\r\nBienvenue au terminal sécurisé de la structure de commandement intercontinentale unifiée (UICS).\r\n\r\nCe terminal fait partie de l'infrastructure de réseau autorisée en vertu de la directive UICS GridNet-4B. Il est conçu pour être utilisé uniquement par du personnel certifié. L'accès est surveillé, enregistré et soumis à l'examen de la Central Systems Authority (CSA).\r\n\r\nFONCTIONS DU SYSTÈME\r\n\r\n- **read** – Ouvrez et visualisez le contenu d'un fichier  \r\n- **run** – Exécuter un script ou un fichier compatible avec le terminal  \r\n- **scan** – Vérifiez un fichier pour la classification de sécurité ou les données cachées  \r\n- **download** – Enregistrer un fichier depuis le terminal vers votre appareil local  \r\n\r\nVous avez besoin de plus d'informations? `help` commande à tout moment pour une utilisation détaillée.\r\n## NIVEAUX D'UTILISATEUR\r\n\r\n- Guest: Accès direct aux bulletins non sensibles et aux horaires de maintenance\r\n- Admin: Contrôle terminal complet, y compris gestion de configuration et protocoles de dépassement\r\n\r\n## CODE DE CONDUITE\r\n\r\n- Vérifiez toujours votre niveau niveau d'accès avant d'exécuter les commandes.\r\n- Ne partagez pas d'identifiants d'accès en aucune circonstance.\r\n- Signaler toute anomalie du système ou toute activité suspecte au moyen du formulaire 11-17A (Rapport d'irrégularité du système).\r\n- En cas d'accès compromis, lancez Lockdown Sequence Alpha et déconnectez-vous de la grille locale.\r\n\r\nSOUTIEN AU CONTACT\r\n\r\nPour toute assistance technique, contactez l'Autorité centrale des systèmes via un canal sécurisé [Node U-91].\r\n\r\n## AVIS FINAL\r\n\r\nCe terminal est la propriété du UICS. L'utilisation non autorisée est une violation de la loi sur la sécurité intercontinentale et peut entraîner des mesures disciplinaires, y compris l'internement et la révocation de niveau d'accès.\r\n\r\nUICS — Ordre. Stabilité.\r\n\r\n> FIN DU DOSSIER"
     },
     {
       "ns": "",
@@ -688,7 +688,7 @@
       "ns": "",
       "key": "4584AD0342322D56D90CF6B6E8E828A3",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -754,7 +754,7 @@
       "ns": "",
       "key": "45F97CD240C54124C7F1D09A7361157B",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -784,7 +784,7 @@
       "ns": "",
       "key": "463579BA4D0361C420992E8BB446A314",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -916,7 +916,7 @@
       "ns": "",
       "key": "475335FE48496F5D5A7C138E46BD59D1",
       "source": "Hello! We have learned that a large UICS supply convoy is expected at the Quarry soon. This is our golden opportunity to strike a substantial blow and thwart their influence spread. We need you to set a bomb with a remote detonator to destroy the supplies upon arrival. Don't fret; you'll be out of harm's way before it goes off!",
-      "text": "Bonjour ! Nous avons appris qu'un grand convoi d'approvisionnement UICS est attendu bientôt à la carrière. C'est l'occasion en or de frapper un coup substantiel et de contrecarrer leur influence qui s'est répandue. Nous avons besoin que vous posiez une bombe avec un détonateur à distance pour détruire les fournitures à l'arrivée. Ne t'inquiète pas, tu seras hors de danger avant qu'il ne s'en aille !"
+      "text": "Bonjour ! Nous avons appris qu'un grand convoi d'approvisionnement UICS est attendu bientôt à Quarry. C'est l'occasion en or de frapper un coup substantiel et de contrecarrer leur influence qui s'est répandue. Nous avons besoin que vous posiez une bombe avec un détonateur à distance pour détruire les fournitures à l'arrivée. Ne t'inquiète pas, tu seras hors de danger avant qu'il ne s'en aille !"
     },
     {
       "ns": "",
@@ -934,13 +934,13 @@
       "ns": "",
       "key": "475D5EE749087466C0F8479AB01D0658",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "478709DB4049A53120262DB933D2FFA8",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -952,7 +952,7 @@
       "ns": "",
       "key": "4795882A4CE6081F6E945C865BBD2B67",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -964,7 +964,7 @@
       "ns": "",
       "key": "47B22418495CB0A060C276A47E505AAE",
       "source": "Ammo",
-      "text": "munitions"
+      "text": "Munitions"
     },
     {
       "ns": "",
@@ -988,7 +988,7 @@
       "ns": "",
       "key": "47C6F50242AEDB894186A797977F542A",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -1042,13 +1042,13 @@
       "ns": "",
       "key": "48210ACF4247A639BCA55EA01607D362",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "4821229B47184BB7BC6DC68EBFD56495",
       "source": "Clear H.A.S.",
-      "text": "Effacer les H.A.S."
+      "text": "Sécuriser les H.A.S."
     },
     {
       "ns": "",
@@ -1066,7 +1066,7 @@
       "ns": "",
       "key": "482B4B12466824F66E7771B316CA993E",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
@@ -1084,7 +1084,7 @@
       "ns": "",
       "key": "48300BD94F25DD6ABAFA5B9089FD68C4",
       "source": "This raid ended up in a failure. You lost all your loot and the contract failed. \r\nYour reputation will decrease.",
-      "text": "Ce raid s'est soldé par un échec. Vous avez perdu tout votre butin et le contrat a échoué. \nVotre réputation va diminuer."
+      "text": "Ce raid s'est soldé par un échec. Vous avez perdu tout votre butin et le contrat a échoué. \r\nVotre réputation va diminuer."
     },
     {
       "ns": "",
@@ -1096,7 +1096,7 @@
       "ns": "",
       "key": "48670336443866818673C5B03B4A981F",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -1114,19 +1114,19 @@
       "ns": "",
       "key": "487C658A400F03078C19AFB2D1686B16",
       "source": "Go to the factory and install the bugs.",
-      "text": "Allez à l'usine et installez les bugs."
+      "text": "Allez à l'usine et installez les micros."
     },
     {
       "ns": "",
       "key": "487E79FD4E208DA1B65D35BB74B19055",
       "source": "Laser Range Finder",
-      "text": "Laser Range Finder"
+      "text": "Télémètre laser"
     },
     {
       "ns": "",
       "key": "48905E274EE95BE80C77E9BFDBA35361",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -1168,7 +1168,7 @@
       "ns": "",
       "key": "48F9B81D495434946A51FF932E1AC47A",
       "source": "Initiating scan of classified document...\r\nPlease wait, retrieving data...",
-      "text": "Lancement d'un scan de documents classifiés...\nS'il vous plaît attendez, récupérer des données..."
+      "text": "Lancement d'un scan de documents classifiés...\r\nS'il vous plaît attendez, récupérer des données..."
     },
     {
       "ns": "",

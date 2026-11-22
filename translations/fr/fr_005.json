@@ -58,7 +58,7 @@
       "ns": "",
       "key": "205C076A4EA711BDD9961AAE3D7557E4",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -106,7 +106,7 @@
       "ns": "",
       "key": "20B8230C4AE70CB951273EBAA3AFE44A",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -238,7 +238,7 @@
       "ns": "",
       "key": "21D1C8FA47466C20FEEEE197FAFDD39E",
       "source": "Laser Range Finder",
-      "text": "Laser Range Finder"
+      "text": "Télémètre laser"
     },
     {
       "ns": "",
@@ -256,7 +256,7 @@
       "ns": "",
       "key": "221AB33A4C221D1DFFF6B68A68A214B1",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -280,13 +280,13 @@
       "ns": "",
       "key": "223A70734B8C6CBE9E057D9FF599D116",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "224F47EB460CB2E64111E0BCA56268D8",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -304,7 +304,7 @@
       "ns": "",
       "key": "227D93CB40DF3FF239EACFB6C23201F7",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -340,7 +340,7 @@
       "ns": "",
       "key": "22CD7E42427B8F538182859B7DA3D422",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -382,19 +382,19 @@
       "ns": "",
       "key": "2331C5A2476F30EC169D95B8CA1C234E",
       "source": "Leave/Create new party.",
-      "text": "Partir/Créer une nouvelle fête."
+      "text": "Quitter / créer un groupe."
     },
     {
       "ns": "",
       "key": "2332510D47AFBDC63D9D8881041B5C28",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
       "key": "23361CE346E96D0ED944839AC5482CAA",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -406,7 +406,7 @@
       "ns": "",
       "key": "2359525C45029B3D16217B9348E4C766",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -436,7 +436,7 @@
       "ns": "",
       "key": "2394A07F40253AD86C2AE3938124DA91",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -484,7 +484,7 @@
       "ns": "",
       "key": "23B733A6461EC37DC9E8249329B89C1E",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -502,7 +502,7 @@
       "ns": "",
       "key": "23D480B145609CDEDFF2B196CA9F11E9",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -526,7 +526,7 @@
       "ns": "",
       "key": "23EA0B4548778B1E9C6BE6816C348522",
       "source": "Ammo",
-      "text": "munitions"
+      "text": "Munitions"
     },
     {
       "ns": "",
@@ -580,7 +580,7 @@
       "ns": "",
       "key": "24485E064D1EF502482912824F61813B",
       "source": "description bla bla bla .........\r\n............\r\n.....................................................................\r\n............",
-      "text": "description bla bla bla .........\n............\n.....................................................................\n............"
+      "text": "description bla bla bla .........\r\n............\r\n.....................................................................\r\n............"
     },
     {
       "ns": "",
@@ -592,7 +592,7 @@
       "ns": "",
       "key": "24650F4A426362AA10347183B7A56CE3",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -658,7 +658,7 @@
       "ns": "",
       "key": "24A64DC846B40CC752904C87A814B1F1",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -712,7 +712,7 @@
       "ns": "",
       "key": "253F0D3F49E77DAE49CD0BB74C45FDF8",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -748,7 +748,7 @@
       "ns": "",
       "key": "256E1C344DF32DB0BFFE9D87079E5F05",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -760,7 +760,7 @@
       "ns": "",
       "key": "25880863495114C175FBE3897B81ED45",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -772,7 +772,7 @@
       "ns": "",
       "key": "258FE95E4CF80E718AEE8F8617463DF0",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -844,7 +844,7 @@
       "ns": "",
       "key": "25F71E024D9D3D1AA1B144822649A1D5",
       "source": "General key for the Quarry that opens all doors. You know what they say... ",
-      "text": "La clé générale de la carrière qui ouvre toutes les portes. "
+      "text": "La clé générale de Quarry qui ouvre toutes les portes. "
     },
     {
       "ns": "",
@@ -898,7 +898,7 @@
       "ns": "",
       "key": "2640732D40186F6BF819849BD284268A",
       "source": "Listen closely, Babe. The Quarry's warehouse district is a goldmine of Iron Guard Corps intel, and UICS is none the wiser. Get in there, grab the intel, and plant it inside their main warehouse. Let's stir up some internal paranoia. Be prepared for a firefight; this won’t be a walk in the park. Once you've done the deed, extract by any means necessary. You're the embodiment of Uncle Sam’s reach – long and unforgiving.",
-      "text": "Écoute bien, Babe. Le quartier des entrepôts de la carrière est une mine d'or de Iron Guard Corps intel, et UICS n'est pas plus sage. Entre là-dedans, prends les infos, et plante-les dans leur entrepôt principal. Allons remuer une paranoïa interne. Préparez-vous à une fusillade; ce ne sera pas une promenade dans le parc. Une fois que vous avez fait l'acte, extraire par tous les moyens nécessaires. Tu es l'incarnation de l'Oncle Sam's joignable – longue et impitoyable."
+      "text": "Écoute bien, Babe. Le quartier des entrepôts de Quarry est une mine d'or de Iron Guard Corps intel, et UICS n'est pas plus sage. Entre là-dedans, prends les infos, et plante-les dans leur entrepôt principal. Allons remuer une paranoïa interne. Préparez-vous à une fusillade; ce ne sera pas une promenade dans le parc. Une fois que vous avez fait l'acte, extraire par tous les moyens nécessaires. Tu es l'incarnation de l'Oncle Sam's joignable – longue et impitoyable."
     },
     {
       "ns": "",
@@ -964,7 +964,7 @@
       "ns": "",
       "key": "26DAF5974FE94E203062D8812727DE80",
       "source": "Grip",
-      "text": "Grip"
+      "text": "Poignée"
     },
     {
       "ns": "",
@@ -1108,7 +1108,7 @@
       "ns": "",
       "key": "27C2DB2246812E05938137A38BECB5C5",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",

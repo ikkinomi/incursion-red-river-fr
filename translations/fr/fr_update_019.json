@@ -1,0 +1,154 @@
+{
+  "texts": [
+    {
+      "ns": "",
+      "key": "14D5C3DD4430241881C78A9BA61BFA8B",
+      "source": "Remove Duplicated Level Instances",
+      "text": "Supprimer les instances de niveau en double"
+    },
+    {
+      "ns": "",
+      "key": "1561A06F4AE3BC8DD02C319B3A4EA363",
+      "source": "Convert To VLF",
+      "text": "Convertir en VLF"
+    },
+    {
+      "ns": "",
+      "key": "276E36924C272D1C9AC239B433704D11",
+      "source": "sets the source mesh we want to populate by the selection. also trys to auto select the portal.",
+      "text": "Définit le maillage source à remplir à partir de la sélection et tente de sélectionner automatiquement le portail."
+    },
+    {
+      "ns": "",
+      "key": "2DEF9E314EDA2FCD1B44AF82A15E9871",
+      "source": "Convert To IGC",
+      "text": "Convertir en IGC"
+    },
+    {
+      "ns": "",
+      "key": "4C8B99C040DC90F6EB3AA7BBA2C1067A",
+      "source": "Convert To Foliage Instance Actor",
+      "text": "Convertir en acteur de végétation instanciée"
+    },
+    {
+      "ns": "",
+      "key": "60B6EA7A4F40F3BB2042F09AAB2C8DD7",
+      "source": "Convert To Static Mesh",
+      "text": "Convertir en maillage statique"
+    },
+    {
+      "ns": "",
+      "key": "6C9612D84493FBA671B96DBD22448DCD",
+      "source": "Replace Selected Instances",
+      "text": "Remplacer les instances sélectionnées"
+    },
+    {
+      "ns": "",
+      "key": "7CF278834648210D769239973A715B40",
+      "source": "InitialState",
+      "text": "État initial"
+    },
+    {
+      "ns": "",
+      "key": "84BA24FB4D7D56197471BC807478CC4A",
+      "source": "Output: ",
+      "text": "Sortie : "
+    },
+    {
+      "ns": "",
+      "key": "8FE03FE24E8BA2F13AC6A8AC055CBE34",
+      "source": "Reset Selected Instances",
+      "text": "Réinitialiser les instances sélectionnées"
+    },
+    {
+      "ns": "",
+      "key": "944A24824803082F8B4F548D709FD70B",
+      "source": "sets the source mesh we want to populate by the selection. also trys to auto select the portal.",
+      "text": "Définit le maillage source à remplir à partir de la sélection et tente de sélectionner automatiquement le portail."
+    },
+    {
+      "ns": "",
+      "key": "9EC832DC48521041F5540C944B07258A",
+      "source": "InitialState",
+      "text": "État initial"
+    },
+    {
+      "ns": "",
+      "key": "A45D0AE54CA8AB300165EF8D6DBD2DBB",
+      "source": "Semi-Destroyed_2",
+      "text": "Partiellement détruit_2"
+    },
+    {
+      "ns": "",
+      "key": "ABD9D64545F26C1C1648A28450F49117",
+      "source": "CONVERT",
+      "text": "CONVERTIR"
+    },
+    {
+      "ns": "",
+      "key": "ACAD3AC449C5F7B25EF2FCA940B9087F",
+      "source": "Replace All Level Instances",
+      "text": "Remplacer toutes les instances de niveau"
+    },
+    {
+      "ns": "",
+      "key": "ACEE705541FFA94FD569E3B91085395D",
+      "source": "Output: ",
+      "text": "Sortie : "
+    },
+    {
+      "ns": "",
+      "key": "AE8BE8E44FC016F1138484AB76B334AC",
+      "source": "InitialState",
+      "text": "État initial"
+    },
+    {
+      "ns": "",
+      "key": "AF94BB0D49FF11760DFB95A41089048E",
+      "source": "sets the source mesh we want to populate by the selection. also trys to auto select the portal.",
+      "text": "Définit le maillage source à remplir à partir de la sélection et tente de sélectionner automatiquement le portail."
+    },
+    {
+      "ns": "",
+      "key": "B1AF265448EF1894191951B765A330E0",
+      "source": "CONVERT",
+      "text": "CONVERTIR"
+    },
+    {
+      "ns": "",
+      "key": "B2114AF1459A16BDDBA10F8856705237",
+      "source": "Reset All Selected Instances",
+      "text": "Réinitialiser toutes les instances sélectionnées"
+    },
+    {
+      "ns": "",
+      "key": "B977661546EA2C83CF3057B55372C04F",
+      "source": "Convert To HISM",
+      "text": "Convertir en HISM"
+    },
+    {
+      "ns": "",
+      "key": "BE5F2FDF493B022D138DDF94F7B79AD1",
+      "source": "Convert To UICS",
+      "text": "Convertir en UICS"
+    },
+    {
+      "ns": "",
+      "key": "C77F5B074E032EFF071F009433BF1DD0",
+      "source": "Replace level instances",
+      "text": "Remplacer les instances de niveau"
+    },
+    {
+      "ns": "",
+      "key": "E2DF88A64A90A756BFDB1DA6CA907C14",
+      "source": "Semi-Destroyed",
+      "text": "Partiellement détruit"
+    },
+    {
+      "ns": "",
+      "key": "EEA095C442F42D0D6D3A1CBFC2C17F32",
+      "source": "sets the source mesh we want to populate by the selection. also trys to auto select the portal.",
+      "text": "Définit le maillage source à remplir à partir de la sélection et tente de sélectionner automatiquement le portail."
+    }
+  ]
+}

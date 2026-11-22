@@ -106,7 +106,7 @@
       "ns": "",
       "key": "0856F4884E48A9A541E639A85A2B86FA",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -154,7 +154,7 @@
       "ns": "",
       "key": "08B231094E4849533DD0B89C3888AC6B",
       "source": "There’s a VLF intel file sitting in their med bay sector — a physical item. You’re going to retrieve it and run a local scan on one of their terminals.\r\nDon’t try to exfil with the asset. Just get the read and move. You’ll likely have company once the system wakes up.\r\nMake it fast.",
-      "text": "Il y a un fichier d'intel VLF assis dans leur secteur de la baie med — un élément physique. Vous allez le récupérer et run un local scan sur l'un de leurs terminaux.\nNe tentez pas de vous exfiltrer avec l'actif. Il suffit de prendre le read et de bouger. Vous aurez probablement de la compagnie quand le système se réveillera.\nFaites vite."
+      "text": "Il y a un fichier d'intel VLF assis dans leur secteur de la baie med — un élément physique. Vous allez le récupérer et run un local scan sur l'un de leurs terminaux.\r\nNe tentez pas de vous exfiltrer avec l'actif. Il suffit de prendre le read et de bouger. Vous aurez probablement de la compagnie quand le système se réveillera.\r\nFaites vite."
     },
     {
       "ns": "",
@@ -202,13 +202,13 @@
       "ns": "",
       "key": "09012CE142627A46DB9E328D3CF20A49",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
       "key": "0901A2D84501773812157ABE01743FD2",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -220,7 +220,7 @@
       "ns": "",
       "key": "092D7592481218FAF2BCC38AADE0B848",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -250,7 +250,7 @@
       "ns": "",
       "key": "094294364EF3D5B7C8A78782A9EBF7BB",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -328,7 +328,7 @@
       "ns": "",
       "key": "0998696040DEA1A5A58843865AF705EA",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -358,7 +358,7 @@
       "ns": "",
       "key": "09AECC7E41E5341C59CBFD81F6A102E5",
       "source": "**Available Commands:**\r\n\r\n1. help / ? - Display available commands and their descriptions.\r\n2. dir / ls - Display all of the files and folders in the current directory.\r\n3. pop / .. - Switch back to previous directory (e.g. go back).\r\n4. login - Enter new login credentials to change the user & permissions.\r\n5. cd <directory> - Change directory to navigate within the terminal system.\r\n6. run <file_id> - Execute the exe file.\r\n7. download <file_id> - Download content from target file.\r\n8. scan <file_id> - Scan content from file.\r\n9. read <file_id> - Reading content of file.\r\n10. shutdown / exit - Shutdown the terminal.\r\n\r\n**Additional help**\r\n\r\n> To find a file, try changing directories via cd <directory> and use the dir command to display all available files at the current level\r\n> Some directories require special access. Use the login command to get Admin access. You may have to take a look at the users file to find the credentials.",
-      "text": "**Commandes disponibles:**\n\n1. help / ? - Affiche les commandes disponibles et leurs descriptions.\n2. dir / ls - Affiche tous les fichiers et dossiers du répertoire actuel.\n3. pop / .. - Retourner au répertoire précédent (par exemple, revenir en arrière).\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\n6. run <file_id> - Exécutez le fichier exe.\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\n8. scan <file_id> - Scanner le contenu du fichier.\n9. read <file_id> - Lecture du contenu du fichier.\n10. Arrêt / sortie - Arrêt du terminal.\n\n**Supplémentaire help**\n\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et utilisez la commande dir pour afficher tous les fichiers disponibles au niveau actuel\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
+      "text": "**Commandes disponibles:**\r\n\r\n1. help / ? - Affiche les commandes disponibles et leurs descriptions.\r\n2. dir / ls - Affiche tous les fichiers et dossiers du répertoire actuel.\r\n3. pop / .. - Retourner au répertoire précédent (par exemple, revenir en arrière).\r\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\r\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\r\n6. run <file_id> - Exécutez le fichier exe.\r\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\r\n8. scan <file_id> - Scanner le contenu du fichier.\r\n9. read <file_id> - Lecture du contenu du fichier.\r\n10. Arrêt / sortie - Arrêt du terminal.\r\n\r\n**Supplémentaire help**\r\n\r\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et utilisez la commande dir pour afficher tous les fichiers disponibles au niveau actuel\r\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
     },
     {
       "ns": "",
@@ -406,7 +406,7 @@
       "ns": "",
       "key": "0A25199745AB71D4214ABA8DC682EE37",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -436,7 +436,7 @@
       "ns": "",
       "key": "0A7E3F0043A847FCDBD492AAADFE1AF7",
       "source": "Suppresor for the AS Val rifle. It is required for the proper function of the weapon.",
-      "text": "Suppôt pour le fusil AS Val. Il est nécessaire pour la bonne fonction du arme."
+      "text": "Silencieux pour le fusil AS Val. Indispensable au bon fonctionnement de l’arme."
     },
     {
       "ns": "",
@@ -454,7 +454,7 @@
       "ns": "",
       "key": "0A94A668403D280A38FC1CBF68AC1DD9",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -466,7 +466,7 @@
       "ns": "",
       "key": "0A9D6AD0488592186511CB91592F426F",
       "source": "Pistol",
-      "text": "Pistol"
+      "text": "Pistolet"
     },
     {
       "ns": "",
@@ -526,7 +526,7 @@
       "ns": "",
       "key": "0B263B8A448FAD88AA6B1F99A2A4C616",
       "source": "Initiating scan of classified document...\r\nPlease wait, retrieving data...",
-      "text": "Lancement d'un scan de documents classifiés...\nS'il vous plaît attendez, récupérer des données..."
+      "text": "Lancement d'un scan de documents classifiés...\r\nS'il vous plaît attendez, récupérer des données..."
     },
     {
       "ns": "",
@@ -538,7 +538,7 @@
       "ns": "",
       "key": "0B3F425D4D2C78898FED3D9725EFA7B9",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -568,7 +568,7 @@
       "ns": "",
       "key": "0B8456E3453E9AD2BDC8AA8B321CF205",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -604,7 +604,7 @@
       "ns": "",
       "key": "0BDA3382484CB6D9DFA055B7D5F2EAA8",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -634,7 +634,7 @@
       "ns": "",
       "key": "0C0466ED4645CF72FA2C5C9CB61DFF67",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -730,13 +730,13 @@
       "ns": "",
       "key": "0CB58B9245C8EB7248A4B89C360C7137",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "0CBA452E409CF15E8C6553AF3FF5CE3A",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -790,7 +790,7 @@
       "ns": "",
       "key": "0CE0786A48D8E4CAAB3FBBB95485E987",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -808,7 +808,7 @@
       "ns": "",
       "key": "0CF5A11E4A4793967E2258B59E0C286A",
       "source": "Go to the radar tower and install the jammers.",
-      "text": "Allez à la tour radar et installez les jammers."
+      "text": "Allez à la tour radar et installez les brouilleurs."
     },
     {
       "ns": "",
@@ -820,7 +820,7 @@
       "ns": "",
       "key": "0D1D92DF4344FE0EC2B2BAA5F2E28770",
       "source": "Clear the HAS between the Fishing Village and the Quarry.",
-      "text": "Effacer le HAS entre le village de pêche et la carrière."
+      "text": "Sécuriser le H.A.S. entre le village de pêcheurs et Quarry."
     },
     {
       "ns": "",
@@ -862,7 +862,7 @@
       "ns": "",
       "key": "0D9074184CAF3A3794EA0D93B97699D3",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -1024,7 +1024,7 @@
       "ns": "",
       "key": "0EB29FDC488F43F1A65B069BBD14A563",
       "source": "Trash PANDA suppressor.",
-      "text": "Corbeille PANDA silencieux."
+      "text": "Silencieux Trash PANDA."
     },
     {
       "ns": "",
@@ -1054,7 +1054,7 @@
       "ns": "",
       "key": "0EDC75FF4EBE1BC59752AAA8B06B5D41",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -1066,7 +1066,7 @@
       "ns": "",
       "key": "0EFED86A4245A9E27E9CF78E06ABD5D8",
       "source": "Hold <Red>F</> to loot backpack",
-      "text": "Attendez. <Red>F</> pour piller sac à dos"
+      "text": "Maintiens <Red>F</> pour fouiller le sac à dos"
     },
     {
       "ns": "",
@@ -1114,7 +1114,7 @@
       "ns": "",
       "key": "0F34E70C49F2332E5B5BADA68E42888C",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -1132,7 +1132,7 @@
       "ns": "",
       "key": "0F67FCC94ECC59A99E6F32852FD53F14",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -1156,7 +1156,7 @@
       "ns": "",
       "key": "0F87CF064F4E30F89497F981125E5856",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -1174,7 +1174,7 @@
       "ns": "",
       "key": "0F9F18054A02E801A391B985856EB0CF",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",

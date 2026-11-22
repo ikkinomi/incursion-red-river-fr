@@ -28,7 +28,7 @@
       "ns": "",
       "key": "B1660C7E4E8923C92EAA948F606D018B",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -52,7 +52,7 @@
       "ns": "",
       "key": "B19CE61C4361E508CFF0B9BF938B2385",
       "source": "Voice Chat Input",
-      "text": "Entrée de la discussion vocale"
+      "text": "Commandes vocales"
     },
     {
       "ns": "",
@@ -70,7 +70,7 @@
       "ns": "",
       "key": "B1CEAA4D449581587FC6E7865036D89B",
       "source": "Check Magazine",
-      "text": "Chargeur Check"
+      "text": "Vérifier le chargeur"
     },
     {
       "ns": "",
@@ -106,7 +106,7 @@
       "ns": "",
       "key": "B1FC3B2C4E9A7C7CFDE27EB1A0731C62",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -166,13 +166,13 @@
       "ns": "",
       "key": "B2506D474EC6A2B75A63B9AA122FD1C8",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "B2522788470FCD67BB0C8D8B5211752D",
       "source": "Ammo",
-      "text": "munitions"
+      "text": "Munitions"
     },
     {
       "ns": "",
@@ -226,13 +226,13 @@
       "ns": "",
       "key": "B2B5E2154564429B03F1FCA949A85484",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
       "key": "B2B8F02D4FE10393D5DB1DA353F0B959",
       "source": "Explore and get familiar with Outskirts!",
-      "text": "Explorez la Périphérie pour vous familiariser avec les lieux !"
+      "text": "Explorez Outskirts pour vous familiariser avec les lieux !"
     },
     {
       "ns": "",
@@ -262,7 +262,7 @@
       "ns": "",
       "key": "B2ECC5EA42805CD44DFE59817EFA786C",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -298,7 +298,7 @@
       "ns": "",
       "key": "B32BCD16423F2923FF24BE87F55BFEA4",
       "source": "WAREHOUSE,ITEM,QTY,UNIT,STATUS\r\nUICS Warehouse 1,Ration Packs,1340,pcs,OK\r\nUICS Warehouse 1,Diesel,4200,L,OK\r\nUICS Warehouse 2,Petrol,900,L,LOW\r\nUICS Warehouse 2,Medical Kits,85,pcs,OK\r\nUICS Warehouse 4,Ammunition 5.56,0,crates,EMPTY - theft reported 03/11\r\nUICS Warehouse 4,Boat Engine Parts,6,crates,OK\r\nBike Shop (village road),Chains / Tyres / Tools,-,lot,REQUISITION PENDING\r\nComms Building,Generator Fuel,240,L,AWAITING ESCORT\r\n\r\n> Warehouse 4 losses exceed tolerance for the third week. The locked IGC warehouses next door show fresh tyre tracks. Recommend a night watch on the quay.",
-      "text": "ÉTAT D'AVANCEMENT\nUICS entrepôt 1, rations, 1340, pcs, OK\nUICS Entrepôt 1, Diesel,4200,L,OK\nUICS Warehouse 2,Pétrol 900,L,LOW\nUICS Entrepôt 2, Kits médicaux, 85,pcs, OK\nUICS Warehouse 4,munitions 5.56,0,crates,EMPTY - vol signalé 03/11\nUICS Warehouse 4, pièces de moteur à piston,6,crates,OK\nBike Shop (route du village),Chains / Pneumatiques / Outils,-,lot,REQUISITION PENDANCE\nBâtiment Coms,Générateur de carburant,240,L,ÉCOSSE ADAPTÉE\n\n> Les pertes d'entrepôt 4 dépassent la tolérance pour la troisième semaine. Les entrepôts IGC verrouillés à côté montrent des pistes de pneus fraîches. Recommandez une montre de nuit sur le quai."
+      "text": "ÉTAT D'AVANCEMENT\r\nUICS entrepôt 1, rations, 1340, pcs, OK\r\nUICS Entrepôt 1, Diesel,4200,L,OK\r\nUICS Warehouse 2,Pétrol 900,L,LOW\r\nUICS Entrepôt 2, Kits médicaux, 85,pcs, OK\r\nUICS Warehouse 4,munitions 5.56,0,crates,EMPTY - vol signalé 03/11\r\nUICS Warehouse 4, pièces de moteur à piston,6,crates,OK\r\nBike Shop (route du village),Chains / Pneumatiques / Outils,-,lot,REQUISITION PENDANCE\r\nBâtiment Coms,Générateur de carburant,240,L,ÉCOSSE ADAPTÉE\r\n\r\n> Les pertes d'entrepôt 4 dépassent la tolérance pour la troisième semaine. Les entrepôts IGC verrouillés à côté montrent des pistes de pneus fraîches. Recommandez une montre de nuit sur le quai."
     },
     {
       "ns": "",
@@ -322,7 +322,7 @@
       "ns": "",
       "key": "B350A7264482BC4C503E60A1A99C8DD6",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -346,7 +346,7 @@
       "ns": "",
       "key": "B38C85E84C6892648EDC4CAB5BB44FEF",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -442,7 +442,7 @@
       "ns": "",
       "key": "B4453CE541F3796C1B1CB0AA72EA49FB",
       "source": "Initiating scan of classified document...\r\nPlease wait, retrieving data...",
-      "text": "Lancement d'un scan de documents classifiés...\nS'il vous plaît attendez, récupérer des données..."
+      "text": "Lancement d'un scan de documents classifiés...\r\nS'il vous plaît attendez, récupérer des données..."
     },
     {
       "ns": "",
@@ -454,7 +454,7 @@
       "ns": "",
       "key": "B46146224E39C16BC667C88C04BCA355",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -466,7 +466,7 @@
       "ns": "",
       "key": "B47D65D549F783DD2D79D787768D9D36",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -508,7 +508,7 @@
       "ns": "",
       "key": "B4F8CDFA464F84119D2813B52564F3D5",
       "source": "Basketball",
-      "text": "Basketball"
+      "text": "Ballon de basket"
     },
     {
       "ns": "",
@@ -544,13 +544,13 @@
       "ns": "",
       "key": "B53B19C64113FC2E5B517AAB4D6A12A3",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "B54D6A23422C7355E37E7E89E4D9FBDC",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -598,7 +598,7 @@
       "ns": "",
       "key": "B5A09FE844B8D5D3569D51ACD1A63413",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -640,7 +640,7 @@
       "ns": "",
       "key": "B5F8168D433EB1FFC596D696179CEBE6",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -670,13 +670,13 @@
       "ns": "",
       "key": "B627EBE445ED013FBF9A078A3C4D33B0",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
       "key": "B63A185A48005235994E2A84F0E03C8E",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -700,7 +700,7 @@
       "ns": "",
       "key": "B64B5361416A4BC8674DF9BA862D1105",
       "source": "Outskirts Large Safe Key",
-      "text": "Clé du grand coffre de la Périphérie"
+      "text": "Clé du grand coffre d'Outskirts"
     },
     {
       "ns": "",
@@ -724,7 +724,7 @@
       "ns": "",
       "key": "B66928784EEA3DAC85D7599E1F9E9BFB",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -754,7 +754,7 @@
       "ns": "",
       "key": "B69DF3CE4389C094D0D7E2B305D8F7AA",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -772,7 +772,7 @@
       "ns": "",
       "key": "B6A4A1A741CC50520F0F138E979D71AB",
       "source": "Initiating scan of classified document...\r\nPlease wait, retrieving data...",
-      "text": "Lancement d'un scan de documents classifiés...\nS'il vous plaît attendez, récupérer des données..."
+      "text": "Lancement d'un scan de documents classifiés...\r\nS'il vous plaît attendez, récupérer des données..."
     },
     {
       "ns": "",
@@ -784,13 +784,13 @@
       "ns": "",
       "key": "B6B0778447AE8A8FF3E279B1F81AAD0F",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "B6C861B54FEE655C347A16908F64AFD6",
       "source": "# PATROL ROSTER - WEEK 44 (ARCHIVED)\r\n\r\nHarbor Gate ............ Squad Kestrel (day) / Squad Heron (night)\r\nUICS Warehouses ........ Squad Marten (day) / understrength (night)\r\nCoastal Apartments ..... Squad Kestrel, 10:00 daily\r\nComms Building ......... Signals detachment, escort on request\r\n\r\n> Squad Heron was reassigned to the Quarry on 29/10. The night watch on the warehouses has run short since.",
-      "text": "# PATROL ROSTER - SEMAINE 44 (ARCVIH)\n\nSquad Kestrel (jour) / Squad Heron (nuit)\nEntrepôts UICS ........ Squad Marten (jour) / sous-effectif (nuit)\nAppartements côtiers ..... Squad Kestrel, 10:00 tous les jours\nBâtiment Coms ......... Détachement de signalisation, escorte sur demande\n\n> Squad Heron a été réaffecté à la carrière le 29/10. La veille nocturne sur les entrepôts est courte depuis."
+      "text": "# PATROL ROSTER - SEMAINE 44 (ARCVIH)\r\n\r\nSquad Kestrel (jour) / Squad Heron (nuit)\r\nEntrepôts UICS ........ Squad Marten (jour) / sous-effectif (nuit)\r\nAppartements côtiers ..... Squad Kestrel, 10:00 tous les jours\r\nBâtiment Coms ......... Détachement de signalisation, escorte sur demande\r\n\r\n> Squad Heron a été réaffecté à Quarry le 29/10. La veille nocturne sur les entrepôts est courte depuis."
     },
     {
       "ns": "",
@@ -808,7 +808,7 @@
       "ns": "",
       "key": "B6FDBD5649237133E520FEAB2C0D6F70",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -850,7 +850,7 @@
       "ns": "",
       "key": "B7370BB5497392D2891584B7A2A523BB",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -862,7 +862,7 @@
       "ns": "",
       "key": "B750AAB64D11CDAEA5CCD189D305CA89",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -880,7 +880,7 @@
       "ns": "",
       "key": "B786A8214904487D608834BB4E961DA1",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -982,7 +982,7 @@
       "ns": "",
       "key": "B8199F404DC4D73D7A4CA4AF14150E5A",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -1060,7 +1060,7 @@
       "ns": "",
       "key": "B8A34C884F2DE24EB7B621BC3FDB9535",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -1102,7 +1102,7 @@
       "ns": "",
       "key": "B8E924B8453AC443CBAE9793774EE9A3",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -1144,7 +1144,7 @@
       "ns": "",
       "key": "B92DC6944511679168E62DA4F5E89C2C",
       "source": "Agent, your mission is to deploy three electronic jammers across the industrial zone. These devices are crucial for interrupting the enemy’s communication and surveillance systems within this key operational area. You must exercise utmost stealth and precision to ensure all jammers are placed effectively and remain undetected to cause maximum disruption.",
-      "text": "Agent, votre mission est de déployer trois jets électroniques à travers la zone industrielle. Ces dispositifs sont essentiels pour interrompre les systèmes de communication et de surveillance de l'ennemi dans cette zone opérationnelle clé. Vous devez exercer la plus grande furtivité et la plus grande précision pour s'assurer que tous les jammers sont placés efficacement et ne sont pas détectés pour causer une perturbation maximale."
+      "text": "Agent, votre mission est de déployer trois jets électroniques à travers la zone industrielle. Ces dispositifs sont essentiels pour interrompre les systèmes de communication et de surveillance de l'ennemi dans cette zone opérationnelle clé. Vous devez exercer la plus grande furtivité et la plus grande précision pour s'assurer que tous les brouilleurs sont placés efficacement et ne sont pas détectés pour causer une perturbation maximale."
     },
     {
       "ns": "",
@@ -1180,7 +1180,7 @@
       "ns": "",
       "key": "B97635D44691452ED9A19393EA5D0D00",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     }
   ]
 }

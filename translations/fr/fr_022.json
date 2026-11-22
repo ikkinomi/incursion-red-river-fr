@@ -16,7 +16,7 @@
       "ns": "",
       "key": "A9A1BEF540C988E341E1B89BE2DEF8C1",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -40,7 +40,7 @@
       "ns": "",
       "key": "A9D8D4C6429B13FDA9B59297665AB87B",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -82,13 +82,13 @@
       "ns": "",
       "key": "AA027605476A31F71142968D132E7044",
       "source": "Quarry",
-      "text": "Carrière"
+      "text": "Quarry"
     },
     {
       "ns": "",
       "key": "AA0A039B488A0FD89EFEEBB745167157",
       "source": "...hello? Yup, done. Head on out.",
-      "text": "Ouais, c'est fini, vas-y."
+      "text": "... Tu me reçois ? Oui, c’est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -100,7 +100,7 @@
       "ns": "",
       "key": "AA28B34A49AF2CD09B70E3AC8F4164F2",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -130,13 +130,13 @@
       "ns": "",
       "key": "AA4C692344D09722D82A63B959A21790",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
       "key": "AA4E2AAA41EDEE3F0626C880AD04C73C",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -148,13 +148,13 @@
       "ns": "",
       "key": "AA7724544C0059BE1CD432BDEA24DA2C",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "AA7CEF104728A2272752EAB23D44A3DD",
       "source": "Wether you always want steady mic input or only when you press the Push-To-Talk button.",
-      "text": "Vous voulez toujours un micro stable ou seulement quand vous appuyez sur le bouton Push-to-Talk."
+      "text": "Choisis entre un micro ouvert en permanence et une activation par la touche de transmission."
     },
     {
       "ns": "",
@@ -166,7 +166,7 @@
       "ns": "",
       "key": "AAB0D6234284A37C2C995897FD1CE36E",
       "source": "{r} downloaded file successfully. ",
-      "text": "{r} a téléchargé le fichier avec succès. "
+      "text": "{r} : fichier téléchargé avec succès. "
     },
     {
       "ns": "",
@@ -256,13 +256,13 @@
       "ns": "",
       "key": "AB92D908457C47C587365F91ABD704B7",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
       "key": "AB941F1548B84BF991A744AF289C54ED",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -358,7 +358,7 @@
       "ns": "",
       "key": "AC21DAA3426F27A895C370B99B655652",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -400,7 +400,7 @@
       "ns": "",
       "key": "AC8605E84B328D12865E9C9A10FCF11A",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -430,7 +430,7 @@
       "ns": "",
       "key": "ACB386734D1DA7147D82F8BF49701DE6",
       "source": "Scan QuarryTargets.zip from the intel directory within the terminal.",
-      "text": "Numériser QuarryTargets.zip à partir du répertoire des informations dans le terminal."
+      "text": "Analyse QuarryTargets.zip dans le répertoire intel du terminal."
     },
     {
       "ns": "",
@@ -520,7 +520,7 @@
       "ns": "",
       "key": "AD4A84FF42219EDB4A087FA45C028038",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -610,7 +610,7 @@
       "ns": "",
       "key": "ADC1788342F8C39885529BB4E722B7AB",
       "source": "Enabling can cause bots to be much sneakier.\r\nDisabling can give you information on how many enemies you are fighting. So if they are talking, you know there is a group of them.",
-      "text": "L'activation peut faire en sorte que les robots soient beaucoup plus sournois.\nDésactivation peut vous donner des informations sur le nombre d'ennemis que vous combattez. Donc s'ils parlent, vous savez qu'il y en a un groupe."
+      "text": "L'activation peut faire en sorte que les robots soient beaucoup plus sournois.\r\nDésactivation peut vous donner des informations sur le nombre d'ennemis que vous combattez. Donc s'ils parlent, vous savez qu'il y en a un groupe."
     },
     {
       "ns": "",
@@ -634,7 +634,7 @@
       "ns": "",
       "key": "ADD903474B2E246833B3F180FDDADB58",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -646,7 +646,7 @@
       "ns": "",
       "key": "ADDE927F43272C82A11059B8BB9D9D36",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -688,7 +688,7 @@
       "ns": "",
       "key": "AE1EA2844086F87BA61BBDA12DD149D5",
       "source": "In the Deploy section, you can:\r\n\r\n-> View your currently tracked missions\r\n-> Choose the map and deployment time\r\n-> Set options like friendly fire, provided loadout, and more\r\n\r\nTip: If you’re low on gear or just want to play safe, choose the provided loadout. You won’t be able to extract anything, but you can still complete missions and earn rewards!",
-      "text": "Dans la section Déploiement, vous pouvez:\n\n-> Consultez vos missions actuellement suivies\n-> Choisissez la carte et le temps de déploiement\n-> Définir des options comme un feu amical, fourni équipement, et plus\n\nAstuce: Si vous êtes faible sur l'engrenage ou que vous voulez simplement jouer en sécurité, choisissez le équipement fourni. Vous n'êtes pas en mesure d'extraire n'importe quoi, mais vous pouvez toujours accomplir des missions et gagner des récompenses!"
+      "text": "Dans la section Déploiement, vous pouvez:\r\n\r\n-> Consultez vos missions actuellement suivies\r\n-> Choisissez la carte et le temps de déploiement\r\n-> Définir des options comme un feu amical, fourni équipement, et plus\r\n\r\nAstuce: Si vous êtes faible sur l'engrenage ou que vous voulez simplement jouer en sécurité, choisissez le équipement fourni. Vous n'êtes pas en mesure d'extraire n'importe quoi, mais vous pouvez toujours accomplir des missions et gagner des récompenses!"
     },
     {
       "ns": "",
@@ -874,7 +874,7 @@
       "ns": "",
       "key": "AF66CBE14783747806602C8700ECA22E",
       "source": "Booting HIDEOUT-01...\r\nMounting volume fang ........ OK\r\nChecking relay uplink ........",
-      "text": "Démarrage de HIDEOUT-01...\nMontage volumétrique ........ OK\nVérification de la liaison ascendante du relais ........"
+      "text": "Démarrage de HIDEOUT-01...\r\nMontage volumétrique ........ OK\r\nVérification de la liaison ascendante du relais ........"
     },
     {
       "ns": "",
@@ -934,7 +934,7 @@
       "ns": "",
       "key": "AFCC6D29423F79A2A0B37FA166CB6239",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -964,7 +964,7 @@
       "ns": "",
       "key": "AFEFF7854749A241196A08B3B7CFC1B4",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -994,13 +994,13 @@
       "ns": "",
       "key": "B015A856417AF51BE38386B4AE333D98",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "B0255D6441557F0E58752DA2BAA0FCDC",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -1018,7 +1018,7 @@
       "ns": "",
       "key": "B0573A9049DE004F6B03EB9B3E39772E",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -1072,7 +1072,7 @@
       "ns": "",
       "key": "B0A8F85A4E710ED848FE6A9E2CAE3B1C",
       "source": "Copying Recon_Photo_07.png to your device...",
-      "text": "Copier Recon_Photo_07.png sur votre appareil..."
+      "text": "Copie de Recon_Photo_07.png sur ton appareil..."
     },
     {
       "ns": "",
@@ -1096,7 +1096,7 @@
       "ns": "",
       "key": "B0CD379B451CFE2357F3F8A539059A4B",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -1156,7 +1156,7 @@
       "ns": "",
       "key": "B12279F54F1BD66E4B8E0FB3FEADFC61",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -1168,7 +1168,7 @@
       "ns": "",
       "key": "B1332A5F41B4E83C6FF5A9B96DA1D597",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     }
   ]
 }

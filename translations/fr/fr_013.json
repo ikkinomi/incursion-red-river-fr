@@ -4,7 +4,7 @@
       "ns": "",
       "key": "61D6CEAA4131F5FF8D77E8859A285679",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -58,7 +58,7 @@
       "ns": "",
       "key": "621F7970451CB335C517B0AF7FD399A6",
       "source": "Decrypting intercept volume...\r\nWarning: decryption traffic is visible on the island net.",
-      "text": "Décryptage du volume d'interception...\nAvertissement : le trafic de déchiffrement est visible sur le réseau de l'île."
+      "text": "Décryptage du volume d'interception...\r\nAvertissement : le trafic de déchiffrement est visible sur le réseau de l'île."
     },
     {
       "ns": "",
@@ -88,7 +88,7 @@
       "ns": "",
       "key": "6243A05946F10DDC926D1C8166AAB04C",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -136,7 +136,7 @@
       "ns": "",
       "key": "628346184AC59258CD14EA9912662797",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -256,7 +256,7 @@
       "ns": "",
       "key": "63A5FBB94769D7075362CAA318AB0E4B",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -322,7 +322,7 @@
       "ns": "",
       "key": "64082D3841DE0A038C388784575E8ECE",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -400,7 +400,7 @@
       "ns": "",
       "key": "6483EFC64666DD13AD211C887AE03878",
       "source": "...hello? Yup, done. Head on out.",
-      "text": "Ouais, c'est fini, vas-y."
+      "text": "... Tu me reçois ? Oui, c’est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -412,7 +412,7 @@
       "ns": "",
       "key": "649DE69A4CB3DED7AC956AA0C06EAD41",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -466,7 +466,7 @@
       "ns": "",
       "key": "6504A31D4D51AA9B94438E892C52B98F",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -490,7 +490,7 @@
       "ns": "",
       "key": "653DF7144ED970C7748AEBB59C83B840",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -676,7 +676,7 @@
       "ns": "",
       "key": "66DBDB3545CAD1A0EB1AB2A45B561CFA",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -688,13 +688,13 @@
       "ns": "",
       "key": "66EA13EF46A4AB9113EEFBB418CE536C",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "66F3F5AF46680DA0417ECBAA08CBCAE4",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -736,7 +736,7 @@
       "ns": "",
       "key": "672A560648AC0B64B57468AFEE8A6150",
       "source": "You can modify both weapons from your stash and weapons previewed from the Marketplace.\r\n\r\nLocked attachments are clearly marked – unlock them via reputation. Items cannot directly be bought from the black market.",
-      "text": "Vous pouvez modifier à la fois armes de votre réserve et armes prévisualisés depuis le marché.\n\nLes pièces jointes verrouillées sont clairement marquées – déverrouillez-les par réputation. Les articles ne peuvent pas être achetés directement sur le marché noir."
+      "text": "Vous pouvez modifier à la fois armes de votre réserve et armes prévisualisés depuis le marché.\r\n\r\nLes accessoires verrouillées sont clairement marquées – déverrouillez-les par réputation. Les articles ne peuvent pas être achetés directement sur le marché noir."
     },
     {
       "ns": "",
@@ -784,13 +784,13 @@
       "ns": "",
       "key": "677C74374A1F82A1DA0131AA9BA195E5",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "677FDD0B424B9B3A1172E1A03776622F",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -886,7 +886,7 @@
       "ns": "",
       "key": "6809D119453B5DDE287AF298E929C896",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -922,7 +922,7 @@
       "ns": "",
       "key": "684037EC46B87E1F111EED86BC56E2CC",
       "source": "Here's the situation: UICS has a stronghold in the mountainous region near the Quarry. Your job is to infiltrate their radar tower, secure classified Iron Guard intel, and then plant it in their communications room. Expect heavy fortifications and a well-armed garrison. You'll need to be cunning and bold. Once the intel is planted, make your way down the mountain, ready to engage UICS forces. FANG expects you to handle this with the precision and ferocity of a true warrior.",
-      "text": "Voici la situation : UICS a un bastion dans la région montagneuse près de la carrière. Votre travail est d'infiltrer leur tour radar, de sécuriser les renseignements classifiés de la Garde de fer, puis de l'installer dans leur salle de communication. S'attendre à de lourdes fortifications et une garnison bien armée. Vous aurez besoin d'être rusé et audacieux. Une fois l'information plantée, faites votre chemin vers la montagne, prêt à engager les forces UICS. FANG vous attend à gérer cela avec la précision et la férocité d'un vrai guerrier."
+      "text": "Voici la situation : UICS a un bastion dans la région montagneuse près de Quarry. Votre travail est d'infiltrer leur tour radar, de sécuriser les renseignements classifiés de la Garde de fer, puis de l'installer dans leur salle de communication. S'attendre à de lourdes fortifications et une garnison bien armée. Vous aurez besoin d'être rusé et audacieux. Une fois l'information plantée, faites votre chemin vers la montagne, prêt à engager les forces UICS. FANG vous attend à gérer cela avec la précision et la férocité d'un vrai guerrier."
     },
     {
       "ns": "",
@@ -1018,7 +1018,7 @@
       "ns": "",
       "key": "6912A9104EA089A2264D84B2FA13E2AB",
       "source": "{r} downloaded file successfully. ",
-      "text": "{r} a téléchargé le fichier avec succès. "
+      "text": "{r} : fichier téléchargé avec succès. "
     },
     {
       "ns": "",
@@ -1090,7 +1090,7 @@
       "ns": "",
       "key": "695DA6B544A51E578D2868963FCE3DC2",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -1120,7 +1120,7 @@
       "ns": "",
       "key": "69A1669D400C6D70103D38AB3861DF62",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -1132,7 +1132,7 @@
       "ns": "",
       "key": "69C026974AC1E2E7C50219B03E36692B",
       "source": "VLF Secure Operations Terminal\r\n\r\nUnauthorized access or misuse of this system is strictly prohibited and may be punishable under VLF regulations.\r\n\r\nSecurity Clearance Required",
-      "text": "VLF Terminal d'exploitation sécurisé\n\nL'accès non autorisé ou l'utilisation abusive de ce système est strictement interdit et peut être punissable en vertu des règlements VLF.\n\nSécurité niveau d'accès Requis"
+      "text": "VLF Terminal d'exploitation sécurisé\r\n\r\nL'accès non autorisé ou l'utilisation abusive de ce système est strictement interdit et peut être punissable en vertu des règlements VLF.\r\n\r\nSécurité niveau d'accès Requis"
     },
     {
       "ns": "",
@@ -1162,7 +1162,7 @@
       "ns": "",
       "key": "6A02BE4745C5CA88507BCFAB95A2ED02",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -1180,7 +1180,7 @@
       "ns": "",
       "key": "6A16E5CB4365DBC54008549AEF062C81",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",

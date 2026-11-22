@@ -34,7 +34,7 @@
       "ns": "",
       "key": "816FAAC84F64D643178553A3BA55F2D5",
       "source": "Soldier, reconnaissance teams have identified a sensitive VLF intel item stashed near their forward base. We believe it’s physical — likely a secured disc or data drive.\r\nYour mission is to recover it and access one of their terminals nearby to initiate a full scan. We don’t need to extract the hardware — just the data.\r\nExpect resistance once you’re close. The VLF won’t take kindly to someone poking around in their files. Keep it clean, and don’t linger.",
-      "text": "Soldats, équipes de reconnaissance ont identifié un élément d'information sensible VLF caché près de leur base avant. Nous pensons qu'il est physique — probablement un disque sécurisé ou un lecteur de données.\nVotre mission est de le récupérer et d'accéder à l'un de leurs terminaux à proximité pour lancer un scan complet. Nous n'avons pas besoin d'extraire le matériel — juste les données.\nAttendez-vous à la résistance une fois que vous serez proches. Le VLF n'a pas pris gentiment à quelqu'un qui se balade dans ses fichiers. Garde-le propre, et ne t'attarde pas."
+      "text": "Soldats, équipes de reconnaissance ont identifié un élément d'information sensible VLF caché près de leur base avant. Nous pensons qu'il est physique — probablement un disque sécurisé ou un lecteur de données.\r\nVotre mission est de le récupérer et d'accéder à l'un de leurs terminaux à proximité pour lancer un scan complet. Nous n'avons pas besoin d'extraire le matériel — juste les données.\r\nAttendez-vous à la résistance une fois que vous serez proches. Le VLF n'a pas pris gentiment à quelqu'un qui se balade dans ses fichiers. Garde-le propre, et ne t'attarde pas."
     },
     {
       "ns": "",
@@ -52,7 +52,7 @@
       "ns": "",
       "key": "817B5BDC42F04171982429BE2D1DA07A",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -130,7 +130,7 @@
       "ns": "",
       "key": "82220FCA4CBC0E0E202D12ADF180496A",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -160,7 +160,7 @@
       "ns": "",
       "key": "8233FB89488536F9D43FE4AE8BAAEC57",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -178,7 +178,7 @@
       "ns": "",
       "key": "8271BDF9472A0AD1134029B6F5AAE2D6",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -190,7 +190,7 @@
       "ns": "",
       "key": "82817BDB4171558C3A4F46B161502653",
       "source": "Select any preset. On Export it copies a code to your clipboard that you can share with your friends. \r\n\r\nWARNING: Your Steam profile name will be shown if other players import your settings.",
-      "text": "Sélectionnez n'importe quel préréglage. Sur Exporter il copie un code dans votre presse-papiers que vous pouvez partager avec vos amis. \n\nATTENTION: Votre nom de profil Steam sera affiché si d'autres joueurs importent vos paramètres."
+      "text": "Sélectionnez n'importe quel préréglage. Sur Exporter il copie un code dans votre presse-papiers que vous pouvez partager avec vos amis. \r\n\r\nATTENTION: Votre nom de profil Steam sera affiché si d'autres joueurs importent vos paramètres."
     },
     {
       "ns": "",
@@ -202,7 +202,7 @@
       "ns": "",
       "key": "8288E13940D7848AB854A8AD45FFA938",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
@@ -214,13 +214,13 @@
       "ns": "",
       "key": "82A6BE2E4D9A1A8148B318B58CB48152",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
       "key": "82AABB4241261677F7A09AA3DDF46E70",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
@@ -256,7 +256,7 @@
       "ns": "",
       "key": "82CF7A3B4D38933E89AD9F910CCA5471",
       "source": "Outskirts C-Key",
-      "text": "Clé C Périphérie"
+      "text": "Clé C Outskirts"
     },
     {
       "ns": "",
@@ -274,7 +274,7 @@
       "ns": "",
       "key": "82E13EBB424486F451F07A9A7CAC542E",
       "source": "VLF Secure Operations Terminal\r\n\r\nUnauthorized access or misuse of this system is strictly prohibited and may be punishable under VLF regulations.\r\n\r\nSecurity Clearance Required",
-      "text": "VLF Terminal d'exploitation sécurisé\n\nL'accès non autorisé ou l'utilisation abusive de ce système est strictement interdit et peut être punissable en vertu des règlements VLF.\n\nSécurité niveau d'accès Requis"
+      "text": "VLF Terminal d'exploitation sécurisé\r\n\r\nL'accès non autorisé ou l'utilisation abusive de ce système est strictement interdit et peut être punissable en vertu des règlements VLF.\r\n\r\nSécurité niveau d'accès Requis"
     },
     {
       "ns": "",
@@ -286,7 +286,7 @@
       "ns": "",
       "key": "82FE4509412412076EB550A19A296F14",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -340,13 +340,13 @@
       "ns": "",
       "key": "836343944B8DCAB6DA5E73A4390BFE04",
       "source": "Agent, your objective is to infiltrate the cargo storage area and strategically place three electronic jammers. These devices are designed to disrupt enemy communications and hinder their logistical operations within this crucial area. Careful placement and stealth are vital to ensure the jammers are operational without being detected.",
-      "text": "Agent, votre objectif est d'infiltrer la zone de stockage du fret et de placer stratégiquement trois jammers électroniques. Ces dispositifs sont conçus pour perturber les communications ennemies et entraver leurs opérations logistiques dans cette zone cruciale. Un placement et une furtivité soignés sont essentiels pour s'assurer que les jammers sont opérationnels sans être détectés."
+      "text": "Agent, votre objectif est d'infiltrer la zone de stockage du fret et de placer stratégiquement trois brouilleurs électroniques. Ces dispositifs sont conçus pour perturber les communications ennemies et entraver leurs opérations logistiques dans cette zone cruciale. Un placement et une furtivité soignés sont essentiels pour s'assurer que les brouilleurs sont opérationnels sans être détectés."
     },
     {
       "ns": "",
       "key": "837014D1441DAAA0109750965A9986D7",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -388,7 +388,7 @@
       "ns": "",
       "key": "83D6F96F4809DF508CE142B595CC9222",
       "source": "A rural mountainous region centered around a marble processing plant and quarry. Cliffs provide lots of verticality while jungle canopy gives some cover. UICS have just taken control of the area long enough to set up HAS sites, but the VLF have managed to hold off sections of their own.",
-      "text": "Une région montagneuse rurale centrée autour d'une usine de traitement du marbre et d'une carrière. Cliffs fournissent beaucoup de verticalité tandis que la verrière de jungle donne une certaine couverture. UICS vient de prendre le contrôle de la zone assez longtemps pour mettre en place des sites HAS, mais les VLF ont réussi à retenir leurs propres sections."
+      "text": "Une région montagneuse rurale centrée autour d'une usine de traitement du marbre et d'une Quarry. Cliffs fournissent beaucoup de verticalité tandis que la verrière de jungle donne une certaine couverture. UICS vient de prendre le contrôle de la zone assez longtemps pour mettre en place des sites HAS, mais les VLF ont réussi à retenir leurs propres sections."
     },
     {
       "ns": "",
@@ -406,7 +406,7 @@
       "ns": "",
       "key": "83ECBEA546DF13EA7686B4A70872415F",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -448,19 +448,19 @@
       "ns": "",
       "key": "8423BFDB4E5D1796CB6A3EA6FA91BADD",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "8425A6644A76021829B54B97EBB5EF81",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "842CDF7C4E6EBDA547937FA920496062",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -568,13 +568,13 @@
       "ns": "",
       "key": "852959C342AAB9F9276C80BB91FB3C91",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
       "key": "85398D854C52C1D8A2493A9C6C9208DB",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -604,7 +604,7 @@
       "ns": "",
       "key": "85741AED4DE06041852F96A263725598",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -634,7 +634,7 @@
       "ns": "",
       "key": "85BEF249490F17FC60BD13BBE698FC48",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -646,7 +646,7 @@
       "ns": "",
       "key": "85C4B1944ACA8AB2107E09BAD5646A8D",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -658,7 +658,7 @@
       "ns": "",
       "key": "85CC2303423621D8578B53A00DA94D34",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -676,7 +676,7 @@
       "ns": "",
       "key": "860690AF4510D894DAB7EBB755E78ED2",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -748,13 +748,13 @@
       "ns": "",
       "key": "866C74ED41C1A2536442E399F4C48188",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "866CA5C3496FEC0C390DF59AD06425D6",
       "source": "Encrypted.txt is encrypted.\r\nRequired item: USB Drive - not found in your inventory.",
-      "text": "Encrypted.txt est chiffré.\nArticle requis: Clé USB - pas trouvé dans votre inventaire."
+      "text": "Encrypted.txt est chiffré.\r\nArticle requis: Clé USB - pas trouvé dans votre inventaire."
     },
     {
       "ns": "",
@@ -868,13 +868,13 @@
       "ns": "",
       "key": "876C0CED419A6EAE82E8F9AE207A9260",
       "source": "Soldier, action is required. We've identified the military base near the river as the UICS's main hub for communications. We're asking you to install jammers to obstruct their communication efforts in that vicinity.",
-      "text": "Soldat, il faut agir. Nous avons identifié la base militaire près de la rivière comme le principal centre de communication du UICS. Nous vous demandons d'installer des jammers pour bloquer leurs efforts de communication à proximité."
+      "text": "Soldat, il faut agir. Nous avons identifié la base militaire près de la rivière comme le principal centre de communication du UICS. Nous vous demandons d'installer des brouilleurs pour bloquer leurs efforts de communication à proximité."
     },
     {
       "ns": "",
       "key": "8771656A4CD80029071A9D9A22DC358B",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -886,7 +886,7 @@
       "ns": "",
       "key": "8774308241FD090C03017CA89CA4ED30",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -970,7 +970,7 @@
       "ns": "",
       "key": "884B4CA044D1C58DB079E0A14544F68D",
       "source": "Independent of weapon FOV.",
-      "text": "Indépendamment de arme FOV."
+      "text": "Indépendant du champ de vision de l'arme."
     },
     {
       "ns": "",
@@ -1012,7 +1012,7 @@
       "ns": "",
       "key": "88BB43684D5141F9716D58A123CED043",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
@@ -1030,7 +1030,7 @@
       "ns": "",
       "key": "88E1B74F4958E427F41D64B3B2D05490",
       "source": "# UICS COASTAL NETWORK - PORT NODE OSK-3 - README\n\nYou are connected to Port Node OSK-3, the UICS terminal for the ports of Outskirts island.\n\nWhen government control collapsed, every faction took a piece of the island. The UICS holds the ports, and from here the coastal network is meant to expand inland. This node coordinates harbor traffic, the UICS general supply warehouses and the coastal patrols. Its uplink runs through the Comms Building complex on the hill.\n\n## SYSTEM FUNCTIONS\n\n- **read** Open and view a file's contents\n- **run** Execute a terminal-compatible program\n- **scan** Check a file for classification markers or hidden data\n- **download** - Copy a file from the node to your local device\n\nUse `help` at any time for the full command list.\n\n## CLEARANCE LEVELS\n\n- Guest: Bulletins and public notices only\n- Quartermaster: Warehouse stock, harbor and vehicle maintenance records\n- Admin: Port command, defense orders and node configuration\n\n## STANDING ORDERS\n\n- Credentials are personal. Every session is logged against the account that opened it.\n- Encrypted intercept volumes open only with a matching Defense intel key. The node reports every failed attempt to Port Command.\n- If the node is compromised, shut it down and fall back to the harbor gate.\n\nUICS Order. Stability. Control.\n\n> END OF FILE",
-      "text": "# UICS RÉSEAU COASTAL - NODE PORT OSK-3 - LECTURE\n\nVous êtes connecté à Port Node OSK-3, le terminal UICS pour les ports de l'île de Périphérie.\n\nLorsque le contrôle du gouvernement s'est effondré, chaque faction a pris une partie de l'île. Le UICS détient les ports, et d'ici le réseau côtier est destiné à étendre l'intérieur. Ce nœud coordonne le trafic portuaire, les entrepôts d'approvisionnement généraux UICS et les patrouilles côtières. Sa liaison ascendante traverse le complexe de Coms Building sur la colline.\n\nFONCTIONS DU SYSTÈME\n\n- **read** Ouvrir et afficher le contenu d'un fichier\n- **run** Exécuter un programme compatible avec le terminal\n- **scan** Vérifiez un fichier pour les marqueurs de classification ou les données cachées\n- **download** - Copier un fichier depuis le nœud vers votre appareil local\n\nUtilisation `help` à tout moment pour la liste complète des commandes.\n\nNIVEAUX DE niveau d'accès\n\n- Guest: Bulletins et avis publics seulement\n- Quartermaster: Entrepôt crosse, dossiers d'entretien du port et du véhicule\n- Admin: Commande de port, ordres de défense et configuration des nœuds\n\nCOMMANDES D'ÉTENDRE\n\n- Les pouvoirs sont personnels. Chaque session est enregistrée sur le compte qui l'a ouverte.\n- Volumes d'interception chiffrés ouverts uniquement avec une clé d'information de la Défense correspondante. Le nœud signale chaque tentative infructueuse à Port Command.\n- Si le nœud est compromis, fermez-le et retournez à la porte du port.\n\nCommande UICS. Stabilité. Contrôle.\n\n> FIN DU DOSSIER"
+      "text": "# UICS RÉSEAU COASTAL - NODE PORT OSK-3 - LECTURE\n\nVous êtes connecté à Port Node OSK-3, le terminal UICS pour les ports de l'île de Outskirts.\n\nLorsque le contrôle du gouvernement s'est effondré, chaque faction a pris une partie de l'île. Le UICS détient les ports, et d'ici le réseau côtier est destiné à étendre l'intérieur. Ce nœud coordonne le trafic portuaire, les entrepôts d'approvisionnement généraux UICS et les patrouilles côtières. Sa liaison ascendante traverse le complexe de Coms Building sur la colline.\n\nFONCTIONS DU SYSTÈME\n\n- **read** Ouvrir et afficher le contenu d'un fichier\n- **run** Exécuter un programme compatible avec le terminal\n- **scan** Vérifiez un fichier pour les marqueurs de classification ou les données cachées\n- **download** - Copier un fichier depuis le nœud vers votre appareil local\n\nUtilisation `help` à tout moment pour la liste complète des commandes.\n\nNIVEAUX DE niveau d'accès\n\n- Guest: Bulletins et avis publics seulement\n- Quartermaster: Entrepôt crosse, dossiers d'entretien du port et du véhicule\n- Admin: Commande de port, ordres de défense et configuration des nœuds\n\nCOMMANDES D'ÉTENDRE\n\n- Les pouvoirs sont personnels. Chaque session est enregistrée sur le compte qui l'a ouverte.\n- Volumes d'interception chiffrés ouverts uniquement avec une clé d'information de la Défense correspondante. Le nœud signale chaque tentative infructueuse à Port Command.\n- Si le nœud est compromis, fermez-le et retournez à la porte du port.\n\nCommande UICS. Stabilité. Contrôle.\n\n> FIN DU DOSSIER"
     },
     {
       "ns": "",
@@ -1060,7 +1060,7 @@
       "ns": "",
       "key": "8914D3144582691EE69752B430020DF3",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -1090,7 +1090,7 @@
       "ns": "",
       "key": "8940CB644A08035CC365F5BB21D1FF95",
       "source": "Mount",
-      "text": "Mount"
+      "text": "Support"
     },
     {
       "ns": "",
@@ -1138,13 +1138,13 @@
       "ns": "",
       "key": "899AFE6242C8EC4AFE8C14AD1E51E82A",
       "source": "The Shooting Range contains a number of targets for you to test your equipped weapons on. \r\n\r\nAmmunition is unlimited while you are in the hideout.",
-      "text": "La portée de tir contient un certain nombre de cibles pour vous permettre de tester votre armes équipé. \n\nmunitions est illimité pendant que vous êtes dans le base."
+      "text": "La portée de tir contient un certain nombre de cibles pour vous permettre de tester votre armes équipé. \r\n\r\nmunitions est illimité pendant que vous êtes dans le base."
     },
     {
       "ns": "",
       "key": "89A7A185415D75F0E8C90FBD36D8751F",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -1162,7 +1162,7 @@
       "ns": "",
       "key": "89BE918B44CCA0987F9F87896CDFE31F",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",

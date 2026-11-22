@@ -46,13 +46,13 @@
       "ns": "",
       "key": "5157E2E04A9371147517E3A52CECD11A",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
       "key": "5160D3FB45A7E363CFCF66AF384A3382",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -82,7 +82,7 @@
       "ns": "",
       "key": "51A68D624BD0C7A16E7DE69ED7413811",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -118,7 +118,7 @@
       "ns": "",
       "key": "520BD11D49D5F7066BBC91B5A41AAAEC",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -130,19 +130,19 @@
       "ns": "",
       "key": "522BDBB3476B8EA3D329A7991D2B3F3C",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "523397D4469B6D0FF9194E88E76FF173",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "524950D0487F7B4DBEDC87B27FC0F79F",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -160,13 +160,13 @@
       "ns": "",
       "key": "525B067E4814326E863A8BAA541A6091",
       "source": "Quarry - Normal Difficulty",
-      "text": "Carrière - Difficulté normale"
+      "text": "Quarry - Difficulté normale"
     },
     {
       "ns": "",
       "key": "526BBA5D44A60E04949793A8FCAB7426",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -196,13 +196,13 @@
       "ns": "",
       "key": "529DF954481DF8A8D549B19318F9B987",
       "source": "TEST ACCOUNTS - do not ship\r\n-----------------------------------------------------\r\n  Guest           fang\r\n  Operator        Wolfpack-07\r\n  Quartermaster   Ledger#2291\r\n  Admin           FANG@Root",
-      "text": "TEST ACCOUNTS - do not ship\n-----------------------------------------------------\n  Guest           fang\n  Operator        Wolfpack-07\n  Quartermaster   Ledger#2291\n  Admin           FANG@Root"
+      "text": "TEST ACCOUNTS - do not ship\r\n-----------------------------------------------------\r\n  Guest           fang\r\n  Operator        Wolfpack-07\r\n  Quartermaster   Ledger#2291\r\n  Admin           FANG@Root"
     },
     {
       "ns": "",
       "key": "52A49F674CBE8BE6DAF95286DEC63943",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -214,13 +214,13 @@
       "ns": "",
       "key": "52ABE893427F879DB8E80088F5F28A1B",
       "source": "Engraved Zippo Lighter",
-      "text": "Lighter Zippo gravé"
+      "text": "Briquet Zippo gravé"
     },
     {
       "ns": "",
       "key": "52CF6A1F4E0183105192078A887DF9AD",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -274,7 +274,7 @@
       "ns": "",
       "key": "53262E0D4C926C6903738D89DAC49D4B",
       "source": "Yup, confirmed the location, nice job, okay, clear out now, the airstrike is on its way. Quickly.",
-      "text": "Yup, a confirmé l'emplacement, beau travail, okay, dégagez maintenant, la frappe aérienne est en route. Vite."
+      "text": "Position confirmée, beau travail. Éloigne-toi vite : la frappe aérienne est en route."
     },
     {
       "ns": "",
@@ -292,7 +292,7 @@
       "ns": "",
       "key": "5343A60D417F7D8301FE458D61EA5F20",
       "source": "Agent, your target is the administrative heart of the enemy operations—the office rooms. You are to discreetly install three jammers within these areas. These devices will sever communication lines and impede coordination efforts among the enemy ranks. Precision and non-detection are essential to ensure the jammers are effective and remain undiscovered.",
-      "text": "Votre cible est le cœur administratif des opérations ennemies, les bureaux. Vous devez installer discrètement trois jammers dans ces zones. Ces dispositifs couperont les lignes de communication et entraveront les efforts de coordination entre les rangs de l'ennemi. La précision et la non-détection sont essentielles pour s'assurer que les jammers sont efficaces et restent inconnus."
+      "text": "Votre cible est le cœur administratif des opérations ennemies, les bureaux. Vous devez installer discrètement trois brouilleurs dans ces zones. Ces dispositifs couperont les lignes de communication et entraveront les efforts de coordination entre les rangs de l'ennemi. La précision et la non-détection sont essentielles pour s'assurer que les brouilleurs sont efficaces et restent inconnus."
     },
     {
       "ns": "",
@@ -316,7 +316,7 @@
       "ns": "",
       "key": "536072D048F03530C4AC819EDDEE77E7",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -328,7 +328,7 @@
       "ns": "",
       "key": "536D227C4F36E852EF17CCBF8358E46C",
       "source": "Document Title: \"OPERATION OMEGA – Infiltration Orders\"  \r\nDate: 2024-11-30  \r\nClassification: Top Secret\r\n\r\nDocument successfully scanned and secured.  \r\nPreview of Document Content:\r\n-----------------------------------------------------\r\n\"OPERATION OMEGA:  \r\nUICS strike elements are to initiate a rapid-entry operation targeting the bunker complex currently occupied by VLF-aligned forces. Primary objectives include clearing the command room and securing access to active data terminals. Secondary target is the adjacent cave structure—believed to serve as a fallback and storage zone for insurgent operatives.\r\n\r\nMedical bay is to be isolated and swept for potential detainees or intel caches. Operation is time-sensitive. A brief communications blackout window has been scheduled to allow for silent breach and coordinated movement through critical access points...\"\r\n\r\n-----------------------------------------------------\r\n\r\nFull document secured for further review and action.",
-      "text": "Titre du document : « OPÉRATION OMEGA – Ordres d'infiltration »  \nDate: 2024-11-30  \nClassement : Haut secret\n\nDocument scanné et sécurisé.  \nAperçu du contenu du document :\n-----------------------------------------------------\n\"L'OPERATION OMEGA:  \nLes éléments de frappe UICS doivent lancer une opération d'entrée rapide ciblant le complexe de bunker actuellement occupé par les forces alignées sur VLF. Parmi les principaux objectifs, mentionnons l'ouverture de la salle de commande et l'accès aux terminaux de données actifs. La cible secondaire est la structure de grotte adjacente, qui sert de zone de repli et de stockage pour les insurgés.\n\nLa baie médicale doit être isolée et balayée pour les détenus potentiels ou les caches de renseignements. L'opération est sensible au temps. Une brève fenêtre d'arrêt des communications a été prévue pour permettre une brèche silencieuse et un mouvement coordonné à travers des points d'accès critiques... »\n\n-----------------------------------------------------\n\nDocument complet obtenu en vue d'un examen et d'une action complémentaires."
+      "text": "Titre du document : \"OPERATION OMEGA - Ordres d’infiltration\"  \r\nDate: 2024-11-30  \r\nClassification : très secret\r\n\r\nDocument analysé et sécurisé avec succès.  \r\nAperçu du contenu du document :\r\n-----------------------------------------------------\r\n\"OPERATION OMEGA :  \r\nLes unités d'intervention de l'UICS doivent lancer une opération d'entrée rapide dans le complexe de bunkers occupé par des forces affiliées au VLF. Les objectifs principaux sont de sécuriser la salle de commandement et l'accès aux terminaux de données actifs. La cible secondaire est la grotte adjacente, qui servirait de zone de repli et de stockage aux insurgés.\r\n\r\nL'infirmerie doit être isolée et fouillée pour y rechercher d'éventuels détenus ou caches de renseignements. Le calendrier de l'opération est serré. Une brève coupure des communications est prévue pour permettre une entrée discrète et des déplacements coordonnés par les accès critiques...\"\r\n\r\n-----------------------------------------------------\r\n\r\nDocument complet conservé pour examen et suite à donner."
     },
     {
       "ns": "",
@@ -382,13 +382,13 @@
       "ns": "",
       "key": "53BADDF741C722C42F74D289FEC3CFEC",
       "source": "Go to the factory and install the bugs.",
-      "text": "Allez à l'usine et installez les bugs."
+      "text": "Allez à l'usine et installez les micros."
     },
     {
       "ns": "",
       "key": "53BE09DB442A12FBF8CCB3A6CE4209F1",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
@@ -412,7 +412,7 @@
       "ns": "",
       "key": "53D2399A4414F81480142BB0D81E5D0B",
       "source": "**Available Commands:**\r\n\r\n1. help / ? - Display available commands and their descriptions.\r\n2. dir / ls - Display all of the files and folders in the current directory.\r\n3. pop / .. - Switch back to previous directory (e.g. go back).\r\n4. login - Enter new login credentials to change the user & permissions.\r\n5. cd <directory> - Change directory to navigate within the terminal system.\r\n6. run <file_id> - Execute the exe file.\r\n7. download <file_id> - Download content from target file.\r\n8. scan <file_id> - Scan content from file.\r\n9. read <file_id> - Reading content of file.\r\n10. shutdown / exit - Shutdown the terminal.\r\n\r\n**Additional help**\r\n\r\n> To find a file, try changing directories via cd <directory> and use the dir command to display all available files at the current level\r\n> Some directories require special access. Use the login command to get Admin access. You may have to take a look at the users file to find the credentials.",
-      "text": "**Commandes disponibles:**\n\n1. help / ? - Affiche les commandes disponibles et leurs descriptions.\n2. dir / ls - Affiche tous les fichiers et dossiers du répertoire actuel.\n3. pop / .. - Retourner au répertoire précédent (par exemple, revenir en arrière).\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\n6. run <file_id> - Exécutez le fichier exe.\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\n8. scan <file_id> - Scanner le contenu du fichier.\n9. read <file_id> - Lecture du contenu du fichier.\n10. Arrêt / sortie - Arrêt du terminal.\n\n**Supplémentaire help**\n\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et utilisez la commande dir pour afficher tous les fichiers disponibles au niveau actuel\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
+      "text": "**Commandes disponibles:**\r\n\r\n1. help / ? - Affiche les commandes disponibles et leurs descriptions.\r\n2. dir / ls - Affiche tous les fichiers et dossiers du répertoire actuel.\r\n3. pop / .. - Retourner au répertoire précédent (par exemple, revenir en arrière).\r\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\r\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\r\n6. run <file_id> - Exécutez le fichier exe.\r\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\r\n8. scan <file_id> - Scanner le contenu du fichier.\r\n9. read <file_id> - Lecture du contenu du fichier.\r\n10. Arrêt / sortie - Arrêt du terminal.\r\n\r\n**Supplémentaire help**\r\n\r\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et utilisez la commande dir pour afficher tous les fichiers disponibles au niveau actuel\r\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
     },
     {
       "ns": "",
@@ -442,7 +442,7 @@
       "ns": "",
       "key": "53FF11A84C57865B7A88BEAA2923F9B3",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -496,7 +496,7 @@
       "ns": "",
       "key": "5458938040B9462CBB41E28C0AA854AE",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -538,7 +538,7 @@
       "ns": "",
       "key": "54B12055449B094847795089DA26F630",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -556,7 +556,7 @@
       "ns": "",
       "key": "54BC16314E1587698DB0B9AF52F0F115",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -592,7 +592,7 @@
       "ns": "",
       "key": "54D921AD42528FF41CD535B1B73C2433",
       "source": "Pistol",
-      "text": "Pistol"
+      "text": "Pistolet"
     },
     {
       "ns": "",
@@ -664,7 +664,7 @@
       "ns": "",
       "key": "5563C4E9468B68CD786425B79C01646C",
       "source": "# IGC TERMINAL SYSTEM – README\r\n\r\nWelcome to the Iron Guard Corps Command Terminal.\r\n\r\nThis terminal is a hardened access point of the IGC BlackGrid, governed under Directive IRON-LAW/7.\r\nIt is intended exclusively for Iron Guard personnel operating under verified clearance.\r\n\r\nAll activity is continuously monitored, cross-checked, and retained.\r\nThere is no anonymity inside Iron Guard systems.\r\n\r\n## SYSTEM FUNCTIONS\r\n\r\n- **read** – Open and view a file's contents  \r\n- **run** – Execute a script or terminal-compatible file  \r\n- **scan** – Check a file for security classification or hidden data  \r\n- **download** – Save a file from the terminal to your local device  \r\n\r\nNeed more info? Use the `help` command at any time for detailed usage.\r\n## USER LEVELS\r\n\r\n- Guest: View-only access to non-sensitive bulletins and maintenance schedules\r\n- Meteorologist: Exclusive access to weather data.\r\n- Admin: Full terminal control, including configuration management and override protocols\r\n\r\n## CODE OF CONDUCT\r\n\r\n- Verify clearance before executing any command.Credentials are non-transferable. \r\n- Shared access is treated as sabotage.\r\n- Report inconsistencies, foreign data artifacts, or unexpected system responses immediately.\r\n- In the event of suspected compromise, initiate BLACKOUT PROTOCOL OMEGA and sever all external links.\r\n\r\nFailure to comply will be logged and escalated without warning.\r\n\r\n## SUPPORT CONTACT\r\n\r\nTechnical escalation is handled internally by IGC Systems Oversight.\r\nNo external support channels exist.\r\n\r\n## FINAL NOTICE\r\n\r\nThis terminal is property of the Iron Guard Corps.\r\nUnauthorized access, data extraction, or misuse constitutes treason under Iron Guard military law.\r\n\r\nPunishment includes:\r\n\r\n- Detention\r\n- Reassignment\r\n- Permanent clearance revocation\r\n\r\nThe Iron Guard does not forgive negligence.\r\n\r\nIGC — Discipline. Authority. Dominion.\r\n\r\n> END OF FILE",
-      "text": "# SYSTEME TERMINAL IGC – LECTURE\n\nBienvenue au terminal de commande Iron Guard Corps.\n\nCe terminal est un point d'accès durci du IGC BlackGrid, régi par la directive IRON-LAW/7.\nIl est destiné exclusivement au personnel de la Garde de fer opérant sous niveau d'accès vérifié.\n\nToutes les activités sont surveillées en permanence, recoupées et conservées.\nIl n'y a pas d'anonymat à l'intérieur des systèmes Iron Guard.\n\nFONCTIONS DU SYSTÈME\n\n- **read** – Ouvrez et visualisez le contenu d'un fichier  \n- **run** – Exécuter un script ou un fichier compatible avec le terminal  \n- **scan** – Vérifiez un fichier pour la classification de sécurité ou les données cachées  \n- **download** – Enregistrer un fichier depuis le terminal vers votre appareil local  \n\nVous avez besoin de plus d'informations? `help` commande à tout moment pour une utilisation détaillée.\n## NIVEAUX D'UTILISATEUR\n\n- Guest: Accès direct aux bulletins non sensibles et aux horaires de maintenance\n- Meteorologist: Accès exclusif aux données météorologiques.\n- Admin: Contrôle terminal complet, y compris gestion de configuration et protocoles de dépassement\n\n## CODE DE CONDUITE\n\n- Vérifier niveau d'accès avant d'exécuter une commande.Les titres de créance ne sont pas transférables. \n- L'accès partagé est traité comme du sabotage.\n- Signaler immédiatement les incohérences, les artefacts de données étrangers ou les réponses inattendues du système.\n- En cas de suspicion de compromis, initier le PROTOCOLE BLACKOUT OMEGA et couper tous les liens externes.\n\nLe défaut de se conformer sera enregistré et intensifié sans avertissement.\n\nSOUTIEN AU CONTACT\n\nL'escalade technique est gérée en interne par la surveillance des systèmes IGC.\nIl n'existe pas de canaux de soutien externes.\n\n## AVIS FINAL\n\nCe terminal est la propriété du Iron Guard Corps.\nL'accès non autorisé, les données extraction ou l'utilisation abusive constituent une trahison en vertu de la loi militaire de la Garde de fer.\n\nLes peines comprennent:\n\n- Détention\n- Réaffectation\n- Révocation permanente de niveau d'accès\n\nLa Garde de Fer ne pardonne pas la négligence.\n\nIGC — Discipline. Autorité. Dominion.\n\n> FIN DU DOSSIER"
+      "text": "# SYSTEME TERMINAL IGC – LECTURE\r\n\r\nBienvenue au terminal de commande Iron Guard Corps.\r\n\r\nCe terminal est un point d'accès durci du IGC BlackGrid, régi par la directive IRON-LAW/7.\r\nIl est destiné exclusivement au personnel de la Garde de fer opérant sous niveau d'accès vérifié.\r\n\r\nToutes les activités sont surveillées en permanence, recoupées et conservées.\r\nIl n'y a pas d'anonymat à l'intérieur des systèmes Iron Guard.\r\n\r\nFONCTIONS DU SYSTÈME\r\n\r\n- **read** – Ouvrez et visualisez le contenu d'un fichier  \r\n- **run** – Exécuter un script ou un fichier compatible avec le terminal  \r\n- **scan** – Vérifiez un fichier pour la classification de sécurité ou les données cachées  \r\n- **download** – Enregistrer un fichier depuis le terminal vers votre appareil local  \r\n\r\nVous avez besoin de plus d'informations? `help` commande à tout moment pour une utilisation détaillée.\r\n## NIVEAUX D'UTILISATEUR\r\n\r\n- Guest: Accès direct aux bulletins non sensibles et aux horaires de maintenance\r\n- Meteorologist: Accès exclusif aux données météorologiques.\r\n- Admin: Contrôle terminal complet, y compris gestion de configuration et protocoles de dépassement\r\n\r\n## CODE DE CONDUITE\r\n\r\n- Vérifier niveau d'accès avant d'exécuter une commande.Les titres de créance ne sont pas transférables. \r\n- L'accès partagé est traité comme du sabotage.\r\n- Signaler immédiatement les incohérences, les artefacts de données étrangers ou les réponses inattendues du système.\r\n- En cas de suspicion de compromis, initier le PROTOCOLE BLACKOUT OMEGA et couper tous les liens externes.\r\n\r\nLe défaut de se conformer sera enregistré et intensifié sans avertissement.\r\n\r\nSOUTIEN AU CONTACT\r\n\r\nL'escalade technique est gérée en interne par la surveillance des systèmes IGC.\r\nIl n'existe pas de canaux de soutien externes.\r\n\r\n## AVIS FINAL\r\n\r\nCe terminal est la propriété du Iron Guard Corps.\r\nL'accès non autorisé, les données extraction ou l'utilisation abusive constituent une trahison en vertu de la loi militaire de la Garde de fer.\r\n\r\nLes peines comprennent:\r\n\r\n- Détention\r\n- Réaffectation\r\n- Révocation permanente de niveau d'accès\r\n\r\nLa Garde de Fer ne pardonne pas la négligence.\r\n\r\nIGC — Discipline. Autorité. Dominion.\r\n\r\n> FIN DU DOSSIER"
     },
     {
       "ns": "",
@@ -676,7 +676,7 @@
       "ns": "",
       "key": "5566A3D5434C5187E4EF1EBFF0EA773C",
       "source": "Go to the prison cells and install the bugs.",
-      "text": "Allez dans les cellules de la prison et installez les bugs."
+      "text": "Allez dans les cellules de la prison et installez les micros."
     },
     {
       "ns": "",
@@ -706,19 +706,19 @@
       "ns": "",
       "key": "5582A3B44074707F37B58FABCC905DA9",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "55853C6B419FA8F31F38BD9B4B5BC0EA",
       "source": "Those outposts along the river may look unimpressive, but they form a vital communications and reinforcement link. Cut the link.\r\nYou’ll plant demolition charges at key structures. No firefights. No signatures. Let them waste time rebuilding what shouldn’t have stood at all.",
-      "text": "Ces avant-postes le long de la rivière peuvent sembler peu impressionnants, mais ils forment un lien vital de communication et de renforcement. Coupez le lien.\nLes charges de démolition de l'usine de Youll dans les structures clés. Pas de fusillade. Pas de signatures. Qu'ils perdent du temps à reconstruire ce qui n'aurait pas dû se tenir du tout."
+      "text": "Ces avant-postes le long de la rivière peuvent sembler peu impressionnants, mais ils forment un lien vital de communication et de renforcement. Coupez le lien.\r\nLes charges de démolition de l'usine de Youll dans les structures clés. Pas de fusillade. Pas de signatures. Qu'ils perdent du temps à reconstruire ce qui n'aurait pas dû se tenir du tout."
     },
     {
       "ns": "",
       "key": "558E413C40FE5B54E43D4ABE5F114891",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -760,7 +760,7 @@
       "ns": "",
       "key": "561F95FC4DCD2C85F70FDEA11B0C041B",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -796,7 +796,7 @@
       "ns": "",
       "key": "565B021C4E71152D6E9F7EB54016CAD0",
       "source": "Scan Intercept_0711.zip from the Intercepts directory within the terminal.",
-      "text": "Numériser Intercept_0711.zip à partir du répertoire Intercepts dans le terminal."
+      "text": "Analyse Intercept_0711.zip dans le répertoire Intercepts du terminal."
     },
     {
       "ns": "",
@@ -820,7 +820,7 @@
       "ns": "",
       "key": "56CE0B7641E4F5C70B18888E821E4D10",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -850,7 +850,7 @@
       "ns": "",
       "key": "572218FD4E2C30E0AEA775903C5D7E08",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -868,7 +868,7 @@
       "ns": "",
       "key": "573EAE404478EE08048965BF7456DD96",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -904,7 +904,7 @@
       "ns": "",
       "key": "57735EA9465022DA4069F699BA661378",
       "source": "Quarry L-Safe",
-      "text": "Carrière L-Safe"
+      "text": "Quarry L-Safe"
     },
     {
       "ns": "",
@@ -946,13 +946,13 @@
       "ns": "",
       "key": "579D1B794329892E361EA891A9B0408F",
       "source": "Access denied. {user} is not cleared for this directory.\r\nRequired clearance: Quartermaster.",
-      "text": "Accès refusé. {user} n'est pas autorisé pour ce répertoire.\nniveau d'accès requis: Quartermaster."
+      "text": "Accès refusé. {user} n'est pas habilité à ouvrir ce répertoire.\r\nHabilitation requise : Quartermaster."
     },
     {
       "ns": "",
       "key": "57A678304863CEC7C413C8829BB36D53",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -982,7 +982,7 @@
       "ns": "",
       "key": "57C5487844BD065F035C54A60DEBBB4D",
       "source": "Translations are initially generated with AI and may contain mistakes. \r\n\r\nHelp improve them by suggesting translations and voting on existing ones in our community localisation editor.\r\n\r\nTogether, we can build translations reviewed by the community.",
-      "text": "Les traductions sont initialement générées avec l'IA et peuvent contenir des erreurs. \n\nAidez-les à les améliorer en suggérant des traductions et en votant sur celles existantes dans notre éditeur de localisation communautaire.\n\nEnsemble, nous pouvons construire des traductions examinées par la communauté."
+      "text": "Les traductions sont initialement générées avec l'IA et peuvent contenir des erreurs. \r\n\r\nAidez-les à les améliorer en suggérant des traductions et en votant sur celles existantes dans notre éditeur de localisation communautaire.\r\n\r\nEnsemble, nous pouvons construire des traductions examinées par la communauté."
     },
     {
       "ns": "",
@@ -1192,7 +1192,7 @@
       "ns": "",
       "key": "5998A7864472A01C9233C8846E29ACDF",
       "source": "Outskirts Compact Safe Key",
-      "text": "Clé du petit coffre de la Périphérie"
+      "text": "Clé du petit coffre d'Outskirts"
     },
     {
       "ns": "",

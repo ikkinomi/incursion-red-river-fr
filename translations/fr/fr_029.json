@@ -34,7 +34,7 @@
       "ns": "",
       "key": "E2E812564C0A84F26B9E5294ACC9CDFD",
       "source": "Hold <Red>F</> to loot rig",
-      "text": "Attendez. <Red>F</> à la plate-forme de pillage"
+      "text": "Maintiens <Red>F</> pour fouiller le gilet tactique"
     },
     {
       "ns": "",
@@ -70,13 +70,13 @@
       "ns": "",
       "key": "E3505EA84253DCA47A0518A03B696028",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
       "key": "E35B9B0F4A1E3BA260269C9412BE9007",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -130,7 +130,7 @@
       "ns": "",
       "key": "E3BDFD6D4AF69CF548BC2AAA3A1D9C55",
       "source": "...hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "... Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -148,13 +148,13 @@
       "ns": "",
       "key": "E3CF767A4F23B316EE3C57A03B9F03B4",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "E3E12A8E4E8785D5460DC8AA4FC15C1F",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -196,13 +196,13 @@
       "ns": "",
       "key": "E4072DA74E6AF933999AE39D97F0E5CE",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "E4087A4B4F14C27F98E1889F513CE5BF",
       "source": "UICS Coastal Network - Port Node OSK-3 (Outskirts) - Secure Access at uics-network.org",
-      "text": "Réseau côtier UICS - Port Node OSK-3 (Périphérie) - Accès sécurisé à uics-network.org"
+      "text": "Réseau côtier UICS - Port Node OSK-3 (Outskirts) - Accès sécurisé à uics-network.org"
     },
     {
       "ns": "",
@@ -262,7 +262,7 @@
       "ns": "",
       "key": "E4971D1E4F679F218858839EDE709282",
       "source": "Kill {count} UICS soldiers on Quarry.",
-      "text": "Éliminez {count} soldats de l'UICS dans la Carrière."
+      "text": "Éliminez {count} soldats de l'UICS à Quarry."
     },
     {
       "ns": "",
@@ -310,7 +310,7 @@
       "ns": "",
       "key": "E4D6F95846FCFEFCDEA0118580CDA48A",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -382,7 +382,7 @@
       "ns": "",
       "key": "E523029545D6DED8A86E6CB89D105850",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -412,7 +412,7 @@
       "ns": "",
       "key": "E55B6A0F4D47A83E15ADE5AD55FCAB59",
       "source": "description bla bla bla .........\r\n............\r\n.....................................................................\r\n............",
-      "text": "description bla bla bla .........\n............\n.....................................................................\n............"
+      "text": "description bla bla bla .........\r\n............\r\n.....................................................................\r\n............"
     },
     {
       "ns": "",
@@ -466,13 +466,13 @@
       "ns": "",
       "key": "E5936C644A1B49BE2EE08F8E4B03F0AF",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
       "key": "E59C3BF344BEF0093EDBEBACE6B68352",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -520,7 +520,7 @@
       "ns": "",
       "key": "E5ED3E9749DBA67FA50DB0895C5FCB74",
       "source": "(LEADER)",
-      "text": "(LEADER)"
+      "text": "(CHEF)"
     },
     {
       "ns": "",
@@ -562,7 +562,7 @@
       "ns": "",
       "key": "E63A4037440BD90CC243EFA80B0E74DB",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -604,7 +604,7 @@
       "ns": "",
       "key": "E67D260A44F69B1893C99BA5904318E4",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -700,7 +700,7 @@
       "ns": "",
       "key": "E737581D4813B82B967DA6BB49D8599C",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -766,7 +766,7 @@
       "ns": "",
       "key": "E7E00FAA4334B9EBEFAE71A91A4EECBE",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -808,7 +808,7 @@
       "ns": "",
       "key": "E8384F5B4754E2CBCC3C6D93A97A3459",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -820,7 +820,7 @@
       "ns": "",
       "key": "E84E7F8441D0EAF6621CF7B8C7D34E85",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -898,7 +898,7 @@
       "ns": "",
       "key": "E8E2F4344AE5A01019E5C99D0D3361A9",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -934,7 +934,7 @@
       "ns": "",
       "key": "E912D81942876CEFBE9F26AC5EB154AB",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -946,7 +946,7 @@
       "ns": "",
       "key": "E92001BB45724DFC8E698B9DED0553D0",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -958,19 +958,19 @@
       "ns": "",
       "key": "E940631049F678C39E8D21AF8E6E44CA",
       "source": "Initiating scan of classified document...\r\nPlease wait, retrieving data...",
-      "text": "Lancement d'un scan de documents classifiés...\nS'il vous plaît attendez, récupérer des données..."
+      "text": "Lancement d'un scan de documents classifiés...\r\nS'il vous plaît attendez, récupérer des données..."
     },
     {
       "ns": "",
       "key": "E94620A4441119A405C347B8FE491C01",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "E94FCAE945C4983B42B926B226AC6DEF",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -988,7 +988,7 @@
       "ns": "",
       "key": "E95C8A154BA4BEA9E38588A8455F8379",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -1030,7 +1030,7 @@
       "ns": "",
       "key": "E9C2ED464AC3F3595FA3C9B4E59B9781",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -1120,7 +1120,7 @@
       "ns": "",
       "key": "EA4D2EE3408DC19B4B1C759312A2208B",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -1132,7 +1132,7 @@
       "ns": "",
       "key": "EA5A85A14028A958F40C2BAF036691CB",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -1168,7 +1168,7 @@
       "ns": "",
       "key": "EA833A504FDF31350E5BC19A06ED843C",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -1192,7 +1192,7 @@
       "ns": "",
       "key": "EA941D0F4B03D840850687957DC282C3",
       "source": "Toggle to show a dedicated notify when your weapon malfunctions or not. \r\n\r\nIf turned off, you need to rely on the audio cue.",
-      "text": "Activer pour afficher une notification dédiée lorsque votre arme dysfonctionnements ou non. \n\nSi vous êtes éteint, vous devez compter sur le signal audio."
+      "text": "Activer pour afficher une notification dédiée lorsque votre arme dysfonctionnements ou non. \r\n\r\nSi vous êtes éteint, vous devez compter sur le signal audio."
     }
   ]
 }

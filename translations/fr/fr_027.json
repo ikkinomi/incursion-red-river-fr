@@ -40,7 +40,7 @@
       "ns": "",
       "key": "D25240F6475DA88CEFB674BDD0C19C38",
       "source": "You didn’t hesitate. That’s useful.\r\nLet’s see if it holds under more complicated circumstances.",
-      "text": "Tu n'as pas hésité.\nVoyons s'il se tient dans des circonstances plus compliquées."
+      "text": "Tu n'as pas hésité.\r\nVoyons s'il se tient dans des circonstances plus compliquées."
     },
     {
       "ns": "",
@@ -58,7 +58,7 @@
       "ns": "",
       "key": "D2688FED47C599290274AEAC95230159",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -124,7 +124,7 @@
       "ns": "",
       "key": "D2CAAA4C45425B44C2458AA9140CF3B5",
       "source": "Document Title: \"OUTSKIRTS - Coastal Defense Plan\"\r\nDate: 2024-12-04\r\nClassification: Secret - Port Command\r\n\r\nDocument successfully scanned and secured.",
-      "text": "Titre du document: \"Périphérie - Plan de défense côtière\"\nDate: 2024-12-04\nClassification: Secret - Commandement portuaire\n\nDocument scanné et sécurisé."
+      "text": "Titre du document : \"OUTSKIRTS - Plan de défense côtière\"\r\nDate: 2024-12-04\r\nClassification : secret - commandement portuaire\r\n\r\nDocument analysé et sécurisé avec succès."
     },
     {
       "ns": "",
@@ -214,7 +214,7 @@
       "ns": "",
       "key": "D354454B4AF6BE46A4D52E89179E6E72",
       "source": "Initiating scan of classified document...\r\nPlease wait, retrieving data...",
-      "text": "Lancement d'un scan de documents classifiés...\nS'il vous plaît attendez, récupérer des données..."
+      "text": "Lancement d'un scan de documents classifiés...\r\nS'il vous plaît attendez, récupérer des données..."
     },
     {
       "ns": "",
@@ -238,13 +238,13 @@
       "ns": "",
       "key": "D37BE9D241811A536FF46BB6C21A1C4C",
       "source": "Directory {active}\r\n{directories} {files}\r\n",
-      "text": "Répertoire {active}\n{directories} {files}\r\n"
+      "text": "Répertoire {active}\r\n{directories} {files}\r\n"
     },
     {
       "ns": "",
       "key": "D38DF26444812C4F5B0DDFBECB98E2AE",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -280,7 +280,7 @@
       "ns": "",
       "key": "D3ADCD69495B46A4D6B07ABE718A7F30",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -298,7 +298,7 @@
       "ns": "",
       "key": "D3C8319A495A4169B86EF28BAE41D69D",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -316,7 +316,7 @@
       "ns": "",
       "key": "D3E5F5B04419B0B491DB6B98AA293DEF",
       "source": "Venture into the Quarry under the cover of anonymity. Secure classified intel from the Iron Guard Corps and discretely deposit it in a UICS controlled area. Be the unseen hand; leave no evidence of tampering. This operation requires a blend of finesse and stealth. Once the task is complete, withdraw unnoticed, as if you were never there.",
-      "text": "S'aventurer dans la carrière sous couvert d'anonymat. Des informations classifiées sécurisées de la Iron Guard Corps et les déposent discrètement dans une zone contrôlée UICS. Soyez la main invisible; ne laissez aucune trace d'altération. Cette opération nécessite un mélange de finesse et de furtivité. Une fois la tâche terminée, retirez-vous inaperçue, comme si vous n'étiez jamais là."
+      "text": "S'aventurer à Quarry sous couvert d'anonymat. Des informations classifiées sécurisées de la Iron Guard Corps et les déposent discrètement dans une zone contrôlée UICS. Soyez la main invisible; ne laissez aucune trace d'altération. Cette opération nécessite un mélange de finesse et de furtivité. Une fois la tâche terminée, retirez-vous inaperçue, comme si vous n'étiez jamais là."
     },
     {
       "ns": "",
@@ -328,7 +328,7 @@
       "ns": "",
       "key": "D3F03C464FEE7E74018A37BDA8AF7733",
       "source": "The Global Combat Positioning System lets you view the map and shows all possible extraction zones and objective locations.\r\n\r\nYou can also see your teammates' positions. Additionally on the top left the 4 LEDs indicate if you are close to an operation start point. Can be very handy in bunker.\r\n\r\nBy default, you can draw the GCPS with 4. Take a look at the key bind settings to modify that.",
-      "text": "Le Global Combat Positioning System vous permet de visualiser la carte et montre toutes les zones extraction possibles et les emplacements objectifs.\n\nVous pouvez également voir les positions de vos coéquipiers. En outre, en haut à gauche, les 4 LED indiquent si vous êtes proche d'un point de départ de l'opération. Ça peut être très pratique dans le bunker.\n\nPar défaut, vous pouvez dessiner le GCPS avec 4. Jetez un oeil aux paramètres de liaison de la clé pour modifier cela."
+      "text": "Le TactiNav (GCPS) affiche la carte, les zones d'extraction possibles et les emplacements des objectifs.\r\n\r\nIl indique aussi la position de tes coéquipiers. En haut à gauche, les quatre voyants signalent la proximité d'un point de départ d'opération, ce qui peut être très utile dans Bunker.\r\n\r\nPar défaut, appuie sur 4 pour sortir le GCPS. Tu peux modifier cette touche dans les paramètres des commandes."
     },
     {
       "ns": "",
@@ -382,7 +382,7 @@
       "ns": "",
       "key": "D41638354DB47D11024FD2AC9B836E8A",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -424,13 +424,13 @@
       "ns": "",
       "key": "D4C0B6B44DD7705EF08E2E98BDBDD31A",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
       "key": "D4CBB5C649B278AACB3C14BD120A9108",
       "source": "Armor Plate",
-      "text": "Armor Plate"
+      "text": "Plaque balistique"
     },
     {
       "ns": "",
@@ -448,7 +448,7 @@
       "ns": "",
       "key": "D4E6ED17457D94327254308CE012B450",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -484,7 +484,7 @@
       "ns": "",
       "key": "D50B87FD4A4480C718456E8BE19ED114",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
@@ -496,7 +496,7 @@
       "ns": "",
       "key": "D53F8FCA4B7318894340749E4996A6DE",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -580,7 +580,7 @@
       "ns": "",
       "key": "D5A0881649FACBD2B2D480A6B7C2B2CE",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -694,7 +694,7 @@
       "ns": "",
       "key": "D68D1441431D286D512B13B786415089",
       "source": "Document Title: \"INTERCEPT 0711 - Resort Net\"\r\nDate: 2024-12-02\r\nClassification: Top Secret - Signals\r\n\r\nDecryption with Defense key A complete. Preview of recovered traffic:\r\n-----------------------------------------------------\r\n\"[02:14] RESORT-1: Shipment lands at the airstrip Thursday. IGC take their cut, we take the rest.\r\n[02:15] HUT-3: Then we store it in the locked warehouses on the quay. The old VCUP keys still work.\r\n[02:17] RESORT-1: Good. Port watch changes at 05:00. Don't cross the processing plant, there's no cover. Go through the village.\r\n[02:18] HUT-3: And the comms building?\r\n[02:18] RESORT-1: Last. Once it goes dark, the ports are deaf.\"\r\n-----------------------------------------------------\r\nAnalysis: a VLF cell from the resort is using the nature huts as a forward post and moving goods through the IGC airstrip into the locked VCUP/IGC warehouses next to our own. The end goal is the Comms Building.\r\n\r\nFull intercept secured for Port Command.",
-      "text": "Titre du document: \"INTERCEPT 0711 - Resort Net\"\nDate: 2024-12-02\nClassement: Secret supérieur - Signalisations\n\nDécryptage avec la clé de défense Un complet. Aperçu du trafic récupéré:\n-----------------------------------------------------\n«[02:14] RESORT-1: L'expédition atterrit à la piste d'atterrissage jeudi. IGC prend leur coupe, nous prenons le reste.\n[02:15] HUT-3: Ensuite, nous le stockons dans les entrepôts verrouillés sur le quai. Les anciennes clés VCUP fonctionnent toujours.\n[02:17] RESORT-1: Bien. Port montre les changements à 05:00. Ne traversez pas l'usine de transformation, il n'y a pas de couverture. Passez par le village.\n[02:18] HUT-3: Et le bâtiment des communications?\n[02:18] RESORT-1: Dernier. Une fois la nuit tombée, les ports sont sourds.\"\n-----------------------------------------------------\nAnalyse : une cellule VLF de la station utilise les cabanes de nature comme poste avant et transportant des marchandises à travers la piste d'atterrissage IGC dans les entrepôts VCUP/IGC verrouillés à côté des nôtres. L'objectif final est l'Édifice des communications.\n\nIntercepté complètement sécurisé pour Port Command."
+      "text": "Titre du document : \"INTERCEPT 0711 - Réseau du complexe touristique\"\r\nDate: 2024-12-02\r\nClassification : très secret - transmissions\r\n\r\nDéchiffrement avec Defense key A terminé. Aperçu des communications récupérées :\r\n-----------------------------------------------------\r\n\"[02:14] RESORT-1 : la cargaison arrive jeudi sur la piste. L’IGC prend sa part, on prend le reste.\r\n[02:15] HUT-3 : ensuite, on la stocke dans les entrepôts verrouillés du quai. Les anciennes clés du VCUP fonctionnent encore.\r\n[02:17] RESORT-1 : bien. La garde du port change à 05:00. Ne traversez pas l’usine de traitement : aucun abri. Passez par le village.\r\n[02:18] HUT-3 : et le bâtiment des communications ?\r\n[02:18] RESORT-1 : en dernier. Une fois hors service, les ports seront sourds.\"\r\n-----------------------------------------------------\r\nAnalyse : une cellule du VLF basée dans le complexe touristique utilise les cabanes comme poste avancé et fait transiter des marchandises par la piste de l’IGC vers les entrepôts verrouillés du VCUP/IGC, voisins des nôtres. L’objectif final est le bâtiment des communications.\r\n\r\nInterception complète sécurisée pour le commandement portuaire."
     },
     {
       "ns": "",
@@ -706,13 +706,13 @@
       "ns": "",
       "key": "D69EC1D74D0741CE6EF000ABAFDCAFB7",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
       "key": "D6B84F0C45C127E1E1ACAEA939495981",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -748,7 +748,7 @@
       "ns": "",
       "key": "D6F3BCC54012D2FEB3BBE1B11C47D589",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -808,7 +808,7 @@
       "ns": "",
       "key": "D7749B38424F70538E323F927D4B4829",
       "source": "...hello? Well done! You're good here. Head on out.",
-      "text": "Bien joué, vous êtes bien ici, sortez."
+      "text": "... Tu me reçois ? Beau travail ! C’est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -820,7 +820,7 @@
       "ns": "",
       "key": "D7836FED4D62CBD943108BBB04C48E7D",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -838,7 +838,7 @@
       "ns": "",
       "key": "D7AE91F248ADD56B7B12FE8B992A3935",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -874,7 +874,7 @@
       "ns": "",
       "key": "D834862749C7462DD008C788EE788903",
       "source": "Cornflakes",
-      "text": "Cornouillers"
+      "text": "Flocons de maïs"
     },
     {
       "ns": "",
@@ -898,7 +898,7 @@
       "ns": "",
       "key": "D85E98CF4618672B804DBDAB87B73156",
       "source": "20rnd",
-      "text": "20e"
+      "text": "20 coups"
     },
     {
       "ns": "",
@@ -910,7 +910,7 @@
       "ns": "",
       "key": "D89BCCC24CCCB1E1E8724BA703E7EAB3",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -946,7 +946,7 @@
       "ns": "",
       "key": "D8F0072A4D87AD9CD9CE229BB893A77E",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -988,7 +988,7 @@
       "ns": "",
       "key": "D9182FD349F5712692E99391CCBF94DB",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -1024,7 +1024,7 @@
       "ns": "",
       "key": "D990B289419C9F651C13B8BC8A1095B0",
       "source": "Grip",
-      "text": "Grip"
+      "text": "Poignée"
     },
     {
       "ns": "",
@@ -1048,7 +1048,7 @@
       "ns": "",
       "key": "D9E5C2774EC9E3069F6DD4974328B1B2",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -1150,7 +1150,7 @@
       "ns": "",
       "key": "DA7F34944A152F31001666A4FF70BF02",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -1168,7 +1168,7 @@
       "ns": "",
       "key": "DA9B67E64E90BC2904391DBB7DD1E9A5",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -1186,13 +1186,13 @@
       "ns": "",
       "key": "DAB4B66A471BD0A851434BAAD20F8498",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "DAB714C6495E00FDC443B9B4D0779E9B",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",

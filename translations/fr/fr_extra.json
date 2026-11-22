@@ -148,19 +148,19 @@
       "ns": "",
       "key": "FC3AFB844914DA15E611E9A1C51108D2",
       "source": "Welcome to Outskirts. An early 2010s failed attempt to stabilize the government with western resort funding. Civil war broke out and now the factions share whats left.",
-      "text": "Bienvenue dans la Périphérie. Au début des années 2010, des investissements occidentaux dans une station touristique devaient stabiliser le gouvernement. Le projet a échoué. La guerre civile a éclaté et les factions se partagent désormais ce qu'il en reste."
+      "text": "Bienvenue à Outskirts. Au début des années 2010, des investissements occidentaux dans une station touristique devaient stabiliser le gouvernement. Le projet a échoué. La guerre civile a éclaté et les factions se partagent désormais ce qu'il en reste."
     },
     {
       "ns": "",
       "key": "63D9FF65418A7FA72F41FAA7D483CEC7",
       "source": "Outskirts, an island region with intensely different areas each held by a different faction. Go prove yourself.",
-      "text": "La Périphérie est une île aux secteurs très différents, chacun tenu par une faction. À vous de faire vos preuves."
+      "text": "La Outskirts est une île aux secteurs très différents, chacun tenu par une faction. À vous de faire vos preuves."
     },
     {
       "ns": "",
       "key": "C9D0B51B4F3FCFB740A96593ED791F1E",
       "source": "The Island of Outskirts, its a lot to explore but stay focused on the important areas. Radio me with updates.",
-      "text": "L'île de la Périphérie offre beaucoup à explorer, mais concentrez-vous sur les secteurs importants. Tenez-moi au courant par radio."
+      "text": "L'île d'Outskirts offre beaucoup à explorer, mais concentrez-vous sur les secteurs importants. Tenez-moi au courant par radio."
     },
     {
       "ns": "",
@@ -250,37 +250,37 @@
       "ns": "",
       "key": "1E7E17E54153DEC813CCA3B596CA7058",
       "source": "Welcome to Quarry, Operator, get your bearings. The region has a marble quarry, military base, and factory. Stay on task and good luck.",
-      "text": "Bienvenue dans la Carrière, Opérateur. Prenez vos repères : la région comprend une carrière de marbre, une base militaire et une usine. Restez concentré sur votre mission. Bonne chance."
+      "text": "Bienvenue à Quarry, Opérateur. Prenez vos repères : la région comprend une Quarry de marbre, une base militaire et une usine. Restez concentré sur votre mission. Bonne chance."
     },
     {
       "ns": "",
       "key": "40571B0A42BB4B4E35E5979F772C3EB6",
       "source": "Welcome, Quarry has changed hands many times. It was once government controlled, but now the UICS have secured the area.",
-      "text": "Bienvenue. La Carrière a souvent changé de mains. Autrefois contrôlée par le gouvernement, elle est désormais tenue par l'UICS."
+      "text": "Bienvenue. La Quarry a souvent changé de mains. Autrefois contrôlée par le gouvernement, elle est désormais tenue par l'UICS."
     },
     {
       "ns": "",
       "key": "9F4DFC2D4B3F246A65F628B51C110B39",
       "source": "The UICS fill Quarry. You know what you are doing. Radio me with updates.",
-      "text": "L'UICS est omniprésente dans la Carrière. Vous savez ce que vous avez à faire. Tenez-moi au courant par radio."
+      "text": "L'UICS est omniprésente à Quarry. Vous savez ce que vous avez à faire. Tenez-moi au courant par radio."
     },
     {
       "ns": "",
       "key": "6D46C9E74328FE53FB1D83A187B40FCC",
       "source": "Quarry is a riverside district where the UICS has concentrated their forces and humanitarian support. You know your task. Radio me with updates.",
-      "text": "La Carrière est un secteur au bord de la rivière où l'UICS a concentré ses forces et son aide humanitaire. Vous connaissez votre mission. Tenez-moi au courant par radio."
+      "text": "La Quarry est un secteur au bord de la rivière où l'UICS a concentré ses forces et son aide humanitaire. Vous connaissez votre mission. Tenez-moi au courant par radio."
     },
     {
       "ns": "",
       "key": "A8C17F784966BFFE873B4DA5DD9D76F3",
       "source": "Welcome, Quarry was once the foundation of Vietnam's marble export, now its home to the UICS. You know what you need to do, radio with updates.",
-      "text": "Bienvenue. La Carrière était autrefois au cœur des exportations de marbre du Vietnam. Elle abrite maintenant l'UICS. Vous savez ce que vous avez à faire. Tenez-moi au courant par radio."
+      "text": "Bienvenue. La Quarry était autrefois au cœur des exportations de marbre du Vietnam. Elle abrite maintenant l'UICS. Vous savez ce que vous avez à faire. Tenez-moi au courant par radio."
     },
     {
       "ns": "",
       "key": "EDE8921348949736A14025994D999F72",
       "source": "You're in Quarry, UICS are all over the place. Radio me with updates.",
-      "text": "Vous êtes dans la Carrière. L'UICS est partout. Tenez-moi au courant par radio."
+      "text": "Vous êtes à Quarry. L'UICS est partout. Tenez-moi au courant par radio."
     },
     {
       "ns": "",
@@ -310,7 +310,7 @@
       "ns": "",
       "key": "6C0EDC8B46E88DB7D6D16CB42181269F",
       "source": "These white walls around you are all marble, the veins of the Quarry, the regions namesake\r\n",
-      "text": "Ces parois blanches autour de vous sont en marbre. Ce sont les veines de la Carrière, qui a donné son nom à la région."
+      "text": "Ces parois blanches autour de vous sont en marbre. Ce sont les veines de Quarry, qui a donné son nom à la région.\r\n"
     },
     {
       "ns": "",
@@ -328,7 +328,7 @@
       "ns": "",
       "key": "3532F5794A2F8E9A1D9899BB20465370",
       "source": "These small docks connect the UICS to Outskirts, with IGC controlling the skies, boats are key.",
-      "text": "Ces petits quais relient l'UICS à la Périphérie. L'IGC contrôle le ciel, alors les bateaux sont essentiels."
+      "text": "Ces petits quais relient l'UICS à Outskirts. L'IGC contrôle le ciel, alors les bateaux sont essentiels."
     },
     {
       "ns": "",

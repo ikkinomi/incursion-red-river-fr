@@ -46,7 +46,7 @@
       "ns": "",
       "key": "497EEADB469E74F3A8C1199F7CC55B0B",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -100,7 +100,7 @@
       "ns": "",
       "key": "4A06A987491F7DCAB9184DB7CD9A098F",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -136,7 +136,7 @@
       "ns": "",
       "key": "4A41F9E64B9315D3B8F66C92A9147120",
       "source": "# UICS Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: Restricted view-only access. Permitted to read non-sensitive operational bulletins and public directives.\r\n\r\n- **Meteorologist**\r\n  - Username: Meteorologist\r\n  - Password: METEO_UICS@Quarry\r\n  - Note: Exclusive access to all weather data collected over the past view month. Otherwise same access level as guest.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: UICS@Root1\r\n  - Note: Full administrative control. Grants access to secure command functions, encrypted channels, and terminal override capabilities.",
-      "text": "# UICS Vérifications d'accès aux terminaux sécurisés\n\n## Liste des utilisateurs autorisés\n\n- **Guest**\n  - Nom d'utilisateur : Guest\n  - Mot de passe : accessUICS\n  - Note: Accès réservé aux vues. Autorisation accordée aux bulletins opérationnels et directives publiques read non sensibles.\n\n- **Meteorologist**\n  - Nom d'utilisateur : Meteorologist\n  - Mot de passe : METEO_UICS@Quarry\n  - Note : Accès exclusif à toutes les données météorologiques recueillies au cours du mois précédent. Sinon, le même niveau d'accès que l'invité.\n\n- **Admin**\n  - Nom d'utilisateur : Admin\n  - Mot de passe : UICS@Root1\n  - Note: Contrôle administratif complet. Accorde l'accès à des fonctions de commande sécurisées, à des canaux chiffrés et à des capacités de dépassement de terminal."
+      "text": "# UICS Vérifications d'accès aux terminaux sécurisés\r\n\r\n## Liste des utilisateurs autorisés\r\n\r\n- **Guest**\r\n  - Nom d'utilisateur : Guest\r\n  - Mot de passe : accessUICS\r\n  - Note: Accès réservé aux vues. Autorisation accordée aux bulletins opérationnels et directives publiques read non sensibles.\r\n\r\n- **Meteorologist**\r\n  - Nom d'utilisateur : Meteorologist\r\n  - Mot de passe : METEO_UICS@Quarry\r\n  - Note : Accès exclusif à toutes les données météorologiques recueillies au cours du mois précédent. Sinon, le même niveau d'accès que l'invité.\r\n\r\n- **Admin**\r\n  - Nom d'utilisateur : Admin\r\n  - Mot de passe : UICS@Root1\r\n  - Note: Contrôle administratif complet. Accorde l'accès à des fonctions de commande sécurisées, à des canaux chiffrés et à des capacités de dépassement de terminal."
     },
     {
       "ns": "",
@@ -226,7 +226,7 @@
       "ns": "",
       "key": "4AAB2D3145AEC42E4B75DB8652130445",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -262,19 +262,19 @@
       "ns": "",
       "key": "4AD55FDC40352264143E88A5A44AA451",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
       "key": "4AE23DEE46D32CCBA19262BE1AA76029",
       "source": "Toggle Holster",
-      "text": "Toggle Holster"
+      "text": "Ranger / sortir l'arme"
     },
     {
       "ns": "",
       "key": "4AE317374AEB4AB1E6D137AD18C5AF8B",
       "source": "...hello? Well done! You're good here. Head on out.",
-      "text": "Bien joué, vous êtes bien ici, sortez."
+      "text": "... Tu me reçois ? Beau travail ! C’est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -346,7 +346,7 @@
       "ns": "",
       "key": "4B28D6AC435A295A4E5F229ECCD1836F",
       "source": "Go to the eastern village and install the jammers.",
-      "text": "Allez dans le village de l'est et installez les jammers."
+      "text": "Allez dans le village de l'est et installez les brouilleurs."
     },
     {
       "ns": "",
@@ -364,7 +364,7 @@
       "ns": "",
       "key": "4B5E7FB4433764DF8DC5029A76DF1D93",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -442,7 +442,7 @@
       "ns": "",
       "key": "4BD5E4FC408F6BC92F7307A82BB6E87A",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -460,7 +460,7 @@
       "ns": "",
       "key": "4BEE4C6F48AF61FEBE38CAA9C0C157A1",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -508,7 +508,7 @@
       "ns": "",
       "key": "4C21FB9E42F930DB2786CAA00C69927C",
       "source": "Go to the industrial zone and install the jammers.",
-      "text": "Allez dans la zone industrielle et installez les jammers."
+      "text": "Allez dans la zone industrielle et installez les brouilleurs."
     },
     {
       "ns": "",
@@ -574,7 +574,7 @@
       "ns": "",
       "key": "4C9B4D73441C401ED8E42AB2A0D55E7B",
       "source": "Inca Vase",
-      "text": "Inca Vase"
+      "text": "Vase inca"
     },
     {
       "ns": "",
@@ -604,7 +604,7 @@
       "ns": "",
       "key": "4CE0EBCE440EEBF02F7BA9B16E630732",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -634,13 +634,13 @@
       "ns": "",
       "key": "4D0FC31549E74F61D3358183184F0DA0",
       "source": "Nice job. These aren’t even a part of the main <strong>DELTA</> warehouse district. Odd positioning. And locked too? It makes sense why the <strong>UICS</> would want to watch them.",
-      "text": "Ce n'est même pas une partie du travail principal. <strong>DELTA</> le quartier de l'entrepôt, le positionnement bizarre, et verrouillé aussi ? <strong>UICS</> Je voudrais les surveiller."
+      "text": "Beau travail. Ces entrepôts ne font même pas partie du principal quartier logistique de <strong>DELTA</>. Un emplacement étrange. Et ils sont verrouillés ? On comprend pourquoi l’<strong>UICS</> veut les surveiller."
     },
     {
       "ns": "",
       "key": "4D120D8A4A6B4CA43234E5912D224F34",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -670,7 +670,7 @@
       "ns": "",
       "key": "4D48C237439043092823ADA5A9FF018D",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -724,7 +724,7 @@
       "ns": "",
       "key": "4D7F95394A9E2B7C7F651184C92CF6A0",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -832,7 +832,7 @@
       "ns": "",
       "key": "4E4B6BBA4DBF9899BAEF07BD8234D8DD",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -856,7 +856,7 @@
       "ns": "",
       "key": "4E706EAD412B551BA1DCC3851297298E",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -904,7 +904,7 @@
       "ns": "",
       "key": "4EC66C21443917846DCED3A83F7ED29B",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -994,7 +994,7 @@
       "ns": "",
       "key": "4F3F1E8041B41C0AAAE860AD861BE7A4",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -1012,7 +1012,7 @@
       "ns": "",
       "key": "4F78FCCD40A31313FD13999BE7A8C061",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -1036,7 +1036,7 @@
       "ns": "",
       "key": "4F8D87624206D83F779F6E8A70E3CFC0",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -1108,7 +1108,7 @@
       "ns": "",
       "key": "5024BC5E46CEFA56A4E63CAE04DAC5CB",
       "source": "Welcome Operator. Congratulations on being targeted for this promotion! It's so great to meet you under better circumstances. Once again, you can refer to me as <strong>OBSERVER</>. I'll be your Handler on this assignment. I’ve read your file and I am quite impressed with the work you’ve done in the field so far. Your talents on the small scale are admirable and your future with <strong>FANG</> looks bright. \r\nHonestly, though, this position is not an easy step up. I’m really not supposed to discuss this, but the talk among the other Handlers is that no one wants the job. Going in with such a small ground team is not something to take lightly. From your file, I know you like to learn in the field, so I’ll keep it as short as I can, but they gave me a lot to tell you and I’m required to read some of it verbatim. Also, there is a good bit I can't tell you, yet, as <strong>FANG</> likes to keep the important stuff tight. I don’t even have full access and I've been doing this for some twenty-odd years.\r\nA brief summary of the history, but you can read over it in detail later if you’re looking for more context that could help in the field:",
-      "text": "Opérateur de bienvenue. Félicitations d'être ciblé pour cette promotion! C'est si bon de vous rencontrer dans de meilleures circonstances. Encore une fois, vous pouvez me désigner comme <strong>OBSERVATEUR</>. Je serai votre maître pour cette mission. J'ai lu votre dossier et je suis très impressionné par le travail que vous avez fait sur le terrain jusqu'à présent. Vos talents à petite échelle sont admirables et votre avenir avec <strong>FANG</> Ça a l'air brillant. \nHonnêtement, cependant, cette position n'est pas une étape facile. Je ne suis vraiment pas censé en parler, mais la discussion entre les autres Handlers est que personne ne veut le travail. Entrer avec une telle petite équipe au sol n'est pas quelque chose à prendre à la légère. De votre dossier, je sais que vous aimez apprendre dans le domaine, donc je vais le garder aussi court que je peux, mais ils m'ont donné beaucoup de choses à vous dire et je suis obligé de lire une partie de cela mot pour mot. En outre, il y a un bon peu que je ne peux pas encore vous dire, comme <strong>FANG</> J'aime garder les choses importantes serrées. Je n'ai même pas un accès complet et je fais ça depuis une vingtaine d'années.\nUn bref résumé de l'histoire, mais vous pouvez le lire en détail plus tard si vous cherchez plus de contexte qui pourrait aider dans le domaine:"
+      "text": "Bienvenue, Opérateur. Félicitations pour ta promotion ! Ravi de te retrouver dans de meilleures circonstances. Tu peux toujours m’appeler <strong>OBSERVER</>. Je serai ton officier traitant pour cette affectation. J’ai lu ton dossier : ton travail sur le terrain m’impressionne. Tes talents à petite échelle sont remarquables et ton avenir chez <strong>FANG</> semble prometteur. \r\nMais ce poste n’est pas une promotion de tout repos. Je ne suis pas censé en parler, mais d’après les autres officiers traitants, personne ne veut de cette mission. Intervenir avec une équipe au sol aussi réduite n’a rien d’anodin. Ton dossier indique que tu préfères apprendre sur le terrain. Je serai donc aussi bref que possible, mais j’ai beaucoup d’informations à te transmettre et je dois en lire certaines mot pour mot. D’autres restent confidentielles : <strong>FANG</> protège jalousement les informations importantes. Même moi, je n’y ai pas entièrement accès, après plus de vingt ans de service.\r\nVoici un bref rappel historique. Tu pourras le relire en détail plus tard si tu veux davantage de contexte pour tes missions :"
     },
     {
       "ns": "",
@@ -1186,7 +1186,7 @@
       "ns": "",
       "key": "50DADDF44E260032195B18BF92EB0950",
       "source": "Middle sized backpack from CamelBak.",
-      "text": "Taille moyenne sac à dos de CamelBak."
+      "text": "Sac à dos de taille moyenne de CamelBak."
     },
     {
       "ns": "",

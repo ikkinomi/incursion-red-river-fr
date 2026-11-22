@@ -22,13 +22,13 @@
       "ns": "",
       "key": "3902608B4D25582121B08C83642B0149",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
       "key": "390B6A4B42F9953D67748A93A1C77DD1",
       "source": "We've recovered a UICS disc — not just data, but the kind of material they’d never transmit over airwaves. That alone tells me it’s important.\r\nYour job is to retrieve the disc and bring it to one of their secured terminals inside a military base near the quarry. You’ll need to scan it to unlock whatever’s hidden.\r\nBe warned: the moment you activate that terminal, they might send backup. Move fast, and don't get boxed in.",
-      "text": "Nous avons récupéré un disque UICS — pas seulement des données, mais le genre de matériel qu'ils n'ont jamais transmis sur des ondes. C'est tout seul qui me dit que c'est important.\nVotre travail est de récupérer le disque et de l'amener à l'un de leurs terminaux sécurisés dans une base militaire près de la carrière. Vous aurez besoin de scan pour déverrouiller tout ce qui est caché.\nSoyez averti : au moment où vous activez ce terminal, ils peuvent envoyer des sauvegardes. Bougez vite, et ne vous faites pas boxer."
+      "text": "Nous avons récupéré un disque UICS — pas seulement des données, mais le genre de matériel qu'ils n'ont jamais transmis sur des ondes. C'est tout seul qui me dit que c'est important.\r\nVotre travail est de récupérer le disque et de l'amener à l'un de leurs terminaux sécurisés dans une base militaire près de Quarry. Vous aurez besoin de scan pour déverrouiller tout ce qui est caché.\r\nSoyez averti : au moment où vous activez ce terminal, ils peuvent envoyer des sauvegardes. Bougez vite, et ne vous faites pas boxer."
     },
     {
       "ns": "",
@@ -46,7 +46,7 @@
       "ns": "",
       "key": "395751404ABDCD59FA4E75B8C79584E8",
       "source": "Document Title: \"Factories – Site Overview\"  \r\nDate: 2024-11-28  \r\nClassification: Confidential – Internal Distribution Only\r\n\r\nDocument successfully scanned and archived.  \r\nPreview of Document Content:\r\n-----------------------------------------------------\r\n\"FACILITY OVERVIEW – SITE BLOCK-7:  \r\nThe factory installation adjacent to the quarry remains fully operational and is responsible for high-volume processing of marble and composite concrete. The materials produced are used in structural reinforcement, subterranean encasement, and modular defensive installations.\r\n\r\nKey operations include rotary crushing, thermal curing, and form compression. Automated batching units maintain a 24/7 output cycle. All export shipments are routed through controlled rail access under GridSec Protocol 6C.\r\n\r\nPersonnel clearance checks are enforced at two entry gates. Observation drones perform perimeter sweeps at 20-minute intervals. While the site is not classified as a high-risk zone, patrols have been increased following recent interference reports from nearby sectors.\r\n\r\nFacility status: STABLE  \r\nOutput capacity: 91%  \r\nSecurity recommendation: Maintain current protocols. Escalation unnecessary unless actionable intel is confirmed.\"\r\n-----------------------------------------------------\r\n\r\nFull document secured for reference and compliance logging.",
-      "text": "Titre du document : « Caractéristiques – Aperçu du site »  \nDate: 2024-11-28  \nClassification : Confidentiel – Distribution interne seulement\n\nDocument numérisé et archivé avec succès.  \nAperçu du contenu du document :\n-----------------------------------------------------\n\"APERÇU DE LA FACILITÉ – SITE BLOCK-7:  \nL'installation de l'usine adjacente à la carrière demeure entièrement opérationnelle et est responsable du traitement en volume élevé du marbre et du béton composite. Les matériaux produits sont utilisés dans le renforcement structurel, l'encastrement souterrain et les installations défensives modulaires.\n\nLes opérations clés comprennent le concassage rotatif, le durcissement thermique et la compression de forme. Les unités de fabrication automatisées maintiennent un cycle de sortie 24/7. Toutes les expéditions d'exportation sont acheminées par voie ferroviaire contrôlée en vertu du protocole 6C de GridSec.\n\nPersonnel Les vérifications niveau d'accès sont effectuées à deux portes d'entrée. Les drones d'observation effectuent des balayages de périmètre à intervalles de 20 minutes. Bien que le site ne soit pas classé comme une zone à haut risque, les patrouilles ont augmenté à la suite des récents rapports d'interférence provenant de secteurs voisins.\n\nÉtat de l'installation: STABLE  \nCapacité de production: 91 %  \nRecommandation de sécurité : Maintenir les protocoles actuels. L'escalade n'est pas nécessaire à moins que l'information susceptible d'actionner ne soit confirmée.\"\n-----------------------------------------------------\n\nDocument complet sécurisé pour référence et enregistrement de conformité."
+      "text": "Titre du document : \"Usines - Présentation du site\"  \r\nDate: 2024-11-28  \r\nClassification : confidentiel - diffusion interne uniquement\r\n\r\nDocument analysé et archivé avec succès.  \r\nAperçu du contenu du document :\r\n-----------------------------------------------------\r\n\"PRÉSENTATION DES INSTALLATIONS - SITE BLOCK-7 :  \r\nL'usine située près de Quarry reste pleinement opérationnelle. Elle traite de grandes quantités de marbre et de béton composite, utilisés pour renforcer les structures, réaliser des revêtements souterrains et construire des installations défensives modulaires.\r\n\r\nLes principales opérations comprennent le concassage rotatif, le durcissement thermique et le moulage par compression. Des unités de dosage automatisées assurent une production continue. Toutes les expéditions passent par un accès ferroviaire contrôlé conformément au protocole GridSec 6C.\r\n\r\nLes habilitations du personnel sont contrôlées aux deux portes d'entrée. Des drones de surveillance inspectent le périmètre toutes les vingt minutes. Le site n'est pas classé à haut risque, mais les patrouilles ont été renforcées après de récents signalements de perturbations dans les secteurs voisins.\r\n\r\nÉtat des installations : STABLE  \r\nCapacité de production : 91 %  \r\nRecommandation de sécurité : maintenir les protocoles actuels. Aucun renforcement nécessaire sans confirmation de renseignements exploitables.\"\r\n-----------------------------------------------------\r\n\r\nDocument complet conservé pour consultation et suivi de conformité."
     },
     {
       "ns": "",
@@ -70,7 +70,7 @@
       "ns": "",
       "key": "396BE20E4AB73AD3E01556ADDFCC1C43",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -136,13 +136,13 @@
       "ns": "",
       "key": "39F480F5445925B7869593840B7C6D9C",
       "source": "**Available Commands:**\r\n\r\n1. help / ? - Display available commands and their descriptions.\r\n2. dir / ls - Display all of the files and folders in the current directory.\r\n3. pop / .. - Switch back to previous directory (e.g. go back).\r\n4. login - Enter new login credentials to change the user & permissions.\r\n5. cd <directory> - Change directory to navigate within the terminal system.\r\n6. run <file_id> - Execute the exe file.\r\n7. download <file_id> - Download content from target file.\r\n8. scan <file_id> - Scan content from file.\r\n9. read <file_id> - Reading content of file.\r\n10. shutdown / exit - Shutdown the terminal.\r\n\r\n**Additional help**\r\n\r\n> To find a file, try changing directories via cd <directory> and use the dir command to display all available files at the current level\r\n> Some directories require special access. Use the login command to get Admin access. You may have to take a look at the users file to find the credentials.",
-      "text": "**Commandes disponibles:**\n\n1. help / ? - Affiche les commandes disponibles et leurs descriptions.\n2. dir / ls - Affiche tous les fichiers et dossiers du répertoire actuel.\n3. pop / .. - Retourner au répertoire précédent (par exemple, revenir en arrière).\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\n6. run <file_id> - Exécutez le fichier exe.\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\n8. scan <file_id> - Scanner le contenu du fichier.\n9. read <file_id> - Lecture du contenu du fichier.\n10. Arrêt / sortie - Arrêt du terminal.\n\n**Supplémentaire help**\n\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et utilisez la commande dir pour afficher tous les fichiers disponibles au niveau actuel\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
+      "text": "**Commandes disponibles:**\r\n\r\n1. help / ? - Affiche les commandes disponibles et leurs descriptions.\r\n2. dir / ls - Affiche tous les fichiers et dossiers du répertoire actuel.\r\n3. pop / .. - Retourner au répertoire précédent (par exemple, revenir en arrière).\r\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\r\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\r\n6. run <file_id> - Exécutez le fichier exe.\r\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\r\n8. scan <file_id> - Scanner le contenu du fichier.\r\n9. read <file_id> - Lecture du contenu du fichier.\r\n10. Arrêt / sortie - Arrêt du terminal.\r\n\r\n**Supplémentaire help**\r\n\r\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et utilisez la commande dir pour afficher tous les fichiers disponibles au niveau actuel\r\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
     },
     {
       "ns": "",
       "key": "39F503CD492F1DC80D778DB7D02F78C5",
       "source": "Quarry Compact Safe Key",
-      "text": "Clé du petit coffre de la Carrière"
+      "text": "Clé du petit coffre de Quarry"
     },
     {
       "ns": "",
@@ -250,7 +250,7 @@
       "ns": "",
       "key": "3AB435444ACE229D91EC81AB1F18559B",
       "source": "# UICS TERMINAL SYSTEM – README\r\n\r\nWelcome to the Unified Intercontinental Command Structure (UICS) Secure Terminal.\r\n\r\nThis terminal is part of the authorized network infrastructure under UICS Directive GridNet-4B. It is designed for use by certified personnel only. Access is monitored, logged, and subject to review by Central Systems Authority (CSA).\r\n\r\n## SYSTEM FUNCTIONS\r\n\r\n- **read** – Open and view a file's contents  \r\n- **run** – Execute a script or terminal-compatible file  \r\n- **scan** – Check a file for security classification or hidden data  \r\n- **download** – Save a file from the terminal to your local device  \r\n\r\nNeed more info? Use the `help` command at any time for detailed usage.\r\n## USER LEVELS\r\n\r\n- Guest: View-only access to non-sensitive bulletins and maintenance schedules\r\n- Admin: Full terminal control, including configuration management and override protocols\r\n\r\n## CODE OF CONDUCT\r\n\r\n- Always verify your clearance level before executing commands.\r\n- Do not share access credentials under any circumstance.\r\n- Report any system anomalies or suspicious activity using form 11-17A (System Irregularity Report).\r\n- In case of compromised access, initiate Lockdown Sequence Alpha and disconnect from the local grid.\r\n\r\n## SUPPORT CONTACT\r\n\r\nFor technical assistance, contact Central Systems Authority via secure channel [Node U-91].\r\n\r\n## FINAL NOTICE\r\n\r\nThis terminal is property of the UICS. Unauthorized use is a breach of intercontinental security law and may result in disciplinary action, including confinement and clearance revocation.\r\n\r\nUICS — Order. Stability. Control.\r\n\r\n> END OF FILE",
-      "text": "# SYSTEME TERMINAL UICS – LECTURE\n\nBienvenue au terminal sécurisé de la structure de commandement intercontinentale unifiée (UICS).\n\nCe terminal fait partie de l'infrastructure de réseau autorisée en vertu de la directive UICS GridNet-4B. Il est conçu pour être utilisé uniquement par du personnel certifié. L'accès est surveillé, enregistré et soumis à l'examen de la Central Systems Authority (CSA).\n\nFONCTIONS DU SYSTÈME\n\n- **read** – Ouvrez et visualisez le contenu d'un fichier  \n- **run** – Exécuter un script ou un fichier compatible avec le terminal  \n- **scan** – Vérifiez un fichier pour la classification de sécurité ou les données cachées  \n- **download** – Enregistrer un fichier depuis le terminal vers votre appareil local  \n\nVous avez besoin de plus d'informations? `help` commande à tout moment pour une utilisation détaillée.\n## NIVEAUX D'UTILISATEUR\n\n- Guest: Accès direct aux bulletins non sensibles et aux horaires de maintenance\n- Admin: Contrôle terminal complet, y compris gestion de configuration et protocoles de dépassement\n\n## CODE DE CONDUITE\n\n- Vérifiez toujours votre niveau niveau d'accès avant d'exécuter les commandes.\n- Ne partagez pas d'identifiants d'accès en aucune circonstance.\n- Signaler toute anomalie du système ou toute activité suspecte au moyen du formulaire 11-17A (Rapport d'irrégularité du système).\n- En cas d'accès compromis, lancez Lockdown Sequence Alpha et déconnectez-vous de la grille locale.\n\nSOUTIEN AU CONTACT\n\nPour toute assistance technique, contactez l'Autorité centrale des systèmes via un canal sécurisé [Node U-91].\n\n## AVIS FINAL\n\nCe terminal est la propriété du UICS. L'utilisation non autorisée est une violation de la loi sur la sécurité intercontinentale et peut entraîner des mesures disciplinaires, y compris l'internement et la révocation de niveau d'accès.\n\nUICS — Ordre. Stabilité.\n\n> FIN DU DOSSIER"
+      "text": "# SYSTEME TERMINAL UICS – LECTURE\r\n\r\nBienvenue au terminal sécurisé de la structure de commandement intercontinentale unifiée (UICS).\r\n\r\nCe terminal fait partie de l'infrastructure de réseau autorisée en vertu de la directive UICS GridNet-4B. Il est conçu pour être utilisé uniquement par du personnel certifié. L'accès est surveillé, enregistré et soumis à l'examen de la Central Systems Authority (CSA).\r\n\r\nFONCTIONS DU SYSTÈME\r\n\r\n- **read** – Ouvrez et visualisez le contenu d'un fichier  \r\n- **run** – Exécuter un script ou un fichier compatible avec le terminal  \r\n- **scan** – Vérifiez un fichier pour la classification de sécurité ou les données cachées  \r\n- **download** – Enregistrer un fichier depuis le terminal vers votre appareil local  \r\n\r\nVous avez besoin de plus d'informations? `help` commande à tout moment pour une utilisation détaillée.\r\n## NIVEAUX D'UTILISATEUR\r\n\r\n- Guest: Accès direct aux bulletins non sensibles et aux horaires de maintenance\r\n- Admin: Contrôle terminal complet, y compris gestion de configuration et protocoles de dépassement\r\n\r\n## CODE DE CONDUITE\r\n\r\n- Vérifiez toujours votre niveau niveau d'accès avant d'exécuter les commandes.\r\n- Ne partagez pas d'identifiants d'accès en aucune circonstance.\r\n- Signaler toute anomalie du système ou toute activité suspecte au moyen du formulaire 11-17A (Rapport d'irrégularité du système).\r\n- En cas d'accès compromis, lancez Lockdown Sequence Alpha et déconnectez-vous de la grille locale.\r\n\r\nSOUTIEN AU CONTACT\r\n\r\nPour toute assistance technique, contactez l'Autorité centrale des systèmes via un canal sécurisé [Node U-91].\r\n\r\n## AVIS FINAL\r\n\r\nCe terminal est la propriété du UICS. L'utilisation non autorisée est une violation de la loi sur la sécurité intercontinentale et peut entraîner des mesures disciplinaires, y compris l'internement et la révocation de niveau d'accès.\r\n\r\nUICS — Ordre. Stabilité.\r\n\r\n> FIN DU DOSSIER"
     },
     {
       "ns": "",
@@ -364,7 +364,7 @@
       "ns": "",
       "key": "3BBC85A0470667265CF648BB6A944B38",
       "source": "20rnd",
-      "text": "20e"
+      "text": "20 coups"
     },
     {
       "ns": "",
@@ -376,7 +376,7 @@
       "ns": "",
       "key": "3BC286D2446513861BFCA4BBCA706015",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -418,7 +418,7 @@
       "ns": "",
       "key": "3BE6824143054EDB9817FB84A6ED1861",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -454,7 +454,7 @@
       "ns": "",
       "key": "3C360B934728E9FEC06FD7931A093212",
       "source": "Downloaded DeltaCameraFootage.zip successfully.",
-      "text": "Téléchargé DeltaCameraFootage.zip avec succès."
+      "text": "DeltaCameraFootage.zip téléchargé avec succès."
     },
     {
       "ns": "",
@@ -484,19 +484,19 @@
       "ns": "",
       "key": "3C58C59E48731F8A62F16B807890B8F8",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
       "key": "3C59872446B0CB52D61AB286F2765486",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "3C70F2714B9D8D2D8190ECA620E43CDD",
       "source": "Place the intel in the pipes maintenance room\r\nnear the cave.",
-      "text": "Placez l'info dans la salle d'entretien des tuyaux\nprès de la grotte."
+      "text": "Placez l'info dans la salle d'entretien des tuyaux\r\nprès de la grotte."
     },
     {
       "ns": "",
@@ -508,7 +508,7 @@
       "ns": "",
       "key": "3C7582D84BD36E625500E398D4E44511",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -520,13 +520,13 @@
       "ns": "",
       "key": "3C8F076C4F77785786F53485CAB49E39",
       "source": "Mount to install sights and other additional devices on the SKS.",
-      "text": "Monter pour installer des visions et d'autres dispositifs supplémentaires sur le SKS."
+      "text": "Support pour viseurs et accessoires supplémentaires sur le SKS."
     },
     {
       "ns": "",
       "key": "3C953BC14ADEE3AA7B2E969ACFFFEB67",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -598,7 +598,7 @@
       "ns": "",
       "key": "3CE55826464BF811D6F54F833F02CD7E",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -634,13 +634,13 @@
       "ns": "",
       "key": "3D060F4B43B3DC2CD581A79873F20A19",
       "source": "IGC Secure Operations Terminal\r\n\r\nUnauthorized access or misuse of this system is strictly prohibited and punishable under Iron Guard military law.\r\n\r\nCommand-level security clearance required.",
-      "text": "IGC Terminal d'exploitation sécurisé\n\nL'accès non autorisé ou l'utilisation abusive de ce système est strictement interdit et puni par la loi militaire de la Garde de fer.\n\nSécurité de niveau de commande niveau d'accès requise."
+      "text": "Terminal sécurisé des opérations de l'IGC\r\n\r\nTout accès non autorisé ou usage abusif de ce système est strictement interdit et passible de sanctions au titre du droit militaire de l'Iron Guard.\r\n\r\nHabilitation de niveau commandement requise."
     },
     {
       "ns": "",
       "key": "3D0F3D99489996A354DACFA7A6F526DD",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -658,13 +658,13 @@
       "ns": "",
       "key": "3D23D82442AE3ACFD854BEA01798FF7A",
       "source": "# CIVIL NOTICE - FERRY SERVICE (ARCHIVED)\r\n\r\nResidents of the coastal apartments and the small village may leave the island on the civilian ferry from the ports between 06:00 and 18:00 with a valid ration card.\r\n\r\nDepartures through the airstrip are not available to civilians.\r\n\r\nThis notice was withdrawn on 01/11. Civilian departures are suspended until further notice.",
-      "text": "# AVIS CIVIL - SERVICE FERRE (ARCHIVED)\n\nLes résidents des appartements côtiers et du petit village peuvent quitter l'île sur le ferry civil des ports entre 06:00 et 18:00 avec une carte de ration valable.\n\nLes civils ne peuvent se rendre sur la piste d'atterrissage.\n\nCet avis a été retiré le 01/11. Les départs civils sont suspendus jusqu'à nouvel ordre."
+      "text": "# AVIS CIVIL - SERVICE FERRE (ARCHIVED)\r\n\r\nLes résidents des appartements côtiers et du petit village peuvent quitter l'île sur le ferry civil des ports entre 06:00 et 18:00 avec une carte de ration valable.\r\n\r\nLes civils ne peuvent se rendre sur la piste d'atterrissage.\r\n\r\nCet avis a été retiré le 01/11. Les départs civils sont suspendus jusqu'à nouvel ordre."
     },
     {
       "ns": "",
       "key": "3D2D08AE4C506543572329BF6CA6EAEC",
       "source": "Streamlight TLR1-HL Gun Light",
-      "text": "Feux de circulation TLR1-HL"
+      "text": "Lampe Streamlight TLR1-HL"
     },
     {
       "ns": "",
@@ -700,7 +700,7 @@
       "ns": "",
       "key": "3D639DFB4122E774DF18D997536C8AE9",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -730,7 +730,7 @@
       "ns": "",
       "key": "3D77080E43DA4676914C0EA111D3E239",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -772,7 +772,7 @@
       "ns": "",
       "key": "3DD5138B43432C1070F8579A7099524A",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -802,7 +802,7 @@
       "ns": "",
       "key": "3DFE5732409CF73B666659B8D57C3E3C",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -958,7 +958,7 @@
       "ns": "",
       "key": "3F3B3B65417F301997326BBDA7FE6723",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -994,7 +994,7 @@
       "ns": "",
       "key": "3F6B92854D6C0B1D437D5F80AC5799BE",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -1012,7 +1012,7 @@
       "ns": "",
       "key": "3F8E131F47A142A20CF55782EE022BD2",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -1066,7 +1066,7 @@
       "ns": "",
       "key": "3FEDB92B45A8FF946CA5F8B06649DDE6",
       "source": "Quarry Large Safe Key",
-      "text": "Clé du grand coffre de la Carrière"
+      "text": "Clé du grand coffre de Quarry"
     },
     {
       "ns": "",
@@ -1078,7 +1078,7 @@
       "ns": "",
       "key": "3FEF47B84FD44A1039467180C1DA69D5",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -1090,7 +1090,7 @@
       "ns": "",
       "key": "401821B7495357A1312ADCBD826E976E",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",

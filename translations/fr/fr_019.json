@@ -58,7 +58,7 @@
       "ns": "",
       "key": "928F5CB744F680DEBFE6228048110EBB",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -82,7 +82,7 @@
       "ns": "",
       "key": "92DB83524E2509A4F0984D90B4A5FA6D",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -106,7 +106,7 @@
       "ns": "",
       "key": "92F9D11E4CA2947643361B8098AB0A23",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -190,7 +190,7 @@
       "ns": "",
       "key": "93B03FBE43B3A4C8538460A142696BB3",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -232,7 +232,7 @@
       "ns": "",
       "key": "93D95AE540F5F95CB82993970D1AA536",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -244,7 +244,7 @@
       "ns": "",
       "key": "93E1B7184C350F18FDB6D49312B9E80D",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -256,7 +256,7 @@
       "ns": "",
       "key": "93F6244543DE9803269B1AB479E0F756",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -292,13 +292,13 @@
       "ns": "",
       "key": "942F604146D58050B8DBB2911BC97BCB",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "943682DD4F7EC66CA95AC4BB4F6D7846",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -358,7 +358,7 @@
       "ns": "",
       "key": "948ED7344A1FB9CC61EC33ACDC8E11C5",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -388,7 +388,7 @@
       "ns": "",
       "key": "94A21C4A4EEBF7BEBF88CB8DA2C1DEF6",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -412,7 +412,7 @@
       "ns": "",
       "key": "94B56F4646EE4644B71E26826A350C98",
       "source": "...hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "... Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -436,7 +436,7 @@
       "ns": "",
       "key": "94C25BD64F2EBEEEE03D06916F669930",
       "source": "Error: Command \"{command}\" not recognized. Type \"help\" for a list of available commands.",
-      "text": "Erreur : commande \"{command}\"non reconnu. Tapez \"help\" pour une liste de commandes disponibles."
+      "text": "Erreur : commande \"{command}\" non reconnue. Tape \"help\" pour afficher les commandes disponibles."
     },
     {
       "ns": "",
@@ -460,7 +460,7 @@
       "ns": "",
       "key": "94E0AFDF428E24310A379285208E8AA2",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -472,13 +472,13 @@
       "ns": "",
       "key": "94F0F32245A4B44969E7E39568B1074D",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "94FE38D846EC26D2A0E9D589FC5DDF5E",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -496,7 +496,7 @@
       "ns": "",
       "key": "9531170D44B8DEF46000258CB2F8355E",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -508,25 +508,25 @@
       "ns": "",
       "key": "9546BED64E73462F070EDDB63323C60C",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "954A787F422BEAECDADE9CB248AF2F52",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "9557ED554A44710AA7A8F48646C1DC13",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "9558FF304130CC3CAED29EB00B99A535",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -562,7 +562,7 @@
       "ns": "",
       "key": "9581502E4E0523CC18E0B498F4AF0582",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -622,7 +622,7 @@
       "ns": "",
       "key": "9602F8E54AE1B3781A78F2BB070C8634",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -634,7 +634,7 @@
       "ns": "",
       "key": "961BD6EB47FDA4623BA16FA1F402EEE0",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -652,7 +652,7 @@
       "ns": "",
       "key": "96486FA6477C6E82EEB8EB83C454D1E0",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -700,7 +700,7 @@
       "ns": "",
       "key": "969985A34D5EE23B306F73B913A33890",
       "source": "...hello? Yup, done. Head on out.",
-      "text": "Ouais, c'est fini, vas-y."
+      "text": "... Tu me reçois ? Oui, c’est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -712,7 +712,7 @@
       "ns": "",
       "key": "96C1135E4FD8929100FF03A42651F45A",
       "source": "**Available Commands:**\r\n\r\n1. help / ? - Display available commands and their descriptions.\r\n2. dir / ls - Display all of the files and folders in the current directory.\r\n3. pop / .. - Switch back to previous directory (e.g. go back).\r\n4. login - Enter new login credentials to change the user & permissions.\r\n5. cd <directory> - Change directory to navigate within the terminal system.\r\n6. run <file_id> - Execute the exe file.\r\n7. download <file_id> - Download content from target file.\r\n8. scan <file_id> - Scan content from file.\r\n9. read <file_id> - Reading content of file.\r\n10. shutdown / exit - Shutdown the terminal.\r\n\r\n**Additional help**\r\n\r\n> To find a file, try changing directories via cd <directory> and use the dir command to display all available files at the current level\r\n> Some directories require special access. Use the login command to get Admin access. You may have to take a look at the users file to find the credentials.",
-      "text": "**Commandes disponibles:**\n\n1. help / ? - Affiche les commandes disponibles et leurs descriptions.\n2. dir / ls - Affiche tous les fichiers et dossiers du répertoire actuel.\n3. pop / .. - Retourner au répertoire précédent (par exemple, revenir en arrière).\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\n6. run <file_id> - Exécutez le fichier exe.\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\n8. scan <file_id> - Scanner le contenu du fichier.\n9. read <file_id> - Lecture du contenu du fichier.\n10. Arrêt / sortie - Arrêt du terminal.\n\n**Supplémentaire help**\n\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et utilisez la commande dir pour afficher tous les fichiers disponibles au niveau actuel\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
+      "text": "**Commandes disponibles:**\r\n\r\n1. help / ? - Affiche les commandes disponibles et leurs descriptions.\r\n2. dir / ls - Affiche tous les fichiers et dossiers du répertoire actuel.\r\n3. pop / .. - Retourner au répertoire précédent (par exemple, revenir en arrière).\r\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\r\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\r\n6. run <file_id> - Exécutez le fichier exe.\r\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\r\n8. scan <file_id> - Scanner le contenu du fichier.\r\n9. read <file_id> - Lecture du contenu du fichier.\r\n10. Arrêt / sortie - Arrêt du terminal.\r\n\r\n**Supplémentaire help**\r\n\r\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et utilisez la commande dir pour afficher tous les fichiers disponibles au niveau actuel\r\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
     },
     {
       "ns": "",
@@ -772,7 +772,7 @@
       "ns": "",
       "key": "972461B34866ED8720C10BAA9B86C566",
       "source": "...hello? Well done! You're good here. Head on out.",
-      "text": "Bien joué, vous êtes bien ici, sortez."
+      "text": "... Tu me reçois ? Beau travail ! C’est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -898,13 +898,13 @@
       "ns": "",
       "key": "97DAEC5D4C95DB8F68E87CB8D8D32DBB",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "97E1E3A847DE5B68B34F26832AE37A3E",
       "source": "Good day, my friend! Your next performance requires the utmost cunning. Dive into the heart of the Quarry, pilfer top-secret intel from the UICS, and plant it within an Iron Guard Corps stronghold. Do this with the subtlety of a whisper. Make them doubt their own. Once done, exit with the finesse of a noble. Remember, you are the hidden blade of the Tsar.",
-      "text": "Bonne journée, mon ami ! Votre prochaine performance nécessite la plus grande ruse. Plongez au cœur de la carrière, pilfer top-secret Intel de la UICS, et plantez-la dans une forteresse Iron Guard Corps. Faites cela avec la subtilité d'un murmure. Faites-leur douter des leurs. Une fois terminé, sortez avec la finesse d'un noble. Souvenez-vous, vous êtes la lame cachée du Tsar."
+      "text": "Bonne journée, mon ami ! Votre prochaine performance nécessite la plus grande ruse. Plongez au cœur de Quarry, pilfer top-secret Intel de la UICS, et plantez-la dans une forteresse Iron Guard Corps. Faites cela avec la subtilité d'un murmure. Faites-leur douter des leurs. Une fois terminé, sortez avec la finesse d'un noble. Souvenez-vous, vous êtes la lame cachée du Tsar."
     },
     {
       "ns": "",
@@ -1168,7 +1168,7 @@
       "ns": "",
       "key": "99A4589F41A33877B66A849912C26CF5",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",

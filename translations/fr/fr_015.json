@@ -16,7 +16,7 @@
       "ns": "",
       "key": "71CA83D74946DA202D0D90B5CC72FF9F",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -244,7 +244,7 @@
       "ns": "",
       "key": "7354535E4B9FAD4CB66F0BAEC5B47BBB",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -322,7 +322,7 @@
       "ns": "",
       "key": "73E890FC4D6C9ECB806130AEFDCBAB6C",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -340,7 +340,7 @@
       "ns": "",
       "key": "73F5E9624F88337A4D4758A0D32F88CA",
       "source": "There are two types of missions:\r\n\r\n-> Story missions: Marked with a star. They progress the story and give strong rewards.\r\n\r\n-> Assignments: General repeating missions that provide decent rewards.",
-      "text": "Il existe deux types de missions :\n\n-> Missions d'histoire : marquée d'une étoile. Ils font avancer l'histoire et donnent de fortes récompenses.\n\n-> Affectations : Missions générales répétitives offrant des récompenses décentes."
+      "text": "Il existe deux types de missions :\r\n\r\n-> Missions d'histoire : marquée d'une étoile. Ils font avancer l'histoire et donnent de fortes récompenses.\r\n\r\n-> Affectations : Missions générales répétitives offrant des récompenses décentes."
     },
     {
       "ns": "",
@@ -388,7 +388,7 @@
       "ns": "",
       "key": "746C173C48CE4A63395C3199A73867FE",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -406,7 +406,7 @@
       "ns": "",
       "key": "7473ED4B4F8C0C3F6AE3CBB6EF0F844B",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -418,7 +418,7 @@
       "ns": "",
       "key": "7483A97F463BAF7B4C7A618FFB92C2DA",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -448,7 +448,7 @@
       "ns": "",
       "key": "74CEAF4C43569954D561E08C374AB02C",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -466,7 +466,7 @@
       "ns": "",
       "key": "751268FB48A0E6347126A9BB1127A6FE",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -574,7 +574,7 @@
       "ns": "",
       "key": "75DACFB54A05DEF046B4DCB1088537BF",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -622,7 +622,7 @@
       "ns": "",
       "key": "7657D730472E992845F65C8A2CC3BE0B",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -676,7 +676,7 @@
       "ns": "",
       "key": "76D4B7DB4DBB0CB36ACF6F9AC2487901",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -742,7 +742,7 @@
       "ns": "",
       "key": "77846D4A4CAAC35E9C5B4BB277976BA6",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -772,7 +772,7 @@
       "ns": "",
       "key": "77B146DD448C59F0B875E7BB5E55C099",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -790,7 +790,7 @@
       "ns": "",
       "key": "77C85FA746097B986415249483DD822D",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -814,7 +814,7 @@
       "ns": "",
       "key": "780B1F724199BF41B51651956E080FCB",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -832,7 +832,7 @@
       "ns": "",
       "key": "782B96C54BC931E0E521CA83FD803410",
       "source": "Morphine auto-injector. Strong, fast pain relief.",
-      "text": "Morphine auto-injecteur. Fort, soulagement rapide de la douleur."
+      "text": "Auto-injecteur de morphine. Soulage rapidement les douleurs intenses."
     },
     {
       "ns": "",
@@ -904,7 +904,7 @@
       "ns": "",
       "key": "787EC81D48B5AF4FEF86839CE3F9E3AF",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -934,7 +934,7 @@
       "ns": "",
       "key": "78A3F907422CE752D2AAD689B4E68AEE",
       "source": "Ammo",
-      "text": "munitions"
+      "text": "Munitions"
     },
     {
       "ns": "",
@@ -1024,7 +1024,7 @@
       "ns": "",
       "key": "793C7F9C4AF1E9EFEC2E13B0C430BD5A",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -1138,7 +1138,7 @@
       "ns": "",
       "key": "79D887964E0EA7C624A5D6B109B4D9B6",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",

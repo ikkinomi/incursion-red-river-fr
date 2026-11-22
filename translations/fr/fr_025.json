@@ -136,13 +136,13 @@
       "ns": "",
       "key": "C27C011E4626E859667F3AA5607B9B4B",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
       "key": "C27F50D044645C8BF4FE6EB8707BFD15",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -184,7 +184,7 @@
       "ns": "",
       "key": "C2CDC29F4F80FC91B23120A9065BCA99",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -208,7 +208,7 @@
       "ns": "",
       "key": "C2EF14924CDF8D7C0787CB8576AD9A9F",
       "source": "Your task is delicate yet vital. In the Quarry, amidst the chaos of conflict, lies crucial Iron Guard Corps intel that we need to acquire. I trust you to secure this intel and discreetly place it in a UICS container. While doing so, remember the lives affected by this war. After planting the intel, make your way out, but do so with minimal conflict. Our aim is to aid, not escalate. Be safe out there, and remember, every life counts.",
-      "text": "Votre tâche est délicate mais vitale. Dans la carrière, au milieu du chaos des conflits, se trouve l'intel Iron Guard Corps crucial que nous devons acquérir. Je vous fais confiance pour sécuriser cette information et la placer discrètement dans un conteneur UICS. Ce faisant, rappelez-vous les vies affectées par cette guerre. Après avoir planté l'info, faites votre sortie, mais faites-le avec un minimum de conflit. Notre but est d'aider, et non d'augmenter. Soyez en sécurité là-bas, et rappelez-vous, chaque vie compte."
+      "text": "Votre tâche est délicate mais vitale. Dans Quarry, au milieu du chaos des conflits, se trouve l'intel Iron Guard Corps crucial que nous devons acquérir. Je vous fais confiance pour sécuriser cette information et la placer discrètement dans un conteneur UICS. Ce faisant, rappelez-vous les vies affectées par cette guerre. Après avoir planté l'info, faites votre sortie, mais faites-le avec un minimum de conflit. Notre but est d'aider, et non d'augmenter. Soyez en sécurité là-bas, et rappelez-vous, chaque vie compte."
     },
     {
       "ns": "",
@@ -244,7 +244,7 @@
       "ns": "",
       "key": "C32CEE07428EC8D97E1729B1701C41D6",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -370,7 +370,7 @@
       "ns": "",
       "key": "C3EF1540446349C2011DC392250AF85B",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -424,7 +424,7 @@
       "ns": "",
       "key": "C468C8534E0ED13B8D092E877373D7DC",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -436,7 +436,7 @@
       "ns": "",
       "key": "C46DB729483499872919BEA33EC17956",
       "source": "Soldier, there's work to be done. Anomalous communication signals have been traced to the jungle road leading to the factory. We entrust you to disrupt this activity by installing jammers to muddle their communications in the area.",
-      "text": "Soldat, il y a du travail à faire. Des signaux de communication anomaux ont été tracés sur la route de la jungle menant à l'usine. Nous vous confions de perturber cette activité en installant des jammers pour bâillonner leurs communications dans la région."
+      "text": "Soldat, il y a du travail à faire. Des signaux de communication anomaux ont été tracés sur la route de la jungle menant à l'usine. Nous vous confions de perturber cette activité en installant des brouilleurs pour bâillonner leurs communications dans la région."
     },
     {
       "ns": "",
@@ -478,13 +478,13 @@
       "ns": "",
       "key": "C4A164144498BC9002FD5AAF03241E04",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
       "key": "C4D0CCD842622658C06E00885DBB9266",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -634,7 +634,7 @@
       "ns": "",
       "key": "C5DC89F2465FC3AD902038A8C8786DB2",
       "source": "Domovoy (домовой) Terminal - IRON GUARD CORPS INTERNAL NETWORK",
-      "text": "Terminal de Domovoy (домовой) - RÉSEAU INTERNE DE CORPS DE GUARD IRON"
+      "text": "Terminal Domovoy (домовой) - RÉSEAU INTERNE DE L’IRON GUARD CORPS"
     },
     {
       "ns": "",
@@ -676,7 +676,7 @@
       "ns": "",
       "key": "C633466E44F19F9D520CD586F9580D98",
       "source": "Document Title: \"Target Assessment Brief – Quarry Sector UICS Installations\"  \r\nDate: 2024-11-04  \r\nClassification: Top Secret – Direct Action Recommended\r\n\r\nOverview:  \r\nSurveillance teams have identified multiple UICS-controlled structures in and around the quarry region. These locations support production, logistics, and command functions tied to operations in the central corridor. The following sites are marked for sabotage, infiltration, or strategic surveillance.\r\n\r\n-----------------------------------------------------\r\nTier 1 – Priority Targets\r\n\r\n• SITE DESIGNATION: BLOCK-7  \r\n  Type: UICS Quarry Block Factory  \r\n  Location: Northern edge of quarry basin  \r\n  Notes: Actively producing reinforced modular blocks used in subterranean structure reinforcement. Limited external defense, heavy material flow suggests priority status. Recommended: nighttime approach + remote detonation.\r\n\r\n• SITE DESIGNATION: BASE-QUARRY  \r\n  Type: UICS Military Outpost  \r\n  Location: Western high-ground ridge overlooking the quarry  \r\n  Notes: Well-defended. High patrol frequency. Believed to house intel terminals and encrypted uplink systems. Risk of reinforcement high. Potential intel jackpot. Recommended: stealth recon only until path is confirmed.\r\n\r\n-----------------------------------------------------\r\nTier 2 – Secondary Observation\r\n\r\n• SITE DESIGNATION: CORE-PIT  \r\n  Type: Primary Quarry Extraction Zone  \r\n  Location: Central pit, open terrain  \r\n  Notes: Constant UICS drone traffic observed. Raw resource extraction underway. Possibly tied to BLOCK-7 logistics. Patrols light, but sightlines wide. Risk of exposure high.\r\n\r\n• SITE DESIGNATION: CAVE-DELTA  \r\n  Type: Natural Cave System (suspected forward node)  \r\n  Location: Southeast rim of quarry perimeter  \r\n  Notes: Limited visual contact. Thermal returns suggest low-volume movement and occasional shortwave bursts. Possibly used for temporary staging or covert relay.\r\n\r\n-----------------------------------------------------\r\nAction Items:\r\n- Prioritize BLOCK-7 for disruption operation; coordinate with Demo Team Echo.\r\n- Conduct passive relay sweep near CAVE-DELTA to confirm or deny node usage.\r\n- Maintain watch on BASE-QUARRY; extraction team needed before further action.\r\n\r\nCompiled by:  \r\nIntel Section 4D – Vanguard Recon  \r\nAuth. Code: RX-VLF-9342Z  \r\nStatus: Cleared for tactical distribution",
-      "text": "Titre du document : « Brève d'évaluation des objectifs – Installations UICS du secteur de la carrière »  \nDate: 2024-11-04  \nClassification: Secret supérieur – Action directe recommandée\n\nAperçu général:  \nLes équipes de surveillance ont identifié plusieurs structures contrôlées par UICS dans la région de la carrière et aux alentours. Ces sites appuient la production, la logistique et les fonctions de commandement liées aux opérations dans le corridor central. Les sites suivants sont marqués pour le sabotage, l'infiltration ou la surveillance stratégique.\n\n-----------------------------------------------------\nNiveau 1 – Objectifs prioritaires\n\n• DESIGNATION DU SITE: BLOCK-7  \n  Type: UICS Quarry Block Factory  \n  Lieu: Bord nord du bassin de carrière  \n  Notes: Production active de blocs modulaires renforcés utilisés dans le renforcement des structures souterraines. Défense externe limitée, flux de matériaux lourds suggère un statut prioritaire. Recommandé : approche nocturne + détonation à distance.\n\n• DESIGNATION DU SITE: BASE-QUARRY  \n  Type: avant-poste militaire UICS  \n  Lieu: crête de l'ouest surplombant la carrière  \n  Notes: Bien défendu. Fréquence de patrouille élevée. On croit abriter des terminaux d'information et des systèmes cryptés de liaison ascendante. Risque de renforcement élevé. Potentiel de jackpot d'information. Recommandé: reconnaissance furtive seulement jusqu'à ce que le chemin soit confirmé.\n\n-----------------------------------------------------\nNiveau 2 – Observation secondaire\n\n• DESIGNATION DU SITE: CORE-PIT  \n  Type: Carrière primaire extraction Zone  \n  Emplacement: fosse centrale, terrain ouvert  \n  Notes: Trafic constant de drones UICS observé. Ressources brutes extraction en cours. Peut-être lié à la logistique BLOCK-7. Patrouilles légères, mais lignes de vue larges. Risque d'exposition élevé.\n\n• DESIGNATION DU SITE: CAVE-DELTA  \n  Type: Système de grottes naturelles (noeud avant suspecté)  \n  Emplacement: Bord sud-est du périmètre de la carrière  \n  Notes: Contact visuel limité. Les retours thermiques suggèrent un faible volume de mouvement et des rafales occasionnelles à ondes courtes. Peut-être utilisé pour la mise en scène temporaire ou le relais secret.\n\n-----------------------------------------------------\nMesures à prendre:\n- Prioriser BLOCK-7 pour l'opération de perturbation; coordonner avec l'équipe de démonstration Echo.\n- Effectuer un balayage passif du relais près de CAVE-DELTA pour confirmer ou refuser l'utilisation des nœuds.\n- Maintenez une veille sur BASE-QUARRY; l'équipe extraction a besoin avant d'agir.\n\nCompilé par:  \nSection Intel 4D – Reconnaissance de l'avant-garde  \nCode: RX-VLF-9342Z  \nÉtat : Effacé pour distribution tactique"
+      "text": "Titre du document : \"Évaluation des cibles - Installations de l’UICS dans le secteur de Quarry\"  \r\nDate: 2024-11-04  \r\nClassification : très secret - intervention directe recommandée\r\n\r\nPrésentation :  \r\nLes équipes de surveillance ont identifié plusieurs structures contrôlées par l'UICS dans la région de QUARRY et ses environs. Elles assurent la production, la logistique et le commandement des opérations du couloir central. Les sites suivants sont désignés pour des opérations de sabotage, d'infiltration ou de surveillance stratégique.\r\n\r\n-----------------------------------------------------\r\nNiveau 1 - Cibles prioritaires\r\n\r\n• DÉSIGNATION DU SITE : BLOCK-7  \r\n  Type : usine de blocs de QUARRY de l'UICS  \r\n  Position : bord nord du bassin de QUARRY  \r\n  Notes : production active de blocs modulaires renforcés destinés aux structures souterraines. Défenses extérieures limitées ; le flux important de matériaux suggère un site prioritaire. Recommandation : approche nocturne et détonation à distance.\r\n\r\n• DÉSIGNATION DU SITE : BASE-QUARRY  \r\n  Type : avant-poste militaire de l'UICS  \r\n  Position : crête ouest surplombant QUARRY  \r\n  Notes : site bien défendu, patrouilles fréquentes. Abrite probablement des terminaux de renseignement et des liaisons montantes chiffrées. Risque élevé de renforts. Renseignements potentiellement très précieux. Recommandation : reconnaissance discrète uniquement, tant que le passage n’est pas confirmé.\r\n\r\n-----------------------------------------------------\r\nNiveau 2 - Surveillance secondaire\r\n\r\n• DÉSIGNATION DU SITE : CORE-PIT  \r\n  Type : principale zone d'extraction de QUARRY  \r\n  Position : fosse centrale, terrain découvert  \r\n  Notes : trafic constant de drones de l'UICS. Extraction de matières premières en cours, peut-être liée à la logistique de BLOCK-7. Peu de patrouilles, mais de larges champs de vision. Risque élevé d'être repéré.\r\n\r\n• DÉSIGNATION DU SITE : CAVE-DELTA  \r\n  Type : réseau de grottes naturelles (nœud avancé présumé)  \r\n  Position : limite sud-est du périmètre de QUARRY  \r\n  Notes : visibilité limitée. Les relevés thermiques indiquent peu de mouvements et des émissions occasionnelles en ondes courtes. Sert peut-être de zone de rassemblement temporaire ou de relais clandestin.\r\n\r\n-----------------------------------------------------\r\nMesures à prendre :\r\n- Donner la priorité à BLOCK-7 pour l’opération de perturbation ; se coordonner avec Demo Team Echo.\r\n- Effectuer une recherche passive de relais près de CAVE-DELTA pour confirmer ou exclure l’utilisation du nœud.\r\n- Maintenir BASE-QUARRY sous surveillance ; une équipe d’extraction est nécessaire avant toute nouvelle action.\r\n\r\nRédigé par :  \r\nSection renseignement 4D - Vanguard Recon  \r\nCode d’autorisation : RX-VLF-9342Z  \r\nStatut : diffusion tactique autorisée"
     },
     {
       "ns": "",
@@ -718,7 +718,7 @@
       "ns": "",
       "key": "C6518DB94371565AFAD6F29E18B8468E",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -778,7 +778,7 @@
       "ns": "",
       "key": "C6BD17CD44BC66BE7582F492F8D130DD",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -826,7 +826,7 @@
       "ns": "",
       "key": "C715842F41DFE016CAAAB2A7F1C9044A",
       "source": "Quarry General Key",
-      "text": "Clé générale de la Carrière"
+      "text": "Clé générale de Quarry"
     },
     {
       "ns": "",
@@ -850,13 +850,13 @@
       "ns": "",
       "key": "C734CDFD4F45708CFE10C5A8B88049AF",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "C736A1DE4CC78F27F62CB3B28D9FB1AF",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -874,7 +874,7 @@
       "ns": "",
       "key": "C73AA4884316A45A712BA0BB7DDF716E",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -964,7 +964,7 @@
       "ns": "",
       "key": "C79ABEC94C481C9914B9809CD4DF7991",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -1012,7 +1012,7 @@
       "ns": "",
       "key": "C7D3CE7F4895165CD9FDFCB2619A04A6",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -1066,7 +1066,7 @@
       "ns": "",
       "key": "C836F97B408A187E94C827B1DB71F3D7",
       "source": "Confirmed, and good job, Operator. Stay clear now; airstrike inbound.",
-      "text": "Confirmé, et bon travail, Opérateur. Restez clair maintenant; frappe aérienne à l'arrivée."
+      "text": "Confirmé, beau travail, Opérateur. Éloigne-toi : frappe aérienne imminente."
     },
     {
       "ns": "",
@@ -1102,7 +1102,7 @@
       "ns": "",
       "key": "C85AED4546D086F729B614BFD395CBF8",
       "source": "Document Title: \"OPERATION OMEGA – Infiltration Orders\"  \r\nDate: 2024-11-30  \r\nClassification: Top Secret\r\n\r\nDocument successfully scanned and secured.  \r\nPreview of Document Content:\r\n-----------------------------------------------------\r\n\"OPERATION OMEGA:  \r\nUICS strike elements are to initiate a rapid-entry operation targeting the bunker complex currently occupied by VLF-aligned forces. Primary objectives include clearing the command room and securing access to active data terminals. Secondary target is the adjacent cave structure—believed to serve as a fallback and storage zone for insurgent operatives.\r\n\r\nMedical bay is to be isolated and swept for potential detainees or intel caches. Operation is time-sensitive. A brief communications blackout window has been scheduled to allow for silent breach and coordinated movement through critical access points...\"\r\n\r\n-----------------------------------------------------\r\n\r\nFull document secured for further review and action.",
-      "text": "Titre du document : « OPÉRATION OMEGA – Ordres d'infiltration »  \nDate: 2024-11-30  \nClassement : Haut secret\n\nDocument scanné et sécurisé.  \nAperçu du contenu du document :\n-----------------------------------------------------\n\"L'OPERATION OMEGA:  \nLes éléments de frappe UICS doivent lancer une opération d'entrée rapide ciblant le complexe de bunker actuellement occupé par les forces alignées sur VLF. Parmi les principaux objectifs, mentionnons l'ouverture de la salle de commande et l'accès aux terminaux de données actifs. La cible secondaire est la structure de grotte adjacente, qui sert de zone de repli et de stockage pour les insurgés.\n\nLa baie médicale doit être isolée et balayée pour les détenus potentiels ou les caches de renseignements. L'opération est sensible au temps. Une brève fenêtre d'arrêt des communications a été prévue pour permettre une brèche silencieuse et un mouvement coordonné à travers des points d'accès critiques... »\n\n-----------------------------------------------------\n\nDocument complet obtenu en vue d'un examen et d'une action complémentaires."
+      "text": "Titre du document : \"OPERATION OMEGA - Ordres d’infiltration\"  \r\nDate: 2024-11-30  \r\nClassification : très secret\r\n\r\nDocument analysé et sécurisé avec succès.  \r\nAperçu du contenu du document :\r\n-----------------------------------------------------\r\n\"OPERATION OMEGA :  \r\nLes unités d'intervention de l'UICS doivent lancer une opération d'entrée rapide dans le complexe de bunkers occupé par des forces affiliées au VLF. Les objectifs principaux sont de sécuriser la salle de commandement et l'accès aux terminaux de données actifs. La cible secondaire est la grotte adjacente, qui servirait de zone de repli et de stockage aux insurgés.\r\n\r\nL'infirmerie doit être isolée et fouillée pour y rechercher d'éventuels détenus ou caches de renseignements. Le calendrier de l'opération est serré. Une brève coupure des communications est prévue pour permettre une entrée discrète et des déplacements coordonnés par les accès critiques...\"\r\n\r\n-----------------------------------------------------\r\n\r\nDocument complet conservé pour examen et suite à donner."
     },
     {
       "ns": "",
@@ -1120,7 +1120,7 @@
       "ns": "",
       "key": "C89831FA4FF0CD682B7A118C09D32AF9",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -1174,7 +1174,7 @@
       "ns": "",
       "key": "C927E9DE4C6F1F4F0E871C8723F0CB94",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",

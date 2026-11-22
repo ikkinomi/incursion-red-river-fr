@@ -40,7 +40,7 @@
       "ns": "",
       "key": "18E6BD2549136B9703BD9994FD35A84E",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -58,7 +58,7 @@
       "ns": "",
       "key": "18EEEC504B2E5B84FF969AB3B6A6D3C0",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -94,13 +94,13 @@
       "ns": "",
       "key": "1929D27E40CAFCA906288EB77EF341EF",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "192E9DDE40B7774AB03B01AC7100A1AE",
       "source": "Film Case",
-      "text": "Cimetière"
+      "text": "Boîte de pellicule"
     },
     {
       "ns": "",
@@ -112,19 +112,19 @@
       "ns": "",
       "key": "1937E62F48216C6A70990CB4B7C75FD2",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
       "key": "193D8CB84123478F8678E6806EB4C3FB",
       "source": "Go to the VLF base inside the cave and place the bugs.",
-      "text": "Allez à la base VLF à l'intérieur de la grotte et placez les bugs."
+      "text": "Allez à la base VLF à l'intérieur de la grotte et placez les micros."
     },
     {
       "ns": "",
       "key": "1945949249231993608F61A0E541A4E7",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -142,7 +142,7 @@
       "ns": "",
       "key": "19471FFC47D47811C49D8393334C8554",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -184,7 +184,7 @@
       "ns": "",
       "key": "1965DAEF4A2F72FE0E9CC798776F9F20",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -232,7 +232,7 @@
       "ns": "",
       "key": "19CC1F3749FD451A61E86F8DB88DCD0A",
       "source": "We’ve got 3 factions: the <strong>IGC</>, the <strong>UICS</>, and the <strong>VLF</>. North Korea and Russia are trying to take over Vietnam through the <strong>IGC</>. <strong>UICS</> is a semi-neutral party trying to protect the local people, but with some in their ranks too excited at purging the East. <strong>VLF</> is a native revolutionary group, passionately trying to assert and consolidate local power and evict foreign influence under the torrent of new interest. \r\n\r\n<strong>FANG</> sent the following themselves: ",
-      "text": "Nous avons 3 factions : <strong>IGC</>, les <strong>UICS</>, et <strong>VLF</>. La Corée du Nord et la Russie tentent de prendre le Vietnam à travers le <strong>IGC</>. <strong>UICS</> Il s'agit d'un parti semi-neutre qui essaie de protéger la population locale, mais avec certains dans ses rangs trop excités à purger l'Est. <strong>VLF</> est un groupe révolutionnaire autochtone, qui tente avec passion d'affirmer et de consolider le pouvoir local et d'expulser l'influence étrangère sous le torrent de nouveaux intérêts. \n\n<strong>FANG</> Ils ont eux-mêmes envoyé les documents suivants: "
+      "text": "Nous avons 3 factions : <strong>IGC</>, les <strong>UICS</>, et <strong>VLF</>. La Corée du Nord et la Russie tentent de prendre le Vietnam à travers le <strong>IGC</>. <strong>UICS</> Il s'agit d'un parti semi-neutre qui essaie de protéger la population locale, mais avec certains dans ses rangs trop excités à purger l'Est. <strong>VLF</> est un groupe révolutionnaire autochtone, qui tente avec passion d'affirmer et de consolider le pouvoir local et d'expulser l'influence étrangère sous le torrent de nouveaux intérêts. \r\n\r\n<strong>FANG</> Ils ont eux-mêmes envoyé les documents suivants: "
     },
     {
       "ns": "",
@@ -268,7 +268,7 @@
       "ns": "",
       "key": "19FC354D40365A00DA8168A74687132B",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -292,13 +292,13 @@
       "ns": "",
       "key": "1A2C480E4DA5049C3650519AF7B5D86A",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "1A35C03A4127BF7C7B029AAE51C1BAB3",
       "source": "Document Title: \"Bunker – Weather Data\"  \r\nClassification: Confidential – Internal Distribution Only\r\n\r\nDocument successfully downloaded.",
-      "text": "Titre du document: \"Bunker – Données météorologiques\"  \nClassification : Confidentiel – Distribution interne seulement\n\nDocument téléchargé avec succès."
+      "text": "Titre du document : \"Bunker - Données météo\"  \r\nClassification : confidentiel - diffusion interne uniquement\r\n\r\nDocument téléchargé avec succès."
     },
     {
       "ns": "",
@@ -340,7 +340,7 @@
       "ns": "",
       "key": "1A53C2A748F74FFA3DCCD0AADD2B41C1",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -364,13 +364,13 @@
       "ns": "",
       "key": "1A8821A242D5E81F80E2049A203272D3",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "1A99939A47CF5E339BD78883FD2CC17A",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -418,7 +418,7 @@
       "ns": "",
       "key": "1AE7D1EE49006EDBDDF7CC9FB83CF594",
       "source": "A beautiful black box with painted on flowers and birds, used for storing earrings and other jewelry.",
-      "text": "Une belle boîte noire avec peint sur les fleurs et les oiseaux, utilisé pour stocker des boucles d'oreilles et d'autres bijoux."
+      "text": "Jolie boîte noire ornée de fleurs et d'oiseaux peints, pour ranger boucles d'oreilles et autres bijoux."
     },
     {
       "ns": "",
@@ -448,7 +448,7 @@
       "ns": "",
       "key": "1B22C9FA42F346DB24AFFB9CE831704B",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -466,7 +466,7 @@
       "ns": "",
       "key": "1B45D38F427EFE18096D4C8F9FC577BC",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -478,7 +478,7 @@
       "ns": "",
       "key": "1B5C2C51432F93FD2E94CF9417E4DC16",
       "source": "Extract without a backpack equipped.",
-      "text": "Extrait sans sac à dos équipé."
+      "text": "Extrais-toi sans sac à dos équipé."
     },
     {
       "ns": "",
@@ -514,7 +514,7 @@
       "ns": "",
       "key": "1B95225E419D4F477EAC2795E84C1E15",
       "source": "Standard issue muzzle device for Saiga-12 shotgun.",
-      "text": "Numéro standard dispositif de bouche pour Saiga-12 fusil à pompe."
+      "text": "Dispositif de bouche de série pour le Saiga-12."
     },
     {
       "ns": "",
@@ -556,7 +556,7 @@
       "ns": "",
       "key": "1BC3E31A4FFE47D6CE81A48648B55E5E",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -616,7 +616,7 @@
       "ns": "",
       "key": "1C302A984F750412010C9EBC64ABF5E3",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -640,7 +640,7 @@
       "ns": "",
       "key": "1C5815FB42229F6C9D2EFBADD0411953",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -652,7 +652,7 @@
       "ns": "",
       "key": "1C5E35C2484D769E82C04CA2D7AF1B99",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -688,7 +688,7 @@
       "ns": "",
       "key": "1C97E85649EED6DBCE6A29B58A91AF4F",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -706,7 +706,7 @@
       "ns": "",
       "key": "1CAFF8784B17BC7EBCF861A3A55C33B7",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -748,13 +748,13 @@
       "ns": "",
       "key": "1D1EA0E642D80366170469855DC9FFA7",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
       "key": "1D32F28F4261C18AA3FBF98F3CB54028",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -802,13 +802,13 @@
       "ns": "",
       "key": "1D93C2AC4EE86D6775F8BCB992AE1202",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "1D9A43284E29BB19B2D0F1A32492903D",
       "source": "DISCLAIMER: When Leaving the Hideout you will also disconnect from your Party.",
-      "text": "DISCLAIMER: Lorsque vous quittez le base, vous vous déconnectez également de votre Parti."
+      "text": "ATTENTION : quitter la base te déconnectera aussi de ton groupe."
     },
     {
       "ns": "",
@@ -856,7 +856,7 @@
       "ns": "",
       "key": "1DE253CC41056009F4BE86A44E610655",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -868,7 +868,7 @@
       "ns": "",
       "key": "1DED565C4242359B4B1E7D86245ACF33",
       "source": "# UICS Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: Restricted view-only access. Permitted to read non-sensitive operational bulletins and public directives.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: UICS_Test+\r\n  - Note: Full administrative control. Grants access to secure command functions, encrypted channels, and terminal override capabilities.",
-      "text": "# UICS Vérifications d'accès aux terminaux sécurisés\n\n## Liste des utilisateurs autorisés\n\n- **Guest**\n  - Nom d'utilisateur : Guest\n  - Mot de passe : accessUICS\n  - Note: Accès réservé aux vues. Autorisation accordée aux bulletins opérationnels et directives publiques read non sensibles.\n\n- **Admin**\n  - Nom d'utilisateur : Admin\n  - Mot de passe : UICS_Test+\n  - Note: Contrôle administratif complet. Accorde l'accès à des fonctions de commande sécurisées, à des canaux chiffrés et à des capacités de dépassement de terminal."
+      "text": "# UICS Vérifications d'accès aux terminaux sécurisés\r\n\r\n## Liste des utilisateurs autorisés\r\n\r\n- **Guest**\r\n  - Nom d'utilisateur : Guest\r\n  - Mot de passe : accessUICS\r\n  - Note: Accès réservé aux vues. Autorisation accordée aux bulletins opérationnels et directives publiques read non sensibles.\r\n\r\n- **Admin**\r\n  - Nom d'utilisateur : Admin\r\n  - Mot de passe : UICS_Test+\r\n  - Note: Contrôle administratif complet. Accorde l'accès à des fonctions de commande sécurisées, à des canaux chiffrés et à des capacités de dépassement de terminal."
     },
     {
       "ns": "",
@@ -904,13 +904,13 @@
       "ns": "",
       "key": "1E1BAE1A4173AEFB1D6A8EB2070F3F05",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
       "key": "1E1D7A5342CC59B3D62A529CE62B4E2E",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -934,7 +934,7 @@
       "ns": "",
       "key": "1E6228254640AC5EA5323A8E2660ED39",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -1018,7 +1018,7 @@
       "ns": "",
       "key": "1F05207D4F349C1F38EC4DAC250FBAA1",
       "source": "Golden stick to hold a candle.",
-      "text": "Un bâton d'or pour tenir une bougie."
+      "text": "Bougeoir doré."
     },
     {
       "ns": "",
@@ -1054,7 +1054,7 @@
       "ns": "",
       "key": "1F38B23A486F2F5647F525BDED614AF4",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -1114,13 +1114,13 @@
       "ns": "",
       "key": "1F8DD72747E18F362CB210B55ECA447F",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "1F98BE874B4DEF19246B02B7BE3FDD76",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -1132,7 +1132,7 @@
       "ns": "",
       "key": "1FA1E8764FC42A5F9463E69A7A33E868",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",

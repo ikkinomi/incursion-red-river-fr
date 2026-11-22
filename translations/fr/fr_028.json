@@ -40,7 +40,7 @@
       "ns": "",
       "key": "DAF07521446858414FC36C8D9EC18C00",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -100,7 +100,7 @@
       "ns": "",
       "key": "DB3886C94FBB59FC4B109A864780D614",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -184,7 +184,7 @@
       "ns": "",
       "key": "DBF5000846E06D0FF2D873BBA298EDDA",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -238,7 +238,7 @@
       "ns": "",
       "key": "DC17CDD44BBA75FBDAEC25ACB28512F0",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -274,7 +274,7 @@
       "ns": "",
       "key": "DC62BD1F4552F49672A5708D19809DDC",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -292,13 +292,13 @@
       "ns": "",
       "key": "DC7D75034CEF85D93E77CD9918F2B293",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "DCA026824FAB825C0ACB6D8971AAD2A3",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -352,7 +352,7 @@
       "ns": "",
       "key": "DCFC6ADB44BB37435DF748B5C1A991DB",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -406,7 +406,7 @@
       "ns": "",
       "key": "DD92C4D04934B32C671706A8F191046A",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -454,13 +454,13 @@
       "ns": "",
       "key": "DDBF9BDE48DB4113426610AFA548147E",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
       "key": "DDCC8DB442335AADF0E32C9758D658C3",
       "source": "ITEM;QTY;STATUS\r\n5.45x39 BT;1200;in stock\r\n7.62x39 PS;640;low\r\nIFAK;14;in stock\r\nBattery pack (USB);3;reserved for intrusion kit\r\nMRE;22;in stock\r\nFuel (L);40;critical",
-      "text": "OBJET;QTÉ;STATUT\n5.45x39 BT;1200;en stock\n7.62x39 PS;640;faible\nIFAK;14;en stock\nBloc batterie (USB);3;réservé au kit d'intrusion\nMRE;22;en stock\nCarburant (L);40;critique"
+      "text": "OBJET;QTÉ;STATUT\r\n5.45x39 BT;1200;en stock\r\n7.62x39 PS;640;faible\r\nIFAK;14;en stock\r\nBloc batterie (USB);3;réservé au kit d'intrusion\r\nMRE;22;en stock\r\nCarburant (L);40;critique"
     },
     {
       "ns": "",
@@ -532,7 +532,7 @@
       "ns": "",
       "key": "DE67990443AD9C9AA2D24BBC0CD35E70",
       "source": "Shutting down the terminal...\r\nTerminal secure. You may now extract safely.",
-      "text": "Arrêter le terminal...\nVous pouvez maintenant extraire en toute sécurité."
+      "text": "Arrêt du terminal...\r\nTerminal sécurisé. Tu peux maintenant rejoindre l'extraction."
     },
     {
       "ns": "",
@@ -550,7 +550,7 @@
       "ns": "",
       "key": "DE8D3132440C9E14172F4687AAC68DDF",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -586,13 +586,13 @@
       "ns": "",
       "key": "DEBA75354D0EEDD2B77132BAB472DF95",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "DEC14153453EEBE6E54EAD9B3408BC2A",
       "source": "Soldier, we’ve identified a data terminal inside the VLF’s underground installation — in the large cave section of their bunker. That terminal contains intel critical to our forward planning.\r\nYour orders are to infiltrate the site, locate the terminal, and run a full scan of the specified file. You won’t need to retrieve the file — we only need a diagnostic.\r\nThis is enemy ground. Keep it tight, stay mobile, and don’t waste time once the scan begins. If they catch wind of you, you’ll have to fight your way out.",
-      "text": "Soldat, nous avons identifié un terminal de données à l'intérieur de l'installation souterraine de VLF, dans la grande grotte de leur bunker. Ce terminal contient des informations essentielles à notre planification.\nVos commandes sont d'infiltrer le site, de localiser le terminal, et run un scan complet du fichier spécifié. Vous n'avez pas besoin de récupérer le fichier — nous avons seulement besoin d'un diagnostic.\nC'est une terre ennemie. Gardez-le serré, restez mobile et ne perdez pas de temps une fois que le scan commence. S'ils prennent vent de toi, tu devras te battre pour sortir."
+      "text": "Soldat, nous avons identifié un terminal de données à l'intérieur de l'installation souterraine de VLF, dans la grande grotte de leur bunker. Ce terminal contient des informations essentielles à notre planification.\r\nVos commandes sont d'infiltrer le site, de localiser le terminal, et run un scan complet du fichier spécifié. Vous n'avez pas besoin de récupérer le fichier — nous avons seulement besoin d'un diagnostic.\r\nC'est une terre ennemie. Gardez-le serré, restez mobile et ne perdez pas de temps une fois que le scan commence. S'ils prennent vent de toi, tu devras te battre pour sortir."
     },
     {
       "ns": "",
@@ -640,13 +640,13 @@
       "ns": "",
       "key": "DF1FD7C24423CCFBBE114FAA65F26D24",
       "source": "...hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "... Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
       "key": "DF222181420984D9B2E879A656AF00CA",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -730,7 +730,7 @@
       "ns": "",
       "key": "DF9E215649DBD70715792F9702F7FAEA",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -796,13 +796,13 @@
       "ns": "",
       "key": "DFFC3AC14D1CED9D7B60D18D81596F8E",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "E003E34C4F28E6FEC06FE6B336E62F75",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -814,13 +814,13 @@
       "ns": "",
       "key": "E00D208E4612E08790836AA4D77BC01D",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
       "key": "E01429C947131EF089F7EE83B6F2D99F",
       "source": "Laser Range Finder",
-      "text": "Laser Range Finder"
+      "text": "Télémètre laser"
     },
     {
       "ns": "",
@@ -856,7 +856,7 @@
       "ns": "",
       "key": "E06C5CF7444FC994AA55D3AD82B227EA",
       "source": "Go to the cargo storage area and install the jammers.",
-      "text": "Allez dans la zone de stockage du fret et installez les jammers."
+      "text": "Allez dans la zone de stockage du fret et installez les brouilleurs."
     },
     {
       "ns": "",
@@ -904,7 +904,7 @@
       "ns": "",
       "key": "E0AB23014FB5DB4588E69DAF7243F94E",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -916,7 +916,7 @@
       "ns": "",
       "key": "E0BA2F1E413AC0282B291DB42DBD7EBE",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -928,7 +928,7 @@
       "ns": "",
       "key": "E0D28B4148990394671CBF828E3EAD8E",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -964,7 +964,7 @@
       "ns": "",
       "key": "E0F0E263485C38560CF876932FD1219D",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -1000,7 +1000,7 @@
       "ns": "",
       "key": "E13D79FC4B4522AFD96014B848AA2D59",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -1072,7 +1072,7 @@
       "ns": "",
       "key": "E193455E45AF20844A71F7B13B81CF18",
       "source": "Available Commands:\r\n\r\n1. help - Display available commands and their descriptions.\r\n2. dir - Display all of the files and folders in the current directory.\r\n3. pop - Switch back to previous directory (e.g. go back).\r\n4. login - Enter new login credentials to change the user & permissions.\r\n5. cd <directory> - Change directory to navigate within the terminal system.\r\n6. run <file_id> - Execute the exe file.\r\n7. download <file_id> - Download content from target file.\r\n8. scan <file_id> - Scan content from file.\r\n9. read <file_id> - Reading content of file.\r\n10. shutdown - Shutdown the terminal.\r\n\r\n**Additional help**\r\n\r\n> To find a file, try changing directories via cd <directory> and us the dir command to display all available files at the current level\r\n> Some directories require special access. Use the login command to get Admin access. You may have to take a look at the users file to find the credentials.",
-      "text": "Commandes disponibles :\n\n1. help - Affiche les commandes disponibles et leurs descriptions.\n2. dir - Affiche tous les fichiers et dossiers du répertoire actuel.\n3. pop - Retourner au répertoire précédent (par exemple, revenir en arrière).\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\n6. run <file_id> - Exécutez le fichier exe.\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\n8. scan <file_id> - Scanner le contenu du fichier.\n9. read <file_id> - Lecture du contenu du fichier.\n10. Arrêt - Arrêt du terminal.\n\n**Supplémentaire help**\n\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et nous la commande dir pour afficher tous les fichiers disponibles au niveau actuel\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
+      "text": "Commandes disponibles :\r\n\r\n1. help - Affiche les commandes disponibles et leurs descriptions.\r\n2. dir - Affiche tous les fichiers et dossiers du répertoire actuel.\r\n3. pop - Retourner au répertoire précédent (par exemple, revenir en arrière).\r\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\r\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\r\n6. run <file_id> - Exécutez le fichier exe.\r\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\r\n8. scan <file_id> - Scanner le contenu du fichier.\r\n9. read <file_id> - Lecture du contenu du fichier.\r\n10. Arrêt - Arrêt du terminal.\r\n\r\n**Supplémentaire help**\r\n\r\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et nous la commande dir pour afficher tous les fichiers disponibles au niveau actuel\r\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
     },
     {
       "ns": "",
@@ -1090,7 +1090,7 @@
       "ns": "",
       "key": "E1B3B11145B15694D414AE88192F0FBE",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -1144,7 +1144,7 @@
       "ns": "",
       "key": "E2011A7E41C3C4772E02808BDC6D2061",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -1174,7 +1174,7 @@
       "ns": "",
       "key": "E2384E4B4FCDC471617F79BB75CA07FF",
       "source": "# OSK-3 Account Register (excerpt)\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: Public bulletins. No write access.\r\n\r\n- **Quartermaster**\r\n  - Username: Quartermaster\r\n  - Password: Harbor#Ware4\r\n  - Note: Logistics directory. Warehouse stock, harbor and vehicle maintenance.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Note: Credential withheld from this register by order of Port Command (Directive 7-P). Ask the duty quartermaster for the current rotation.",
-      "text": "# Registre de compte OSK-3 (extrait)\n\n- **Guest**\n  - Nom d'utilisateur : Guest\n  - Mot de passe : accessUICS\n  - Note: Bulletins publics. Pas d'accès écrit.\n\n- **Quartermaster**\n  - Nom d'utilisateur : Quartermaster\n  - Mot de passe : Harbor#Ware4\n  - Note: annuaire logistique. Entrepôt crosse, entretien du port et du véhicule.\n\n- **Admin**\n  - Nom d'utilisateur : Admin\n  - Note : Titre de créance retenu de ce registre par ordre du Commandement Port (Directive 7-P). Demandez au quartier-maître de service pour la rotation actuelle."
+      "text": "# Registre de compte OSK-3 (extrait)\r\n\r\n- **Guest**\r\n  - Nom d'utilisateur : Guest\r\n  - Mot de passe : accessUICS\r\n  - Note: Bulletins publics. Pas d'accès écrit.\r\n\r\n- **Quartermaster**\r\n  - Nom d'utilisateur : Quartermaster\r\n  - Mot de passe : Harbor#Ware4\r\n  - Note: annuaire logistique. Entrepôt crosse, entretien du port et du véhicule.\r\n\r\n- **Admin**\r\n  - Nom d'utilisateur : Admin\r\n  - Note : Titre de créance retenu de ce registre par ordre du Commandement Port (Directive 7-P). Demandez au quartier-maître de service pour la rotation actuelle."
     },
     {
       "ns": "",
@@ -1192,13 +1192,13 @@
       "ns": "",
       "key": "E2A81A184CB2262A45312D8DF389FA02",
       "source": "Toggle Holster",
-      "text": "Toggle Holster"
+      "text": "Ranger / sortir l'arme"
     },
     {
       "ns": "",
       "key": "E2AC824E458F9E014D1895ABDC933918",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     }
   ]
 }

@@ -76,13 +76,13 @@
       "ns": "",
       "key": "9A8D8051483A748A5AFD67A2F7C1627B",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "9A935E574E3C578BE77A069019449192",
       "source": "Key for compact safes on Outskirts.",
-      "text": "Clé pour les coffres compacts sur Périphérie."
+      "text": "Clé pour les coffres compacts sur Outskirts."
     },
     {
       "ns": "",
@@ -154,7 +154,7 @@
       "ns": "",
       "key": "9B2D46E1C07F4A83B5E8D1A6F3C0B725",
       "source": "Terminals in raid hold intel, access codes and files linked to your contracts. Navigate them with commands such as \"dir\", \"cd\" and \"read\" – type \"help\" on any terminal for the full list. Be careful: starting a terminal will not go unnoticed – expect hostile forces to respond.\r\n\r\nProtected folders require valid credentials. The \"hack\" command breaks in automatically – it works through every folder and file for you and bypasses logins without credentials, leaving you free to defend your position.",
-      "text": "Terminals dans raid hold intel, codes d'accès et fichiers liés à vos contrats. Naviguez avec des commandes telles que \"dir\", \"cd\" et \"read\" – tapez \"help\" sur n'importe quel terminal pour la liste complète. Attention : le démarrage d'un terminal ne passera pas inaperçu – attendez-vous à ce que les forces hostiles répondent.\n\nLes dossiers protégés nécessitent des identifiants valides. La commande \"hack\" s'introduit automatiquement – elle fonctionne dans chaque dossier et fichier pour vous et contourne les connexions sans identifiants, vous laissant libre de défendre votre position."
+      "text": "Terminals dans raid hold intel, codes d'accès et fichiers liés à vos contrats. Naviguez avec des commandes telles que \"dir\", \"cd\" et \"read\" – tapez \"help\" sur n'importe quel terminal pour la liste complète. Attention : le démarrage d'un terminal ne passera pas inaperçu – attendez-vous à ce que les forces hostiles répondent.\r\n\r\nLes dossiers protégés nécessitent des identifiants valides. La commande \"hack\" s'introduit automatiquement – elle fonctionne dans chaque dossier et fichier pour vous et contourne les connexions sans identifiants, vous laissant libre de défendre votre position."
     },
     {
       "ns": "",
@@ -166,7 +166,7 @@
       "ns": "",
       "key": "9B419C8444BA86A21405FEB9C1C41B93",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -220,7 +220,7 @@
       "ns": "",
       "key": "9BC2413742564E627CB566AF8F3D62F5",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -244,7 +244,7 @@
       "ns": "",
       "key": "9BD1A63B4304C7B978B1F8A784E4A991",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -274,13 +274,13 @@
       "ns": "",
       "key": "9BF3463B40A87EA1295FBDA0FF3214C3",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "9BFA8F764D678FA1A6CF0DAB2A0FBE76",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -298,7 +298,7 @@
       "ns": "",
       "key": "9C19BDBD4ACA180CF5622698E2668798",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -388,13 +388,13 @@
       "ns": "",
       "key": "9C864E874489F2D3AE4A68B8E08FEF5F",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "9C8BDD304A864B00171E15B9508CDBA3",
       "source": "...hello? Yup, done. Head on out.",
-      "text": "Ouais, c'est fini, vas-y."
+      "text": "... Tu me reçois ? Oui, c’est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -412,7 +412,7 @@
       "ns": "",
       "key": "9CA131D94A05AB3BC9CEDE9C03359468",
       "source": "Place the intel in the pipes maintenance room\r\nnear the cave.",
-      "text": "Placez l'info dans la salle d'entretien des tuyaux\nprès de la grotte."
+      "text": "Placez l'info dans la salle d'entretien des tuyaux\r\nprès de la grotte."
     },
     {
       "ns": "",
@@ -436,7 +436,7 @@
       "ns": "",
       "key": "9CDBA404457E6D32244FBDB00982DEE3",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -454,7 +454,7 @@
       "ns": "",
       "key": "9D081D744486C6029341528F3A0C5576",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
@@ -532,7 +532,7 @@
       "ns": "",
       "key": "9D961D0240403EE4164FA88583891759",
       "source": "Hey there! It seems to me that the soldiers near the quarry, those living in the container houses, might have switched allegiances. Can you deploy some eavesdropping devices around there? We need solid proof that these deceivers aren’t stabbing us in the back. Don't pull any punches.",
-      "text": "Bonjour ! Il me semble que les soldats près de la carrière, ceux qui vivent dans les maisons-conteneurs, auraient pu changer d'allégeance. Pouvez-vous déployer des appareils d'écoute là-bas ? Nous avons besoin de preuves solides que ces trompeurs ne nous poignardent pas dans le dos. Ne tirez pas les coups."
+      "text": "Bonjour ! Il me semble que les soldats près de Quarry, ceux qui vivent dans les maisons-conteneurs, auraient pu changer d'allégeance. Pouvez-vous déployer des appareils d'écoute là-bas ? Nous avons besoin de preuves solides que ces trompeurs ne nous poignardent pas dans le dos. Ne tirez pas les coups."
     },
     {
       "ns": "",
@@ -616,7 +616,7 @@
       "ns": "",
       "key": "9DF255BA45263F190C07FB9E6226B9EE",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -634,7 +634,7 @@
       "ns": "",
       "key": "9E0B98E24B0C2C094B955691F6EA7EE4",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -670,7 +670,7 @@
       "ns": "",
       "key": "9E3153C148F898F1D40CCF99BB3904AD",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -724,7 +724,7 @@
       "ns": "",
       "key": "9EAAA7714BCFF3B28D956686F55E066E",
       "source": "CPU ........ OK\r\nStorage .... OK (61% used)\r\nUplink ..... DEGRADED\r\nPower ...... ON GENERATOR\r\nDiagnostics finished, 1 warning.",
-      "text": "CPU ........ OK\nStockage .... OK (61% utilisé)\nLien ascendant ..... DÉGRADÉ\nPuissance ...... sur GENERATEUR\nDiagnostic terminé, 1 avertissement."
+      "text": "CPU ........ OK\r\nStockage .... OK (61% utilisé)\r\nLien ascendant ..... DÉGRADÉ\r\nPuissance ...... sur GENERATEUR\r\nDiagnostic terminé, 1 avertissement."
     },
     {
       "ns": "",
@@ -742,7 +742,7 @@
       "ns": "",
       "key": "9EBEEE3349DE336D51B7238E27EA1A5A",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -784,7 +784,7 @@
       "ns": "",
       "key": "9F12BB1849DF00600BDD4483FAEC51A0",
       "source": "Status: {Status}\r\nParent: {Mission Name}",
-      "text": "Statut : {Status}\nParent : {Mission Name}"
+      "text": "Statut : {Status}\r\nParent : {Mission Name}"
     },
     {
       "ns": "",
@@ -808,19 +808,19 @@
       "ns": "",
       "key": "9F3BDD964C53229F324038ADCB17628B",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "9F51D2BE401207C298B32FA5EAEA1128",
       "source": "Error: Command \"{command}\" not recognized. Please enter a valid command. Or type \"help\" for a list of available commands.",
-      "text": "Erreur : commande \"{command}\" non reconnu. Veuillez saisir une commande valide. Ou tapez \"help\" pour une liste de commandes disponibles."
+      "text": "Erreur : commande \"{command}\" non reconnue. Saisis une commande valide ou tape \"help\" pour afficher les commandes disponibles."
     },
     {
       "ns": "",
       "key": "9F5748F14A0AECEBCF53CBAB3DF9EA28",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -856,7 +856,7 @@
       "ns": "",
       "key": "9FA044BA476DE1F164DD07B1A669F5DF",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -892,7 +892,7 @@
       "ns": "",
       "key": "9FCBA8DA4642C808A92B47BF465798C3",
       "source": "Trash PANDA",
-      "text": "Corbeille PANDA"
+      "text": "Trash PANDA"
     },
     {
       "ns": "",
@@ -976,7 +976,7 @@
       "ns": "",
       "key": "A0463068407B2546BED30D8A9DD4E177",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -988,13 +988,13 @@
       "ns": "",
       "key": "A06EFBD944792474696FCFB80A5C430A",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
       "key": "A07FC74D4F14930BE8893AB991975A10",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -1132,7 +1132,7 @@
       "ns": "",
       "key": "A17D07064EB635D157E8A892A7A39F5E",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -1180,7 +1180,7 @@
       "ns": "",
       "key": "A218ED574F5519EFCDB3B6850B9B61B9",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",

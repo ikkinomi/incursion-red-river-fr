@@ -22,7 +22,7 @@
       "ns": "",
       "key": "8A14367940DBD8CAE64D3B8DB6011764",
       "source": "Go to storage area and place the bugs.",
-      "text": "Allez dans la zone de stockage et placez les bugs."
+      "text": "Allez dans la zone de stockage et placez les micros."
     },
     {
       "ns": "",
@@ -52,7 +52,7 @@
       "ns": "",
       "key": "8A3B2C8048A1DE3527A2058548842253",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -136,7 +136,7 @@
       "ns": "",
       "key": "8AE541C74D2874250085BA8CC6F2558E",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -166,13 +166,13 @@
       "ns": "",
       "key": "8B0C91B9463EA7B552384183ACA78666",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "8B2556A34110EF3CF73EA6B4F7C181EB",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -208,7 +208,7 @@
       "ns": "",
       "key": "8B53974641D02A01C92AC5BCC79DBB32",
       "source": "Access denied. {user} is not cleared for this directory.\r\nRequired clearance: Admin.",
-      "text": "Accès refusé. {user} n'est pas autorisé pour ce répertoire.\nniveau d'accès requis: Admin."
+      "text": "Accès refusé. {user} n'est pas habilité à ouvrir ce répertoire.\r\nHabilitation requise : Admin."
     },
     {
       "ns": "",
@@ -262,7 +262,7 @@
       "ns": "",
       "key": "8B8AFA98462AF927F617AE8BDC9AFA77",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -316,7 +316,7 @@
       "ns": "",
       "key": "8BE996BB4CEAB4C5D48B9DB2C80C3614",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -334,7 +334,7 @@
       "ns": "",
       "key": "8BFB9FC944709FA06FB9E4B367460A39",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -352,13 +352,13 @@
       "ns": "",
       "key": "8C3BD74B498BB0BA7465428B9E22E573",
       "source": "Shutting down the terminal...\r\nTerminal secure. You may now extract safely.",
-      "text": "Arrêter le terminal...\nVous pouvez maintenant extraire en toute sécurité."
+      "text": "Arrêt du terminal...\r\nTerminal sécurisé. Tu peux maintenant rejoindre l'extraction."
     },
     {
       "ns": "",
       "key": "8C3E772549CED4AF13A74D8DB75BE8A5",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -406,7 +406,7 @@
       "ns": "",
       "key": "8C8BA49443DB988FB6F230806E1C9529",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -430,7 +430,7 @@
       "ns": "",
       "key": "8CB45B6C42AE290C2B1BC4B2086DEB73",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -586,7 +586,7 @@
       "ns": "",
       "key": "8DBC277E424F51DE69EBC6AB9909DE2F",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -676,7 +676,7 @@
       "ns": "",
       "key": "8E5B7B254BC742EAF79A62A51A008FEC",
       "source": "Error: Command \"{command}\" not recognized. Please enter a valid command. Or type \"help\" for a list of available commands.",
-      "text": "Erreur : commande \"{command}\" non reconnu. Veuillez saisir une commande valide. Ou tapez \"help\" pour une liste de commandes disponibles."
+      "text": "Erreur : commande \"{command}\" non reconnue. Saisis une commande valide ou tape \"help\" pour afficher les commandes disponibles."
     },
     {
       "ns": "",
@@ -706,7 +706,7 @@
       "ns": "",
       "key": "8E7DC95340671635EF7C5088C72994E9",
       "source": "QUARRY",
-      "text": "CARRIÈRE"
+      "text": "QUARRY"
     },
     {
       "ns": "",
@@ -736,7 +736,7 @@
       "ns": "",
       "key": "8EDC4ABA4BE60A00C7DDBABED1F674CA",
       "source": "Venture into the heart of the Quarry and extract vital information from the VLF. Subsequently, ensure its placement within a UICS secure container. It should blend seamlessly, as if part of their own secrets. Your extraction is crucial, but do so with minimal impact. We seek to liberate, not further harm.",
-      "text": "S'aventurer au cœur de la carrière et extraire des informations vitales de la VLF. Par la suite, assurez-vous de le placer dans un conteneur sécurisé UICS. Il devrait se fondre parfaitement, comme s'il faisait partie de leurs propres secrets. Votre extraction est crucial, mais le faire avec un impact minimal. Nous cherchons à libérer, et non à faire de nouveaux torts."
+      "text": "S'aventurer au cœur de Quarry et extraire des informations vitales de la VLF. Par la suite, assurez-vous de le placer dans un conteneur sécurisé UICS. Il devrait se fondre parfaitement, comme s'il faisait partie de leurs propres secrets. Votre extraction est crucial, mais le faire avec un impact minimal. Nous cherchons à libérer, et non à faire de nouveaux torts."
     },
     {
       "ns": "",
@@ -754,7 +754,7 @@
       "ns": "",
       "key": "8F0126E6499D889C59B955821C3CFAE2",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -772,13 +772,13 @@
       "ns": "",
       "key": "8F1FAE2F4F013F5AD0BAF88353ACB245",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "8F2867A6418C72B9952EA5806FC56D65",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -802,7 +802,7 @@
       "ns": "",
       "key": "8F4706AC4AB7D4DD469DE38CBB8333B4",
       "source": "Key for the large safes on Outskirts.",
-      "text": "Clé pour les grands coffres sur Périphérie."
+      "text": "Clé pour les grands coffres sur Outskirts."
     },
     {
       "ns": "",
@@ -814,13 +814,13 @@
       "ns": "",
       "key": "8F6D35074A44E93CD8D0469EC0A69E92",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
       "key": "8F757A9E48F7B725F02BA388360D35DC",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -850,7 +850,7 @@
       "ns": "",
       "key": "8FB0B48E45B2D730EDB81E87AF0F3AFF",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -940,7 +940,7 @@
       "ns": "",
       "key": "908F17404FE1F1DF8A292B8D5939379F",
       "source": "I hope you got to see that airstrike hit. Well done, maybe what you got from the convoy will prove helpful too.",
-      "text": "J'espère que tu dois voir cette frappe aérienne. Bien joué, peut-être que ce que vous avez obtenu du convoi sera utile aussi."
+      "text": "J’espère que tu as vu la frappe aérienne toucher sa cible. Beau travail. Ce que tu as récupéré dans le convoi pourrait aussi nous être utile."
     },
     {
       "ns": "",
@@ -1102,7 +1102,7 @@
       "ns": "",
       "key": "91D0E76A4E14A4B5C2D4EB978C406291",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -1168,7 +1168,7 @@
       "ns": "",
       "key": "923669984B75C0F3497B4B9EE0B9C616",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -1186,7 +1186,7 @@
       "ns": "",
       "key": "92438BA447970B7B029C66AA36BB0C36",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",

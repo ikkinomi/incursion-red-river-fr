@@ -4,7 +4,7 @@
       "ns": "",
       "key": "2843BF0C466099AC481AF4B2A7DB5385",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -16,7 +16,7 @@
       "ns": "",
       "key": "284D982C4A8B97DED347EE896E37A1C4",
       "source": "{r} downloaded file successfully. ",
-      "text": "{r} a téléchargé le fichier avec succès. "
+      "text": "{r} : fichier téléchargé avec succès. "
     },
     {
       "ns": "",
@@ -52,7 +52,7 @@
       "ns": "",
       "key": "286D0A734710DB1AB7A66291D4893934",
       "source": "Toggle to show a dedicated notify when your weapon malfunctions or not. \r\n\r\nIf turned off, you need to rely on the audio cue.",
-      "text": "Activer pour afficher une notification dédiée lorsque votre arme dysfonctionnements ou non. \n\nSi vous êtes éteint, vous devez compter sur le signal audio."
+      "text": "Activer pour afficher une notification dédiée lorsque votre arme dysfonctionnements ou non. \r\n\r\nSi vous êtes éteint, vous devez compter sur le signal audio."
     },
     {
       "ns": "",
@@ -70,13 +70,13 @@
       "ns": "",
       "key": "289480004BC60CED0A25AB850A3ED694",
       "source": "Quarry G-Key",
-      "text": "Clé G de la carrière"
+      "text": "Clé G de Quarry"
     },
     {
       "ns": "",
       "key": "289B4D714CDBB0781F19C69E90C2F7C2",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -106,7 +106,7 @@
       "ns": "",
       "key": "28EAF51B4645A932FA733694C3F939E1",
       "source": "ANALYSIS RESULT\r\n-----------------------------------------------------\r\nObjects identified: 2x light utility vehicle, 1x mast antenna, 6-8 personnel.\r\nMarkings: UICS engineering corps.\r\nTimestamp in metadata: 04:12, two days ago.\r\n-----------------------------------------------------\r\nResult archived.",
-      "text": "RÉSULTATS ANALYTIQUES\n-----------------------------------------------------\nObjets identifiés : 2x utilitaire léger, 1x mât d'antenne, 6-8 personnes.\nMarquages : Corps d'ingénierie UICS.\nTimestamp dans les métadonnées: 04:12, il y a deux jours.\n-----------------------------------------------------\nRésultat archivé."
+      "text": "RÉSULTATS ANALYTIQUES\r\n-----------------------------------------------------\r\nObjets identifiés : 2x utilitaire léger, 1x mât d'antenne, 6-8 personnes.\r\nMarquages : Corps d'ingénierie UICS.\r\nTimestamp dans les métadonnées: 04:12, il y a deux jours.\r\n-----------------------------------------------------\r\nRésultat archivé."
     },
     {
       "ns": "",
@@ -124,7 +124,7 @@
       "ns": "",
       "key": "291AEEA14FF540BC8F8C9EAF76EBA22B",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -148,7 +148,7 @@
       "ns": "",
       "key": "29495DD143B2FB4E26A945AD57DAC280",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -226,7 +226,7 @@
       "ns": "",
       "key": "29BA0CA24F2E2D20F3FC0D8528CF4055",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -310,7 +310,7 @@
       "ns": "",
       "key": "2A31BA5747094C7776FC1FB7ECC7FB86",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -334,7 +334,7 @@
       "ns": "",
       "key": "2A409F7649F5B8191AD3F6ABC3D07ADC",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -376,7 +376,7 @@
       "ns": "",
       "key": "2A75C4F54A4A067A39693F8A0F117AA4",
       "source": "Decrypted. Contents:\r\n--------------------------------\r\nFANG // COURIER NOTE // EYES ONLY\r\nDrop moved. The old pump house is burned - every faction on the net has its grid ref now.\r\nNew drop: second culvert under the north road, marked with blue tape.\r\nBring the key back with you. Without it this note is just noise on the drive.\r\n--------------------------------",
-      "text": "Déchiffré. Contenu :\n--------------------------------\nFANG // NOTE DE COURIER // YEUX SEULEMENT\nLâche-toi. L'ancienne maison de pompes est brûlée - chaque faction sur le filet a sa grille ref maintenant.\nNouvelle goutte : deuxième ponceau sous la route nord, marqué d'un ruban bleu.\nRamène la clé avec toi. Sans elle, cette note est juste du bruit sur le lecteur.\n--------------------------------"
+      "text": "Déchiffré. Contenu :\r\n--------------------------------\r\nFANG // NOTE DE COURIER // YEUX SEULEMENT\r\nLâche-toi. L'ancienne maison de pompes est brûlée - chaque faction sur le filet a sa grille ref maintenant.\r\nNouvelle goutte : deuxième ponceau sous la route nord, marqué d'un ruban bleu.\r\nRamène la clé avec toi. Sans elle, cette note est juste du bruit sur le lecteur.\r\n--------------------------------"
     },
     {
       "ns": "",
@@ -424,13 +424,13 @@
       "ns": "",
       "key": "2AE93671466366348B8609A2722D7D9C",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "2AF27951459B8D226937BF844AA8A87F",
       "source": "Antique Plate",
-      "text": "Antique Plate"
+      "text": "Assiette ancienne"
     },
     {
       "ns": "",
@@ -484,13 +484,13 @@
       "ns": "",
       "key": "2B2C3B3346AF3E3B986DEF8A739E5327",
       "source": "Scan Intercept_0711.zip from the Intercepts directory within the terminal.",
-      "text": "Numériser Intercept_0711.zip à partir du répertoire Intercepts dans le terminal."
+      "text": "Analyse Intercept_0711.zip dans le répertoire Intercepts du terminal."
     },
     {
       "ns": "",
       "key": "2B32B5A14C82D1875F23F9B5FCF208C1",
       "source": "Fits on the Leupold DeltaPoint mount and selected pistol slides.",
-      "text": "S'adapte sur le support DeltaPoint Leupold et sélectionne des toboggans pour pistolet."
+      "text": "Compatible avec le support Leupold DeltaPoint et certaines culasses de pistolet."
     },
     {
       "ns": "",
@@ -514,7 +514,7 @@
       "ns": "",
       "key": "2B6BC85C42F322EC7A9BC1ABAEF56BA3",
       "source": "Initiating scan of classified document...\r\nPlease wait, retrieving data...",
-      "text": "Lancement d'un scan de documents classifiés...\nS'il vous plaît attendez, récupérer des données..."
+      "text": "Lancement d'un scan de documents classifiés...\r\nS'il vous plaît attendez, récupérer des données..."
     },
     {
       "ns": "",
@@ -586,13 +586,13 @@
       "ns": "",
       "key": "2BC732C64D8D91AD7B07DF81601E5899",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
       "key": "2BC8D8BF4D343FAD45828EBF6229B569",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -616,7 +616,7 @@
       "ns": "",
       "key": "2C20E17742D07669573D07B4312DC2CE",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -634,7 +634,7 @@
       "ns": "",
       "key": "2C24AE5D4CD52F46CAE948BAC1405C88",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -658,7 +658,7 @@
       "ns": "",
       "key": "2C534AE145292E834DF170A763CF1FE5",
       "source": "# WELCOME TO OUTSKIRTS (2011 investor brochure, archived)\r\n\r\nDear guest,\r\n\r\nWelcome to the Outskirts Communications & Conference Complex. You are standing at the gateway to the region's future.\r\n\r\n- A deep-water port, ready for trade\r\n- A brand-new resort on the north shore, opening next season\r\n- An airstrip with direct connections\r\n- Coastal apartments for a growing workforce, and a processing plant under way\r\n\r\nInvest in Outskirts today, and help bring stability and prosperity to the whole region.\r\n\r\n> Handwritten in the margin: \"The vacationers never came. The VLF did.\"",
-      "text": "# BIENVENUE À Périphérie (dépliant des investisseurs de 2011, archivé)\n\nCher invité,\n\nBienvenue dans le complexe de communications et conférences Périphérie. Vous êtes à la porte de l'avenir de la région.\n\n- Un port en eau profonde, prêt pour le commerce\n- Un tout nouveau resort sur la rive nord, ouvrant la saison prochaine\n- Une piste d'atterrissage avec connexions directes\n- Appartements côtiers pour une main-d'œuvre croissante et une usine de transformation en cours\n\nInvestir dans Périphérie aujourd'hui et contribuer à la stabilité et à la prospérité de toute la région.\n\n> Écrit à la main dans la marge : « Les vacanciers ne sont jamais venus. Le VLF l'a fait »."
+      "text": "# BIENVENUE À OUTSKIRTS (dépliant des investisseurs de 2011, archivé)\r\n\r\nCher invité,\r\n\r\nBienvenue dans le complexe de communications et conférences OUTSKIRTS. Vous êtes à la porte de l'avenir de la région.\r\n\r\n- Un port en eau profonde, prêt pour le commerce\r\n- Un tout nouveau resort sur la rive nord, ouvrant la saison prochaine\r\n- Une piste d'atterrissage avec connexions directes\r\n- Appartements côtiers pour une main-d'œuvre croissante et une usine de transformation en cours\r\n\r\nInvestir dans OUTSKIRTS aujourd'hui et contribuer à la stabilité et à la prospérité de toute la région.\r\n\r\n> Écrit à la main dans la marge : « Les vacanciers ne sont jamais venus. Le VLF l'a fait »."
     },
     {
       "ns": "",
@@ -688,7 +688,7 @@
       "ns": "",
       "key": "2C8A946F4A238550B03893B0C312B651",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -712,7 +712,7 @@
       "ns": "",
       "key": "2CCB209F4A7C1CD364DCBFA18A75D467",
       "source": "Unload Ammo",
-      "text": "Déchargez munitions"
+      "text": "Retirer les munitions"
     },
     {
       "ns": "",
@@ -724,7 +724,7 @@
       "ns": "",
       "key": "2CE7B56E4E7F542E3545F18A3C014C94",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -736,13 +736,13 @@
       "ns": "",
       "key": "2D1E5A9847514CA7B6B676988B473620",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
       "key": "2D2DCA4A413E53D5D5B0D6A1C8F8C097",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -772,7 +772,7 @@
       "ns": "",
       "key": "2D51AA5B4FBBD122879800AD2C6079F7",
       "source": "Threaded",
-      "text": "Threaded"
+      "text": "Fileté"
     },
     {
       "ns": "",
@@ -904,7 +904,7 @@
       "ns": "",
       "key": "2E72DA6B469927F130ACAE91ACA35623",
       "source": "Shutting down Port Node OSK-3...\r\nSession closed. Node secure.",
-      "text": "Arrêt du port Node OSK-3...\nLa séance est fermée."
+      "text": "Arrêt du nœud portuaire OSK-3...\r\nSession fermée. Nœud sécurisé."
     },
     {
       "ns": "",
@@ -916,7 +916,7 @@
       "ns": "",
       "key": "2E7D43BC4F2E9DA43843EF9931EDCDB7",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -934,7 +934,7 @@
       "ns": "",
       "key": "2E9844A04A200B6B3F43BDBD2577EF50",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
@@ -952,7 +952,7 @@
       "ns": "",
       "key": "2EAC33E145F696952FD1348BBD6725D2",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -994,7 +994,7 @@
       "ns": "",
       "key": "2EFD9F7040532313D4C852BEBCE2050A",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -1006,7 +1006,7 @@
       "ns": "",
       "key": "2F1F516C47FB88B05849B993B456D9C2",
       "source": "OPERATION BRIEFING - QUARRY\r\nClassification: FANG Internal\r\n-----------------------------------------------------\r\nUICS has moved a weather relay and two patrol elements into the quarry basin. VLF scouts were sighted on the north ridge last night.\r\n\r\nObjective: recover the relay logs, avoid contact with VLF, extract before dawn.\r\nSupport: none. Assume both factions are hostile to us.\r\n-----------------------------------------------------\r\nEnd of briefing.",
-      "text": "BREF D'OPÉRATION - QUARRY\nClassement: FANG Interne\n-----------------------------------------------------\nUICS a déplacé un relais météorologique et deux éléments de patrouille dans le bassin de la carrière. Des éclaireurs VLF ont été repérés sur la crête nord la nuit dernière.\n\nObjectif : récupérer les journaux de relais, éviter le contact avec VLF, extraire avant l'aube.\nSoutien : aucun. Supposons que les deux factions nous sont hostiles.\n-----------------------------------------------------\nFin de la réunion d'information."
+      "text": "BREF D'OPÉRATION - QUARRY\r\nClassement: FANG Interne\r\n-----------------------------------------------------\r\nUICS a déplacé un relais météorologique et deux éléments de patrouille dans le bassin de QUARRY. Des éclaireurs VLF ont été repérés sur la crête nord la nuit dernière.\r\n\r\nObjectif : récupérer les journaux de relais, éviter le contact avec VLF, extraire avant l'aube.\r\nSoutien : aucun. Supposons que les deux factions nous sont hostiles.\r\n-----------------------------------------------------\r\nFin de la réunion d'information."
     },
     {
       "ns": "",
@@ -1072,7 +1072,7 @@
       "ns": "",
       "key": "2FC5881F43938F209834D8B0EF63BBDB",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -1108,7 +1108,7 @@
       "ns": "",
       "key": "301013E8471F718574755D82B98374A3",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -1120,7 +1120,7 @@
       "ns": "",
       "key": "30192F8E40353626871DE29DD0EF184E",
       "source": "We intercepted a courier who was carrying a disc — something they weren’t supposed to have. It’s UICS material, and our sources say it was meant to stay buried.\r\nI need you to recover it, then take it to one of their factory terminals outside the quarry. You’ll have to boot their system and scan the contents.\r\nThat might trigger a response. They guard their secrets well — but we have every right to know what they’re planning. Don’t let them hide behind shadows.",
-      "text": "Nous avons intercepté un coursier qui transportait un disque, ce qu'il n'était pas censé avoir. C'est UICS matériel, et nos sources disent qu'il était destiné à rester enterré.\nJ'ai besoin que vous le récupériez, puis l'emmeniez dans un de leurs terminaux d'usine à l'extérieur de la carrière. Vous devrez démarrer leur système et scan le contenu.\nCela pourrait déclencher une réponse. Ils gardent bien leurs secrets, mais nous avons le droit de savoir ce qu'ils planifient. Ne les laissez pas se cacher derrière les ombres."
+      "text": "Nous avons intercepté un coursier qui transportait un disque, ce qu'il n'était pas censé avoir. C'est UICS matériel, et nos sources disent qu'il était destiné à rester enterré.\r\nJ'ai besoin que vous le récupériez, puis l'emmeniez dans un de leurs terminaux d'usine à l'extérieur de Quarry. Vous devrez démarrer leur système et scan le contenu.\r\nCela pourrait déclencher une réponse. Ils gardent bien leurs secrets, mais nous avons le droit de savoir ce qu'ils planifient. Ne les laissez pas se cacher derrière les ombres."
     },
     {
       "ns": "",

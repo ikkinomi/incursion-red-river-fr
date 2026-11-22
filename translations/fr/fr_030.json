@@ -28,7 +28,7 @@
       "ns": "",
       "key": "EAC6696C4C87C480BEEB599F72CB79B4",
       "source": "Uplink: Coastal Network ....... OK (Comms Building dish)\r\nRelay: Harbor Gate ............ OK\r\nRelay: Coastal Apartments ..... WEAK (-87 dBm)\r\nRelay: Small Village .......... NO RESPONSE\r\nForeign traffic: IGC airstrip approach control on 121.3 MHz.\r\nLocal jamming detected on 412.5 MHz - source bearing 070, resort direction.\r\n\r\nRecommendation: secure the Comms Building. Without it this node is deaf.",
-      "text": "Uplink: Coastal Network ....... OK (Comms Plat de bâtiment)\nRelais : Porte du port ....................\nRelais: Appartements côtiers ..... WEAK (-87 dBm)\nRelais : Petit village ..........\nTrafic étranger: contrôle d'approche de piste d'atterrissage IGC sur 121,3 MHz.\nBrouillage local détecté sur 412,5 MHz - source portant 070, direction station.\n\nRecommandation : sécurisez l'édifice Coms. Sans lui, ce nœud est sourd."
+      "text": "Uplink: Coastal Network ....... OK (Comms Plat de bâtiment)\r\nRelais : Porte du port ....................\r\nRelais: Appartements côtiers ..... WEAK (-87 dBm)\r\nRelais : Petit village ..........\r\nTrafic étranger: contrôle d'approche de piste d'atterrissage IGC sur 121,3 MHz.\r\nBrouillage local détecté sur 412,5 MHz - source portant 070, direction station.\r\n\r\nRecommandation : sécurisez l'édifice Coms. Sans lui, ce nœud est sourd."
     },
     {
       "ns": "",
@@ -46,7 +46,7 @@
       "ns": "",
       "key": "EAD1E35B437B07534A1C0BB949BFF5CE",
       "source": "Standard АK Dust Cover manufactured by Izhmash.",
-      "text": "La norme capot de culasse est fabriquée par Izhmash."
+      "text": "Capot de culasse АK de série, fabriqué par Izhmash."
     },
     {
       "ns": "",
@@ -106,7 +106,7 @@
       "ns": "",
       "key": "EB36F19A4AD6370AD74CE3B1A58BC0AF",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -118,7 +118,7 @@
       "ns": "",
       "key": "EB5AF63E409B8B18C102FBBB6C2F5EAE",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -262,7 +262,7 @@
       "ns": "",
       "key": "EC37F7FA48097DCBDC7500896AC89CFC",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -310,7 +310,7 @@
       "ns": "",
       "key": "EC67E93A4157EAE72690078B718B64BC",
       "source": "# VLF Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: 1234\r\n  - Note: Limited access; only for viewing non-sensitive data.\r\n\r\n- **Meteorologist**\r\n  - Username: Meteorologist\r\n  - Password: MeteoCtr!\r\n  - Note: Exclusive access to all weather data collected over the past view month. Otherwise same access level as guest.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: VLF@dm1n\r\n  - Note: Full administrative privileges. Access to all system functions.",
-      "text": "# VLF Vérifications d'accès aux terminaux sécurisés\n\n## Liste des utilisateurs autorisés\n\n- **Guest**\n  - Nom d'utilisateur : Guest\n  - Mot de passe : 1234\n  - Note: Accès limité; uniquement pour visionner des données non sensibles.\n\n- **Meteorologist**\n  - Nom d'utilisateur : Meteorologist\n  - Mot de passe : MeteoCtr!\n  - Note : Accès exclusif à toutes les données météorologiques recueillies au cours du mois précédent. Sinon, le même niveau d'accès que l'invité.\n\n- **Admin**\n  - Nom d'utilisateur : Admin\n  - Mot de passe : VLF@dm1n\n  - Note: Tous les privilèges administratifs. Accès à toutes les fonctions du système."
+      "text": "# VLF Vérifications d'accès aux terminaux sécurisés\r\n\r\n## Liste des utilisateurs autorisés\r\n\r\n- **Guest**\r\n  - Nom d'utilisateur : Guest\r\n  - Mot de passe : 1234\r\n  - Note: Accès limité; uniquement pour visionner des données non sensibles.\r\n\r\n- **Meteorologist**\r\n  - Nom d'utilisateur : Meteorologist\r\n  - Mot de passe : MeteoCtr!\r\n  - Note : Accès exclusif à toutes les données météorologiques recueillies au cours du mois précédent. Sinon, le même niveau d'accès que l'invité.\r\n\r\n- **Admin**\r\n  - Nom d'utilisateur : Admin\r\n  - Mot de passe : VLF@dm1n\r\n  - Note: Tous les privilèges administratifs. Accès à toutes les fonctions du système."
     },
     {
       "ns": "",
@@ -340,7 +340,7 @@
       "ns": "",
       "key": "EC76ABB9426F6562C0FC9781BA0DE397",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -406,7 +406,7 @@
       "ns": "",
       "key": "ECD5110649C482F3AEB0838F1BDCDC9C",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -418,13 +418,13 @@
       "ns": "",
       "key": "ECE29CED4CDDBCD42305288E18992E83",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
       "key": "ECE5C2BF434436FA5ED1AC9E81500056",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -442,7 +442,7 @@
       "ns": "",
       "key": "ED0F5B7F410E8249DBFD1B9003AC3C49",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -544,7 +544,7 @@
       "ns": "",
       "key": "EDD2BB5145527D6E82E4DFAA5D04FD72",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -622,7 +622,7 @@
       "ns": "",
       "key": "EE351C964A5C976A5F3AC2B651418E0C",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -646,7 +646,7 @@
       "ns": "",
       "key": "EE5A129C4891DF38A04599AF4A7C158C",
       "source": "Cover",
-      "text": "Cover"
+      "text": "Capot"
     },
     {
       "ns": "",
@@ -688,7 +688,7 @@
       "ns": "",
       "key": "EED5BDBD4329D4483C5C00A340E60C94",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -700,7 +700,7 @@
       "ns": "",
       "key": "EEEB59C44877C540399AE58055DEEA4A",
       "source": "Error: Command \"{command}\" not recognized. Please enter a valid command. Or type \"help\" for a list of available commands.",
-      "text": "Erreur : commande \"{command}\" non reconnu. Veuillez saisir une commande valide. Ou tapez \"help\" pour une liste de commandes disponibles."
+      "text": "Erreur : commande \"{command}\" non reconnue. Saisis une commande valide ou tape \"help\" pour afficher les commandes disponibles."
     },
     {
       "ns": "",
@@ -730,7 +730,7 @@
       "ns": "",
       "key": "EF219EF14049F42E11AAAD8FADB8B73E",
       "source": "Pistol",
-      "text": "Pistol"
+      "text": "Pistolet"
     },
     {
       "ns": "",
@@ -742,7 +742,7 @@
       "ns": "",
       "key": "EF2D7D47482A1495D855A18485DD0F54",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -778,7 +778,7 @@
       "ns": "",
       "key": "EF647F464EF20D611DC2CAA3A4DF28E2",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -832,7 +832,7 @@
       "ns": "",
       "key": "EFBA16C642CB48EA3E8F65B0FAA89D61",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -850,7 +850,7 @@
       "ns": "",
       "key": "EFD6847F42D28661F93EEAA143288FF8",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -874,7 +874,7 @@
       "ns": "",
       "key": "EFFAAA1F4234014FD2ECB5B354AD75BB",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -934,7 +934,7 @@
       "ns": "",
       "key": "F040AB6B4AE2294179859B96F5D44C43",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -958,7 +958,7 @@
       "ns": "",
       "key": "F0613CC24F8DB48AE696498115242802",
       "source": "Opens In: ",
-      "text": "Ouvre dans : "
+      "text": "Ouverture dans : "
     },
     {
       "ns": "",
@@ -982,7 +982,7 @@
       "ns": "",
       "key": "F085346C4C8928868280C5AEB9783C5B",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -1054,7 +1054,7 @@
       "ns": "",
       "key": "F115F15C4E1623FA103C38BC54BA5873",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -1096,25 +1096,25 @@
       "ns": "",
       "key": "F1594EAE473C1F02746170B8DF20B69C",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "F160140C42AD74C64828A7956A314F0D",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "F16D0FE5489228E89DE1B280E6142025",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "F179A8174ED6F2D45EE72FAA1000510D",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -1168,7 +1168,7 @@
       "ns": "",
       "key": "F206E7874D2145E38D5F4E83B73DFF05",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -1186,7 +1186,7 @@
       "ns": "",
       "key": "F221A3D14A6F28E788720B8C4446B5C5",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",

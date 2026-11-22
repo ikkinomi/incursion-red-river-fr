@@ -40,7 +40,7 @@
       "ns": "",
       "key": "00506EC5416E2CB24CAD10AD5EC50AAC",
       "source": "Standard issue M-LOK handguard for the KAC LAMG.",
-      "text": "Numéro standard M-LOK garde-main pour le KAC LAMG."
+      "text": "Garde-main M-LOK de série pour le KAC LAMG."
     },
     {
       "ns": "",
@@ -82,7 +82,7 @@
       "ns": "",
       "key": "00B819F8481E6D8A32AC75B3AF8D62C9",
       "source": "Go to the military base and install the jammers.",
-      "text": "Va à la base militaire et installe les jammers."
+      "text": "Va à la base militaire et installe les brouilleurs."
     },
     {
       "ns": "",
@@ -112,7 +112,7 @@
       "ns": "",
       "key": "00D325D541AD608746F60F9486F440F3",
       "source": "The standard barrel for the QSZ-92 manufactured by Norinco.",
-      "text": "La canon standard pour la QSZ-92 fabriquée par Norinco."
+      "text": "Canon de série du QSZ-92, fabriqué par Norinco."
     },
     {
       "ns": "",
@@ -130,7 +130,7 @@
       "ns": "",
       "key": "0102CEF641D3ADDEBDB4C7B35C66233C",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -142,19 +142,19 @@
       "ns": "",
       "key": "010D5647473DC0D2DF7619BC8DBE4466",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
       "key": "011A806A470E35B706170B8EF1908A39",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "01458ED64254E6BAA56DD69CD4E0FFB8",
       "source": "Film Case",
-      "text": "Cimetière"
+      "text": "Boîte de pellicule"
     },
     {
       "ns": "",
@@ -172,7 +172,7 @@
       "ns": "",
       "key": "0170B6AA4F2EE508D397D8B265A7E140",
       "source": "Agent, you are tasked with a critical infiltration mission. Your objective is to enter the VLF base located deep within the cave system and strategically place five jammers. These devices are designed to completely disrupt all internal communications within the base, crippling their operational capabilities. The mission requires utmost stealth and precision to ensure all devices are placed without detection.",
-      "text": "Agent, vous êtes chargé d'une mission d'infiltration critique. Votre objectif est d'entrer dans la base VLF située en profondeur dans le système de grotte et de placer stratégiquement cinq jammers. Ces appareils sont conçus pour perturber complètement toutes les communications internes à la base, ce qui paralyse leurs capacités opérationnelles. La mission exige la plus grande discrétion et la plus grande précision pour s'assurer que tous les appareils sont placés sans détection."
+      "text": "Agent, vous êtes chargé d'une mission d'infiltration critique. Votre objectif est d'entrer dans la base VLF située en profondeur dans le système de grotte et de placer stratégiquement cinq brouilleurs. Ces appareils sont conçus pour perturber complètement toutes les communications internes à la base, ce qui paralyse leurs capacités opérationnelles. La mission exige la plus grande discrétion et la plus grande précision pour s'assurer que tous les appareils sont placés sans détection."
     },
     {
       "ns": "",
@@ -184,7 +184,7 @@
       "ns": "",
       "key": "0197D3444F62CC01BE9B41A431C0D8B2",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -214,7 +214,7 @@
       "ns": "",
       "key": "01D1D968498ABF15D7131F830F36F63B",
       "source": "Golden candle holder with love to detail.",
-      "text": "Porte bougie dorée avec amour au détail."
+      "text": "Bougeoir doré aux détails soignés."
     },
     {
       "ns": "",
@@ -304,7 +304,7 @@
       "ns": "",
       "key": "02347DBE4E46F7A82ADEAEB9BFC2D8AF",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -328,7 +328,7 @@
       "ns": "",
       "key": "025210E346AC3EBF35819E8BCB256938",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -352,7 +352,7 @@
       "ns": "",
       "key": "026BB49D4022A01E4345E49BA0B2A7CD",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -376,13 +376,13 @@
       "ns": "",
       "key": "02932F464705C4C4DEFEFF8DE3FF4D42",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "029964204837C048700AB3B256F6DF8F",
       "source": "PROJECT EMBER\r\n-----------------------------------------------------\r\nTest document behind an item lock. Reaching it means the HasItem directory requirement and its success sequence both work.",
-      "text": "ÉMBRE DE PROJET\n-----------------------------------------------------\nDocument d'essai derrière un élément verrouillé. L'atteindre signifie l'exigence de répertoire HasItem et sa séquence de succès à la fois travail."
+      "text": "PROJECT EMBER\r\n-----------------------------------------------------\r\nDocument de test accessible uniquement avec l'objet requis. Y accéder confirme que la condition HasItem du répertoire et la séquence de réussite fonctionnent correctement."
     },
     {
       "ns": "",
@@ -400,7 +400,7 @@
       "ns": "",
       "key": "02A1328147551DC55334C2B75A9AB601",
       "source": "You're too close; the airstrike would hit you. Back up and try again.",
-      "text": "Tu es trop près, la frappe aérienne te frapperait."
+      "text": "Tu es trop près : la frappe aérienne te toucherait. Recule et réessaie."
     },
     {
       "ns": "",
@@ -412,13 +412,13 @@
       "ns": "",
       "key": "02ABFF314887BE8630FA8DAF8CCBA2F5",
       "source": "Middle sized backpack from CamelBak.",
-      "text": "Taille moyenne sac à dos de CamelBak."
+      "text": "Sac à dos de taille moyenne de CamelBak."
     },
     {
       "ns": "",
       "key": "02BC65BD4A67BB867A0826BEE3CF401E",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -454,7 +454,7 @@
       "ns": "",
       "key": "0306A7B7480762A97F223A94DFA73264",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -478,7 +478,7 @@
       "ns": "",
       "key": "031E303346B4AC7BDB42B8B4FBB05788",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -526,13 +526,13 @@
       "ns": "",
       "key": "03656F584C95D5F64368EB9E6C7687CD",
       "source": "Drone Airframe",
-      "text": "Drone Airframe"
+      "text": "Châssis de drone"
     },
     {
       "ns": "",
       "key": "036BB70F491120779ED37381CE5B5499",
       "source": "20rnd",
-      "text": "20e"
+      "text": "20 coups"
     },
     {
       "ns": "",
@@ -544,7 +544,7 @@
       "ns": "",
       "key": "038211EB483D0D63FBCA70979C3E4188",
       "source": "A muzzle brake that can also be used as an adapter for the trash PANDA suppressor. ",
-      "text": "Un frein de bouche qui peut également être utilisé comme adaptateur pour la poubelle PANDA silencieux. "
+      "text": "Frein de bouche pouvant aussi servir d’adaptateur pour le silencieux trash PANDA. "
     },
     {
       "ns": "",
@@ -556,7 +556,7 @@
       "ns": "",
       "key": "038996E749285D0171132EABD9F67A94",
       "source": "Callsign: P01",
-      "text": "Signal d'appel : P01"
+      "text": "Indicatif : P01"
     },
     {
       "ns": "",
@@ -580,7 +580,7 @@
       "ns": "",
       "key": "03AE6ED5459E579FBE7EE49149834A58",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -604,13 +604,13 @@
       "ns": "",
       "key": "03BA62DA4F965ADD84E73E93FDC1FA6D",
       "source": "FACTORY",
-      "text": "USINE"
+      "text": "FACTORY"
     },
     {
       "ns": "",
       "key": "03BFD53147AEDC11904DF0B39BA7CD33",
       "source": "Clear H.A.S.",
-      "text": "Effacer les H.A.S."
+      "text": "Sécuriser les H.A.S."
     },
     {
       "ns": "",
@@ -652,7 +652,7 @@
       "ns": "",
       "key": "03EF4FCD4A2DB80E5C7976A0BA499D33",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -706,7 +706,7 @@
       "ns": "",
       "key": "042DE0194C97FE345C39F688525E5B23",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -730,7 +730,7 @@
       "ns": "",
       "key": "044E1C404F6C6D76348A51BF781F5ACD",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -784,19 +784,19 @@
       "ns": "",
       "key": "048D2C0A402674B4037384A4E822BE7D",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "049537714FF5DFBF8C364B9E2F9F13AF",
       "source": "Candle Holder",
-      "text": "Porte bougie"
+      "text": "Bougeoir"
     },
     {
       "ns": "",
       "key": "04978CAD460FA8CFA5BA6C9EA0455262",
       "source": "Golden Watering Can",
-      "text": "Arrosage d'or"
+      "text": "Arrosoir doré"
     },
     {
       "ns": "",
@@ -808,7 +808,7 @@
       "ns": "",
       "key": "04B8F2A84AB739DAA3DAA397A5444D9B",
       "source": "Your Stash is where all of your equipment is stored. \r\n\r\nManage your loadout, weapon attachments and even upgrade the amount of space the Stash can hold to store even more loot.",
-      "text": "Votre réserve est l'endroit où tout votre équipement est stocké. \n\nGérez vos pièces jointes équipement, arme et améliorez même la quantité d'espace que réserve peut contenir pour stocker encore plus de butin."
+      "text": "Tout ton équipement est stocké dans ta réserve. \r\n\r\nPrépare ton équipement, gère les accessoires de tes armes et agrandis la réserve pour y ranger encore plus de butin."
     },
     {
       "ns": "",
@@ -838,7 +838,7 @@
       "ns": "",
       "key": "04D91258494266A831A7B5830DB34F90",
       "source": "Document with potential confidential information about the IGC.",
-      "text": "Documenter avec des informations confidentielles potentielles sur le IGC."
+      "text": "Document pouvant contenir des renseignements confidentiels sur l'IGC."
     },
     {
       "ns": "",
@@ -856,7 +856,7 @@
       "ns": "",
       "key": "04F06D844258EFB8A5910A8958DFFE51",
       "source": "Document with potential confidential information about the VLF.",
-      "text": "Documenter avec des informations confidentielles potentielles sur le VLF."
+      "text": "Document pouvant contenir des renseignements confidentiels sur le VLF."
     },
     {
       "ns": "",
@@ -886,7 +886,7 @@
       "ns": "",
       "key": "0510EE204F0B5AECD8A6D8A0144CD96A",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -940,13 +940,13 @@
       "ns": "",
       "key": "055A3F594F52D0AE0D89B18965502C7B",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "055E39174AA8D5774D84868E399ECF85",
       "source": "FANG OPNET Node HIDEOUT-01 - Field Terminal v0.9 (test build)",
-      "text": "FANG OPNET Node HIDEOUT-01 - Terminal de champ v0.9 (construction d'essai)"
+      "text": "Nœud FANG OPNET HIDEOUT-01 - Terminal de terrain v0.9 (version de test)"
     },
     {
       "ns": "",
@@ -970,7 +970,7 @@
       "ns": "",
       "key": "058DEA2F4961C881F9742E9C09DA782F",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -1012,7 +1012,7 @@
       "ns": "",
       "key": "05F14F3B4C0AF56F215647BE2234EF38",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -1024,7 +1024,7 @@
       "ns": "",
       "key": "0605AA064CAF37B3409820BC57BA002D",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
@@ -1084,7 +1084,7 @@
       "ns": "",
       "key": "06D071F744B6FD3519B42BBCBCFF0738",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -1120,7 +1120,7 @@
       "ns": "",
       "key": "06FEEC08444C1648031A6D90EDB12345",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -1168,7 +1168,7 @@
       "ns": "",
       "key": "073464744CB78680BA0A63902EE74ECF",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",

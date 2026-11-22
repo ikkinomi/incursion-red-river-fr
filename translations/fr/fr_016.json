@@ -16,7 +16,7 @@
       "ns": "",
       "key": "7A45069341D8DBBA3F19578D7C08D866",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -52,7 +52,7 @@
       "ns": "",
       "key": "7A86BF8A49012DF7E47C35AB71B8F8C2",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -94,7 +94,7 @@
       "ns": "",
       "key": "7AB67BD64C5AF64624EC6EB35A3D1E67",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -106,7 +106,7 @@
       "ns": "",
       "key": "7AC148AB4505671B423516B9BD743C9B",
       "source": "QUARRY",
-      "text": "CARRIÈRE"
+      "text": "QUARRY"
     },
     {
       "ns": "",
@@ -142,7 +142,7 @@
       "ns": "",
       "key": "7ADF0733426257A1BF1CDD9C5AC83BFB",
       "source": "You’re going into their core. VLF command — the area where orders originate and secrets don’t leave the room. We’ve marked a high-value intel item and a terminal positioned just outside the war room.\r\nRetrieve the intel. Scan it at the terminal. Then exfiltrate. The moment you boot their system, they’ll know something’s wrong.\r\nBut if we want to understand their next moves — this is where it lives. Do it fast, and do it right.",
-      "text": "Vous entrez dans leur noyau. Commande VLF — la zone d'origine des ordres et les secrets ne quittent pas la pièce. Nous avons marqué un élément d'information de grande valeur et un terminal placé juste à l'extérieur de la salle de guerre.\nRécupérer les renseignements. Scannez-le au terminal. Alors exfiltrez. Au moment où vous démarrez leur système, ils sauront quelque chose de mal.\nMais si nous voulons comprendre ce qu'ils vont faire, c'est là où ils vivent. Faites-le vite, et faites-le bien."
+      "text": "Vous entrez dans leur noyau. Commande VLF — la zone d'origine des ordres et les secrets ne quittent pas la pièce. Nous avons marqué un élément d'information de grande valeur et un terminal placé juste à l'extérieur de la salle de guerre.\r\nRécupérer les renseignements. Scannez-le au terminal. Alors exfiltrez. Au moment où vous démarrez leur système, ils sauront quelque chose de mal.\r\nMais si nous voulons comprendre ce qu'ils vont faire, c'est là où ils vivent. Faites-le vite, et faites-le bien."
     },
     {
       "ns": "",
@@ -160,7 +160,7 @@
       "ns": "",
       "key": "7AF39D0542A730069D320F87E8301E2B",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -184,7 +184,7 @@
       "ns": "",
       "key": "7B25344340097A84A0B30A9564CCC369",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -352,7 +352,7 @@
       "ns": "",
       "key": "7C25925A4F52B239113A5B973E8C8E97",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -424,7 +424,7 @@
       "ns": "",
       "key": "7CA78B9D4A0E1338C2090A92DD2A5C41",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -448,7 +448,7 @@
       "ns": "",
       "key": "7CB384BA43C4978B366439A42D242B27",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -490,7 +490,7 @@
       "ns": "",
       "key": "7CE836D24254F328059BF2BD83F0C39E",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -556,7 +556,7 @@
       "ns": "",
       "key": "7D347DE741C2F104ACDFC597586D8C91",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -586,7 +586,7 @@
       "ns": "",
       "key": "7D5AC2964341AF5480D390AC5DA605CF",
       "source": "Outskirts G-Key",
-      "text": "Clé G Périphérie"
+      "text": "Clé G Outskirts"
     },
     {
       "ns": "",
@@ -598,7 +598,7 @@
       "ns": "",
       "key": "7D74F12B485961BF2857ED83292FE35E",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -610,7 +610,7 @@
       "ns": "",
       "key": "7D8385EB4F775DC7FA8B8DBF0058194D",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -682,7 +682,7 @@
       "ns": "",
       "key": "7DFFBF80468DA3CFF2951A84F066CD57",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -694,7 +694,7 @@
       "ns": "",
       "key": "7E167058469E0DF413F91AB787956B67",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -712,7 +712,7 @@
       "ns": "",
       "key": "7E25B2CA49BA9BB986851085F4959547",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -736,7 +736,7 @@
       "ns": "",
       "key": "7E48D6624D7600C6D8189AB1E7179FAE",
       "source": "{guide}\r\n\r\n{hack statust}",
-      "text": "{guide}\n\n{hack statust}"
+      "text": "{guide}\r\n\r\n{hack statust}"
     },
     {
       "ns": "",
@@ -748,7 +748,7 @@
       "ns": "",
       "key": "7E4E21ED4DC9A29B5F6EAF93D2B19C0D",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -778,7 +778,7 @@
       "ns": "",
       "key": "7E8417D4424B3C924D21BE80E5B690B7",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -910,7 +910,7 @@
       "ns": "",
       "key": "7F3C49774DC0A6436B0876AA348CDC8A",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -964,7 +964,7 @@
       "ns": "",
       "key": "7F93760D431DD031382CE89D54EDE4F0",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -982,7 +982,7 @@
       "ns": "",
       "key": "7FA03287454251D4083A9A922576F0E3",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -1048,7 +1048,7 @@
       "ns": "",
       "key": "80134D1D4777D5D621283C838A605729",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -1066,7 +1066,7 @@
       "ns": "",
       "key": "803409364327689D50D1ACAFC1890197",
       "source": "Outskirts L-Safe",
-      "text": "Périphérie L-Safe"
+      "text": "Outskirts L-Safe"
     },
     {
       "ns": "",
@@ -1084,7 +1084,7 @@
       "ns": "",
       "key": "805120AF405721F91EC786A78372A333",
       "source": "WARNING: The Raid is still currently active and your PMC is still vulnerable. \r\nLeaving the current Raid will result in a KIA status with loss\r\nof all loot you have gathered and brought into the Raid.",
-      "text": "ATTENTION : Le raid est toujours actif et votre PMC est encore vulnérable. \nLe fait de quitter le Raid actuel entraînera un statut de KIA avec perte\nde tous les pillages que vous avez rassemblés et amenés dans le Raid."
+      "text": "ATTENTION : Le raid est toujours actif et votre PMC est encore vulnérable. \r\nLe fait de quitter le Raid actuel entraînera un statut de KIA avec perte\r\nde tous les pillages que vous avez rassemblés et amenés dans le Raid."
     },
     {
       "ns": "",
@@ -1102,7 +1102,7 @@
       "ns": "",
       "key": "806E0C1648AB97C49156D4BFB81B8733",
       "source": "VLF Secure Operations Terminal\r\n\r\nUnauthorized access or misuse of this system is strictly prohibited and may be punishable under VLF regulations.\r\n\r\nSecurity Clearance Required",
-      "text": "VLF Terminal d'exploitation sécurisé\n\nL'accès non autorisé ou l'utilisation abusive de ce système est strictement interdit et peut être punissable en vertu des règlements VLF.\n\nSécurité niveau d'accès Requis"
+      "text": "VLF Terminal d'exploitation sécurisé\r\n\r\nL'accès non autorisé ou l'utilisation abusive de ce système est strictement interdit et peut être punissable en vertu des règlements VLF.\r\n\r\nSécurité niveau d'accès Requis"
     },
     {
       "ns": "",
@@ -1186,7 +1186,7 @@
       "ns": "",
       "key": "80FEF0B0463BB4BFFE7E06A34972C2EB",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",

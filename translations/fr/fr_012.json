@@ -22,7 +22,7 @@
       "ns": "",
       "key": "59B0F50B4AE7271329706C9AAD045228",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -46,7 +46,7 @@
       "ns": "",
       "key": "5A004E6A48C588E8DF3BFBB8761F91D3",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -94,7 +94,7 @@
       "ns": "",
       "key": "5A360A634664BB23957664A3833D18A4",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -202,7 +202,7 @@
       "ns": "",
       "key": "5B1AAB684CCF05C0CA73789074AE5806",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -220,7 +220,7 @@
       "ns": "",
       "key": "5B251A294945E131A849A38C9D8D0FCD",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -250,7 +250,7 @@
       "ns": "",
       "key": "5B4107554EAD556257B641A2418C2753",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -274,7 +274,7 @@
       "ns": "",
       "key": "5B6D84D14DD2AA9F0E2605ADC4A36D62",
       "source": "**Available Commands:**\r\n\r\n1. help / ? - Display available commands and their descriptions.\r\n2. dir / ls - Display all of the files and folders in the current directory.\r\n3. pop / .. - Switch back to previous directory (e.g. go back).\r\n4. login - Enter new login credentials to change the user & permissions.\r\n5. cd <directory> - Change directory to navigate within the terminal system.\r\n6. run <file_id> - Execute the exe file.\r\n7. download <file_id> - Download content from target file.\r\n8. scan <file_id> - Scan content from file.\r\n9. read <file_id> - Reading content of file.\r\n10. shutdown / exit - Shutdown the terminal.\r\n\r\n**Additional help**\r\n\r\n> To find a file, try changing directories via cd <directory> and use the dir command to display all available files at the current level\r\n> Some directories require special access. Use the login command to get Admin access. You may have to take a look at the users file to find the credentials.",
-      "text": "**Commandes disponibles:**\n\n1. help / ? - Affiche les commandes disponibles et leurs descriptions.\n2. dir / ls - Affiche tous les fichiers et dossiers du répertoire actuel.\n3. pop / .. - Retourner au répertoire précédent (par exemple, revenir en arrière).\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\n6. run <file_id> - Exécutez le fichier exe.\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\n8. scan <file_id> - Scanner le contenu du fichier.\n9. read <file_id> - Lecture du contenu du fichier.\n10. Arrêt / sortie - Arrêt du terminal.\n\n**Supplémentaire help**\n\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et utilisez la commande dir pour afficher tous les fichiers disponibles au niveau actuel\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
+      "text": "**Commandes disponibles:**\r\n\r\n1. help / ? - Affiche les commandes disponibles et leurs descriptions.\r\n2. dir / ls - Affiche tous les fichiers et dossiers du répertoire actuel.\r\n3. pop / .. - Retourner au répertoire précédent (par exemple, revenir en arrière).\r\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\r\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\r\n6. run <file_id> - Exécutez le fichier exe.\r\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\r\n8. scan <file_id> - Scanner le contenu du fichier.\r\n9. read <file_id> - Lecture du contenu du fichier.\r\n10. Arrêt / sortie - Arrêt du terminal.\r\n\r\n**Supplémentaire help**\r\n\r\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et utilisez la commande dir pour afficher tous les fichiers disponibles au niveau actuel\r\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
     },
     {
       "ns": "",
@@ -286,7 +286,7 @@
       "ns": "",
       "key": "5B824FF140FD625953BFBD85C0573D00",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -370,7 +370,7 @@
       "ns": "",
       "key": "5BFD8A5649C3ED39FEADB89DCB203C04",
       "source": "File: VLF_MemberData.txt  \r\nClassification: Restricted – Internal Use Only  \r\nGenerated: 2024-10-19  \r\nSource Node: V-CTRL.42  \r\nEncryption Signature: Verified\r\n\r\nACTIVE OPERATIVES – REDACTED FIELD SUMMARY  \r\n-----------------------------------------------------\r\n[REDACTED-01]  \r\nCodename: ████████  \r\nRole: Logistics Intercept / Comms Relay Hijack  \r\nLast Known Location: En route to Southern Comm Tower  \r\nStatus: [ACTIVE]  \r\n\r\n[REDACTED-02]  \r\nCodename: “Lancer”  \r\nRole: Forward Sabotage / Demo Specialist  \r\nUnit: Black Echo Cell  \r\nNotes: Reported successful plant at VEKTOR-11 site.  \r\nStatus: [NO CONTACT – 3 DAYS]  \r\n\r\n[REDACTED-03]  \r\nCodename: “Reza Nahl”  \r\nRole: Command Liaison / Strategic Coordination  \r\nClearance: LEVEL-3  \r\nKnown Attachments: Intel Section 4D, Demo Team Echo  \r\nStatus: [ACTIVE]  \r\n\r\n[REDACTED-04]  \r\nCodename: ████████  \r\nRole: Counter-Intel Operations  \r\nNotes: Identity unknown. Suspected to be embedded in UICS command perimeter.  \r\nStatus: [DEEP COVER]  \r\n\r\n[REDACTED-05]  \r\nCodename: “Marshal Vex”  \r\nRole: Oversight Division / Morale Monitoring  \r\nDocuments Linked: `internal_morale_report.vlfdoc`  \r\nStatus: [STATIONED – CENTRAL BUNKER]  \r\n\r\n-----------------------------------------------------\r\n\r\nWARNING: Unauthorized distribution of agent profiles is a violation of Directive VLF-7A.  \r\nSystem access log will be reviewed upon next sync.\r\n\r\n> END OF FILE",
-      "text": "Dossier & #160;: VLF_MemberData.txt  \nClassification : Restricté – Usage interne seulement  \nGénéré: 2024-10-19  \nNode de la source: V-CTRL.42  \nSignature de chiffrement : Vérifié\n\nOPÉRATIVES ACTIVES – RÉSUMÉ DU DOMAINE D'ACTIVITÉ  \n-----------------------------------------------------\n[REDACTED-01]  \nNom de code:  \nRôle: Intercepte logistique / Relay Hijack  \nDernier emplacement connu: En route vers Southern Comm Tower  \nÉtat : [ACTIF]  \n\n[REDACTED-02]  \nNom de code : -Lancer  \nRôle: Sabotage avancé / Spécialiste de la démo  \nUnité: Cellule noire Echo  \nRemarques: Plante réussie signalée sur le site VEKTOR-11.  \nStatut: [NO CONTACT – 3 JOURS]  \n\n[REDACTED-03]  \nNom de code:  \nRôle : Liaison de commandement / coordination stratégique  \nniveau d'accès: LEVEL-3  \nPièces jointes connues: Intel Section 4D, Demo Team Echo  \nÉtat : [ACTIF]  \n\n[REDACTED-04]  \nNom de code:  \nRôle : Opérations de lutte contre les télécommunications  \nNotes : Identité inconnue. Susceptible d'être intégrée dans le périmètre de commande UICS.  \nÉtat : [DEP COVER]  \n\n[REDACTED-05]  \nNom de code:  \nRôle : Division de la surveillance / Surveillance du moral  \nDocuments liés : `internal_morale_report.vlfdoc`  \nStatut: [STATIONNÉE – BUNKER CENTRAL]  \n\n-----------------------------------------------------\n\nATTENTION : La distribution non autorisée de profils d'agents constitue une violation de la directive VLF-7A.  \nLe journal d'accès au système sera examiné lors de la prochaine synchronisation.\n\n> FIN DU DOSSIER"
+      "text": "Dossier & #160;: VLF_MemberData.txt  \r\nClassification : Restricté – Usage interne seulement  \r\nGénéré: 2024-10-19  \r\nNode de la source: V-CTRL.42  \r\nSignature de chiffrement : Vérifié\r\n\r\nOPÉRATIVES ACTIVES – RÉSUMÉ DU DOMAINE D'ACTIVITÉ  \r\n-----------------------------------------------------\r\n[REDACTED-01]  \r\nNom de code:  \r\nRôle: Intercepte logistique / Relay Hijack  \r\nDernier emplacement connu: En route vers Southern Comm Tower  \r\nÉtat : [ACTIF]  \r\n\r\n[REDACTED-02]  \r\nNom de code : -Lancer  \r\nRôle: Sabotage avancé / Spécialiste de la démo  \r\nUnité: Cellule noire Echo  \r\nRemarques: Plante réussie signalée sur le site VEKTOR-11.  \r\nStatut: [NO CONTACT – 3 JOURS]  \r\n\r\n[REDACTED-03]  \r\nNom de code:  \r\nRôle : Liaison de commandement / coordination stratégique  \r\nniveau d'accès: LEVEL-3  \r\nPièces jointes connues: Intel Section 4D, Demo Team Echo  \r\nÉtat : [ACTIF]  \r\n\r\n[REDACTED-04]  \r\nNom de code:  \r\nRôle : Opérations de lutte contre les télécommunications  \r\nNotes : Identité inconnue. Susceptible d'être intégrée dans le périmètre de commande UICS.  \r\nÉtat : [DEP COVER]  \r\n\r\n[REDACTED-05]  \r\nNom de code:  \r\nRôle : Division de la surveillance / Surveillance du moral  \r\nDocuments liés : `internal_morale_report.vlfdoc`  \r\nStatut: [STATIONNÉE – BUNKER CENTRAL]  \r\n\r\n-----------------------------------------------------\r\n\r\nATTENTION : La distribution non autorisée de profils d'agents constitue une violation de la directive VLF-7A.  \r\nLe journal d'accès au système sera examiné lors de la prochaine synchronisation.\r\n\r\n> FIN DU DOSSIER"
     },
     {
       "ns": "",
@@ -430,19 +430,19 @@
       "ns": "",
       "key": "5C42620448CF045C7080D1A9E17DF780",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
       "key": "5C689FD147F360564DAB05A687949260",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "5C696E904E3E381CC49EB9B0101D3AB6",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -502,7 +502,7 @@
       "ns": "",
       "key": "5D36E34C4D56D2643A4DEA836CDFBA88",
       "source": "Grip",
-      "text": "Grip"
+      "text": "Poignée"
     },
     {
       "ns": "",
@@ -514,7 +514,7 @@
       "ns": "",
       "key": "5D58A3FB497BCB01CBF3D1A49445BE53",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -544,7 +544,7 @@
       "ns": "",
       "key": "5D7292FF4A383F4C3AC31A9B038C9A57",
       "source": "Under THANH GIONG's directive, your task is to delve deep into the Quarry. Extract sensitive intel from the VLF and ingeniously embed it within an Iron Guard Corps facility. Operate with the cunning and bravery of a guerilla warrior. Your withdrawal is key, leaving no trace of your involvement. This mission furthers our fight against foreign dominion.",
-      "text": "Selon la directive de MERCI GIONG, votre tâche est de plonger profondément dans la carrière. Extraire des renseignements sensibles de la VLF et les intégrer ingénieux dans une installation Iron Guard Corps. Opérez avec la ruse et la bravoure d'un guerrier de guérilla. Votre retrait est essentiel, ne laissant aucune trace de votre implication. Cette mission renforce notre lutte contre la domination étrangère."
+      "text": "Selon la directive de MERCI GIONG, votre tâche est de plonger profondément à Quarry. Extraire des renseignements sensibles de la VLF et les intégrer ingénieux dans une installation Iron Guard Corps. Opérez avec la ruse et la bravoure d'un guerrier de guérilla. Votre retrait est essentiel, ne laissant aucune trace de votre implication. Cette mission renforce notre lutte contre la domination étrangère."
     },
     {
       "ns": "",
@@ -562,7 +562,7 @@
       "ns": "",
       "key": "5D91B68641CCB15575A5649F4D733651",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -778,7 +778,7 @@
       "ns": "",
       "key": "5F1B8D27E6A34C09B7D2F4E8A1C63B90",
       "source": "Using the \"hack\" command on a terminal in raid requires an intrusion device in your inventory. Devices can be recovered from special units in raid. Every command executed during an automatic hack drains the device's battery – bypassing a login costs more.\r\n\r\nOnce started, the \"hack\" command continues even if you leave the terminal, so you can defend your position. Inventory checks, such as scanning an item you carry, still count your inventory while the automatic hack runs – keep the required items on you until it is finished.",
-      "text": "L'utilisation de la commande \"hack\" sur un terminal en raid nécessite un dispositif d'intrusion dans votre inventaire. Les appareils peuvent être récupérés dans des unités spéciales lors d'un raid. Chaque commande exécutée lors d'un hack automatique draine la batterie de l'appareil – contourner un login coûte plus cher.\n\nUne fois démarré, la commande \"hack\" continue même si vous quittez le terminal, de sorte que vous pouvez défendre votre position. Les vérifications d'inventaire, comme la numérisation d'un article que vous transportez, comptent toujours votre inventaire pendant que le hack automatique fonctionne – gardez les articles requis sur vous jusqu'à ce qu'il soit terminé."
+      "text": "L'utilisation de la commande \"hack\" sur un terminal en raid nécessite un dispositif d'intrusion dans votre inventaire. Les appareils peuvent être récupérés dans des unités spéciales lors d'un raid. Chaque commande exécutée lors d'un hack automatique draine la batterie de l'appareil – contourner un login coûte plus cher.\r\n\r\nUne fois démarré, la commande \"hack\" continue même si vous quittez le terminal, de sorte que vous pouvez défendre votre position. Les vérifications d'inventaire, comme la numérisation d'un article que vous transportez, comptent toujours votre inventaire pendant que le hack automatique fonctionne – gardez les articles requis sur vous jusqu'à ce qu'il soit terminé."
     },
     {
       "ns": "",
@@ -796,13 +796,13 @@
       "ns": "",
       "key": "5F50C3CF48DB386C7851FAB699F19560",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
       "key": "5F5553814A08DEA32CFC65808C9BC1AA",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -820,7 +820,7 @@
       "ns": "",
       "key": "5F5D20AD49459004D7F6EDA0028C6DDE",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -838,13 +838,13 @@
       "ns": "",
       "key": "5F76375044119FC47586F599CC4298B7",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
       "key": "5F88D4DF4EC1DB34BDA0898DAEA12005",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
@@ -922,7 +922,7 @@
       "ns": "",
       "key": "601693634AF0EA197558D1835380BB8B",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -946,7 +946,7 @@
       "ns": "",
       "key": "603E82414BE023F214D752AB05109185",
       "source": "# IGC Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: Restricted view-only access. Permitted to read non-sensitive operational bulletins and public directives.\r\n\r\n- **Meteorologist**\r\n  - Username: Meteorologist\r\n  - Password: Delta_IGC@Meteo!\r\n  - Note: Exclusive access to all weather data collected over the past view month. Otherwise same access level as guest.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: IronGC_*\r\n  - Note: Full administrative control. Grants access to secure command functions, encrypted channels, and terminal override capabilities.",
-      "text": "# IGC Vérifications d'accès aux terminaux sécurisés\n\n## Liste des utilisateurs autorisés\n\n- **Guest**\n  - Nom d'utilisateur : Guest\n  - Mot de passe : accessUICS\n  - Note: Accès réservé aux vues. Autorisation accordée aux bulletins opérationnels et directives publiques read non sensibles.\n\n- **Meteorologist**\n  - Nom d'utilisateur : Meteorologist\n  - Mot de passe : Delta_IGC@Meteo!\n  - Note : Accès exclusif à toutes les données météorologiques recueillies au cours du mois précédent. Sinon, le même niveau d'accès que l'invité.\n\n- **Admin**\n  - Nom d'utilisateur : Admin\n  - Mot de passe : IronGC_*\n  - Note: Contrôle administratif complet. Accorde l'accès à des fonctions de commande sécurisées, à des canaux chiffrés et à des capacités de dépassement de terminal."
+      "text": "# IGC Vérifications d'accès aux terminaux sécurisés\r\n\r\n## Liste des utilisateurs autorisés\r\n\r\n- **Guest**\r\n  - Nom d'utilisateur : Guest\r\n  - Mot de passe : accessUICS\r\n  - Note: Accès réservé aux vues. Autorisation accordée aux bulletins opérationnels et directives publiques read non sensibles.\r\n\r\n- **Meteorologist**\r\n  - Nom d'utilisateur : Meteorologist\r\n  - Mot de passe : Delta_IGC@Meteo!\r\n  - Note : Accès exclusif à toutes les données météorologiques recueillies au cours du mois précédent. Sinon, le même niveau d'accès que l'invité.\r\n\r\n- **Admin**\r\n  - Nom d'utilisateur : Admin\r\n  - Mot de passe : IronGC_*\r\n  - Note: Contrôle administratif complet. Accorde l'accès à des fonctions de commande sécurisées, à des canaux chiffrés et à des capacités de dépassement de terminal."
     },
     {
       "ns": "",
@@ -976,7 +976,7 @@
       "ns": "",
       "key": "606EA5F14FEE2AB632DAA9961F201FB3",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -1054,7 +1054,7 @@
       "ns": "",
       "key": "60CDE29C475F085BC7A8689F587FE5F7",
       "source": "Outskirts General Key",
-      "text": "Clé générale de la Périphérie"
+      "text": "Clé générale d'Outskirts"
     },
     {
       "ns": "",
@@ -1072,7 +1072,7 @@
       "ns": "",
       "key": "60E486E64BADEE51322D44B35ADBAE18",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -1090,7 +1090,7 @@
       "ns": "",
       "key": "60FBFD7F4B4B6C702D0512A35974CCA9",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -1132,13 +1132,13 @@
       "ns": "",
       "key": "6137D8CD4E088ED5E974D18C6B750A7F",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
       "key": "614C78F6420C53041647158110167988",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -1186,7 +1186,7 @@
       "ns": "",
       "key": "61B2635949B95CA8FD5BCA8984240DDB",
       "source": "UICS Coastal Network - Port Node OSK-3\r\n\r\nAll sessions are logged and reviewed by Port Command.\r\n\r\nSecurity Clearance Required",
-      "text": "Réseau côtier UICS - Noeud de port OSK-3\n\nToutes les séances sont enregistrées et examinées par Port Command.\n\nSécurité niveau d'accès Requis"
+      "text": "Réseau côtier UICS - Nœud portuaire OSK-3\r\n\r\nToutes les sessions sont enregistrées et examinées par le commandement portuaire.\r\n\r\nHabilitation de sécurité requise"
     },
     {
       "ns": "",

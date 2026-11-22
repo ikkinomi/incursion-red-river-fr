@@ -28,7 +28,7 @@
       "ns": "",
       "key": "100FCEF24285F18F9CA9619EF54D7CF8",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -52,7 +52,7 @@
       "ns": "",
       "key": "1025C877435DD148E79215B5F38742CC",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -106,7 +106,7 @@
       "ns": "",
       "key": "1097A4154E2594BC13963180903218B8",
       "source": "Find & scan the OperationOmega.zip.",
-      "text": "Rechercher & scanner la OperationOmega.zip."
+      "text": "Trouve et analyse OperationOmega.zip."
     },
     {
       "ns": "",
@@ -130,7 +130,7 @@
       "ns": "",
       "key": "10BB2CE940F2929ED371559DE1CBC8F5",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -148,7 +148,7 @@
       "ns": "",
       "key": "10EF1C41430DFB9E727EBD9A33725CCB",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -160,7 +160,7 @@
       "ns": "",
       "key": "1100C9274232EAB719B240BA470C6CE1",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -208,7 +208,7 @@
       "ns": "",
       "key": "11623BE1447038360A191EB06ECECAE9",
       "source": "# PORT COMMAND DIRECTIVE 7-P (COPY)\r\n\r\nOutskirts was meant to be the forefront of western expansion. That stalled with the war, but the ports are still the only door to the island the UICS controls. They are to be held until relieved.\r\n\r\nThe Comms Building complex is the key position on the island. Every UICS signal on Outskirts goes through it. It is to be held at all costs.\r\n\r\nPatrols are not to enter the resort (VLF) or approach the airstrip (IGC). Contact with either is reported directly to Port Command, not over the open net.\r\n\r\nThe full coastal defense plan is stored on this node. Do not print it, do not transmit it.",
-      "text": "# DIRECTIVE SUR LA COMMANDATION DU PORT 7-P (COPIE)\n\nPériphérie était censé être l'avant-garde de l'expansion occidentale. Cela a bloqué avec la guerre, mais les ports sont toujours la seule porte de l'île les contrôles UICS. Ils doivent être maintenus jusqu'à ce qu'ils soient soulagés.\n\nLe complexe Coms Building est la position clé sur l'île. Chaque signal UICS sur Périphérie passe par lui. Elle doit être tenue à tout prix.\n\nLes patrouilles ne doivent pas entrer dans la station (VLF) ou s'approcher de la piste d'atterrissage (IGC). Le contact avec l'un ou l'autre est signalé directement à Port Command, et non sur le réseau ouvert.\n\nLe plan complet de défense côtière est stocké sur ce nœud. Ne l'imprimez pas, ne le transmettez pas."
+      "text": "# DIRECTIVE SUR LA COMMANDATION DU PORT 7-P (COPIE)\r\n\r\nOutskirts était censé être l'avant-garde de l'expansion occidentale. Cela a bloqué avec la guerre, mais les ports sont toujours la seule porte de l'île les contrôles UICS. Ils doivent être maintenus jusqu'à ce qu'ils soient soulagés.\r\n\r\nLe complexe Coms Building est la position clé sur l'île. Chaque signal UICS sur Outskirts passe par lui. Elle doit être tenue à tout prix.\r\n\r\nLes patrouilles ne doivent pas entrer dans la station (VLF) ou s'approcher de la piste d'atterrissage (IGC). Le contact avec l'un ou l'autre est signalé directement à Port Command, et non sur le réseau ouvert.\r\n\r\nLe plan complet de défense côtière est stocké sur ce nœud. Ne l'imprimez pas, ne le transmettez pas."
     },
     {
       "ns": "",
@@ -268,13 +268,13 @@
       "ns": "",
       "key": "11E6E5D04892B531A58969A34ED2E691",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "11E7D62C4A1EAD2D02B3E69E6D1DCFC4",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -310,7 +310,7 @@
       "ns": "",
       "key": "124AD239412FF425B16F07B11BB576CF",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -388,7 +388,7 @@
       "ns": "",
       "key": "130F0B504FDF228E277E1CAAF2C64A85",
       "source": "Document Title: \"Quarry – Weather Data\"  \r\nClassification: Confidential – Internal Distribution Only\r\n\r\nDocument successfully downloaded.",
-      "text": "Titre du document: \"Quarry – Données météorologiques\"  \nClassification : Confidentiel – Distribution interne seulement\n\nDocument téléchargé avec succès."
+      "text": "Titre du document : \"Quarry - Données météo\"  \r\nClassification : confidentiel - diffusion interne uniquement\r\n\r\nDocument téléchargé avec succès."
     },
     {
       "ns": "",
@@ -406,7 +406,7 @@
       "ns": "",
       "key": "1325F641426FF43BBF665893F13C7D49",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -472,7 +472,7 @@
       "ns": "",
       "key": "1383221340E9D3E2A93C7B9B443D9DC3",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -502,7 +502,7 @@
       "ns": "",
       "key": "13B8BC75450B3D7193EDF4824324D1C8",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -532,7 +532,7 @@
       "ns": "",
       "key": "13E241874C871B34807BBDA1AE1F0562",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -562,7 +562,7 @@
       "ns": "",
       "key": "142707314D4FAFA2779B5C8B05DE8C63",
       "source": "LOW",
-      "text": "LOW"
+      "text": "FAIBLE"
     },
     {
       "ns": "",
@@ -616,7 +616,7 @@
       "ns": "",
       "key": "146AD0164B82ED17ECD22B94FFBCBBCA",
       "source": "Hold <Red>F</> to loot rig",
-      "text": "Attendez. <Red>F</> à la plate-forme de pillage"
+      "text": "Maintiens <Red>F</> pour fouiller le gilet tactique"
     },
     {
       "ns": "",
@@ -640,7 +640,7 @@
       "ns": "",
       "key": "147440B44FC5E050F4A27CB533E7D9FE",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -766,7 +766,7 @@
       "ns": "",
       "key": "1559164649B018463E40D1912F200CF3",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -784,7 +784,7 @@
       "ns": "",
       "key": "157028CD4C1393452856A99E2868ECB3",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -808,7 +808,7 @@
       "ns": "",
       "key": "15B0679C491E1DD1B42FD8BC71AACBA5",
       "source": "Place the intel in the pipes maintenance room\r\nnear the cave.",
-      "text": "Placez l'info dans la salle d'entretien des tuyaux\nprès de la grotte."
+      "text": "Placez l'info dans la salle d'entretien des tuyaux\r\nprès de la grotte."
     },
     {
       "ns": "",
@@ -850,13 +850,13 @@
       "ns": "",
       "key": "15ECED4749DE5523768C47954F2FD497",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
       "key": "15EFA6804B3AF88B2204E3A55FB74777",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -880,13 +880,13 @@
       "ns": "",
       "key": "16293E11438B2BC85D2401ABD5986956",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
       "key": "16296B164ADAE9139DC9F0AC69250DFD",
       "source": "Document Title: \"IGC_Operations.zip\"  \r\nDate: 2024-11-28  \r\nClassification: Confidential – Internal Distribution Only\r\n\r\nDocument successfully scanned and archived.  \r\nPreview of Document Content:\r\n-----------------------------------------------------\r\n\"FACILITY OVERVIEW – SITE BLOCK-7:  \r\nThe factory installation adjacent to the quarry remains fully operational and is responsible for high-volume processing of marble and composite concrete. The materials produced are used in structural reinforcement, subterranean encasement, and modular defensive installations.\r\n\r\nKey operations include rotary crushing, thermal curing, and form compression. Automated batching units maintain a 24/7 output cycle. All export shipments are routed through controlled rail access under GridSec Protocol 6C.\r\n\r\nPersonnel clearance checks are enforced at two entry gates. Observation drones perform perimeter sweeps at 20-minute intervals. While the site is not classified as a high-risk zone, patrols have been increased following recent interference reports from nearby sectors.\r\n\r\nFacility status: STABLE  \r\nOutput capacity: 91%  \r\nSecurity recommendation: Maintain current protocols. Escalation unnecessary unless actionable intel is confirmed.\"\r\n-----------------------------------------------------\r\n\r\nFull document secured for reference and compliance logging.",
-      "text": "Titre du document: \"IGC_Operations.zip\"  \nDate: 2024-11-28  \nClassification : Confidentiel – Distribution interne seulement\n\nDocument numérisé et archivé avec succès.  \nAperçu du contenu du document :\n-----------------------------------------------------\n\"APERÇU DE LA FACILITÉ – SITE BLOCK-7:  \nL'installation de l'usine adjacente à la carrière demeure entièrement opérationnelle et est responsable du traitement en volume élevé du marbre et du béton composite. Les matériaux produits sont utilisés dans le renforcement structurel, l'encastrement souterrain et les installations défensives modulaires.\n\nLes opérations clés comprennent le concassage rotatif, le durcissement thermique et la compression de forme. Les unités de fabrication automatisées maintiennent un cycle de sortie 24/7. Toutes les expéditions d'exportation sont acheminées par voie ferroviaire contrôlée en vertu du protocole 6C de GridSec.\n\nPersonnel Les vérifications niveau d'accès sont effectuées à deux portes d'entrée. Les drones d'observation effectuent des balayages de périmètre à intervalles de 20 minutes. Bien que le site ne soit pas classé comme une zone à haut risque, les patrouilles ont augmenté à la suite des récents rapports d'interférence provenant de secteurs voisins.\n\nÉtat de l'installation: STABLE  \nCapacité de production: 91 %  \nRecommandation de sécurité : Maintenir les protocoles actuels. L'escalade n'est pas nécessaire à moins que l'information susceptible d'actionner ne soit confirmée.\"\n-----------------------------------------------------\n\nDocument complet sécurisé pour référence et enregistrement de conformité."
+      "text": "Titre du document : \"IGC_Operations.zip\"  \r\nDate: 2024-11-28  \r\nClassification : confidentiel - diffusion interne uniquement\r\n\r\nDocument analysé et archivé avec succès.  \r\nAperçu du contenu du document :\r\n-----------------------------------------------------\r\n\"PRÉSENTATION DES INSTALLATIONS - SITE BLOCK-7 :  \r\nL'usine située près de Quarry reste pleinement opérationnelle. Elle traite de grandes quantités de marbre et de béton composite, utilisés pour renforcer les structures, réaliser des revêtements souterrains et construire des installations défensives modulaires.\r\n\r\nLes principales opérations comprennent le concassage rotatif, le durcissement thermique et le moulage par compression. Des unités de dosage automatisées assurent une production continue. Toutes les expéditions passent par un accès ferroviaire contrôlé conformément au protocole GridSec 6C.\r\n\r\nLes habilitations du personnel sont contrôlées aux deux portes d'entrée. Des drones de surveillance inspectent le périmètre toutes les vingt minutes. Le site n'est pas classé à haut risque, mais les patrouilles ont été renforcées après de récents signalements de perturbations dans les secteurs voisins.\r\n\r\nÉtat des installations : STABLE  \r\nCapacité de production : 91 %  \r\nRecommandation de sécurité : maintenir les protocoles actuels. Aucun renforcement nécessaire sans confirmation de renseignements exploitables.\"\r\n-----------------------------------------------------\r\n\r\nDocument complet conservé pour consultation et suivi de conformité."
     },
     {
       "ns": "",
@@ -940,7 +940,7 @@
       "ns": "",
       "key": "16BD73594BEECF7118B0929F0A3AD1DB",
       "source": "{r} downloaded file successfully. ",
-      "text": "{r} a téléchargé le fichier avec succès. "
+      "text": "{r} : fichier téléchargé avec succès. "
     },
     {
       "ns": "",
@@ -952,7 +952,7 @@
       "ns": "",
       "key": "16ED50AC4A30D8B8E085C18E8D7BDA13",
       "source": "Quarry",
-      "text": "Carrière"
+      "text": "Quarry"
     },
     {
       "ns": "",
@@ -976,7 +976,7 @@
       "ns": "",
       "key": "1701D8264BD45C6309EA0BA500375111",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -1036,7 +1036,7 @@
       "ns": "",
       "key": "176CF4464D10F536F55FFBA6AF27255F",
       "source": "Downloaded DeltaCameraFootage.zip successfully.",
-      "text": "Téléchargé DeltaCameraFootage.zip avec succès."
+      "text": "DeltaCameraFootage.zip téléchargé avec succès."
     },
     {
       "ns": "",
@@ -1054,7 +1054,7 @@
       "ns": "",
       "key": "17A05CE24F79A3A14D2F8496D6CA294E",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -1114,7 +1114,7 @@
       "ns": "",
       "key": "18597CAE47593632F6CF0894D6A5AEA1",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -1156,13 +1156,13 @@
       "ns": "",
       "key": "1883EDA94D14479DE1C605A3F291E530",
       "source": "Coin Slave, you are to infiltrate the Quarry, secure vital intel from the GreyFor, and plant it in a location controlled by the UICS. Your movements must be like a shadow – unseen, unheard. This is a critical step in our grand design. Extract successfully, but know that your life is expendable in the grand scheme.",
-      "text": "Pièce Esclave, vous devez infiltrer la carrière, sécuriser les informations vitales de la GreyFor, et le planter dans un endroit contrôlé par la UICS. Vos mouvements doivent être comme une ombre – invisible, invisible. C'est une étape critique dans notre grand design. Extraire avec succès, mais sachez que votre vie est durable dans le grand projet."
+      "text": "Pièce Esclave, vous devez infiltrer Quarry, sécuriser les informations vitales de la GreyFor, et le planter dans un endroit contrôlé par la UICS. Vos mouvements doivent être comme une ombre – invisible, invisible. C'est une étape critique dans notre grand design. Extraire avec succès, mais sachez que votre vie est durable dans le grand projet."
     },
     {
       "ns": "",
       "key": "188FD76B475F6DCCDE75EDAFDD8B3900",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",

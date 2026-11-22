@@ -58,7 +58,7 @@
       "ns": "",
       "key": "A26CCF7E46867B62D6E117A0FFBF29DE",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -70,7 +70,7 @@
       "ns": "",
       "key": "A26EA4854C3F9A607105B2A08658B842",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -118,7 +118,7 @@
       "ns": "",
       "key": "A2A7C2F24FE089C9B82722AEB4D3CFE0",
       "source": "Go to the quarry and place the bomb.",
-      "text": "Allez à la carrière et placez la bombe."
+      "text": "Allez à Quarry et placez la bombe."
     },
     {
       "ns": "",
@@ -142,7 +142,7 @@
       "ns": "",
       "key": "A2CD1E48439FBC0686165087EA5D04AE",
       "source": "{r} downloaded file successfully. ",
-      "text": "{r} a téléchargé le fichier avec succès. "
+      "text": "{r} : fichier téléchargé avec succès. "
     },
     {
       "ns": "",
@@ -244,7 +244,7 @@
       "ns": "",
       "key": "A35D11544E3853867D75F28816384923",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -286,7 +286,7 @@
       "ns": "",
       "key": "A38615B6479291A37196D5A52D0D3063",
       "source": "Hello? Yup, done. Head on out.",
-      "text": "Oui, c'est fini."
+      "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir."
     },
     {
       "ns": "",
@@ -298,7 +298,7 @@
       "ns": "",
       "key": "A394BC944D8856B47B2AC3968DAD16EC",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -358,7 +358,7 @@
       "ns": "",
       "key": "A434616A4948E729FDF9809F8B326756",
       "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
-      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+      "text": "Tu me reçois ? Les factions ont confirmé la réussite auprès de FANG. Tu recevras ta récompense après l’extraction."
     },
     {
       "ns": "",
@@ -370,7 +370,7 @@
       "ns": "",
       "key": "A454D10E465456F2DB435BB80B2D2740",
       "source": "Type \"help\" for a list of available commands. This unit is provided for training purposes. \r\n\r\nUnlike field terminals encountered in raid, the \"hack\" command requires no intrusion device here.",
-      "text": "Saisissez \"help\" pour une liste de commandes disponibles. Cette unité est fournie à des fins de formation. \n\nContrairement aux terminaux de terrain rencontrés lors d'un raid, la commande \"hack\" ne nécessite aucun dispositif d'intrusion ici."
+      "text": "Saisissez \"help\" pour une liste de commandes disponibles. Cette unité est fournie à des fins de formation. \r\n\r\nContrairement aux terminaux de terrain rencontrés lors d'un raid, la commande \"hack\" ne nécessite aucun dispositif d'intrusion ici."
     },
     {
       "ns": "",
@@ -502,7 +502,7 @@
       "ns": "",
       "key": "A50DB4E04D769DC7015DEE8643B073DC",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -514,7 +514,7 @@
       "ns": "",
       "key": "A522F51A420E87059A4669B1381428C6",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -532,7 +532,7 @@
       "ns": "",
       "key": "A5476936499ED2F0FE04E884DFD39F65",
       "source": "Hello? Well done! You're good here. Head on out.",
-      "text": "C'est bon, tu es bien ici."
+      "text": "Tu me reçois ? Beau travail ! C'est bon ici, tu peux repartir."
     },
     {
       "ns": "",
@@ -580,13 +580,13 @@
       "ns": "",
       "key": "A59C59B243057D2955148AACA2087D97",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "A59C8BF747D97C5C850FCCAF6C42F609",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -610,7 +610,7 @@
       "ns": "",
       "key": "A5C030364CC9BA9139D50F8D5C1F586F",
       "source": "Operation noted on GCPS, get going, dont die, you get it.",
-      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+      "text": "Opération enregistrée sur ton GCPS. Vas-y, et reste en vie. Tu connais la suite."
     },
     {
       "ns": "",
@@ -676,7 +676,7 @@
       "ns": "",
       "key": "A5ED50F242C6A909522CEE96F9BE17B8",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -718,7 +718,7 @@
       "ns": "",
       "key": "A621189443A7D67ABEC1E8AE769E5FA3",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -742,7 +742,7 @@
       "ns": "",
       "key": "A6313DB043B96565984E12845ACF5014",
       "source": "Yup! All relevent operational information on your GCPS",
-      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+      "text": "Reçu ! Toutes les informations utiles sont sur ton GCPS."
     },
     {
       "ns": "",
@@ -808,7 +808,7 @@
       "ns": "",
       "key": "A6A021E14C8A19A040CBB0B0B3CF96E8",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
@@ -820,7 +820,7 @@
       "ns": "",
       "key": "A6B62D504D31A4B4F3D15F8094448D79",
       "source": "Error when assembling: There is no space to fit the weapon. \r\nPlease allow for more space in your inventory.",
-      "text": "Erreur lors de l'assemblage : Il n'y a pas d'espace pour s'adapter au arme. \nVeuillez prévoir plus d'espace dans votre inventaire."
+      "text": "Erreur lors de l'assemblage : Il n'y a pas d'espace pour s'adapter au arme. \r\nVeuillez prévoir plus d'espace dans votre inventaire."
     },
     {
       "ns": "",
@@ -832,7 +832,7 @@
       "ns": "",
       "key": "A6C7A4154BC234B40FADFAAA1983897D",
       "source": "Key for all compact safes around the Quarry area. Very convenient...",
-      "text": "Clé pour tous les coffres-forts compacts autour de la zone de..."
+      "text": "Clé de tous les petits coffres de Quarry. Très pratique..."
     },
     {
       "ns": "",
@@ -868,13 +868,13 @@
       "ns": "",
       "key": "A703B49B4B17813FF14A23B9AA9E462C",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
       "key": "A716AE7C404879E4FA64E59D6FB35F74",
       "source": "Yup! The operation has been added to your GCPS",
-      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+      "text": "Reçu ! L'opération a été ajoutée à ton GCPS."
     },
     {
       "ns": "",
@@ -916,13 +916,13 @@
       "ns": "",
       "key": "A74A0EC14BD88DCDB54CC8A0C4F01DB4",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
       "key": "A75A165C4FF1C657CAB29F812ECD560D",
       "source": "Yup! Operation added, don't stretch yourself too thin",
-      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+      "text": "Reçu ! Opération ajoutée. Ne te disperse pas trop."
     },
     {
       "ns": "",
@@ -940,7 +940,7 @@
       "ns": "",
       "key": "A76D97AF454F9CD5019D3193BF114976",
       "source": "Check your Inbox for new messages and rewards.\r\n\r\nMission completed? Your reward is likely waiting here.\r\n\r\nYou have collected a mission item when using lend loadout? Collect it here!\r\n\r\nYou’ll also receive updates from factions and system notices",
-      "text": "Vérifiez votre boîte de réception pour obtenir de nouveaux messages et récompenses.\n\nVotre récompense vous attend probablement ici.\n\nVous avez collecté un objet de mission lors de l'utilisation de prêt équipement? Collectez-le ici!\n\nVous recevrez également des mises à jour de factions et des avis système"
+      "text": "Vérifiez votre boîte de réception pour obtenir de nouveaux messages et récompenses.\r\n\r\nVotre récompense vous attend probablement ici.\r\n\r\nVous avez collecté un objet de mission lors de l'utilisation de prêt équipement? Collectez-le ici!\r\n\r\nVous recevrez également des mises à jour de factions et des avis système"
     },
     {
       "ns": "",
@@ -1000,7 +1000,7 @@
       "ns": "",
       "key": "A7BF56FF4CBA56DB4862A48DEB6BACE4",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -1018,7 +1018,7 @@
       "ns": "",
       "key": "A7C8E78D4BE39E25896236997C663FC6",
       "source": "Welcome to your first raid. \r\n\r\nCurrently there are four maps, Outskirts, Delta, Quarry & Bunker. Each map has several infill & extract points. ",
-      "text": "Bienvenue dans votre premier raid. \n\nActuellement, il y a quatre cartes, Périphérie, Delta, Quarry & Bunker. Chaque carte a plusieurs points de remplissage et d'extraction. "
+      "text": "Bienvenue dans votre premier raid. \r\n\r\nActuellement, il y a quatre cartes, Outskirts, Delta, Quarry & Bunker. Chaque carte a plusieurs points de remplissage et d'extraction. "
     },
     {
       "ns": "",
@@ -1036,7 +1036,7 @@
       "ns": "",
       "key": "A7F177DC4C99285B11B5A390A39B3887",
       "source": "Yup! You've accepted an operation, check GCPS for next steps",
-      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+      "text": "Opération acceptée. Consulte ton GCPS pour la suite."
     },
     {
       "ns": "",
@@ -1126,7 +1126,7 @@
       "ns": "",
       "key": "A8FAF1184F5690DCF882798EF4391197",
       "source": "Yup! New operation added to your tasks.",
-      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+      "text": "Reçu ! Nouvelle opération ajoutée à tes tâches."
     },
     {
       "ns": "",
