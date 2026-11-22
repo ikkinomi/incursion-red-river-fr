@@ -1,0 +1,1204 @@
+{
+  "texts": [
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "PathPlayingFmt",
+      "source": "Camera path: {0} keys, playing {1}%",
+      "text": "Trajectoire caméra : {0} points clés, lecture {1}%"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "Pause",
+      "source": "Pause",
+      "text": "Pause"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "PausedSuffix",
+      "source": "  (paused)",
+      "text": "  (en pause)"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "PlayPath",
+      "source": "Play",
+      "text": "Jouer"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "RemoveKey",
+      "source": "Remove Last",
+      "text": "Retirer le dernier"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "ResetDone",
+      "source": "Settings reset to defaults.",
+      "text": "Réglages rétablis par défaut."
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "ResetSettings",
+      "source": "Reset Settings",
+      "text": "Réinitialiser les réglages"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "Resume",
+      "source": "Resume",
+      "text": "Reprendre"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "Saved",
+      "source": "Saved to your user config.",
+      "text": "Enregistré dans votre configuration utilisateur."
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "SessionFmt",
+      "source": "Time x{0}{1}",
+      "text": "Temps x{0}{1}"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "ShowOverlay",
+      "source": "Show Overlay",
+      "text": "Afficher la surimpression"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "Slower",
+      "source": "Slower",
+      "text": "Plus lent"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "StopPath",
+      "source": "Stop",
+      "text": "Arrêter"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "Title",
+      "source": "Cinematic Camera",
+      "text": "Caméra cinématique"
+    },
+    {
+      "ns": "IRRCinematicCameraOverlay",
+      "key": "KeyHelp",
+      "source": "WASD move   E/Space up   Q/Ctrl down   Wheel speed   Shift boost   Alt precision\nX/Z zoom   C/V roll   B level horizon   [ / ] focus pull   F focus at crosshair\nT track subject   Y follow subject   K add key   Backspace remove key   Enter play path\nP pause   , / . slower / faster   / normal speed   G grid   H hide overlay   Tab menu",
+      "text": "WASD déplacer E/Space vers le haut Q/Ctrl down Vitesse de roue Shift boost Précision Alt\nZoom X/Z C/V rouleau B niveau horizon [ / ] focus focus F focus au crosshair\nT piste sujet Y suivre sujet K ajouter la clé Backspace supprimer la clé Entrer le chemin de lecture\nP pause , / . plus lent / plus rapide / vitesse normale G grille H cache superposition Tab menu"
+    },
+    {
+      "ns": "IRRClothing",
+      "key": "GroomFitNoBinding",
+      "source": "{0}: mesh {1} has a groom fit without a binding (or a binding without a groom).",
+      "text": "{0}: maille {1} a une coupe de marié sans reliure (ou une reliure sans toilet)."
+    },
+    {
+      "ns": "IRRClothing",
+      "key": "GroomFitWrongTarget",
+      "source": "{0}: groom fit binding {1} targets {2}, not {3}.",
+      "text": "{0}: reliure en forme de marié {1} cibles {2}, pas {3}."
+    },
+    {
+      "ns": "IRRClothing",
+      "key": "UnknownMaterialSlot",
+      "source": "{0}: mesh {1} has no material slot '{2}'.",
+      "text": "{0}: maille {1} n'a pas de fente de matériau '{2}'."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "Added",
+      "source": "Added the preset \"{0}\". Select it to apply — nothing changed yet.",
+      "text": "Configuration « {0} » ajoutée. Sélectionnez-la pour l'appliquer ; aucun changement pour le moment."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "AddedRenamed",
+      "source": "Added the preset as \"{0}\", because you already have a \"{1}\". Select it to apply — nothing changed yet.",
+      "text": "Ajouter le préréglage comme \"{0}\", parce que tu as déjà un \"{1}\". Choisissez-le pour appliquer — rien n'a encore changé."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "Applied",
+      "source": "Added and applied the preset \"{0}\".",
+      "text": "Configuration « {0} » ajoutée et appliquée."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "AppliedRenamed",
+      "source": "Added and applied the preset as \"{0}\", because you already have a \"{1}\".",
+      "text": "Ajouter et appliquer le préréglage comme suit: \"{0}\", parce que tu as déjà un \"{1}\"."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "EnterName",
+      "source": "Enter a name.",
+      "text": "Saisissez un nom."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "Exists",
+      "source": "A preset with this name already exists.",
+      "text": "Une configuration porte déjà ce nom."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "MissingPart",
+      "source": "This preset uses \"{0}\", which this build does not have.",
+      "text": "Cette configuration utilise « {0} », absent de cette version."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "NameLong",
+      "source": "This preset's name is longer than {0} characters.",
+      "text": "Le nom de cette configuration dépasse {0} caractères."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "NoBench",
+      "source": "Nothing is on the bench.",
+      "text": "L'établi est vide."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "NoFreeName",
+      "source": "Could not find a free name for this preset.",
+      "text": "Impossible de trouver un nom libre pour cette configuration."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "NoName",
+      "source": "This preset has no name.",
+      "text": "Cette configuration n'a pas de nom."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "NoSave",
+      "source": "Weapon presets are unavailable.",
+      "text": "Les configurations d'armes sont indisponibles."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "NoWeapon",
+      "source": "This preset is for an item this build does not have.",
+      "text": "Cette configuration utilise un objet absent de cette version."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "NotPlaced",
+      "source": "Added the preset \"{0}\", but it could not be placed on the bench.",
+      "text": "Configuration « {0} » ajoutée, mais impossible à placer sur l'établi."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "NotWeapon",
+      "source": "This code is not a weapon preset.",
+      "text": "Ce code ne correspond pas à une configuration d'arme."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "OtherWeapon",
+      "source": "Saved the preset \"{0}\" for {1}. It shows up in your presets when that weapon is on the bench.",
+      "text": "Enregistré le préréglage \"{0}\" pour {1}. Il apparaît dans vos préréglages lorsque arme est sur le banc."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "Saved",
+      "source": "Saved the preset \"{0}\".",
+      "text": "Configuration « {0} » enregistrée."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "TooLong",
+      "source": "Names can be at most {0} characters.",
+      "text": "Le nom peut comporter au maximum {0} caractères."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "Version",
+      "source": "This weapon preset was written for a different version of the game and cannot be read.",
+      "text": "Ce préréglage arme a été écrit pour une version différente du jeu et ne peut pas être lu."
+    },
+    {
+      "ns": "IRRGunsmithPreset",
+      "key": "WriteFailed",
+      "source": "Could not write the preset.",
+      "text": "Impossible d'enregistrer la configuration."
+    },
+    {
+      "ns": "IRRGunsmithPresetWidgets",
+      "key": "Copied",
+      "source": "Copied. Send the code to anyone — they paste it into the preset import box.",
+      "text": "Copied. Envoyez le code à n'importe qui — ils le collent dans la boîte d'importation prédéfinie."
+    },
+    {
+      "ns": "IRRGunsmithPresetWidgets",
+      "key": "CopyFailed",
+      "source": "Could not read the weapon on the bench.",
+      "text": "Impossible de lire l'arme sur l'établi."
+    },
+    {
+      "ns": "IRRGunsmithPresetWidgets",
+      "key": "EnterName",
+      "source": "Enter a name.",
+      "text": "Saisissez un nom."
+    },
+    {
+      "ns": "IRRGunsmithPresetWidgets",
+      "key": "NoBench",
+      "source": "Nothing is on the bench.",
+      "text": "L'établi est vide."
+    },
+    {
+      "ns": "IRRGunsmithPresetWidgets",
+      "key": "NoGunsmith",
+      "source": "The weapon bench is unavailable.",
+      "text": "L'établi d'armes est indisponible."
+    },
+    {
+      "ns": "IRRGunsmithPresetWidgets",
+      "key": "TooLong",
+      "source": "Names can be at most {0} characters.",
+      "text": "Le nom peut comporter au maximum {0} caractères."
+    },
+    {
+      "ns": "IRRInbox",
+      "key": "Complete_1",
+      "source": "Operation complete, operator. Clean execution in the field - your handler is more than pleased with the result. Your compensation has been cleared; collect it whenever you're ready.",
+      "text": "Opération terminée, opérateur. Nettoyez l'exécution sur le terrain - votre gestionnaire est plus que satisfait du résultat. Votre indemnisation a été payée, et vous la récupérerez chaque fois que vous serez prêt."
+    },
+    {
+      "ns": "IRRInbox",
+      "key": "Complete_2",
+      "source": "Nice work out there. Objective secured without leaving a mess, and that buys you real goodwill with us. Your reward is waiting - don't leave it sitting.",
+      "text": "Beau travail. Objectif sécurisé sans laisser de désordre, et qui vous achète de la bonne volonté avec nous. Votre récompense est en attente - ne la laissez pas assis."
+    },
+    {
+      "ns": "IRRInbox",
+      "key": "Complete_3",
+      "source": "Mission successful. You got the job done and the higher-ups are impressed with how you handled it. Head over and claim what you've earned.",
+      "text": "Mission réussie. Vous avez fait le travail et les plus hauts sont impressionnés par la façon dont vous l'avez géré. Va réclamer ce que tu as gagné."
+    },
+    {
+      "ns": "IRRInbox",
+      "key": "Complete_4",
+      "source": "That's a wrap. The faction is happy with your execution on this one - exactly the kind of work we like to see. Your payment has been released for pickup.",
+      "text": "C'est un enveloppement. La faction est heureuse de votre exécution sur celle-ci - exactement le genre de travail que nous aimons voir. Votre paiement a été libéré pour le ramassage."
+    },
+    {
+      "ns": "IRRInbox",
+      "key": "Complete_5",
+      "source": "Debrief received: flawless. You came through in the raid and the faction won't forget it. Your reward is ready to be collected at your convenience.",
+      "text": "Compte rendu reçu : sans faille. Vous êtes passé par le raid et la faction ne l'oubliera pas. Votre récompense est prête à être recueillie à votre convenance."
+    },
+    {
+      "ns": "IRRInbox",
+      "key": "OpComplete_1",
+      "source": "Operation complete on {Level}, operator. Item and cash rewards are in your inbox - collect them when you are ready.",
+      "text": "Opération terminée le {Level}, opérateur. L'article et les récompenses en espèces sont dans votre boîte de réception - collectez-les lorsque vous êtes prêt."
+    },
+    {
+      "ns": "IRRInbox",
+      "key": "OpComplete_2",
+      "source": "The field work on {Level} is done. Your compensation is waiting in your messages.",
+      "text": "Les travaux sur le terrain {Level} Votre rémunération vous attend dans vos messages."
+    },
+    {
+      "ns": "IRRInbox",
+      "key": "OpComplete_3",
+      "source": "Objective secured on {Level}. Payment has been cleared to your inbox.",
+      "text": "Objectif atteint {Level}. Le paiement a été autorisé à votre boîte de réception."
+    },
+    {
+      "ns": "IRRInbox",
+      "key": "OpCompletedOn",
+      "source": "Completed on {Level}.",
+      "text": "Terminé sur {Level}."
+    },
+    {
+      "ns": "IRRInbox",
+      "key": "UnknownLevel",
+      "source": "this raid",
+      "text": "ce raid"
+    },
+    {
+      "ns": "IRRInventory",
+      "key": "SplitMaxAmount",
+      "source": "/ {0}",
+      "text": "/ {0}"
+    },
+    {
+      "ns": "IRRMissionBriefingControl",
+      "key": "DurationFormat",
+      "source": " / {0}",
+      "text": " / {0}"
+    },
+    {
+      "ns": "IRRModWarning",
+      "key": "Body",
+      "source": "Mods are installed:\n\n{0}\n\nMods made for an older version of the game often crash it at startup after an update. If the game crashes, remove them (Content\\Paks\\~mods, Content\\Paks\\LogicMods, Binaries\\Win64\\äss) and verify the game files in Steam.\n\nThis message shows again when the game updates or your mods change.",
+      "text": "Des mods sont installés :\n\n{0}\n\nLes mods prévus pour une ancienne version peuvent faire planter le jeu au démarrage après une mise à jour. En cas de plantage, retirez les mods de Content\\Paks\\~mods, Content\\Paks\\LogicMods et Binaries\\Win64, puis vérifiez les fichiers du jeu dans Steam.\n\nCe message réapparaît après une mise à jour du jeu ou une modification de vos mods."
+    },
+    {
+      "ns": "IRRModWarning",
+      "key": "Title",
+      "source": "Mods detected",
+      "text": "Mods détectés"
+    },
+    {
+      "ns": "IRROptic",
+      "key": "RangefinderHolding",
+      "source": "HOLD",
+      "text": "MAINTENIR"
+    },
+    {
+      "ns": "IRROptic",
+      "key": "RangefinderScanning",
+      "source": "SCAN",
+      "text": "ANALYSER"
+    },
+    {
+      "ns": "IRRPatch",
+      "key": "ResetAll",
+      "source": "All save data",
+      "text": "Toutes les sauvegardes"
+    },
+    {
+      "ns": "IRRPatch",
+      "key": "ResetInventory",
+      "source": "Inventory",
+      "text": "Inventaire"
+    },
+    {
+      "ns": "IRRPatch",
+      "key": "ResetMission",
+      "source": "Mission progress",
+      "text": "Progression des missions"
+    },
+    {
+      "ns": "IRRPatch",
+      "key": "ResetSafehouse",
+      "source": "Safehouse",
+      "text": "Base"
+    },
+    {
+      "ns": "IRRPatch",
+      "key": "ResetSeparator",
+      "source": ", ",
+      "text": ", "
+    },
+    {
+      "ns": "IRRPatch",
+      "key": "ResetSettings",
+      "source": "Game settings",
+      "text": "Réglages du jeu"
+    },
+    {
+      "ns": "IRRPatch",
+      "key": "ResetStash",
+      "source": "Stash",
+      "text": "Réserve"
+    },
+    {
+      "ns": "IRRPatch",
+      "key": "ResetVendor",
+      "source": "Vendor",
+      "text": "Marchand"
+    },
+    {
+      "ns": "IRRPatch",
+      "key": "ResetWorld",
+      "source": "World state",
+      "text": "État du monde"
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "AlreadyOffered",
+      "source": "Already on the table.",
+      "text": "Déjà sur la table."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "CountFormat",
+      "source": "x{0}",
+      "text": "x{0}"
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "EmptyTable",
+      "source": "Nothing on the table.",
+      "text": "La table est vide."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "ForeignItem",
+      "source": "Only your own items or the trader's stock can be traded.",
+      "text": "Seuls vos propres articles ou le crosse du trader peuvent être échangés."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "HandInExceedsValueNoChange",
+      "source": "This trader won't pay out your overpay of $ {0}. You won't get any money back, so trade wisely.",
+      "text": "Ce trader ne paiera pas votre trop-payé de $ {0}Vous ne récupérerez pas d'argent, alors échangez sagement."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "InvalidItem",
+      "source": "Invalid item.",
+      "text": "Objet invalide."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "ItemGone",
+      "source": "An offered item is no longer available.",
+      "text": "Un objet proposé n'est plus disponible."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "NoCashAccepted",
+      "source": "This trader doesn't take money. Hand in $ {0} more in goods.",
+      "text": "Ce marchand n'accepte pas d'argent. Ajoutez $ {0} de marchandises."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "NoInventory",
+      "source": "No inventory.",
+      "text": "Aucun inventaire."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "NoSession",
+      "source": "No trader session.",
+      "text": "Aucune session de marchand."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "NoSpace",
+      "source": "Not enough space in your inventory.",
+      "text": "Espace insuffisant dans votre inventaire."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "NoStockSpace",
+      "source": "The trader has no room for that.",
+      "text": "Le marchand n'a pas assez de place."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "NoTable",
+      "source": "No trade table.",
+      "text": "Aucune table d'échange."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "NotEnoughCash",
+      "source": "Not enough cash. Missing $ {0}",
+      "text": "Argent insuffisant. Il manque $ {0}"
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "NotWanted",
+      "source": "The trader isn't interested in this.",
+      "text": "Cet objet n'intéresse pas le marchand."
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "TradeBalance",
+      "source": "Balance $ {0}",
+      "text": "Solde $ {0}"
+    },
+    {
+      "ns": "IRRRaidTrader",
+      "key": "ValueFormat",
+      "source": "{0} $",
+      "text": "{0} $"
+    },
+    {
+      "ns": "IRRReward",
+      "key": "CashLineFormat",
+      "source": "${0} {1}",
+      "text": "${0} {1}"
+    },
+    {
+      "ns": "IRRReward",
+      "key": "CashValueFormat",
+      "source": "${0}",
+      "text": "${0}"
+    },
+    {
+      "ns": "IRRReward",
+      "key": "ExperienceLineFormat",
+      "source": "+{0} EXP",
+      "text": "+{0} EXP"
+    },
+    {
+      "ns": "IRRReward",
+      "key": "ExperienceTitle",
+      "source": "Experience",
+      "text": "Expérience"
+    },
+    {
+      "ns": "IRRReward",
+      "key": "FactionReputationTitle",
+      "source": "Faction Reputation",
+      "text": "Réputation de faction"
+    },
+    {
+      "ns": "IRRReward",
+      "key": "ItemLineFormat",
+      "source": "{0}x {1}",
+      "text": "{0}x {1}"
+    },
+    {
+      "ns": "IRRSecureContainer",
+      "key": "DefaultBody",
+      "source": "Items recovered from your secure container.",
+      "text": "Objets récupérés dans votre conteneur sécurisé."
+    },
+    {
+      "ns": "IRRSecureContainer",
+      "key": "DefaultTitle",
+      "source": "Secure Container",
+      "text": "Conteneur sécurisé"
+    },
+    {
+      "ns": "IRRSettingCondition",
+      "key": "Unsupported",
+      "source": "Not supported on this system.",
+      "text": "Non pris en charge par ce système."
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "FrameGeneration_DLSS",
+      "source": "NVIDIA DLSS Frame Generation",
+      "text": "Génération d'images NVIDIA DLSS"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "FrameGeneration_DLSS3X",
+      "source": "NVIDIA DLSS Multi Frame Generation 3x",
+      "text": "Génération d'images multiples NVIDIA DLSS 3x"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "FrameGeneration_DLSS4X",
+      "source": "NVIDIA DLSS Multi Frame Generation 4x",
+      "text": "Génération d'images multiples NVIDIA DLSS 4x"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "FrameGeneration_FSR",
+      "source": "AMD FSR Frame Generation",
+      "text": "Génération d'images AMD FSR"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "FrameGeneration_Off",
+      "source": "Off",
+      "text": "Désactivé"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "FrameGeneration_Unsupported",
+      "source": "Not available on this system (requires DirectX 12).",
+      "text": "Indisponible sur ce système (nécessite DirectX 12)."
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "FrameGeneration_XeSS",
+      "source": "Intel XeSS Frame Generation",
+      "text": "Génération d'images Intel XeSS"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "FrameGeneration_XeSS3X",
+      "source": "Intel XeSS Frame Generation 3x",
+      "text": "Génération d'images Intel XeSS 3x"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "FrameGeneration_XeSS4X",
+      "source": "Intel XeSS Frame Generation 4x",
+      "text": "Génération d'images Intel XeSS 4x"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "LowLatency_Boost",
+      "source": "On + Boost",
+      "text": "Activé + Boost"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "LowLatency_Off",
+      "source": "Off",
+      "text": "Désactivé"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "LowLatency_On",
+      "source": "On",
+      "text": "Activé"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "LowLatency_Unsupported",
+      "source": "Not available on this GPU.",
+      "text": "Indisponible avec cette carte graphique."
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Quality_Balanced",
+      "source": "Balanced",
+      "text": "Équilibré"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Quality_NativeAA",
+      "source": "Native AA",
+      "text": "Anticrénelage natif"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Quality_Performance",
+      "source": "Performance",
+      "text": "Performances"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Quality_Quality",
+      "source": "Quality",
+      "text": "Qualité"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Quality_UltraPerformance",
+      "source": "Ultra Performance",
+      "text": "Ultra-performances"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "RayReconstruction_Unsupported",
+      "source": "Requires an NVIDIA RTX GPU.",
+      "text": "Nécessite une carte graphique NVIDIA RTX."
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Upscaler_DLSS",
+      "source": "NVIDIA DLSS",
+      "text": "NVIDIA DLSS"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Upscaler_FSR",
+      "source": "AMD FSR",
+      "text": "AMD FSR"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Upscaler_FXAA",
+      "source": "FXAA",
+      "text": "FXAA"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Upscaler_None",
+      "source": "Off",
+      "text": "Désactivé"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Upscaler_TAA",
+      "source": "TAA",
+      "text": "TAA"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Upscaler_TSR",
+      "source": "TSR",
+      "text": "TSR"
+    },
+    {
+      "ns": "IRRSettingHandler_Upscaling",
+      "key": "Upscaler_XeSS",
+      "source": "Intel XeSS",
+      "text": "Intel XeSS"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "AIDamage",
+      "source": "Standard AI Damage Multiplier",
+      "text": "Multiplicateur des dégâts de l'IA standard"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "AIDamageDesc",
+      "source": "Multiplies all damage dealt by regular bots, to players and to other bots alike. 1.0 is unchanged, 2.0 doubles it.",
+      "text": "Multiplie tous les dommages infligés par les robots réguliers, aux joueurs comme aux autres robots. 1.0 est inchangé, 2.0 le double."
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "AIDifficulty",
+      "source": "AI Difficulty",
+      "text": "Difficulté de l'IA"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "AIDifficultyDesc",
+      "source": "Sets how hard the bots are: how fast they react, how well they see and aim, and how much damage is dealt. Pick Custom to change the settings below yourself.",
+      "text": "Définit à quel point les robots sont durs : à quelle vitesse ils réagissent, comment ils voient et visent bien, et combien de dégâts sont infligés. Choisissez Personnalisé pour modifier les paramètres ci-dessous."
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "AISimulation",
+      "source": "AI Simulation",
+      "text": "Simulation de l'IA"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "AISimulationDesc",
+      "source": "Controls how much the AI costs your CPU in raid. Trades the visual quality and smoothness of distant bots for CPU overhead. Pick Custom to set the optimization ranges yourself.",
+      "text": "Contrôle combien l'IA coûte votre CPU en raid. Trace la qualité visuelle et la douceur des robots éloignés pour les frais généraux CPU. Choisissez Custom pour définir les gammes d'optimisation vous-même."
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "AimAndShoot",
+      "source": "Aim and Shoot",
+      "text": "Visée et tir"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "AimInitialDelay",
+      "source": "Aim Initial Delay Multiplier",
+      "text": "Multiplicateur du délai de visée initial"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "BaseSenseDelay",
+      "source": "Base Sense Delay",
+      "text": "Délai de détection de base"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Behavior",
+      "source": "Behavior",
+      "text": "Comportement"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "BossDamage",
+      "source": "Boss Damage Multiplier",
+      "text": "Multiplicateur des dégâts des boss"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "BossDamageDesc",
+      "source": "Multiplies all damage dealt by bosses. 1.0 is unchanged, 2.0 doubles it.",
+      "text": "Multiplie tous les dommages infligés par les patrons. 1.0 est inchangé, 2.0 le double."
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "CanAimForHead",
+      "source": "Can Aim For Head",
+      "text": "Peut viser la tête"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Damage",
+      "source": "Damage",
+      "text": "Dégâts"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "DeliberateMissChance",
+      "source": "Deliberate Miss Chance",
+      "text": "Probabilité de tir volontairement manqué"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "DeliberateMissTime",
+      "source": "Deliberate Miss Time",
+      "text": "Durée des tirs volontairement manqués"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Difficulty",
+      "source": "Difficulty",
+      "text": "Difficulté"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "FirstContactDelay",
+      "source": "First Contact Additional Delay",
+      "text": "Délai supplémentaire au premier contact"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "FullAutoMaxDistance",
+      "source": "Full Auto Max Distance",
+      "text": "Distance maximale du tir automatique"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "General",
+      "source": "General",
+      "text": "Général"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "LaserDetection",
+      "source": "Laser Detection",
+      "text": "Laser Detection"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Level1Range",
+      "source": "Level 1 Range",
+      "text": "Portée du niveau 1"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Level1RangeDesc",
+      "source": "When bots are further than this from every human player, their update rate and movement are slightly reduced to lower their CPU cost.",
+      "text": "Lorsque les robots sont plus loin que cela de chaque joueur humain, leur taux de mise à jour et de mouvement sont légèrement réduits pour réduire leur coût CPU."
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Level2Range",
+      "source": "Level 2 Range",
+      "text": "Portée du niveau 2"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Level2RangeDesc",
+      "source": "When bots are further than this from every human player, their update rate is moderately reduced and their movement physics are simplified.",
+      "text": "Lorsque les robots sont plus loin que cela de chaque joueur humain, leur taux de mise à jour est modérément réduit et leur physique des mouvements simplifié."
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Level3Range",
+      "source": "Level 3 Range",
+      "text": "Portée du niveau 3"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Level3RangeDesc",
+      "source": "When bots are further than this from every human player, their update rate is heavily reduced and their movement physics are at their simplest.",
+      "text": "Lorsque les robots sont plus loin que cela de chaque joueur humain, leur taux de mise à jour est fortement réduit et leur physique des mouvements est à leur plus simple."
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Level4Range",
+      "source": "Level 4 Range",
+      "text": "Portée du niveau 4"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Level4RangeDesc",
+      "source": "When bots are further than this from every human player, their movement is switched off entirely to lower their CPU cost.",
+      "text": "Lorsque les robots sont plus loin que cela de chaque joueur humain, leur mouvement est désactivé entièrement pour réduire leur coût CPU."
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "LightDetection",
+      "source": "Light Detection",
+      "text": "Détection de la lumière"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "MaxMovementTickRate",
+      "source": "Max Movement Tick Rate",
+      "text": "Fréquence maximale de mise à jour des déplacements"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "MuzzleFlashScale",
+      "source": "AI Muzzle Flash Size",
+      "text": "AI bouche Flash Size"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "MuzzleFlashScaleDesc",
+      "source": "Scales the muzzle flash of bot weapons so their fire is easier to spot. 1.0 is the normal size.",
+      "text": "Échelle le flash bouche du bot armes afin que leur feu soit plus facile à repérer. 1.0 est la taille normale."
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "OptimizationRanges",
+      "source": "AI Optimization Ranges",
+      "text": "Distances d'optimisation de l'IA"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Perception",
+      "source": "Perception and Senses",
+      "text": "Perception et sens"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "PerceptionAngle",
+      "source": "Perception Angle",
+      "text": "Angle de perception"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "PerceptionMinScore",
+      "source": "Perception Min Score",
+      "text": "Score minimal de perception"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "PerceptionShareRadius",
+      "source": "Perception Share Radius",
+      "text": "Rayon de partage des détections"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "PickCustom",
+      "source": "Select Custom to change these settings.",
+      "text": "Sélectionnez Personnalisé pour modifier ces réglages."
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "PlayerDamage",
+      "source": "Player Damage Multiplier",
+      "text": "Multiplicateur des dégâts du joueur"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "PlayerDamageDesc",
+      "source": "Multiplies all damage dealt by players. 1.0 is unchanged, 2.0 doubles it.",
+      "text": "Multiplie tous les dommages infligés par les joueurs. 1.0 est inchangé, 2.0 le double."
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "RepeatSenseCoef",
+      "source": "Repeat Sense Coef",
+      "text": "Coefficient de détection répétée"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Search",
+      "source": "Search",
+      "text": "Rechercher"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Simulation",
+      "source": "Simulation",
+      "text": "Simulation"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "SuppressTargets",
+      "source": "Suppress Targets",
+      "text": "Effectuer des tirs de suppression"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "TimeToSee",
+      "source": "Time To See",
+      "text": "Délai de détection visuelle"
+    },
+    {
+      "ns": "IRRSettingImporter_AISettings",
+      "key": "Vision",
+      "source": "Vision",
+      "text": "Vision"
+    },
+    {
+      "ns": "IRRSettingKeyBindingLibrary",
+      "key": "NameSeparator",
+      "source": ", ",
+      "text": ", "
+    },
+    {
+      "ns": "IRRSettingPreset",
+      "key": "ImportForeign",
+      "source": "That preset belongs to other settings.",
+      "text": "Cette configuration correspond à d'autres réglages."
+    },
+    {
+      "ns": "IRRSettingPreset",
+      "key": "ImportInvalid",
+      "source": "That is not a settings preset.",
+      "text": "Ce fichier n'est pas une configuration de réglages."
+    },
+    {
+      "ns": "IRRSettingPreset",
+      "key": "ImportWriteFailed",
+      "source": "The preset could not be saved.",
+      "text": "Impossible d'enregistrer la configuration."
+    },
+    {
+      "ns": "IRRSettingPreset",
+      "key": "Imported",
+      "source": "Added preset \"{0}\".",
+      "text": "Configuration « {0} » ajoutée."
+    },
+    {
+      "ns": "IRRSettingPreset",
+      "key": "ImportedName",
+      "source": "Imported Preset",
+      "text": "Configuration importée"
+    },
+    {
+      "ns": "IRRSettingPreset",
+      "key": "ImportedPartly",
+      "source": "Added preset \"{0}\" ({1} unknown settings skipped).",
+      "text": "Configuration « {0} » ajoutée ({1} réglages inconnus ignorés)."
+    },
+    {
+      "ns": "IRRSettingPreset",
+      "key": "NoImport",
+      "source": "This preset list cannot import presets.",
+      "text": "Cette liste ne permet pas l'import de configurations."
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "Close",
+      "source": "X",
+      "text": "X"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "Engaged",
+      "source": "Engaged",
+      "text": "En combat"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "ModeChase",
+      "source": "Chase",
+      "text": "Poursuite"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "ModeHelmet",
+      "source": "Helmet",
+      "text": "Helmet"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "ModeSensor",
+      "source": "Sensor",
+      "text": "Capteur"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "Next",
+      "source": "Next >",
+      "text": "Suiv. >"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "NoTargets",
+      "source": "No spectate targets.",
+      "text": "Aucune cible à observer."
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "NoViewer",
+      "source": "No local player.",
+      "text": "Aucun joueur local."
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "NotSpectating",
+      "source": "Not spectating",
+      "text": "Mode spectateur inactif"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "Prev",
+      "source": "< Prev",
+      "text": "< Préc."
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "StartHelmet",
+      "source": "Helmet Cam",
+      "text": "Helmet Cam"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "Started",
+      "source": "Helmet cam started.",
+      "text": "La caméra du casque a commencé."
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "StartedFmt",
+      "source": "Helmet cam: {0}",
+      "text": "Came du casque : {0}"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "Stop",
+      "source": "Stop",
+      "text": "Arrêter"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "Title",
+      "source": "Spectator (Debug)",
+      "text": "Spectateur (Débogage)"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "WatchingFmt",
+      "source": "Watching {0}  ({1})",
+      "text": "Observation de {0}  ({1})"
+    },
+    {
+      "ns": "IRRSpectatorMenu",
+      "key": "WatchingGone",
+      "source": "Watching (target gone)",
+      "text": "Observation (cible disparue)"
+    },
+    {
+      "ns": "IRRTerminalHackStatus",
+      "key": "Depleted",
+      "source": "Intrusion device {Device}: battery depleted ({Battery}%).",
+      "text": "Dispositif d'intrusion {Device}: batterie épuisée ({Battery}%)."
+    },
+    {
+      "ns": "IRRTerminalHackStatus",
+      "key": "NoDevice",
+      "source": "No intrusion device connected.",
+      "text": "Aucun dispositif d'intrusion connecté."
+    },
+    {
+      "ns": "IRRTerminalHackStatus",
+      "key": "Ready",
+      "source": "Intrusion device {Device} connected. Battery {Battery}%. Estimated cost {Cost}%. Type \"hack\" to start.",
+      "text": "Dispositif d'intrusion {Device} connecté. Batterie {Battery}Coût estimatif {Cost}%. Tapez \"hack\" pour démarrer."
+    },
+    {
+      "ns": "IRRTerminalTextSource",
+      "key": "DoorCodeLine",
+      "source": "{Name}: {Code} {State}",
+      "text": "{Name}: {Code} {State}"
+    },
+    {
+      "ns": "IRRTerminalTextSource",
+      "key": "DoorCodesEmpty",
+      "source": "No access codes on record.",
+      "text": "Aucun code d'accès enregistré."
+    },
+    {
+      "ns": "IRRTerminalTextSource",
+      "key": "DoorLocked",
+      "source": "[LOCKED]",
+      "text": "[LOCKED]"
+    },
+    {
+      "ns": "IRRTerminalTextSource",
+      "key": "DoorUnlocked",
+      "source": "[OPEN]",
+      "text": "[OPEN]"
+    }
+  ]
+}

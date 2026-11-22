@@ -1,0 +1,1204 @@
+{
+  "texts": [
+    {
+      "ns": "",
+      "key": "DAC039414945CEF464A252A26AA3FF8B",
+      "source": "s",
+      "text": "s"
+    },
+    {
+      "ns": "",
+      "key": "DAC0F0C7447723061EF11EA056AD325F",
+      "source": "10 Inch barrel for the SCAR-L.",
+      "text": "10 pouces canon pour le SCAR-L."
+    },
+    {
+      "ns": "",
+      "key": "DAC31B534F8C5D9A2A2BAE9BA3D0A39D",
+      "source": " 30 round AUG mag, for 5.56x45mm ammunition.",
+      "text": " 30 cartouches AUG chargeur, pour 5.56x45mm munitions."
+    },
+    {
+      "ns": "",
+      "key": "DAC4C0DD43920A3E0B231FA4B64C8E4A",
+      "source": "RequestLogin",
+      "text": "Demande d'ouverture de session"
+    },
+    {
+      "ns": "",
+      "key": "DAC8138E45AFA2D63D012B8E489FD792",
+      "source": "Jmac Customs RRD-4C 5.45x39mm",
+      "text": "Douanes Jmac RRD-4C 5.45x39mm"
+    },
+    {
+      "ns": "",
+      "key": "DADB2E6147EEB314DC0446A80539EEBE",
+      "source": "Mosquito Net",
+      "text": "Moustiquaire"
+    },
+    {
+      "ns": "",
+      "key": "DAF07521446858414FC36C8D9EC18C00",
+      "source": "Hello? Yup, done. Head on out.",
+      "text": "Oui, c'est fini."
+    },
+    {
+      "ns": "",
+      "key": "DAF244E34BC28FB4482D54AA167AB14C",
+      "source": "Mission Progress",
+      "text": "Progression de mission"
+    },
+    {
+      "ns": "",
+      "key": "DAF8469F4F4DE47E178B32A462D8B8EE",
+      "source": ".338 Lapua Magnum, bullpup bolt action sniper rifle. Manufactured by Desert Tech.",
+      "text": ".338 Lapua Magnum, bullup à verrou fusil de précision. Fabriqué par Desert Tech."
+    },
+    {
+      "ns": "",
+      "key": "DAF8CFB84DFAD670C479989E46AF3B48",
+      "source": "Gunsmith",
+      "text": "Armurier"
+    },
+    {
+      "ns": "",
+      "key": "DAFDB2D34FF4AE1C856886BB5FAD4685",
+      "source": "Quadrail handguard for AR-10 style rifles.",
+      "text": "Quadrail garde-main pour fusils de style AR-10."
+    },
+    {
+      "ns": "",
+      "key": "DB025F0D463B4121281BF29D39226085",
+      "source": "Push To Talk",
+      "text": "Appuyer pour parler"
+    },
+    {
+      "ns": "",
+      "key": "DB037BE147A3545FDBF1089559021060",
+      "source": "Retrieve evidence from {x}.",
+      "text": "Récupérez les preuves à {x}."
+    },
+    {
+      "ns": "",
+      "key": "DB08685F4BCD80AD4BD24DA01B81A34D",
+      "source": "MPX Lancer M-LOK 16 Inch Handguard",
+      "text": "Garde-main MPX Lancer M-LOK 16 pouces"
+    },
+    {
+      "ns": "",
+      "key": "DB13AD934743CBEDB3FF37B26DA6C4C5",
+      "source": "Splint Limb",
+      "text": "Poser une attelle"
+    },
+    {
+      "ns": "",
+      "key": "DB3780E441285AA2AC704AB5468F7DD5",
+      "source": "16 Inch",
+      "text": "16 pouces"
+    },
+    {
+      "ns": "",
+      "key": "DB3886C94FBB59FC4B109A864780D614",
+      "source": "Hello? Well done! You're good here. Head on out.",
+      "text": "C'est bon, tu es bien ici."
+    },
+    {
+      "ns": "",
+      "key": "DB47B57C44A3D6B05981C4A628B35810",
+      "source": "Weapons",
+      "text": "Armes"
+    },
+    {
+      "ns": "",
+      "key": "DB4DA1FE46A2DBBED3C406A46F672DB0",
+      "source": "5.45x39mm 7N22",
+      "text": "5.45x39mm 7N22"
+    },
+    {
+      "ns": "",
+      "key": "DB5541DD4D33AAA37059B7B8D9EC5667",
+      "source": "A 20rnd mag for the FN FAL.",
+      "text": "Un 20rnd chargeur pour le FN FAL."
+    },
+    {
+      "ns": "",
+      "key": "DB805CD84DDD23FF54BEDC9EAA256D1E",
+      "source": "Area empty? Good good.",
+      "text": "Personne dans la zone ? Très bien."
+    },
+    {
+      "ns": "",
+      "key": "DB8109DA493E6AD3B7934A95A6DEE628",
+      "source": "Five Seven Rear Sight",
+      "text": "Five Seven hausse"
+    },
+    {
+      "ns": "",
+      "key": "DB8C26C640E30F95C07AFD8FFA35DE6D",
+      "source": "Missions Completed",
+      "text": "Missions terminées"
+    },
+    {
+      "ns": "",
+      "key": "DBA4D6F747EB1B31ABE4AA9299F158D3",
+      "source": "Structure",
+      "text": "Structure"
+    },
+    {
+      "ns": "",
+      "key": "DBC012A6431369956CB45A94EE13829C",
+      "source": "You did what?!! Holy lord, what a massacre. I don’t know how you managed but you better count your damn lucky stars and leave RIGHT NOW.",
+      "text": "Tu as fait quoi ?!! Seigneur, quel massacre ! Je ne sais pas comment tu as réussi, mais tu ferais mieux de compter tes étoiles chanceuses et de partir maintenant."
+    },
+    {
+      "ns": "",
+      "key": "DBC11194484EB5CB7B895D951D8ADC5E",
+      "source": "The IGC's thanks was less than sweet, but you did a good job, and those vehicles were stopped. Now reorient yourself to the task at hand.",
+      "text": "Les remerciements du IGC ont été moins que doux, mais vous avez fait du bon travail, et ces véhicules ont été arrêtés. Maintenant, réorientez-vous vers la tâche à accomplir."
+    },
+    {
+      "ns": "",
+      "key": "DBC701864E994D528F3E71B526120E21",
+      "source": "Untrack",
+      "text": "Ne plus suivre"
+    },
+    {
+      "ns": "",
+      "key": "DBD3DBCC49A01CEB13BD8DB1BB7C97C9",
+      "source": "<strong>Replaces</> the diesel generator with an generator that is powered by <strong>gasoline</>.",
+      "text": "<strong>Remplace</> le générateur diesel avec un générateur qui est alimenté par <strong>essence</>."
+    },
+    {
+      "ns": "",
+      "key": "DBD9A9204C0E3D170313078A3AA77763",
+      "source": "Stop Bleeding",
+      "text": "Arrêter l'hémorragie"
+    },
+    {
+      "ns": "",
+      "key": "DBEEDDCE40AA5A0DE6E56E92B0977BE0",
+      "source": "A 13 Inch barrel for the FN FAL.",
+      "text": "A 13 pouces canon pour le FN FAL."
+    },
+    {
+      "ns": "",
+      "key": "DBF5000846E06D0FF2D873BBA298EDDA",
+      "source": "Yup! New operation added to your tasks.",
+      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+    },
+    {
+      "ns": "",
+      "key": "DBF89015406D9AD5F2069AB32656FC93",
+      "source": "read",
+      "text": "read"
+    },
+    {
+      "ns": "",
+      "key": "DBF8979C4D50560A038D9F8BD3826F44",
+      "source": "Standard SCAR Rear Iron Sight.",
+      "text": "Standard SCAR hausse mécanique."
+    },
+    {
+      "ns": "",
+      "key": "DBFB94794B55B46F0E99D7B1EAFFF369",
+      "source": "Tomahawk",
+      "text": "Tomahawk"
+    },
+    {
+      "ns": "",
+      "key": "DC04EEB244887F511CAECF8B81EB9B9F",
+      "source": "Eliminate the {count} spies wearing a suit.",
+      "text": "Éliminez les {count} espions en costume."
+    },
+    {
+      "ns": "",
+      "key": "DC076E52414DF2CC403D6DA8B0620900",
+      "source": "UICS learned of an enemy airdrop and wants you to intercept it. Should be good gear to take for yourself too if you have the time.",
+      "text": "UICS a appris une goutte d'air ennemie et veut que vous l'interceptiez. Ce devrait être un bon équipement à prendre pour vous-même aussi si vous avez le temps."
+    },
+    {
+      "ns": "",
+      "key": "DC07804043C7B9A0FEAB4A82880CBA78",
+      "source": "Operation accepted, info on GCPS",
+      "text": "Opération acceptée, informations sur le GCPS"
+    },
+    {
+      "ns": "",
+      "key": "DC0AD2554A2DB150F96F98A94DA99055",
+      "source": "7.62x51mm high caliber designated marksman rifle.",
+      "text": "7.62x51mm calibre élevé désigné fusil de précision."
+    },
+    {
+      "ns": "",
+      "key": "DC1356964A7E23FCA4A0CA85E9E20BB5",
+      "source": "AR-10 CMMG",
+      "text": "AR-10 CMMG"
+    },
+    {
+      "ns": "",
+      "key": "DC17CDD44BBA75FBDAEC25ACB28512F0",
+      "source": "Hello? Yup, done. Head on out.",
+      "text": "Oui, c'est fini."
+    },
+    {
+      "ns": "",
+      "key": "DC389E384D880D552424F6917EAF4EDD",
+      "source": "KRISS Vector .45ACP 9 Inch Barrel",
+      "text": "KRISS Vector .45ACP 9 pouces canon"
+    },
+    {
+      "ns": "",
+      "key": "DC3E666F451272E6389A94948E7223FC",
+      "source": "PK",
+      "text": "PK"
+    },
+    {
+      "ns": "",
+      "key": "DC550EE244C9B5BC717834BB296B7145",
+      "source": "Locate Terminal",
+      "text": "Repérer le terminal"
+    },
+    {
+      "ns": "",
+      "key": "DC574054473F39A7FBE880B3F66CAD0A",
+      "source": "Double Press <Red>F</> to Swap Weapon.",
+      "text": "Appuyez deux fois sur <Red>F</> pour changer d'arme."
+    },
+    {
+      "ns": "",
+      "key": "DC5A6B214891310B56A2EBA1FF34C622",
+      "source": "AK-74",
+      "text": "AK-74"
+    },
+    {
+      "ns": "",
+      "key": "DC62BD1F4552F49672A5708D19809DDC",
+      "source": "Hello? Well done! You're good here. Head on out.",
+      "text": "C'est bon, tu es bien ici."
+    },
+    {
+      "ns": "",
+      "key": "DC64EDE44745C4F9E30457B09BD898FA",
+      "source": "SNIPER RIFLES",
+      "text": "FUSILS DE PRÉCISION"
+    },
+    {
+      "ns": "",
+      "key": "DC75AF764105940249A744ADB2EBC8CF",
+      "source": "Firemodes",
+      "text": "Modes de tir"
+    },
+    {
+      "ns": "",
+      "key": "DC7D75034CEF85D93E77CD9918F2B293",
+      "source": "Yup! The operation has been added to your GCPS",
+      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+    },
+    {
+      "ns": "",
+      "key": "DCA026824FAB825C0ACB6D8971AAD2A3",
+      "source": "Yup! All relevent operational information on your GCPS",
+      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+    },
+    {
+      "ns": "",
+      "key": "DCB112C942979285686FCABC1F66D957",
+      "source": "Mission accomplished. The targets have been efficiently neutralized. It was a regrettable, yet necessary action.",
+      "text": "Mission accomplie. Les cibles ont été neutralisées de manière efficace. Il s'agit d'une action regrettable, mais nécessaire."
+    },
+    {
+      "ns": "",
+      "key": "DCB168F9425DE1375EB104ADEA6AA224",
+      "source": "AK Zenitco B-11 Handguard",
+      "text": "Garde-main AK Zenitco B-11"
+    },
+    {
+      "ns": "",
+      "key": "DCB693DC4A0DF7ED04AC26884A6A5AF4",
+      "source": "Setting to toggle nameplates on your team mates.",
+      "text": "Affiche ou masque les noms de vos coéquipiers."
+    },
+    {
+      "ns": "",
+      "key": "DCBD0B2045FDC50BA1A99F882C23B0B9",
+      "source": "AR-15 Geissele MK8 M-LOK 7 Inch Handguard",
+      "text": "Garde-main AR-15 Geissele MK8 M-LOK 7 pouces"
+    },
+    {
+      "ns": "",
+      "key": "DCC15FE04092B3071EFEDBBF7BC88016",
+      "source": "Area clear, targets eliminated. Well done",
+      "text": "Zone sécurisée, cibles éliminées. Beau travail."
+    },
+    {
+      "ns": "",
+      "key": "DCCF66A64135039D5ED0129F946D0DE4",
+      "source": "{x} kg",
+      "text": "{x} kg"
+    },
+    {
+      "ns": "",
+      "key": "DCD9BA004D009F2228C5ADBBBE0462A0",
+      "source": "The success rate of the last {x} contracts.",
+      "text": "Taux de réussite des {x} derniers contrats."
+    },
+    {
+      "ns": "",
+      "key": "DCFA1A744A6130DBA496F9916BCCBEC3",
+      "source": "Create Party",
+      "text": "Créer un groupe"
+    },
+    {
+      "ns": "",
+      "key": "DCFC6ADB44BB37435DF748B5C1A991DB",
+      "source": "Operation noted on GCPS, get going, dont die, you get it.",
+      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+    },
+    {
+      "ns": "",
+      "key": "DD01109C4746924720CCCD8B7F530E1C",
+      "source": "Hold..",
+      "text": "Maintenez..."
+    },
+    {
+      "ns": "",
+      "key": "DD0D999E4A737C8A1D7A3CBDFB426E85",
+      "source": "AUG A3 M1",
+      "text": "AUG A3 M1"
+    },
+    {
+      "ns": "",
+      "key": "DD29B88C4C7A456D0A43DBB0C4E2AD81",
+      "source": "M2 Field Handguard",
+      "text": "Garde-main M2 Field"
+    },
+    {
+      "ns": "",
+      "key": "DD429004454EECDFDE17FA97828B1B7D",
+      "source": "Increase or decrease how long bots wait before they can fire their first shots when aiming.. Linear Multiplier, so a value of 2.0 will double the time they wait.",
+      "text": "Augmentez ou diminuez la durée d'attente des bots avant qu'ils ne puissent tirer leurs premiers coups lors de la visée.. Multiplieur linéaire, donc une valeur de 2.0 va doubler le temps qu'ils attendent."
+    },
+    {
+      "ns": "",
+      "key": "DD48562740C49FC9ED953CB9E3BB42D8",
+      "source": "QBZ-97 Carry Handle",
+      "text": "Poignée de transport QBZ-97"
+    },
+    {
+      "ns": "",
+      "key": "DD6154CF448ED266C068C0AF15D73733",
+      "source": "Classic M4A1 Front Sight With Gas Block. Allows only to install handguards that are shorter than 8 Inches.",
+      "text": "Classic M4A1 guidon Avec bloc d'emprunt de gaz. Permet seulement d'installer garde-mains qui sont plus courts que 8 pouces."
+    },
+    {
+      "ns": "",
+      "key": "DD898D1C490183484ED8719A1A2A546F",
+      "source": "Standard slide for the M9 pistol.",
+      "text": "Diapositive standard pour le pistolet M9."
+    },
+    {
+      "ns": "",
+      "key": "DD9155A442A5867CB506079DAF4D2409",
+      "source": "KRISS Vector Rail",
+      "text": "KRISS Vector rail"
+    },
+    {
+      "ns": "",
+      "key": "DD92C4D04934B32C671706A8F191046A",
+      "source": "Yup! New operation added to your tasks.",
+      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+    },
+    {
+      "ns": "",
+      "key": "DD9B6DCC4175A2B3196FF5810E25FCB2",
+      "source": "Vudu",
+      "text": "Vudu"
+    },
+    {
+      "ns": "",
+      "key": "DDA8D0D348CB840C6EE8EB86C3576316",
+      "source": "Weapon Crate",
+      "text": "Caisse d'armes"
+    },
+    {
+      "ns": "",
+      "key": "DDACDDAD4E002F8F3CEE48B31D8793A0",
+      "source": "Your 60 seconds are up, air support needs you to restart the marking, hurry before the convoy leaves the region",
+      "text": "Vos 60 secondes sont levées, le soutien aérien a besoin de vous pour redémarrer le marquage, dépêchez-vous avant que le convoi quitte la région"
+    },
+    {
+      "ns": "",
+      "key": "DDAE8F7741EE91C4F51F428D3D8CB4FE",
+      "source": "5rnd 12ga VR80",
+      "text": "5rnd 12ga VR80"
+    },
+    {
+      "ns": "",
+      "key": "DDB286064B9CE526D4716D86CB379DE0",
+      "source": "BCMGUNFIGHTER Mod 0 is a Buttstock designed for the AR-15 family. It requires a buffertube.",
+      "text": "BCMGUNFIGHTER Mod 0 est un crosse conçu pour la famille AR-15. Il nécessite un tube de crosse."
+    },
+    {
+      "ns": "",
+      "key": "DDBA6A124760F91B7E715D973D82BA43",
+      "source": "Click to collapse item.",
+      "text": "Cliquez pour réduire l'objet."
+    },
+    {
+      "ns": "",
+      "key": "DDBE51764487EDA92239E3A92E8CA70F",
+      "source": "RG-VO",
+      "text": "RG-VO"
+    },
+    {
+      "ns": "",
+      "key": "DDBF9BDE48DB4113426610AFA548147E",
+      "source": "Operation noted on GCPS, get going, dont die, you get it.",
+      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+    },
+    {
+      "ns": "",
+      "key": "DDCC8DB442335AADF0E32C9758D658C3",
+      "source": "ITEM;QTY;STATUS\r\n5.45x39 BT;1200;in stock\r\n7.62x39 PS;640;low\r\nIFAK;14;in stock\r\nBattery pack (USB);3;reserved for intrusion kit\r\nMRE;22;in stock\r\nFuel (L);40;critical",
+      "text": "OBJET;QTÉ;STATUT\n5.45x39 BT;1200;en stock\n7.62x39 PS;640;faible\nIFAK;14;en stock\nBloc batterie (USB);3;réservé au kit d'intrusion\nMRE;22;en stock\nCarburant (L);40;critique"
+    },
+    {
+      "ns": "",
+      "key": "DDD7D8674657282D8E237CBD447CAE16",
+      "source": "SEARCHING FOR SESSIONS",
+      "text": "RECHERCHE DE SESSIONS"
+    },
+    {
+      "ns": "",
+      "key": "DDE1912B4FBA908911201AB1955FCEC3",
+      "source": "Extract",
+      "text": "S'extraire"
+    },
+    {
+      "ns": "",
+      "key": "DDE6A95B47919AF86A5EECB71903F5B9",
+      "source": "Hideout",
+      "text": "Base"
+    },
+    {
+      "ns": "",
+      "key": "DDEA56ED4D87577BE429AA8D91C69A49",
+      "source": "Off",
+      "text": "Désactivé"
+    },
+    {
+      "ns": "",
+      "key": "DE139C704E84E32AFD46B98760D0343D",
+      "source": "Leupold HAMR 4x24 Hybrid Scope",
+      "text": "Leupold HAMR 4x24 Hybrid Scope"
+    },
+    {
+      "ns": "",
+      "key": "DE1C9E7C43A64B7587703E81DCBCB0BF",
+      "source": "Agent, your mission is to take out the boss at the military base, a key figure in the enemy’s defense network. You will need to infiltrate the base under cover of darkness, locate your target, and execute the mission with surgical precision. Leave no trace of your activity to avoid escalation.",
+      "text": "Agent, votre mission est d'enlever le patron à la base militaire, un personnage clé du réseau de défense ennemi. Vous devrez infiltrer la base sous le couvert de l'obscurité, localiser votre cible, et exécuter la mission avec précision chirurgicale. Ne laissez aucune trace de votre activité pour éviter l'escalade."
+    },
+    {
+      "ns": "",
+      "key": "DE2203214567D41245B7EC8252DCA262",
+      "source": "Scope from Elcan that has a variable zoom level. Either 1x or 4x, therefore good use case for close and mid range encounters.",
+      "text": "Portée d'Elcan qui a un niveau de zoom variable. Soit 1x ou 4x, donc un bon cas d'utilisation pour les rencontres de proximité et de milieu de gamme."
+    },
+    {
+      "ns": "",
+      "key": "DE28A63A4913485E10F352BA5C81A78D",
+      "source": "AKS-74U Gas Tube",
+      "text": "Tube à gaz AKS-74U"
+    },
+    {
+      "ns": "",
+      "key": "DE28C3654156A5FC74BFC5AF5C92FD93",
+      "source": "Point Shooting",
+      "text": "Tir instinctif"
+    },
+    {
+      "ns": "",
+      "key": "DE31F50D4CB3C49E13450CB55A74931A",
+      "source": "Russian-made buttpack. Barely a backpack, but it beats carrying everything in your pockets.",
+      "text": "Un sac à fesses fait en russe. A peine un sac à dos, mais il bat tout porter dans vos poches."
+    },
+    {
+      "ns": "",
+      "key": "DE40F1EC4195EE528D197699B39F7B16",
+      "source": "Operator? There is an enemy Airdrop inbound. UICS want it stopped and for you to retrieve the Crate of Hard Drives inside and bring it to the Trader. Be careful as enemy soldiers are likely already on their way. Get there first, get the Crate and turn it into the Trader for a cash reward. Good luck.",
+      "text": "Opérateur ? Il y a une chute d'air ennemie. UICS veut qu'il s'arrête et pour vous de récupérer la caisse de disques durs à l'intérieur et de l'apporter au trader. Soyez prudents, car les soldats ennemis sont probablement déjà en route. Allez-y d'abord, prenez la caisse et transformez-la en trader pour une récompense en espèces. Bonne chance."
+    },
+    {
+      "ns": "",
+      "key": "DE67990443AD9C9AA2D24BBC0CD35E70",
+      "source": "Shutting down the terminal...\r\nTerminal secure. You may now extract safely.",
+      "text": "Arrêter le terminal...\nVous pouvez maintenant extraire en toute sécurité."
+    },
+    {
+      "ns": "",
+      "key": "DE69E4FC43E11A149E5F6DBF6003F22D",
+      "source": "Operation accepted, info on GCPS",
+      "text": "Opération acceptée, informations sur le GCPS"
+    },
+    {
+      "ns": "",
+      "key": "DE7FE5AD43E294F7591A959FDC594FDD",
+      "source": "FAL Series X Stock",
+      "text": "Crosse FAL Series X"
+    },
+    {
+      "ns": "",
+      "key": "DE8D3132440C9E14172F4687AAC68DDF",
+      "source": "Yup! All relevent operational information on your GCPS",
+      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+    },
+    {
+      "ns": "",
+      "key": "DE92C61B44A82177DD650D8CD4E078FF",
+      "source": "Initiating download of {r}...",
+      "text": "Démarrage du téléchargement de {r}..."
+    },
+    {
+      "ns": "",
+      "key": "DE936E004AF52C23B2AB44B9FB025CB0",
+      "source": "Target lost, LRF left the convoy. Hold for three full seconds.",
+      "text": "Cible perdue : le télémètre ne vise plus le convoi. Maintenez la visée trois secondes."
+    },
+    {
+      "ns": "",
+      "key": "DEA4D4CA41CFE8CB48C6EFA4169185BA",
+      "source": "LBT Breacher V1",
+      "text": "LBT Breacher V1"
+    },
+    {
+      "ns": "",
+      "key": "DEB413EC41185EBD37E4F2B3141728AB",
+      "source": "AK SAG Buffertube",
+      "text": "AK SAG tube de crosse"
+    },
+    {
+      "ns": "",
+      "key": "DEB444D545ECEE8D61635ABD8A7BD79E",
+      "source": "LAMG Picatinny Handguard",
+      "text": "Garde-main LAMG Picatinny"
+    },
+    {
+      "ns": "",
+      "key": "DEBA75354D0EEDD2B77132BAB472DF95",
+      "source": "Yup! Operation added, don't stretch yourself too thin",
+      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+    },
+    {
+      "ns": "",
+      "key": "DEC14153453EEBE6E54EAD9B3408BC2A",
+      "source": "Soldier, we’ve identified a data terminal inside the VLF’s underground installation — in the large cave section of their bunker. That terminal contains intel critical to our forward planning.\r\nYour orders are to infiltrate the site, locate the terminal, and run a full scan of the specified file. You won’t need to retrieve the file — we only need a diagnostic.\r\nThis is enemy ground. Keep it tight, stay mobile, and don’t waste time once the scan begins. If they catch wind of you, you’ll have to fight your way out.",
+      "text": "Soldat, nous avons identifié un terminal de données à l'intérieur de l'installation souterraine de VLF, dans la grande grotte de leur bunker. Ce terminal contient des informations essentielles à notre planification.\nVos commandes sont d'infiltrer le site, de localiser le terminal, et run un scan complet du fichier spécifié. Vous n'avez pas besoin de récupérer le fichier — nous avons seulement besoin d'un diagnostic.\nC'est une terre ennemie. Gardez-le serré, restez mobile et ne perdez pas de temps une fois que le scan commence. S'ils prennent vent de toi, tu devras te battre pour sortir."
+    },
+    {
+      "ns": "",
+      "key": "DEC664314237039D1EE3A6A90996DA8F",
+      "source": "24 inch barrel for the RFB rifle.",
+      "text": "24 pouces canon pour le fusil RFB."
+    },
+    {
+      "ns": "",
+      "key": "DECDA4AE4E6E3E5E8E0402A1043B6BFF",
+      "source": "Saline IV",
+      "text": "Perfusion saline"
+    },
+    {
+      "ns": "",
+      "key": "DEE3D38744D44711AF02F0ADEADBDB73",
+      "source": "Press <Red>F</> to <Red>add</> ITEMNAME to inventory.",
+      "text": "Appuyez sur <Red>F</> pour <Red>ajouter</> ITEMNAME à l'inventaire."
+    },
+    {
+      "ns": "",
+      "key": "DEE80B44411C21AD4397D6B55BF590AA",
+      "source": "Toggle Lean",
+      "text": "Basculer l'inclinaison"
+    },
+    {
+      "ns": "",
+      "key": "DEF3A7DA415C7E3B1021F784FA4561CF",
+      "source": "Fail",
+      "text": "Échec"
+    },
+    {
+      "ns": "",
+      "key": "DEF4BC444F0D233B277F1EA886B63209",
+      "source": "Temple Bell",
+      "text": "Cloche de temple"
+    },
+    {
+      "ns": "",
+      "key": "DF12286B4873A20E874B299281A33EF4",
+      "source": "Fuel cans are in demand for our wartime efforts. Retrieve fuel cans and sell them to the vendor for distribution to our forces.",
+      "text": "Les bidons de carburant sont en demande pour nos efforts en temps de guerre. Récupérer les boîtes de carburant et les vendre au vendeur pour distribution à nos forces."
+    },
+    {
+      "ns": "",
+      "key": "DF1FD7C24423CCFBBE114FAA65F26D24",
+      "source": "...hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
+      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+    },
+    {
+      "ns": "",
+      "key": "DF222181420984D9B2E879A656AF00CA",
+      "source": "Yup! New operation added to your tasks.",
+      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+    },
+    {
+      "ns": "",
+      "key": "DF24A8234C8D382EE884259866A59879",
+      "source": "Free Look Mouse Sensitivity",
+      "text": "Sensibilité du regard libre"
+    },
+    {
+      "ns": "",
+      "key": "DF2A1CEB4656BF6137B3A8909A1A54F8",
+      "source": "SL",
+      "text": "SL"
+    },
+    {
+      "ns": "",
+      "key": "DF365F1B441355D5147A479F6B287898",
+      "source": "Shutdown the terminal to erase everything.",
+      "text": "Éteignez le terminal pour tout effacer."
+    },
+    {
+      "ns": "",
+      "key": "DF4E5B7140CBB3F198CA5D9B92059FF0",
+      "source": "Durability",
+      "text": "Durabilité"
+    },
+    {
+      "ns": "",
+      "key": "DF645B1B4BB8283284735AB1231FA9F4",
+      "source": "Deadly accuracy! Your sniper rifle skills have ensured the mission's success.",
+      "text": "L'exactitude absolue! Vos compétences fusil de précision ont assuré le succès de la mission."
+    },
+    {
+      "ns": "",
+      "key": "DF6951224E87F07EB22A89A6EF6CF90E",
+      "source": "FANG Assignment <strong>RET_512_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
+      "text": "Attribution FANG <strong>RET_512_RR</>: <italic>Récupérer toutes les preuves dans les zones marquées et les livrer.</>"
+    },
+    {
+      "ns": "",
+      "key": "DF73DE3C46BBFE9C60B3D2AC332F15F2",
+      "source": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}",
+      "text": "{GameName} {BuildConfiguration} {PlatformArchitecture} {RHIName}"
+    },
+    {
+      "ns": "",
+      "key": "DF7C13F24E898335212A76B55576E158",
+      "source": "Saiga-12",
+      "text": "Saiga-12"
+    },
+    {
+      "ns": "",
+      "key": "DF7ECAB94692B963083DBA8D4FA0FF60",
+      "source": "Scan Data from picked up intel.",
+      "text": "Analysez les données des renseignements récupérés."
+    },
+    {
+      "ns": "",
+      "key": "DF8B34E44A9A55044D9AA6838A169D62",
+      "source": "AK-12",
+      "text": "AK-12"
+    },
+    {
+      "ns": "",
+      "key": "DF8D306E464E3EE72A262FAEBF22D846",
+      "source": "SCAR-L Barrel 10 Inch Barrel",
+      "text": "Canon SCAR-L canon 10 pouces"
+    },
+    {
+      "ns": "",
+      "key": "DF9777F44725EBDC05F3B38802782C39",
+      "source": "We must resupply our troops with food. Locate canned goods and sell them to the vendor  this will keep our soldiers well-fed.",
+      "text": "Nous devons ravitailler nos troupes en nourriture. Localisez les marchandises en conserve et vendez-les au vendeur, ce qui gardera nos soldats bien nourris."
+    },
+    {
+      "ns": "",
+      "key": "DF9AA19346971585D8014188C2FA546B",
+      "source": "Encrypted volume. Insert Defense intel key A to mount it.",
+      "text": "Volume chiffré. Insérez la touche d'information A pour la monter."
+    },
+    {
+      "ns": "",
+      "key": "DF9E215649DBD70715792F9702F7FAEA",
+      "source": "Yup! Operation added, don't stretch yourself too thin",
+      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+    },
+    {
+      "ns": "",
+      "key": "DFB7A83B4A143F0330A4728B213DC9DE",
+      "source": "PL SGT",
+      "text": "PL SGT"
+    },
+    {
+      "ns": "",
+      "key": "DFB94027453E6043036A2EAC5B0D6124",
+      "source": "PLACEHOLDER",
+      "text": "PLACEHOLDER"
+    },
+    {
+      "ns": "",
+      "key": "DFC7DAC44B9928098FFBF683CEBBD051",
+      "source": "Offers M-LOK slots for tactical devices and foregrips.",
+      "text": "Offre des emplacements M-LOK pour appareils tactiques et foregrips."
+    },
+    {
+      "ns": "",
+      "key": "DFD139C2496BA566D24C76A595FC7EE4",
+      "source": "Buy the cameras at the marketplace. ",
+      "text": "Achetez les caméras sur le marché. "
+    },
+    {
+      "ns": "",
+      "key": "DFD9E0A8448258492F8A828E3C6B5BD3",
+      "source": "KC A",
+      "text": "KC A"
+    },
+    {
+      "ns": "",
+      "key": "DFE1ABA2442FDC95979B3A8958F14E16",
+      "source": "AR-15 Colt A2 Tan Pistol Grip",
+      "text": "Poignée pistolet AR-15 Colt A2 beige"
+    },
+    {
+      "ns": "",
+      "key": "DFE3AF014C5DC25229E63A816182D58A",
+      "source": "No Virus found.",
+      "text": "Aucun virus détecté."
+    },
+    {
+      "ns": "",
+      "key": "DFF285454126B996C737D3A2E8557301",
+      "source": "Shampoo",
+      "text": "Shampoing"
+    },
+    {
+      "ns": "",
+      "key": "DFF4C55D4FF5B88A8D9C798F05CC9360",
+      "source": "Quick Heal",
+      "text": "Soin rapide"
+    },
+    {
+      "ns": "",
+      "key": "DFF8AB3A4004B646C799CD9ADECBF2BF",
+      "source": "P320 Compact Pistol Slide",
+      "text": "Culasse P320 Compact Pistol"
+    },
+    {
+      "ns": "",
+      "key": "DFFC3AC14D1CED9D7B60D18D81596F8E",
+      "source": "Yup! Operation added, don't stretch yourself too thin",
+      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+    },
+    {
+      "ns": "",
+      "key": "E003E34C4F28E6FEC06FE6B336E62F75",
+      "source": "Yup! You've accepted an operation, check GCPS for next steps",
+      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+    },
+    {
+      "ns": "",
+      "key": "E0049B8241434CCE8ADF8E9ED7B65437",
+      "source": "Tube",
+      "text": "Tube"
+    },
+    {
+      "ns": "",
+      "key": "E00D208E4612E08790836AA4D77BC01D",
+      "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
+      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+    },
+    {
+      "ns": "",
+      "key": "E01429C947131EF089F7EE83B6F2D99F",
+      "source": "Laser Range Finder",
+      "text": "Laser Range Finder"
+    },
+    {
+      "ns": "",
+      "key": "E021658340AEEB017930019931594C05",
+      "source": "AK SAG MK3 Upper Rail Dust Cover",
+      "text": "Capot de culasse AK SAG MK3 Upper rail"
+    },
+    {
+      "ns": "",
+      "key": "E031854B4D6D33D6503B7AA6AE7F3096",
+      "source": "Good work Operator. Given you're using that provided equipment, we followed your marker and sent backup to collect the mission intel you extracted. Should be here any minute now.",
+      "text": "Beau travail, opérateur. Comme vous utilisez l’équipement fourni, nous avons suivi votre balise et envoyé une équipe récupérer les renseignements de la mission que vous avez rapportés. Elle devrait arriver d’un instant à l’autre."
+    },
+    {
+      "ns": "",
+      "key": "E05812F04B95D47E2D103A9267D6CFEF",
+      "source": "Buy & Assemble",
+      "text": "Acheter et assembler"
+    },
+    {
+      "ns": "",
+      "key": "E05A3CB247F151E8988F3CBE9EF42D35",
+      "source": "STV-380 Rear Sight",
+      "text": "STV-380 hausse"
+    },
+    {
+      "ns": "",
+      "key": "E05FB11C4C50E4E6E0F5A2BA965E78EA",
+      "source": "Enter a name for the preset.",
+      "text": "Saisissez un nom pour la configuration."
+    },
+    {
+      "ns": "",
+      "key": "E06C5CF7444FC994AA55D3AD82B227EA",
+      "source": "Go to the cargo storage area and install the jammers.",
+      "text": "Allez dans la zone de stockage du fret et installez les jammers."
+    },
+    {
+      "ns": "",
+      "key": "E06DD2984045DB3D2011B497DF6911C0",
+      "source": "Overall Quality",
+      "text": "Qualité globale"
+    },
+    {
+      "ns": "",
+      "key": "E06F38444FD72CDC87A86ABED8F1FE85",
+      "source": "[RETRACKED] MAIN STORY",
+      "text": "[SUIVIE À NOUVEAU] HISTOIRE PRINCIPALE"
+    },
+    {
+      "ns": "",
+      "key": "E07CB580460BBDAED85DC090DC895A7F",
+      "source": "AAC 762-SDN-6 Suppressor",
+      "text": "Silencieux AAC 762-SDN-6"
+    },
+    {
+      "ns": "",
+      "key": "E07DDA2148ACFA3C2EB1309C7E1433CF",
+      "source": "Expand",
+      "text": "Développer"
+    },
+    {
+      "ns": "",
+      "key": "E0851F3440FFF2B449C63A9322DCA2E0",
+      "source": "MK3",
+      "text": "MK3"
+    },
+    {
+      "ns": "",
+      "key": "E09EFBCC4050F949D5B1AA8007F11952",
+      "source": "Gas Block",
+      "text": "bloc d'emprunt de gaz"
+    },
+    {
+      "ns": "",
+      "key": "E0A6325646CC6B184BBE93B818189DD5",
+      "source": "Colt A2",
+      "text": "Colt A2"
+    },
+    {
+      "ns": "",
+      "key": "E0AB23014FB5DB4588E69DAF7243F94E",
+      "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
+      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+    },
+    {
+      "ns": "",
+      "key": "E0AC9E5A4EAAC95E4322259474E278F6",
+      "source": "M9TS",
+      "text": "M9TS"
+    },
+    {
+      "ns": "",
+      "key": "E0BA2F1E413AC0282B291DB42DBD7EBE",
+      "source": "Hello? Well done! You're good here. Head on out.",
+      "text": "C'est bon, tu es bien ici."
+    },
+    {
+      "ns": "",
+      "key": "E0BFA22048871A55B9602E9389F2B3D8",
+      "source": "SRD762",
+      "text": "SRD762"
+    },
+    {
+      "ns": "",
+      "key": "E0D28B4148990394671CBF828E3EAD8E",
+      "source": "Operation noted on GCPS, get going, dont die, you get it.",
+      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+    },
+    {
+      "ns": "",
+      "key": "E0D62A0C42AA71136BAC12B496610E50",
+      "source": "Voice Chat",
+      "text": "Discussion vocale"
+    },
+    {
+      "ns": "",
+      "key": "E0D80B7D4557B17420AB319A09B68CA3",
+      "source": "Classic soviet telescopic scope.",
+      "text": "Portée télescopique soviétique classique."
+    },
+    {
+      "ns": "",
+      "key": "E0D8EEB04E8CC25FB4C810BF7D589238",
+      "source": "QBZ-97 Y-MA-95-1-600 3x Scope",
+      "text": "QBZ-97 Y-MA-95-1-600 3x Scope"
+    },
+    {
+      "ns": "",
+      "key": "E0D92DB84CB7AB3EBC945DA73D535E35",
+      "source": "Quick update, IGC reports the airdrop made it into enemy hands, hopefully nothing too important, onto your other tasks.",
+      "text": "Mise à jour rapide, IGC rapporte que la goutte d'air l'a fait entre les mains ennemies, espérons rien de trop important, sur vos autres tâches."
+    },
+    {
+      "ns": "",
+      "key": "E0DA78464F94EFEF64C8EDBADBBDC426",
+      "source": "Initiating download of {r}...",
+      "text": "Démarrage du téléchargement de {r}..."
+    },
+    {
+      "ns": "",
+      "key": "E0F0E263485C38560CF876932FD1219D",
+      "source": "Hello? Yup, done. Head on out.",
+      "text": "Oui, c'est fini."
+    },
+    {
+      "ns": "",
+      "key": "E10A5DFF4F7D8BB3FB7FD09992C441F3",
+      "source": "You got the shipping manifest, good job. <strong>FANG</> will notify me of the shipment’s arrival time when the package has been placed on a specific truck. In the meantime, stay alert and ready for your next mission.",
+      "text": "Vous avez le manifeste d'expédition, bon travail. <strong>FANG</> me notifiera l'heure d'arrivée de l'expédition lorsque le colis a été placé sur un camion spécifique. En attendant, restez vigilants et prêts pour votre prochaine mission."
+    },
+    {
+      "ns": "",
+      "key": "E10CA25748D4861CAE8E1195449B683E",
+      "source": "Shutdown Terminal",
+      "text": "Éteindre le terminal"
+    },
+    {
+      "ns": "",
+      "key": "E11725ED46D49C2F836714A4FAEF017A",
+      "source": "Continue",
+      "text": "Continuer"
+    },
+    {
+      "ns": "",
+      "key": "E118BAB34B72B68DEF724CA4DFFAEEB1",
+      "source": "Weapons",
+      "text": "Armes"
+    },
+    {
+      "ns": "",
+      "key": "E125EAD9415FB64EA2C4E69B3774AA2D",
+      "source": "Delete",
+      "text": "Supprimer"
+    },
+    {
+      "ns": "",
+      "key": "E13D79FC4B4522AFD96014B848AA2D59",
+      "source": "Hello? Yup, done. Head on out.",
+      "text": "Oui, c'est fini."
+    },
+    {
+      "ns": "",
+      "key": "E13E36BE4BCE3F8B3F3CF49BA36635F4",
+      "source": "Cancel",
+      "text": "Annuler"
+    },
+    {
+      "ns": "",
+      "key": "E15088C94CDB97245AB268A87884D2D2",
+      "source": "18 Inch barrel for the Remington M700.",
+      "text": "18 pouces canon pour le Remington M700."
+    },
+    {
+      "ns": "",
+      "key": "E16356364B6308C690D949A680118151",
+      "source": "HAS-0226-C",
+      "text": "HAS-0226-C"
+    },
+    {
+      "ns": "",
+      "key": "E1673E004429FB8EE4D95EBAD3F0CA27",
+      "source": "Rattler",
+      "text": "Rattler"
+    },
+    {
+      "ns": "",
+      "key": "E16811204262FD3D163B4194DDB19364",
+      "source": "Standard motherboard.",
+      "text": "Carte mère standard."
+    },
+    {
+      "ns": "",
+      "key": "E17DFD2C4BAAF77300090BAE1EB78EF5",
+      "source": "You don't have the required TARGETITEM.",
+      "text": "Vous n'avez pas l'objet requis : TARGETITEM."
+    },
+    {
+      "ns": "",
+      "key": "E183976140DCBA2CDB2E54B7913B7CEA",
+      "source": "A modernized chassis for the SKS",
+      "text": "Un châssis modernisé pour le SKS"
+    },
+    {
+      "ns": "",
+      "key": "E18573FB462E692E8F33F4BDC8807043",
+      "source": "Glock 19 9x19mm 15rnd",
+      "text": "Glock 19 9x19mm 15rnd"
+    },
+    {
+      "ns": "",
+      "key": "E18747BD4F520000478634B13682DA19",
+      "source": "Operation Plan A",
+      "text": "Plan d'opération A"
+    },
+    {
+      "ns": "",
+      "key": "E18BAEE84117CA12B7CCF884E518CDD5",
+      "source": "HIGH",
+      "text": "ÉLEVÉ"
+    },
+    {
+      "ns": "",
+      "key": "E18E8F9B4C49F5CBDE306194A75CE5EC",
+      "source": "Spool of plastic wire.",
+      "text": "Bobine de fil en plastique."
+    },
+    {
+      "ns": "",
+      "key": "E193455E45AF20844A71F7B13B81CF18",
+      "source": "Available Commands:\r\n\r\n1. help - Display available commands and their descriptions.\r\n2. dir - Display all of the files and folders in the current directory.\r\n3. pop - Switch back to previous directory (e.g. go back).\r\n4. login - Enter new login credentials to change the user & permissions.\r\n5. cd <directory> - Change directory to navigate within the terminal system.\r\n6. run <file_id> - Execute the exe file.\r\n7. download <file_id> - Download content from target file.\r\n8. scan <file_id> - Scan content from file.\r\n9. read <file_id> - Reading content of file.\r\n10. shutdown - Shutdown the terminal.\r\n\r\n**Additional help**\r\n\r\n> To find a file, try changing directories via cd <directory> and us the dir command to display all available files at the current level\r\n> Some directories require special access. Use the login command to get Admin access. You may have to take a look at the users file to find the credentials.",
+      "text": "Commandes disponibles :\n\n1. help - Affiche les commandes disponibles et leurs descriptions.\n2. dir - Affiche tous les fichiers et dossiers du répertoire actuel.\n3. pop - Retourner au répertoire précédent (par exemple, revenir en arrière).\n4. login - Entrez de nouvelles identifiants login pour modifier l'utilisateur et les permissions.\n5. cd <directory> - Modifier le répertoire pour naviguer dans le système terminal.\n6. run <file_id> - Exécutez le fichier exe.\n7. download <file_id> - Télécharger le contenu à partir du fichier cible.\n8. scan <file_id> - Scanner le contenu du fichier.\n9. read <file_id> - Lecture du contenu du fichier.\n10. Arrêt - Arrêt du terminal.\n\n**Supplémentaire help**\n\n> Pour trouver un fichier, essayez de modifier les répertoires via cd <directory> et nous la commande dir pour afficher tous les fichiers disponibles au niveau actuel\n> Certains répertoires nécessitent un accès spécial. Utilisez la commande login pour obtenir l'accès Admin. Vous devrez peut-être jeter un coup d'oeil au fichier utilisateur pour trouver les identifiants."
+    },
+    {
+      "ns": "",
+      "key": "E19AA4A543A71F3A07BB22A830BBFEB6",
+      "source": "Enter a name for the preset.",
+      "text": "Saisissez un nom pour la configuration."
+    },
+    {
+      "ns": "",
+      "key": "E19F54D9473CB30AB6AF6DB6C8BA004F",
+      "source": "Cigar",
+      "text": "Cigare"
+    },
+    {
+      "ns": "",
+      "key": "E1B3B11145B15694D414AE88192F0FBE",
+      "source": "Yup! New operation added to your tasks.",
+      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+    },
+    {
+      "ns": "",
+      "key": "E1B6623E4351BAD7041403A7E737D45A",
+      "source": "Setting to adjust shading quality.",
+      "text": "Règle la qualité de l'ombrage."
+    },
+    {
+      "ns": "",
+      "key": "E1C9C4B947AD10239BA56E9D2DE6978F",
+      "source": "Kel-Tec RFB",
+      "text": "Kel-Tec RFB"
+    },
+    {
+      "ns": "",
+      "key": "E1CAFE2A49AF7722C3860080D9452532",
+      "source": "INDEPENDENT",
+      "text": "INDÉPENDANT"
+    },
+    {
+      "ns": "",
+      "key": "E1E88FCC45E5F21BCD45C4B0472CD0FB",
+      "source": "Sell to the vendor a {targetdata} {count} times.",
+      "text": "Vendez {targetdata} au marchand {count} fois."
+    },
+    {
+      "ns": "",
+      "key": "E1F4510B4F3EDDD050268A9492FC7A29",
+      "source": "Earth Globe",
+      "text": "Globe Terre"
+    },
+    {
+      "ns": "",
+      "key": "E1F8AC5A4D449EA9D2E3BB8420C03F1E",
+      "source": "Player Name",
+      "text": "Nom du joueur"
+    },
+    {
+      "ns": "",
+      "key": "E1F9221D45C3BB4F568814AB143594E6",
+      "source": "7.62x51mm M62",
+      "text": "7.62x51mm M62"
+    },
+    {
+      "ns": "",
+      "key": "E1FBCBE646BA4AC6E404A585D0B1008C",
+      "source": "The lighting station serves to upgrade illumination throughout your hideout. Currently, theres only some standing lights, though with additional upgrades icandenscent and flourescent overhead bulbs become the standard.",
+      "text": "La station d'éclairage sert à améliorer l'éclairage tout au long de votre base. Actuellement, il n'y a que quelques lumières debout, bien qu'avec des améliorations supplémentaires icandenscent et des ampoules hautes farines deviennent la norme."
+    },
+    {
+      "ns": "",
+      "key": "E2011A7E41C3C4772E02808BDC6D2061",
+      "source": "Operation noted on GCPS, get going, dont die, you get it.",
+      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+    },
+    {
+      "ns": "",
+      "key": "E204821147251037A280369A870BAC1B",
+      "source": "Strike Industries Viper Mod 1 is a Buttstock designed for the AR-15 family. It requires a buffertube.",
+      "text": "Strike Industries Viper Mod 1 est un crosse conçu pour la famille AR-15. Il nécessite un tube de crosse."
+    },
+    {
+      "ns": "",
+      "key": "E206E44C421CF904871A4290D09E48B8",
+      "source": "Y-MA-95-1-600",
+      "text": "Y-MA-95-1-600"
+    },
+    {
+      "ns": "",
+      "key": "E211E01E4A2093765D12668A8D628A4F",
+      "source": "ADA Assault Backpack",
+      "text": "ADA Assault sac à dos"
+    },
+    {
+      "ns": "",
+      "key": "E22969354BEA23FFA8AC8981B1C3D103",
+      "source": "M700 McMillan A5 Chassis",
+      "text": "Châssis M700 McMillan A5"
+    },
+    {
+      "ns": "",
+      "key": "E2384E4B4FCDC471617F79BB75CA07FF",
+      "source": "# OSK-3 Account Register (excerpt)\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: accessUICS\r\n  - Note: Public bulletins. No write access.\r\n\r\n- **Quartermaster**\r\n  - Username: Quartermaster\r\n  - Password: Harbor#Ware4\r\n  - Note: Logistics directory. Warehouse stock, harbor and vehicle maintenance.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Note: Credential withheld from this register by order of Port Command (Directive 7-P). Ask the duty quartermaster for the current rotation.",
+      "text": "# Registre de compte OSK-3 (extrait)\n\n- **Guest**\n  - Nom d'utilisateur : Guest\n  - Mot de passe : accessUICS\n  - Note: Bulletins publics. Pas d'accès écrit.\n\n- **Quartermaster**\n  - Nom d'utilisateur : Quartermaster\n  - Mot de passe : Harbor#Ware4\n  - Note: annuaire logistique. Entrepôt crosse, entretien du port et du véhicule.\n\n- **Admin**\n  - Nom d'utilisateur : Admin\n  - Note : Titre de créance retenu de ce registre par ordre du Commandement Port (Directive 7-P). Demandez au quartier-maître de service pour la rotation actuelle."
+    },
+    {
+      "ns": "",
+      "key": "E28F652B416750D76FC4EBBDE2AE6E4D",
+      "source": "FSN",
+      "text": "FSN"
+    },
+    {
+      "ns": "",
+      "key": "E298FA4C4C891290CF11DB8B412C1658",
+      "source": "AR-15 Geissele MK8 M-LOK 9x5 Inch Handguard",
+      "text": "Garde-main AR-15 Geissele MK8 M-LOK 9x5 pouces"
+    },
+    {
+      "ns": "",
+      "key": "E2A81A184CB2262A45312D8DF389FA02",
+      "source": "Toggle Holster",
+      "text": "Toggle Holster"
+    },
+    {
+      "ns": "",
+      "key": "E2AC824E458F9E014D1895ABDC933918",
+      "source": "Hello? Yup, done. Head on out.",
+      "text": "Oui, c'est fini."
+    }
+  ]
+}

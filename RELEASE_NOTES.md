@@ -1,14 +1,9 @@
-# Version 0.1.7 bêta — compatibilité avec le hotfix 1.4.0.2
+# Version 0.1.8 bêta — jeu 1.4.0.4
 
-Pour **Incursion Red River 1.4.0.2**, build Steam **26596277**.
+**Installation différente des versions précédentes.** Désactivez d’abord `Test_C/Content/Paks/pakchunk99-French_P.pak`, puis copiez le dossier `fr` dans `%LOCALAPPDATA%/Test_C/Saved/Translations`. Choisissez **Français** dans les paramètres du jeu.
 
-- 79 entrées nouvelles ou modifiées prises en charge, dont les réglages IA, une réplique de mission, le message de piratage et plusieurs descriptions d’objets.
-- Deux libellés d’inventaire « Provisions » traduits par « Vivres ».
-- Sept composants de l’inventaire et des missions repris depuis la mise à jour du jeu. Les 86 entrées des quatre cartes ont été vérifiées et les corrections précédentes sont incluses.
-- 6 834 entrées compilées et 539 fichiers du patch contrôlés. Le joueur a confirmé le lancement et l’affichage de la traduction avec cette version.
+La traduction utilise maintenant le format JSON intégré au jeu. Elle comprend 6 773 textes du modèle courant et 96 entrées supplémentaires. Le rapport de chargement indique 0 erreur de formatage et 0 fichier illisible. 50 entrées nouvelles ou modifiées ont été prises en charge. Le lancement, le menu français et un essai en partie ont été confirmés.
 
-Jeu fermé, copiez le dossier `Test_C` de l’archive dans le dossier du jeu et remplacez l’ancien fichier `pakchunk99-French_P.pak`. Gardez **English** ou **Français (patch)** comme langue.
+25 libellés d’outils ou identifiants internes restent en anglais. Chaque mission et chaque écran restent à vérifier individuellement. Les réglages graphiques du PC de test ont aussi été ajustés après une erreur DirectX de plein écran. La désactivation de l’ancien patch et ce changement ont été appliqués ensemble pour rétablir le lancement.
 
-## Avertissement au démarrage
-
-Le jeu détecte `pakchunk99-French_P.pak` comme un mod et peut afficher « Mods are installed » en anglais. La fenêtre signale les mods installés et rappelle que des mods conçus pour une version précédente peuvent provoquer un plantage. Si le jeu se lance normalement, fermez la fenêtre pour continuer. Le message peut revenir après une mise à jour du jeu ou un changement de mod.
+La procédure complète est dans le README de l’archive et du dépôt.

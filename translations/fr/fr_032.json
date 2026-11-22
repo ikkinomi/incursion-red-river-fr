@@ -1,0 +1,1204 @@
+{
+  "texts": [
+    {
+      "ns": "",
+      "key": "FACDD2114A87A64E5B132DBDE7C50DC0",
+      "source": "Sharpness",
+      "text": "Netteté"
+    },
+    {
+      "ns": "",
+      "key": "FAD73B684D241C048106A586803C8463",
+      "source": "Debriefing",
+      "text": "Compte rendu"
+    },
+    {
+      "ns": "",
+      "key": "FADB814D4D41E548E5BDFB9FA9A8A591",
+      "source": "Yup! Operation added, don't stretch yourself too thin",
+      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+    },
+    {
+      "ns": "",
+      "key": "FAE457A74CBE5E6262A699BDEB70BBDD",
+      "source": "Compass",
+      "text": "Boussole"
+    },
+    {
+      "ns": "",
+      "key": "FAE79E27414FFD4A30DCD99EE3EC6586",
+      "source": "50rnd 5.7x28mm P90",
+      "text": "50rnd 5.7x28mm P90"
+    },
+    {
+      "ns": "",
+      "key": "FAF2DDDC4246B852DB48E1AAF610C850",
+      "source": "FAL Hand.",
+      "text": "Main FAL."
+    },
+    {
+      "ns": "",
+      "key": "FB03429A4F980525AADB09B75E089EBC",
+      "source": "You have no email selected!",
+      "text": "Aucun message sélectionné !"
+    },
+    {
+      "ns": "",
+      "key": "FB03BE114B3D48A5CC44D5AD25A71064",
+      "source": "Find & scan the VLF_MemberData.zip.",
+      "text": "Rechercher & scanner la VLF_MemberData.zip."
+    },
+    {
+      "ns": "",
+      "key": "FB0F3B554CE2683CB0C817BAC775D878",
+      "source": "Hold...",
+      "text": "Maintenez…"
+    },
+    {
+      "ns": "",
+      "key": "FB1BE1B74ED2A438413F079CC3F8E7B0",
+      "source": "Tri-zip assault pack built to carry three days of kit without fighting its wearer.",
+      "text": "Pack d'assaut Tri-zip construit pour transporter trois jours de kit sans combattre son porteur."
+    },
+    {
+      "ns": "",
+      "key": "FB2542384E247FFAD87C18A35A2DA994",
+      "source": "Good job! ",
+      "text": "Bon travail ! "
+    },
+    {
+      "ns": "",
+      "key": "FB2F3384411B0FC30662FD8D46EEA0B1",
+      "source": "STV-380",
+      "text": "STV-380"
+    },
+    {
+      "ns": "",
+      "key": "FB33B0D14958DB01A857C8848997D864",
+      "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
+      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+    },
+    {
+      "ns": "",
+      "key": "FB53681B45A740BC341E74BEF12BCA71",
+      "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
+      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+    },
+    {
+      "ns": "",
+      "key": "FB554C98449BBDF2877735A46BA5F5A0",
+      "source": "7.62x39mm 57-N-231",
+      "text": "7.62x39mm 57-N-231"
+    },
+    {
+      "ns": "",
+      "key": "FB6B461F480F3EDFC03B30BF149D65ED",
+      "source": "9x19mm polymer pistol made by Glock.",
+      "text": "Pistolet en polymère 9x19mm fabriqué par Glock."
+    },
+    {
+      "ns": "",
+      "key": "FB6DC2B745F69D5A3D399E93E76B4077",
+      "source": "Antenna Piece",
+      "text": "Élément d'antenne"
+    },
+    {
+      "ns": "",
+      "key": "FB72401149E006AA25C96689F888E545",
+      "source": "LMT Sopmod stock for AR-15 compatibile rifles.",
+      "text": "LMT Sopmod crosse pour fusils compatibile AR-15."
+    },
+    {
+      "ns": "",
+      "key": "FB883B21411461FB7DE610BE0CA1EBA0",
+      "source": "Standard bolt cutter.",
+      "text": "Coupe à boulons standard."
+    },
+    {
+      "ns": "",
+      "key": "FB973673460FA0538B168F82B07BEB29",
+      "source": "MK3",
+      "text": "MK3"
+    },
+    {
+      "ns": "",
+      "key": "FBCC93A341F85241250F26970353249A",
+      "source": "Press <Red>F</> to move down.",
+      "text": "Appuyez sur <Red>F</> pour descendre."
+    },
+    {
+      "ns": "",
+      "key": "FBDFB75743B1A824FE8F5498E1E27AA0",
+      "source": "Grenade Equip",
+      "text": "Équiper une grenade"
+    },
+    {
+      "ns": "",
+      "key": "FBE250CB45270F757B3E8984C9CDAF6E",
+      "source": "P90",
+      "text": "P90"
+    },
+    {
+      "ns": "",
+      "key": "FBE8CF5B402EF13603C8E78687F9896F",
+      "source": "Glock 19 Standard Barrel",
+      "text": "Canon Glock 19 Standard"
+    },
+    {
+      "ns": "",
+      "key": "FBFC660545A342380371D3908569BB4B",
+      "source": "Friendly Fire:",
+      "text": "Tir allié :"
+    },
+    {
+      "ns": "",
+      "key": "FC06CB42496BE57715122DAF92CEB873",
+      "source": "Hello? Yup, done. Head on out.",
+      "text": "Oui, c'est fini."
+    },
+    {
+      "ns": "",
+      "key": "FC0EC47941EEDC9DC449AAA35FE77EF5",
+      "source": "HK MP5 9x19 submachinegun with Navy 3 Round Burst firing mechanism version, which features three-round cutoff. Widely acclaimed model of a submachinegun, primarily known as weapon of GSG9 and similar forces of the world, and famous through frequent appearance in movies and video games.",
+      "text": "HK MP5 9x19 sous-machine avec Navy 3 cartouches Version du mécanisme de tir de bourrage, qui dispose de trois-cartouche coupure. Modèle largement acclamé d'une mitrailleuse, principalement connue sous le nom de arme de GSG9 et des forces similaires du monde, et célèbre par l'apparition fréquente dans les films et les jeux vidéo."
+    },
+    {
+      "ns": "",
+      "key": "FC11934E4CE971873FBE53A6123DCC21",
+      "source": "LOW",
+      "text": "LOW"
+    },
+    {
+      "ns": "",
+      "key": "FC1C683540DFAA44E9FC80B9D2C58EA6",
+      "source": "Leave",
+      "text": "Quitter"
+    },
+    {
+      "ns": "",
+      "key": "FC1D24DC4535EC9CD5CA4286D336911C",
+      "source": "Wooden Grip",
+      "text": "en bois Grip"
+    },
+    {
+      "ns": "",
+      "key": "FC2739384EDA8883998103BC414E8792",
+      "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
+      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+    },
+    {
+      "ns": "",
+      "key": "FC42CD404413A6A7FE0BD1BA16082C9A",
+      "source": "Operative, your mission is to access the heavily guarded elevator room within the enemy facility. Secure the critical intel and ensure its safe delivery to our secure container on the lowest level of the vehicle lift. Remain undetected and act swiftly.",
+      "text": "Operative, votre mission est d'accéder à la salle d'ascenseurs fortement gardée dans l'installation ennemie. Sécurisez l'information critique et assurez-vous qu'elle est livrée en toute sécurité à notre conteneur sécurisé au niveau le plus bas de l'ascenseur du véhicule. Restez sans détection et agissez rapidement."
+    },
+    {
+      "ns": "",
+      "key": "FC46974145773A4A2426FCBC594B69A3",
+      "source": "Ambience Volume",
+      "text": "Volume de l'ambiance"
+    },
+    {
+      "ns": "",
+      "key": "FC4B0E2A44B1F15C14E938B3D7718930",
+      "source": "Add to favorites",
+      "text": "Ajouter aux favoris"
+    },
+    {
+      "ns": "",
+      "key": "FC53F4EA47D7279BF56694A54EB186DE",
+      "source": "Quest Name",
+      "text": "Nom de la mission"
+    },
+    {
+      "ns": "",
+      "key": "FC680951418F021E8C1FA3AFCD195679",
+      "source": "Toggle Sneak",
+      "text": "Basculer la marche furtive"
+    },
+    {
+      "ns": "",
+      "key": "FC6F197746A216E92B4F1BBF7656E94A",
+      "source": "Yup! Operation added, don't stretch yourself too thin",
+      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+    },
+    {
+      "ns": "",
+      "key": "FC71B9D74FB97A0EC58BC595E8DEDD26",
+      "source": "[04:12:07] UICS-RELAY-2 > QUARRY-OPS : mast is up, starting calibration\r\n[04:12:31] QUARRY-OPS > UICS-RELAY-2 : copy. keep the generator quiet, VLF is close\r\n[04:13:02] UICS-RELAY-2 > QUARRY-OPS : understood. logs sync every 30 minutes\r\n[04:13:40] -- carrier lost --",
+      "text": "[04:12:07] UICS-RELAY-2 > QUARRY-OPS : le mât est en marche, début de l'étalonnage\n[04:12:31] QUARRY-OPS > UICS-RELAY-2 : copie. garder le générateur silencieux, VLF est proche\n[04:13:02] UICS-RELAY-2 > QUARRY-OPS : compris. logs synchronise toutes les 30 minutes\n[04:13:40] -- le transporteur perdu --"
+    },
+    {
+      "ns": "",
+      "key": "FC852FFA46D628EF77D6B190EB817429",
+      "source": "Change Player Camera",
+      "text": "Changer de caméra du joueur"
+    },
+    {
+      "ns": "",
+      "key": "FC95766642EB6CF9346CDB9E2FBF1182",
+      "source": "SVDS Pistol Grip",
+      "text": "Poignée pistolet SVDS"
+    },
+    {
+      "ns": "",
+      "key": "FC9C520F422DA3024FCC7991A6E428AD",
+      "source": "KAC QDC 3-Prong Eliminator 5.56x45mm Muzzle Device",
+      "text": "KAC QDC 3-Prong Eliminateur 5.56x45mm dispositif de bouche"
+    },
+    {
+      "ns": "",
+      "key": "FCB035894FB3C38CFB6BAE8D448E84DC",
+      "source": "ON",
+      "text": "ON"
+    },
+    {
+      "ns": "",
+      "key": "FCB05BB64B85A3CC97099197D0E53C0A",
+      "source": "KRISS Vector 45ACP 13Rnd",
+      "text": "KRISS Vector 45ACP 13Rnd"
+    },
+    {
+      "ns": "",
+      "key": "FCB4B30F4E683F954FB0B08243758C9A",
+      "source": "ring that can be mounted around the suppressor of an AS VAL or VSS Vintorez to allow tactical attachments.",
+      "text": "anneau qui peut être monté autour de la silencieux d'un AS VAL ou VSS Vintorez pour permettre des attaches tactiques."
+    },
+    {
+      "ns": "",
+      "key": "FCD570604C259CC93438F0A7C131D54E",
+      "source": "Go to the command room and install the bugs.",
+      "text": "Allez dans la salle de commande et installez les bugs."
+    },
+    {
+      "ns": "",
+      "key": "FCD84CCA4614765926AE13BE5F4C9AF0",
+      "source": "Download Data",
+      "text": "Télécharger les données"
+    },
+    {
+      "ns": "",
+      "key": "FCDB1A3D47B0D0C7CA57F5A053F2098A",
+      "source": "Stop Fracture",
+      "text": "Traiter la fracture"
+    },
+    {
+      "ns": "",
+      "key": "FCDBEF45461C8C98CF3E8CAA37EA51CB",
+      "source": "Yup! All relevent operational information on your GCPS",
+      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+    },
+    {
+      "ns": "",
+      "key": "FCDFB2E240AE746C8035CF8095E78499",
+      "source": "Cancel",
+      "text": "Annuler"
+    },
+    {
+      "ns": "",
+      "key": "FCE1F5F1442933547E6CDA833903C9E3",
+      "source": "Shaving Cream",
+      "text": "Mousse à raser"
+    },
+    {
+      "ns": "",
+      "key": "FCF2652F487F3912D9E67088BC66AC04",
+      "source": "Foliage Quality",
+      "text": "Qualité de la végétation"
+    },
+    {
+      "ns": "",
+      "key": "FCF5F29349CBE9975C4A9785991034E3",
+      "source": "7 inch barrel for the Honey Badger rifle.",
+      "text": "7 pouces canon pour le fusil Honey Badger."
+    },
+    {
+      "ns": "",
+      "key": "FD0158BC4A8851A6438C6DBC783C2E18",
+      "source": "Graphics Card",
+      "text": "Carte graphique"
+    },
+    {
+      "ns": "",
+      "key": "FD06D019440C90FC1DEB749C094226DD",
+      "source": "7.62x51mm M80",
+      "text": "7.62x51mm M80"
+    },
+    {
+      "ns": "",
+      "key": "FD0840AA4196DFB40E71199A6876D9BC",
+      "source": "LAMG M-LOK Standard Handguard",
+      "text": "Garde-main LAMG M-LOK Standard"
+    },
+    {
+      "ns": "",
+      "key": "FD0DF5064C9AD2A7DEB93CA65BDA181D",
+      "source": "Cycle Sights",
+      "text": "Changer de viseur"
+    },
+    {
+      "ns": "",
+      "key": "FD1C00E34013D3B2C5FA299570DC3376",
+      "source": "ANG",
+      "text": "ANG"
+    },
+    {
+      "ns": "",
+      "key": "FD3A6E904559DD1FE448B48912EC9B8E",
+      "source": "MODIFICATION",
+      "text": "MODIFICATION"
+    },
+    {
+      "ns": "",
+      "key": "FD7D3C5744FB83B95FCEBE83AB6030D8",
+      "source": "AR-15 Geissele MK16 M-LOK 10x5 Inch Handguard",
+      "text": "Garde-main AR-15 Geissele MK16 M-LOK 10x5 pouces"
+    },
+    {
+      "ns": "",
+      "key": "FD81BDD04DC740F6E270C4A3FE21FC6A",
+      "source": "Hello? Well done! You're good here. Head on out.",
+      "text": "C'est bon, tu es bien ici."
+    },
+    {
+      "ns": "",
+      "key": "FD905CEB4DFB938A15A0088EC1EBC04B",
+      "source": "AR-15 Colt A2 Buffertube",
+      "text": "AR-15 Colt A2 tube de crosse"
+    },
+    {
+      "ns": "",
+      "key": "FD99E61646051FA8D398478469409115",
+      "source": "Side Quests",
+      "text": "Missions secondaires"
+    },
+    {
+      "ns": "",
+      "key": "FDA85A6A4E00192E3065F99857E68D5D",
+      "source": "When a bot finishes searching, do they forget about the enemy or do they continue searching until their memory length timer expires?",
+      "text": "Lorsqu'un bot termine la recherche, oublient-ils l'ennemi ou continuent-ils à chercher jusqu'à ce que leur minuteur de longueur de mémoire expire?"
+    },
+    {
+      "ns": "",
+      "key": "FDB10DD440FF7C21251EA5BB18688EFA",
+      "source": "Operation accepted, info on GCPS",
+      "text": "Opération acceptée, informations sur le GCPS"
+    },
+    {
+      "ns": "",
+      "key": "FDB9EEA94D51AAE511B5DDB4D3060BDB",
+      "source": "Operation accepted, info on GCPS",
+      "text": "Opération acceptée, informations sur le GCPS"
+    },
+    {
+      "ns": "",
+      "key": "FDCC6C9F450814BA44C832B9583F740F",
+      "source": "HP",
+      "text": "HP"
+    },
+    {
+      "ns": "",
+      "key": "FDCD50CE40D004971AD216B388177B16",
+      "source": "Operation accepted, info on GCPS",
+      "text": "Opération acceptée, informations sur le GCPS"
+    },
+    {
+      "ns": "",
+      "key": "FDD8C05D4EC2E2B7D54E80B728B0AE7D",
+      "source": "VOIP Volume",
+      "text": "Volume de la discussion vocale"
+    },
+    {
+      "ns": "",
+      "key": "FDF36E774115C33C79A196B3937EBE99",
+      "source": "Shutdown the terminal to erase everything.",
+      "text": "Éteignez le terminal pour tout effacer."
+    },
+    {
+      "ns": "",
+      "key": "FDFBA12647E2FFD9F0EFE19DD5AC3E7D",
+      "source": "Press <Red>F</> to <Red>upgrade</> the intel center.",
+      "text": "Appuyez sur <Red>F</> pour <Red>améliorer</> le centre de renseignement."
+    },
+    {
+      "ns": "",
+      "key": "FE04471D4C659E56295F378784C4AACB",
+      "source": "Extinguisher",
+      "text": "Extincteur"
+    },
+    {
+      "ns": "",
+      "key": "FE0B469747EE482409A345B6DE0C028A",
+      "source": "Tri-Rail",
+      "text": "Tri-rail"
+    },
+    {
+      "ns": "",
+      "key": "FE191761427CF89C2C1266A6721B5287",
+      "source": "Scorpio rail for QBZ-97 carry handle.",
+      "text": "Rail Scorpio pour poignée de transport QBZ-97."
+    },
+    {
+      "ns": "",
+      "key": "FE24BE0C4BBEBE59D98009B3142213C6",
+      "source": "Locate all H.A.S.",
+      "text": "Localiser tous les H.A.S."
+    },
+    {
+      "ns": "",
+      "key": "FE3BA68548DB5709645EFAAF2BC8D709",
+      "source": "Fish Sauce Bottle",
+      "text": "Bouteille de sauce au poisson"
+    },
+    {
+      "ns": "",
+      "key": "FE4D8C6945BBBD951A0B85BDADBEDC31",
+      "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
+      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+    },
+    {
+      "ns": "",
+      "key": "FE5D581E42A4A83B12100580D291652C",
+      "source": "All items stored inside the container are being delivered after the raid to the message box.",
+      "text": "Tous les objets stockés dans ce conteneur sont livrés dans la messagerie après le raid."
+    },
+    {
+      "ns": "",
+      "key": "FE658CDE495D47B6DBE559AAA7D75F4F",
+      "source": "USB",
+      "text": "USB"
+    },
+    {
+      "ns": "",
+      "key": "FE66FEC3417EE9131D7ABD842E78F486",
+      "source": "Durability",
+      "text": "Durabilité"
+    },
+    {
+      "ns": "",
+      "key": "FE781AB44BF2D4823C3EC6922A467BAB",
+      "source": "Download complete (88 KB).",
+      "text": "Téléchargement terminé (88 Ko)."
+    },
+    {
+      "ns": "",
+      "key": "FE7DC835426125EEE9C6B9A7F9820AB6",
+      "source": "SCAR-L 5.56x45mm 30rnd",
+      "text": "SCAR-L 5.56x45mm 30rnd"
+    },
+    {
+      "ns": "",
+      "key": "FE8098964CAF95FA82F9FDBDDE6BF484",
+      "source": "Key for the HAS-0226-C building.",
+      "text": "Clé pour le bâtiment HAS-0226-C."
+    },
+    {
+      "ns": "",
+      "key": "FEB38DC34B3BE8D9AF09D192A3B26B67",
+      "source": "Place USB",
+      "text": "Placer la clé USB"
+    },
+    {
+      "ns": "",
+      "key": "FEBB42BC43A2F154250FC6817A024C34",
+      "source": "Operation accepted, info on GCPS",
+      "text": "Opération acceptée, informations sur le GCPS"
+    },
+    {
+      "ns": "",
+      "key": "FEC12B9C4ED1E52E41CD2EA2B7D83504",
+      "source": "Incursion Red River Alpha",
+      "text": "Incursion Red River Alpha"
+    },
+    {
+      "ns": "",
+      "key": "FECAF6F14A518F43B383D09ED90AAF71",
+      "source": "Secure Intel",
+      "text": "Récupérer les renseignements"
+    },
+    {
+      "ns": "",
+      "key": "FED3567B401F7465E97C4ABB0214E28E",
+      "source": "Kill all enemies near the docks.",
+      "text": "Tuez tous les ennemis près des quais."
+    },
+    {
+      "ns": "",
+      "key": "FED4E674414CC7DAD5A2A58A8A03E391",
+      "source": "M-9 Bayonet",
+      "text": "M-9 Bayonet"
+    },
+    {
+      "ns": "",
+      "key": "FED9842640F42FD0DD9A4EA2A37BBA60",
+      "source": "Adds the first <strong>antenna piece</>. More to come!",
+      "text": "Ajoute le premier <strong>pièce d'antenne</>Plus à venir !"
+    },
+    {
+      "ns": "",
+      "key": "FEDA0D6F44B6E16E70A62693A7D3C60B",
+      "source": "Yeah, noted resource of Food",
+      "text": "Oui, ressource en vivres repérée"
+    },
+    {
+      "ns": "",
+      "key": "FEE46CF3403AA4416D4CF6BD73CE07CC",
+      "source": "PP-19 Muzzle",
+      "text": "PP-19 bouche"
+    },
+    {
+      "ns": "",
+      "key": "FEEC196641D1AD4FB183A8A3D26A2691",
+      "source": "Cancel",
+      "text": "Annuler"
+    },
+    {
+      "ns": "",
+      "key": "FEF72AC2418C0A37254A18A645AE4384",
+      "source": "Suppressor",
+      "text": "silencieux"
+    },
+    {
+      "ns": "",
+      "key": "FEFBF11948D473984BA95FA07FE7EAF1",
+      "source": "Versatile and adaptable firearm accessory designed to provide sound suppression for pistols from 9mm to .45 ACP and rifles from 5.56mm to .45.",
+      "text": "Accessoire polyvalent et adaptable pour armes à feu conçu pour assurer la suppression sonore des pistolets de 9mm à .45 ACP et des fusils de 5.56mm à .45."
+    },
+    {
+      "ns": "",
+      "key": "FEFC04634AA72B09E6A096AF4185563B",
+      "source": "Go to the warehouse and install the bugs.",
+      "text": "Allez à l'entrepôt et installez les bugs."
+    },
+    {
+      "ns": "",
+      "key": "FF04425C4596C62D75F007A30F063F68",
+      "source": "The Kestrel 5700X is a comprehensive weather meter for measurement and logging of primary environmental conditions, including wind speed and direction",
+      "text": "Le Kestrel 5700X est un compteur météorologique complet pour la mesure et l'enregistrement des conditions environnementales primaires, y compris la vitesse et la direction du vent"
+    },
+    {
+      "ns": "",
+      "key": "FF1ED4EE44A59AE101E202B7EB2E0A7B",
+      "source": "Place Intel",
+      "text": "Placer les renseignements"
+    },
+    {
+      "ns": "",
+      "key": "FF23AB3C4BAEEA81796AB8984BEA529D",
+      "source": "OP C",
+      "text": "OP C"
+    },
+    {
+      "ns": "",
+      "key": "FF2CE194466B6532C8B7C1A35A8A765C",
+      "source": "Nut",
+      "text": "Écrou"
+    },
+    {
+      "ns": "",
+      "key": "FF2F4C1E4108442EC2FBFD967DA0EE04",
+      "source": "Extract without taking damage.",
+      "text": "Extrayez-vous sans subir de dégâts."
+    },
+    {
+      "ns": "",
+      "key": "FF3351AF43F4F3FC7237E8851AFBE833",
+      "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
+      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+    },
+    {
+      "ns": "",
+      "key": "FF48B2E04A6ED8C15FF310BE32479772",
+      "source": "Yup! You've accepted an operation, check GCPS for next steps",
+      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+    },
+    {
+      "ns": "",
+      "key": "FF56876F468D698D3D43D08FE8BDF8A2",
+      "source": "MCX Long Gas Tube",
+      "text": "Tube à gaz MCX long"
+    },
+    {
+      "ns": "",
+      "key": "FF5BD0C24F32345C2B088E9F61707FA7",
+      "source": "DD",
+      "text": "DD"
+    },
+    {
+      "ns": "",
+      "key": "FF5EB8164D7426562597D697B0E8D836",
+      "source": "Standard Gas Tube for the SVDS.",
+      "text": "Standard tube à gaz pour le SVDS."
+    },
+    {
+      "ns": "",
+      "key": "FF5ECE4E4D6CAEE75498CB918D73D5C6",
+      "source": "AK-105",
+      "text": "AK-105"
+    },
+    {
+      "ns": "",
+      "key": "FF6E5D034A8D041F5E0F0B99153F983B",
+      "source": "Osprey",
+      "text": "Osprey"
+    },
+    {
+      "ns": "",
+      "key": "FF7A76DE47ED7F5964FC8CBD9F4624E1",
+      "source": "Cancel",
+      "text": "Annuler"
+    },
+    {
+      "ns": "",
+      "key": "FF7B46AE41BEB3941109CA869CAEF78B",
+      "source": "Yup! New operation added to your tasks.",
+      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+    },
+    {
+      "ns": "",
+      "key": "FF80F6A54D90F40BEEEF908331E06812",
+      "source": "MoBo",
+      "text": "Pays-Bas"
+    },
+    {
+      "ns": "",
+      "key": "FF888F794783D0D847C220BEF33F6B45",
+      "source": "... the rough location is locked down, that's just part one, though. Hold until I say I'm ready for the second.",
+      "text": "... l'emplacement difficile est verrouillé, ce n'est qu'une partie, cependant. Attendez jusqu'à ce que je vous dise que je suis prêt pour la seconde."
+    },
+    {
+      "ns": "",
+      "key": "FF9812744E131F03D67ABE8604726748",
+      "source": "Primary",
+      "text": "Principale"
+    },
+    {
+      "ns": "",
+      "key": "FF9F9FC54250E533A2892EB292308652",
+      "source": "M14 Norinco M305 Polymer Chassis",
+      "text": "Châssis M14 Norinco M305 en polymère"
+    },
+    {
+      "ns": "",
+      "key": "FFA4EB064BB24AE268CD4B904D9BEFFF",
+      "source": "Go to the military base and kill the boss.",
+      "text": "Va à la base militaire et tue le patron."
+    },
+    {
+      "ns": "",
+      "key": "FFB1A94C467911EA2BAC2DBBB293F6DC",
+      "source": "A standard AR-15 Pistol Grip with a Tan color tone.",
+      "text": "Une AR-15 poignée pistolet standard avec une tonalité de couleur Tan."
+    },
+    {
+      "ns": "",
+      "key": "FFBEFCC24D906A8C5CAC6E843C20B9AD",
+      "source": "11 Inch",
+      "text": "11 pouces"
+    },
+    {
+      "ns": "",
+      "key": "FFD55ABE444D656B481F87954072E783",
+      "source": "Classified Document - UICS",
+      "text": "Document classifié - UICS"
+    },
+    {
+      "ns": "",
+      "key": "FFDB52524903BA9FE4C635ACD4DBA64D",
+      "source": "How much of a player's body has to be visible to a bot for them to be able to see them.",
+      "text": "Combien de corps d'un joueur doit être visible à un robot pour qu'ils puissent les voir."
+    },
+    {
+      "ns": "",
+      "key": "FFDF30F641C0DE49356918A506AFD584",
+      "source": "Document with potential confidential information about the UICS.",
+      "text": "Documenter avec des informations confidentielles potentielles sur le UICS."
+    },
+    {
+      "ns": "",
+      "key": "FFE111E7466DFEDB3CCCCDA087572801",
+      "source": "A spool of precious metal, often stolen from construction sites.",
+      "text": "Une bobine de métal précieux, souvent volée sur les chantiers."
+    },
+    {
+      "ns": "",
+      "key": "FFE3BFA0495468FAB63BE18656D81A5D",
+      "source": "Hello? Well done! You're good here. Head on out.",
+      "text": "C'est bon, tu es bien ici."
+    },
+    {
+      "ns": "",
+      "key": "FFEA85F14983965E588F7AACC1BC6592",
+      "source": "Hand In Items",
+      "text": "Remettre les objets"
+    },
+    {
+      "ns": "",
+      "key": "FFF3C336425BFAC3D36F75AA69F4435E",
+      "source": "YOU HAVE JOINED THE LOBBY",
+      "text": "VOUS AVEZ REJOINT LE SALON"
+    },
+    {
+      "ns": "",
+      "key": "FFFB119E457E3B69E66706BA6BDD6168",
+      "source": "The M2 18.5 Inch field barrel.",
+      "text": "Le champ M2 de 18.5 pouces canon."
+    },
+    {
+      "ns": "",
+      "key": "FFFC97534AF0A1C891834D862F916959",
+      "source": "Adrenaline Injector",
+      "text": "Injecteur d'adrénaline"
+    },
+    {
+      "ns": "IRRAISettingRow",
+      "key": "Custom",
+      "source": "Custom",
+      "text": "Personnalisé"
+    },
+    {
+      "ns": "IRRAISettingRow",
+      "key": "Off",
+      "source": "Off",
+      "text": "Désactivé"
+    },
+    {
+      "ns": "IRRAISettingRow",
+      "key": "On",
+      "source": "On",
+      "text": "Activé"
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.AIMemoryLength",
+      "source": "How long after a bot searches your last known location before it returns to a peaceful state and de-aggros. Bots that are not allowed to search for you de-aggro this long after they last sensed you.",
+      "text": "Temps nécessaire à un bot pour revenir au calme après avoir fouillé votre dernière position connue. S’il ne peut pas vous rechercher, le délai commence à sa dernière détection."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.AIMultiplier",
+      "source": "Scales the map's enemy count, including solo. Each extra coop player adds a further share on top.",
+      "text": "Ajuste le nombre d’ennemis sur la carte, y compris en solo. Chaque joueur supplémentaire en coop ajoute des ennemis."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.Aggressiveness",
+      "source": "Controls multiple behaviors, such as how long bots wait before searching for enemies, how likely they are to return fire on first contact, and how likely they take aggressive positions when given the opportunity.",
+      "text": "Influe sur plusieurs comportements : le délai avant de chercher un ennemi, la probabilité de riposter au premier contact et la tendance à prendre des positions offensives quand l’occasion se présente."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.AimInitialDelayMultiplier",
+      "source": "Increase or decrease how long bots wait before they can fire their first shots when aiming. Linear multiplier, so a value of 2.0 doubles the wait.",
+      "text": "Modifie le temps d’attente avant les premiers tirs lorsque les bots visent. Une valeur de 2,0 double ce délai."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.AimRecoveryDelayMultiplier",
+      "source": "Increase or decrease how long bots wait between firing single shots or bursts. Linear multiplier, so a value of 2.0 doubles the wait.",
+      "text": "Modifie le temps d’attente entre deux tirs ou rafales. Une valeur de 2,0 double ce délai."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.Coordination_PerceptionShareRadius",
+      "source": "How far bots automatically share what they perceive with friendly bots. A bot that spots an enemy tells every friendly within this radius.",
+      "text": "Rayon dans lequel un bot partage automatiquement ses observations avec les alliés. S’il repère un ennemi, il en informe tous les alliés à portée."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.DeliberateMissChance",
+      "source": "After the guaranteed misses, each shot still has this chance (0 to 1) to miss on purpose for the next few seconds, so bots walk their fire onto a target instead of landing the first hits.",
+      "text": "Après les tirs qui ratent à coup sûr, chaque tir a encore cette probabilité (de 0 à 1) de rater volontairement pendant quelques secondes. Les bots ajustent ainsi leur tir progressivement."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.DeliberateMissTime",
+      "source": "When a bot starts shooting at a target, its shots are guaranteed to miss until it has aimed at that target for this many seconds. Starts over when the bot switches targets.",
+      "text": "Quand un bot ouvre le feu sur une cible, ses tirs ratent à coup sûr jusqu’à ce qu’il ait visé cette cible pendant cette durée en secondes. Le délai repart à zéro lorsqu’il change de cible."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.FiredUponSearchTime",
+      "source": "For how many seconds after a bot is hit or a bullet passes close by its squad will search for the shooter, ignoring the search distance and searcher limits. 0 turns this off.",
+      "text": "Durée, en secondes, pendant laquelle l’escouade recherche le tireur après qu’un bot a été touché ou qu’une balle est passée près de lui. Les limites de distance et d’effectif ne s’appliquent pas. 0 désactive cette recherche."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.FullAutoBurstLengthMultiplier",
+      "source": "Increase or decrease how long bots hold the trigger on full auto before they need to recover and re-aim.",
+      "text": "Modifie la durée pendant laquelle les bots tirent en rafale automatique avant de reprendre leur visée."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.FullAutoDistanceThreshold",
+      "source": "If a bot is shooting at someone further than this distance, in meters, it switches to semi-auto. Closer than that it uses full auto when the weapon has it.",
+      "text": "Au-delà de cette distance en mètres, les bots passent au tir semi-automatique. En deçà, ils utilisent le tir automatique si leur arme le permet."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.GrenadeInaccuracy",
+      "source": "How far a bot's grenade can land from where it aimed, in centimeters per 10 meters of throw distance. 0 lands every throw on target.",
+      "text": "Écart possible entre le point visé par un bot et le point de chute de sa grenade, en centimètres par tranche de 10 mètres de lancer. À 0, tous les lancers atteignent le point visé."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.MaxSearchAreaSize",
+      "source": "How far, in meters of walking distance, a search can spread out from where bots last sensed you. 0 means no limit.",
+      "text": "Distance maximale à pied, en mètres, sur laquelle les recherches peuvent s’étendre à partir de votre dernière position connue. À 0, la distance est illimitée."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.MaxSearchDistance",
+      "source": "The farthest walking distance, in meters, from a squad to your last known location for that squad to come searching for you. Squads farther away hold their area.",
+      "text": "Distance maximale à pied, en mètres, entre une escouade et votre dernière position connue pour que celle-ci parte à votre recherche. Au-delà, elle reste dans sa zone."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.MaxSearchersAtOnce",
+      "source": "How many bots can search at once across the whole map, for all enemies combined.",
+      "text": "Nombre maximal de bots qui peuvent chercher simultanément, sur toute la carte et toutes cibles confondues."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.MaxSearchersPerTarget",
+      "source": "How many bots of one faction can search for the same enemy at once. Squads are sent whole, so a squad can go slightly over this limit.",
+      "text": "Nombre maximal de bots d’une faction qui peuvent rechercher le même ennemi. Une escouade est envoyée au complet et peut donc dépasser légèrement cette limite."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.OnTargetAimThreshold",
+      "source": "Controls the randomized spread bots have when shooting.",
+      "text": "Règle la dispersion aléatoire des tirs des bots."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.PerceptionAngle",
+      "source": "Angle in degrees from where a bot is looking within which it can see a target.",
+      "text": "Angle du champ de vision du bot, en degrés."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.PerceptionBaseDelay",
+      "source": "Every sense on a bot has an enforced delay before it actually registers what it sensed. This is the base time for that delay, in seconds.",
+      "text": "Délai de base, en secondes, avant qu’un bot réagisse à ce qu’il perçoit."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.PerceptionBaseTimeToSee",
+      "source": "How long, in seconds, a target has to stay in view before a bot reacts to it. Distance, light and weather make this longer or shorter.",
+      "text": "Durée, en secondes, pendant laquelle une cible doit rester visible avant que le bot réagisse. La distance, la luminosité et la météo modifient ce délai."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.PerceptionDistanceFalloff",
+      "source": "How much harder a target is to spot as it gets further away, inside the perception range. 1 follows the base distance curve. Higher values make a distant target take longer to notice, values below 1 make it quicker. How far a bot can see does not change.",
+      "text": "Difficulté à repérer une cible éloignée dans le champ de perception. À 1, la courbe de base s’applique. Au-dessus de 1, le repérage à distance prend plus de temps. En dessous de 1, il est plus rapide. La portée maximale reste la même."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.PerceptionInitialContactAdditionalDelay",
+      "source": "When a bot goes from being at peace or on patrol to combat, this is added on top of the base sense delay, so the first contact takes longer to react to.",
+      "text": "Délai ajouté au délai de perception de base lorsqu’un bot passe du repos ou de la patrouille au combat. Il ralentit sa réaction au premier contact."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.PerceptionMinScore",
+      "source": "How much of a target has to be visible before a bot can see it at all. Lower values let bots spot targets that are barely peeking out.",
+      "text": "Part minimale d’une cible qui doit être visible pour être détectée. Avec une valeur plus faible, les bots repèrent les cibles à peine visibles."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.PerceptionRange",
+      "source": "The maximum distance, in centimeters (100 = 1 m), at which a bot can perceive an enemy.",
+      "text": "Distance maximale, en centimètres (100 = 1 m), à laquelle un bot peut percevoir un ennemi."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.RepeatSenseMaxCoef",
+      "source": "When you are in or near the spot a bot thinks you are, whether it heard or saw you there, it gains sight of you faster. This is how much faster, at most; the effect fades the further you are from that spot.",
+      "text": "Un bot vous repère plus vite si vous êtes près de l’endroit où il pense vous avoir entendu ou vu. Cette valeur fixe l’accélération maximale. L’effet diminue à mesure que vous vous éloignez de cet endroit."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.SearchCasualtyHoldTime",
+      "source": "For how many seconds a bot killed while searching for you still counts toward the searcher limits on you. Stops the next squad in line from walking into the same spot right away. 0 turns this off.",
+      "text": "Durée, en secondes, pendant laquelle un bot tué en vous recherchant compte encore dans la limite des bots à votre recherche. Cela évite que l’escouade suivante se rende aussitôt au même endroit. 0 désactive ce délai."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.bAISuppressTargets",
+      "source": "Enable or disable bots suppressing the last known location of their enemy. If disabled, bots only shoot when they can see their enemy.",
+      "text": "Active ou désactive le tir de suppression des bots sur la dernière position connue de leur ennemi. Si cette option est désactivée, ils ne tirent que s’ils voient leur cible."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.bCanAimForHead",
+      "source": "Allows bots to pick the head as the point they aim at.",
+      "text": "Permet aux bots de viser la tête."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.bCanThrowGrenades",
+      "source": "Lets bots throw the grenades they carry at you.",
+      "text": "Permet aux bots de lancer sur vous les grenades qu’ils portent."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.bFlashlightDetectionToggle",
+      "source": "Lets bots notice an enemy's flashlight.",
+      "text": "Permet aux bots de repérer la lampe d’un ennemi."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "AISettings.bLaserDetectionToggle",
+      "source": "Lets bots notice an enemy's weapon laser.",
+      "text": "Permet aux bots de repérer le laser de l’arme d’un ennemi."
+    },
+    {
+      "ns": "IRRAISettingRow.Description",
+      "key": "Simulation.BotMovementTicksPerSec",
+      "source": "The lowest rate, in updates per second, at which distant bots still move. Higher values make bots look smoother at range at the cost of performance.",
+      "text": "Fréquence minimale, en mises à jour par seconde, du déplacement des bots éloignés. Une valeur élevée rend leur déplacement plus fluide au prix de performances moindres."
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.AIMemoryLength",
+      "source": "AI Memory Length",
+      "text": "Durée de mémoire de l’IA"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.AIMultiplier",
+      "source": "AI Multiplier",
+      "text": "Multiplicateur du nombre de bots"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.Aggressiveness",
+      "source": "Aggression",
+      "text": "Agressivité"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.AimRecoveryDelayMultiplier",
+      "source": "Aim Recovery Delay Multiplier",
+      "text": "Multiplicateur du délai entre les tirs"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.FiredUponSearchTime",
+      "source": "Fired Upon Search Time",
+      "text": "Durée de recherche après un tir reçu"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.FullAutoBurstLengthMultiplier",
+      "source": "Full Auto Burst Length Multiplier",
+      "text": "Multiplicateur de durée des rafales"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.GrenadeInaccuracy",
+      "source": "Grenade Inaccuracy",
+      "text": "Imprécision des grenades"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.MaxSearchAreaSize",
+      "source": "Max Search Area Size",
+      "text": "Étendue maximale de la zone de recherche"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.MaxSearchDistance",
+      "source": "Max Search Distance",
+      "text": "Distance maximale de recherche"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.MaxSearchersAtOnce",
+      "source": "Max Searchers At Once",
+      "text": "Nombre maximal de bots en recherche"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.MaxSearchersPerTarget",
+      "source": "Max Searchers Per Enemy",
+      "text": "Nombre maximal de bots par cible"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.OnTargetAimThreshold",
+      "source": "Target Aim Threshold",
+      "text": "Dispersion des tirs"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.PerceptionDistanceFalloff",
+      "source": "Distance Sight Falloff",
+      "text": "Détection visuelle à distance"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.PerceptionRange",
+      "source": "Perception Range",
+      "text": "Portée de perception"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.SearchCasualtyHoldTime",
+      "source": "Casualty Hold Time",
+      "text": "Délai après la perte d’un bot"
+    },
+    {
+      "ns": "IRRAISettingRow.Label",
+      "key": "AISettings.bCanThrowGrenades",
+      "source": "Throw Grenades",
+      "text": "Lancer de grenades"
+    },
+    {
+      "ns": "IRRAISettingRow.Warning",
+      "key": "AISettings.AIMultiplier",
+      "source": "Be careful — more enemies can hurt performance. Values over 2.0 are not recommended for normal gameplay.",
+      "text": "Attention : augmenter le nombre d’ennemis peut réduire les performances. Une valeur supérieure à 2,0 est déconseillée pour une partie normale."
+    },
+    {
+      "ns": "IRRAISettingRow.Warning",
+      "key": "AISettings.Aggressiveness",
+      "source": "Low values can cause overly passive bots who sit and wait. High values can cause swarming in some situations.",
+      "text": "Une valeur faible peut rendre les bots trop passifs. Une valeur élevée peut les faire affluer dans certaines situations."
+    },
+    {
+      "ns": "IRRAISettingRow.Warning",
+      "key": "AISettings.AimRecoveryDelayMultiplier",
+      "source": "Higher = slower fire rate.",
+      "text": "Une valeur élevée ralentit la cadence de tir."
+    },
+    {
+      "ns": "IRRAISettingRow.Warning",
+      "key": "AISettings.FullAutoBurstLengthMultiplier",
+      "source": "Higher = longer full-auto bursts.",
+      "text": "Une valeur élevée allonge les rafales automatiques."
+    },
+    {
+      "ns": "IRRAISettingRow.Warning",
+      "key": "AISettings.GrenadeInaccuracy",
+      "source": "Higher = grenades land further off.",
+      "text": "Une valeur élevée augmente l’écart à l’arrivée des grenades."
+    },
+    {
+      "ns": "IRRAISettingRow.Warning",
+      "key": "AISettings.MaxSearchDistance",
+      "source": "High values make bots from across the map converge on every fight.",
+      "text": "Une valeur élevée fait converger vers chaque combat des bots venus de toute la carte."
+    },
+    {
+      "ns": "IRRAISettingRow.Warning",
+      "key": "AISettings.MaxSearchersAtOnce",
+      "source": "High values can cause swarming and cost performance.",
+      "text": "Une valeur élevée peut faire affluer les bots et réduire les performances."
+    },
+    {
+      "ns": "IRRAISettingRow.Warning",
+      "key": "AISettings.OnTargetAimThreshold",
+      "source": "Higher values = more spread and randomization.",
+      "text": "Une valeur élevée augmente la dispersion des tirs."
+    },
+    {
+      "ns": "IRRAISettings",
+      "key": "DifficultyElite",
+      "source": "Elite",
+      "text": "Élite"
+    },
+    {
+      "ns": "IRRAISettings",
+      "key": "DifficultyRecruit",
+      "source": "Recruit",
+      "text": "Recrue"
+    },
+    {
+      "ns": "IRRAISettings",
+      "key": "DifficultyRegular",
+      "source": "Regular",
+      "text": "Standard"
+    },
+    {
+      "ns": "IRRAISettings",
+      "key": "DifficultyVeteran",
+      "source": "Veteran",
+      "text": "Vétéran"
+    },
+    {
+      "ns": "IRRCategorySelector",
+      "key": "Any",
+      "source": "Any",
+      "text": "Tous"
+    },
+    {
+      "ns": "IRRCategorySelector",
+      "key": "None",
+      "source": "None",
+      "text": "Aucun"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "AddKey",
+      "source": "Add Key",
+      "text": "Ajouter un point clé"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "ClearKeys",
+      "source": "Clear",
+      "text": "Effacer"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "Close",
+      "source": "X",
+      "text": "X"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "Exit",
+      "source": "Exit Camera",
+      "text": "Quitter la caméra"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "Faster",
+      "source": "Faster",
+      "text": "Plus rapide"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "FirstKey",
+      "source": "Go To First Key",
+      "text": "Aller au premier point clé"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "Grid",
+      "source": "Grid",
+      "text": "Grille"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "HideOverlay",
+      "source": "Hide Overlay",
+      "text": "Masquer la surimpression"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "NormalTime",
+      "source": "Normal Speed",
+      "text": "Vitesse normale"
+    },
+    {
+      "ns": "IRRCinematicCameraMenu",
+      "key": "PathFmt",
+      "source": "Camera path: {0} keys",
+      "text": "Trajectoire caméra : {0} points clés"
+    }
+  ]
+}

@@ -1,0 +1,1198 @@
+{
+  "texts": [
+    {
+      "ns": "",
+      "key": "EAA22F644D2479ECE6F949ADE82787B1",
+      "source": "AK Zenitco B-30 Handguard",
+      "text": "Garde-main AK Zenitco B-30"
+    },
+    {
+      "ns": "",
+      "key": "EAAE8A6141106939A61E25A7D31095E4",
+      "source": "5 round Saiga-12 magazine.",
+      "text": "Chargeur Saiga-12 de 5 cartouches."
+    },
+    {
+      "ns": "",
+      "key": "EAAF7136435D976AA1BB7A89B35810EF",
+      "source": "IGC Doc.",
+      "text": "IGC Doc."
+    },
+    {
+      "ns": "",
+      "key": "EAC0883A469B29B7C7A241A989688D69",
+      "source": "Delta C-Key",
+      "text": "Delta Clé C"
+    },
+    {
+      "ns": "",
+      "key": "EAC6696C4C87C480BEEB599F72CB79B4",
+      "source": "Uplink: Coastal Network ....... OK (Comms Building dish)\r\nRelay: Harbor Gate ............ OK\r\nRelay: Coastal Apartments ..... WEAK (-87 dBm)\r\nRelay: Small Village .......... NO RESPONSE\r\nForeign traffic: IGC airstrip approach control on 121.3 MHz.\r\nLocal jamming detected on 412.5 MHz - source bearing 070, resort direction.\r\n\r\nRecommendation: secure the Comms Building. Without it this node is deaf.",
+      "text": "Uplink: Coastal Network ....... OK (Comms Plat de bâtiment)\nRelais : Porte du port ....................\nRelais: Appartements côtiers ..... WEAK (-87 dBm)\nRelais : Petit village ..........\nTrafic étranger: contrôle d'approche de piste d'atterrissage IGC sur 121,3 MHz.\nBrouillage local détecté sur 412,5 MHz - source portant 070, direction station.\n\nRecommandation : sécurisez l'édifice Coms. Sans lui, ce nœud est sourd."
+    },
+    {
+      "ns": "",
+      "key": "EACAF50B4C4041B404B6ACA625D6C937",
+      "source": "10x4 Inch",
+      "text": "10x4 pouce"
+    },
+    {
+      "ns": "",
+      "key": "EACD35814FCD9F3F32C9F1ABEAAAB94B",
+      "source": "Key for the HAS-0410-A building.",
+      "text": "Clé pour le bâtiment HAS-0410-A."
+    },
+    {
+      "ns": "",
+      "key": "EAD1E35B437B07534A1C0BB949BFF5CE",
+      "source": "Standard АK Dust Cover manufactured by Izhmash.",
+      "text": "La norme capot de culasse est fabriquée par Izhmash."
+    },
+    {
+      "ns": "",
+      "key": "EAD5F42F463E6D6AB58933991AA82405",
+      "source": "5.56x45mm FMJ",
+      "text": "5.56x45mm FMJ"
+    },
+    {
+      "ns": "",
+      "key": "EADA671F41B5E3F56308F58B066D9219",
+      "source": "Observer: ",
+      "text": "Observateur : "
+    },
+    {
+      "ns": "",
+      "key": "EADC5AFF4B16BBD55E202EBB3263A472",
+      "source": "AK SAG MK3 Lower M-LOK Handguard",
+      "text": "Garde-main AK SAG MK3 Lower M-LOK"
+    },
+    {
+      "ns": "",
+      "key": "EAE1E0A54B67B9C4C5A0059F939E4E2D",
+      "source": "KAC LAMG",
+      "text": "KAC LAMG"
+    },
+    {
+      "ns": "",
+      "key": "EAF2AFB54620F0F1AC260FB9D6715B34",
+      "source": "Frame Limit",
+      "text": "Limite d'images par seconde"
+    },
+    {
+      "ns": "",
+      "key": "EB08099745FD2DE143B4B487AB8613A0",
+      "source": "14 Inch",
+      "text": "14 pouces"
+    },
+    {
+      "ns": "",
+      "key": "EB14E63F476E711BF74969B7EF8C6955",
+      "source": "Saiga-12K Custom Guns Type-340 Handguard",
+      "text": "Garde-main Saiga-12K Custom Guns Type-340"
+    },
+    {
+      "ns": "",
+      "key": "EB1B6DA740066BBB366FAE9BF3EF86B1",
+      "source": "AK-103",
+      "text": "AK-103"
+    },
+    {
+      "ns": "",
+      "key": "EB2E1F214C4A52E37A270EB9C5FEE3E3",
+      "source": "Oil",
+      "text": "Huile"
+    },
+    {
+      "ns": "",
+      "key": "EB36F19A4AD6370AD74CE3B1A58BC0AF",
+      "source": "Operation noted on GCPS, get going, dont die, you get it.",
+      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+    },
+    {
+      "ns": "",
+      "key": "EB3A34C946E6247E8AC14B98393FE86D",
+      "source": "ACCEPT MISSION",
+      "text": "ACCEPTER LA MISSION"
+    },
+    {
+      "ns": "",
+      "key": "EB5AF63E409B8B18C102FBBB6C2F5EAE",
+      "source": "Hello? Well done! You're good here. Head on out.",
+      "text": "C'est bon, tu es bien ici."
+    },
+    {
+      "ns": "",
+      "key": "EB5CB3A1436BE1124946F1898100B4E4",
+      "source": "Cannot read {file}.",
+      "text": "Impossible de lire {file}."
+    },
+    {
+      "ns": "",
+      "key": "EB621627486E46C5355F2CAD2DEC7684",
+      "source": "MARKETPLACE",
+      "text": "MARCHÉ"
+    },
+    {
+      "ns": "",
+      "key": "EB6579444F009652A701C2920286CFE3",
+      "source": "Daniel Defense Picatinny Foregrip can be installed on the lower part of handguards with a picatinny rail.",
+      "text": "Daniel Defense Picatinny poignée avant peut être installé sur la partie inférieure de garde-mains avec un rail picatinny."
+    },
+    {
+      "ns": "",
+      "key": "EB66011C47745074996568A498F2255C",
+      "source": "TD",
+      "text": "TD"
+    },
+    {
+      "ns": "",
+      "key": "EB70E3C545D3DEF4E2ECB9A835789AF4",
+      "source": "Cannot download {file}.",
+      "text": "Impossible de télécharger {file}."
+    },
+    {
+      "ns": "",
+      "key": "EB824A3C493E055B548EEDAE88AB819E",
+      "source": "Decades-old issue rucksack on a steel frame. Holds a lot, and weighs like it.",
+      "text": "Un sac à dos de dix ans sur un cadre en acier. Il tient beaucoup et pèse comme ça."
+    },
+    {
+      "ns": "",
+      "key": "EB89006C4613572D21809FBA241FD51A",
+      "source": "ADD",
+      "text": "ADD"
+    },
+    {
+      "ns": "",
+      "key": "EB8AE4434FAD80B36C9616A6700BDB6E",
+      "source": "AR-15 Geissele MK16 M-LOK 9x3 Inch Handguard",
+      "text": "Garde-main AR-15 Geissele MK16 M-LOK 9x3 pouces"
+    },
+    {
+      "ns": "",
+      "key": "EBAB790D4A837EF564C8C5BAD955A033",
+      "source": "H",
+      "text": "H"
+    },
+    {
+      "ns": "",
+      "key": "EBB3FAC14E4929936D0A37B36C9D5C92",
+      "source": "AR-15 ACE Ultra Lite Stock",
+      "text": "Crosse AR-15 ACE Ultra Lite"
+    },
+    {
+      "ns": "",
+      "key": "EBC0493C4C8CCF7862E616B0F2B42B70",
+      "source": "9 inch",
+      "text": "9 pouces"
+    },
+    {
+      "ns": "",
+      "key": "EBC3F66D4B0A3340AEDFA98A3505943F",
+      "source": "Surefire SOCOM338-TI Muzzle Brake",
+      "text": "Frein de bouche Surefire SOCOM338-TI"
+    },
+    {
+      "ns": "",
+      "key": "EBC82529415A6F06CCBFD09D2692853C",
+      "source": "[Exceeded Required Amount]",
+      "text": "[Quantité requise dépassée]"
+    },
+    {
+      "ns": "",
+      "key": "EBD4310748023DCA2AAB75A23487CF16",
+      "source": "Hensoldt Wetzlar Fero-Z 4x24 Scope",
+      "text": "Hensoldt Wetzlar Fero-Z 4x24 Scope"
+    },
+    {
+      "ns": "",
+      "key": "EBFD7E014FB6EA6B07B2A5A1DAD7EE9A",
+      "source": "Muzzle brake that can be mounted on the barrel of some shotguns.",
+      "text": "frein de bouche qui peut être monté sur le canon de certains fusils de chasse."
+    },
+    {
+      "ns": "",
+      "key": "EBFF2CEE45A4B204CC4930AE036E7545",
+      "source": "Collect all documents.",
+      "text": "Récupérez tous les documents."
+    },
+    {
+      "ns": "",
+      "key": "EC08790849266E3885CBB6BEB7E277F0",
+      "source": "We need to eliminate specific targets. In war, it's a matter of survival. It's a harsh reality. Time to demonstrate your sniper rifle skills, alright?",
+      "text": "Nous devons éliminer des cibles spécifiques. En guerre, c'est une question de survie. C'est une dure réalité. Il est temps de démontrer vos compétences fusil de précision, d'accord ?"
+    },
+    {
+      "ns": "",
+      "key": "EC0DA6DF40B9BCDB0FB18D89C98789FD",
+      "source": "THIS UPDATE RESETS: {x}",
+      "text": "CETTE MISE À JOUR RÉINITIALISE : {x}"
+    },
+    {
+      "ns": "",
+      "key": "EC0EFC6A486A57FD88E5B699637BD74C",
+      "source": "AR-15 Adapt.",
+      "text": "AR-15 Adapté."
+    },
+    {
+      "ns": "",
+      "key": "EC1656284D61EBEE0C13C39BEEDDCEC6",
+      "source": "Operation accepted, info on GCPS",
+      "text": "Opération acceptée, informations sur le GCPS"
+    },
+    {
+      "ns": "",
+      "key": "EC1DB0C04AF91F82890BB9B81D4C49FD",
+      "source": "Sig Sauer MCX Virtus",
+      "text": "Sig Sauer MCX Virtus"
+    },
+    {
+      "ns": "",
+      "key": "EC22A1424D80D95089CCB5BAFC6127F1",
+      "source": "Clawed 12 gauge muzzle device for Saiga-12.",
+      "text": "Échelle 12 calibres dispositif de bouche pour Saiga-12."
+    },
+    {
+      "ns": "",
+      "key": "EC29CAC54C2021B4813F2DAA4B5FFD2A",
+      "source": "Gas Can",
+      "text": "Bidon de carburant"
+    },
+    {
+      "ns": "",
+      "key": "EC37F7FA48097DCBDC7500896AC89CFC",
+      "source": "Yup! The operation has been added to your GCPS",
+      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+    },
+    {
+      "ns": "",
+      "key": "EC3ED99C45A6E4F16B674CA7C635D45F",
+      "source": "Double Press <Red>F</> to Swap Weapon. | Press <Red>F</> to <Red>add</> weapon to inventory.",
+      "text": "Double pression <Red>F</> pour swap arme. <Red>F</> à <Red>ajouter</> arme à l'inventaire."
+    },
+    {
+      "ns": "",
+      "key": "EC3F50C14F833CA67B6D1EA273ED8DA7",
+      "source": "Double Press <Red>F</> to Swap Weapon.",
+      "text": "Appuyez deux fois sur <Red>F</> pour changer d'arme."
+    },
+    {
+      "ns": "",
+      "key": "EC4EE74F478CDA75CFD99195A5033235",
+      "source": "Agent, penetrate the security perimeter and access the elevator room to recover the designated intel. After retrieval, the intel must be securely placed in our container at the deepest level of the vehicle lift. Exercise extreme caution and discretion throughout the mission.",
+      "text": "Agent, entrez dans le périmètre de sécurité et accédez à la salle des ascenseurs pour récupérer les renseignements désignés. Après récupération, l'information doit être placée en toute sécurité dans notre conteneur au niveau le plus profond de l'ascenseur du véhicule. Faites preuve d'une extrême prudence et d'une grande discrétion tout au long de la mission."
+    },
+    {
+      "ns": "",
+      "key": "EC5756F84185E769B07D32803A18C256",
+      "source": "Compact sleeping pad and cover for outdoor use. Provides comfort and insulation during camping or other activities.",
+      "text": "Coussin de couchage compact et housse pour usage extérieur. Fournit confort et isolation pendant le camping ou d'autres activités."
+    },
+    {
+      "ns": "",
+      "key": "EC5D3CDE43E8DB48A7000D8BB6051D96",
+      "source": "Silver Pearls",
+      "text": "Perles argentées"
+    },
+    {
+      "ns": "",
+      "key": "EC610EAB4FF5F5787C5BDA9F78EB1BDD",
+      "source": "Color Vision Deficiency",
+      "text": "Déficience de la vision des couleurs"
+    },
+    {
+      "ns": "",
+      "key": "EC671AF1437DC71AEDD1D08BA6EF8244",
+      "source": "Food",
+      "text": "Nourriture"
+    },
+    {
+      "ns": "",
+      "key": "EC67E93A4157EAE72690078B718B64BC",
+      "source": "# VLF Secure Terminal Access Credentials\r\n\r\n## Authorized Users List\r\n\r\n- **Guest**\r\n  - Username: Guest\r\n  - Password: 1234\r\n  - Note: Limited access; only for viewing non-sensitive data.\r\n\r\n- **Meteorologist**\r\n  - Username: Meteorologist\r\n  - Password: MeteoCtr!\r\n  - Note: Exclusive access to all weather data collected over the past view month. Otherwise same access level as guest.\r\n\r\n- **Admin**\r\n  - Username: Admin\r\n  - Password: VLF@dm1n\r\n  - Note: Full administrative privileges. Access to all system functions.",
+      "text": "# VLF Vérifications d'accès aux terminaux sécurisés\n\n## Liste des utilisateurs autorisés\n\n- **Guest**\n  - Nom d'utilisateur : Guest\n  - Mot de passe : 1234\n  - Note: Accès limité; uniquement pour visionner des données non sensibles.\n\n- **Meteorologist**\n  - Nom d'utilisateur : Meteorologist\n  - Mot de passe : MeteoCtr!\n  - Note : Accès exclusif à toutes les données météorologiques recueillies au cours du mois précédent. Sinon, le même niveau d'accès que l'invité.\n\n- **Admin**\n  - Nom d'utilisateur : Admin\n  - Mot de passe : VLF@dm1n\n  - Note: Tous les privilèges administratifs. Accès à toutes les fonctions du système."
+    },
+    {
+      "ns": "",
+      "key": "EC6A617D4244A53074D7AFB4475B1FDF",
+      "source": "Basic marker.",
+      "text": "Marqueur de base."
+    },
+    {
+      "ns": "",
+      "key": "EC6D6A5742393DD46692EBB0620A7078",
+      "source": "Viewmodel FOV",
+      "text": "Champ de vision de l'arme"
+    },
+    {
+      "ns": "",
+      "key": "EC72B2CA4C8A300F2DC1F0AAE9C16760",
+      "source": "SilencerCo Hybrid 46 Suppressor",
+      "text": "Silencieux SilencerCo Hybrid 46"
+    },
+    {
+      "ns": "",
+      "key": "EC73587E43E3AAE3E7E5B88716393F8A",
+      "source": "MEDIUM",
+      "text": "MOYEN"
+    },
+    {
+      "ns": "",
+      "key": "EC76ABB9426F6562C0FC9781BA0DE397",
+      "source": "Hello? Yup, done. Head on out.",
+      "text": "Oui, c'est fini."
+    },
+    {
+      "ns": "",
+      "key": "EC8AD4424C7F82270CB29AB98E86E8A7",
+      "source": "Fuel",
+      "text": "Carburant"
+    },
+    {
+      "ns": "",
+      "key": "ECA2334E4A6C90D79B6E2FB0BB14C40C",
+      "source": "LMGS",
+      "text": "MITRAILLEUSES LÉGÈRES"
+    },
+    {
+      "ns": "",
+      "key": "ECA754934B9A5F0F8C83D28556A9ABF4",
+      "source": "Saturation",
+      "text": "Saturation"
+    },
+    {
+      "ns": "",
+      "key": "ECAAAEDA4CE22F34A83AA9B5076E96B4",
+      "source": "PO",
+      "text": "PO"
+    },
+    {
+      "ns": "",
+      "key": "ECADDAF14E241C0E82EE0093595E0082",
+      "source": "Tactical handguard for Saiga-12 shotgun. Enables use of tactical devices.",
+      "text": "Tactical garde-main pour Saiga-12 fusil à pompe. Permet l'utilisation de dispositifs tactiques."
+    },
+    {
+      "ns": "",
+      "key": "ECB2D6BB46C2176495E30AA188E6CA9C",
+      "source": "Lean Left",
+      "text": "Se pencher à gauche"
+    },
+    {
+      "ns": "",
+      "key": "ECBE726A447C25FB06AB10B40E2ACA78",
+      "source": "Low-profile carrier with top-end plates. No pouches — pair it with a chest rig.",
+      "text": "Porte profil bas avec plaques haut de gamme. Pas de pochettes — jumelez-la avec un gilet tactique."
+    },
+    {
+      "ns": "",
+      "key": "ECC45E6B4FCFDA1C1E6BDBB65DE1378B",
+      "source": "M14 SAGE International Sight Mount",
+      "text": "M14 SAGE International montage de viseur"
+    },
+    {
+      "ns": "",
+      "key": "ECCC57984C07BC8A686DEEA39AF6ABDB",
+      "source": "CUSTOMIZATION",
+      "text": "PERSONNALISATION"
+    },
+    {
+      "ns": "",
+      "key": "ECD33577488591617A2230A9FFFEE98B",
+      "source": "HHS-1",
+      "text": "HHS-1"
+    },
+    {
+      "ns": "",
+      "key": "ECD5110649C482F3AEB0838F1BDCDC9C",
+      "source": "Yup! All relevent operational information on your GCPS",
+      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+    },
+    {
+      "ns": "",
+      "key": "ECDFED3C4A90834996E9C6BAA842D07E",
+      "source": "Barrel nut that slightly reduces heat of the barrel.",
+      "text": "écrou canon qui réduit légèrement la chaleur du canon."
+    },
+    {
+      "ns": "",
+      "key": "ECE29CED4CDDBCD42305288E18992E83",
+      "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
+      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+    },
+    {
+      "ns": "",
+      "key": "ECE5C2BF434436FA5ED1AC9E81500056",
+      "source": "Yup! The operation has been added to your GCPS",
+      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+    },
+    {
+      "ns": "",
+      "key": "ECEC0B98461A959361833AB8D9C764EC",
+      "source": "OFF",
+      "text": "OFF"
+    },
+    {
+      "ns": "",
+      "key": "ECFC541E430107B29E4BF490A1400250",
+      "source": "30",
+      "text": "30"
+    },
+    {
+      "ns": "",
+      "key": "ED0F5B7F410E8249DBFD1B9003AC3C49",
+      "source": "Operation noted on GCPS, get going, dont die, you get it.",
+      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+    },
+    {
+      "ns": "",
+      "key": "ED46B71743D05B9DF46781AA55065261",
+      "source": "AR-15 11x5 Inch Barrel",
+      "text": "Canon AR-15 11x5 pouces"
+    },
+    {
+      "ns": "",
+      "key": "ED540A3E44054560003AE4AAD5F890CD",
+      "source": "Initiating download of {r}...",
+      "text": "Démarrage du téléchargement de {r}..."
+    },
+    {
+      "ns": "",
+      "key": "ED57287647F32EF1C299B0A1CF46C1E6",
+      "source": "Chack Magazine",
+      "text": "Chargeur Chack"
+    },
+    {
+      "ns": "",
+      "key": "ED5DD36043E1289C3207FBAEA5919176",
+      "source": "Initiating download of {r}...",
+      "text": "Démarrage du téléchargement de {r}..."
+    },
+    {
+      "ns": "",
+      "key": "ED6D0D194A93A583FE061B82EAB4374E",
+      "source": "STATUS: IN PROGRESS",
+      "text": "STATUT : EN COURS"
+    },
+    {
+      "ns": "",
+      "key": "ED77A37A4583CAAEA730AD8F7EEE15D0",
+      "source": "Type \"help\" for a list of available commands.",
+      "text": "Tapez « help » pour afficher les commandes disponibles."
+    },
+    {
+      "ns": "",
+      "key": "ED794D8E4C4C1F7BA4972E8518715218",
+      "source": "Polyester",
+      "text": "Polyester"
+    },
+    {
+      "ns": "",
+      "key": "ED84117A4694859CA28B0B888ABE5EF3",
+      "source": "10 round 7.62x51mm magazine for the M14.",
+      "text": "10 cartouches 7.62x51mm chargeur pour le M14."
+    },
+    {
+      "ns": "",
+      "key": "ED84DCEC4D60E577F988D1A1ADD27510",
+      "source": "rarity tiers",
+      "text": "paliers de rareté"
+    },
+    {
+      "ns": "",
+      "key": "ED86118A46C0F4660324DB8DC6D1F110",
+      "source": "FANG Assignment <strong>RET_267_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
+      "text": "Attribution FANG <strong>RET_267_RR</>: <italic>Récupérer toutes les preuves dans les zones marquées et les livrer.</>"
+    },
+    {
+      "ns": "",
+      "key": "EDAA698341C57CC4E0ED72B58821C148",
+      "source": "Layout guide for a H.A.S.",
+      "text": "Guide de présentation pour un H.A.S."
+    },
+    {
+      "ns": "",
+      "key": "EDB355A1489E26F7A21375930E220831",
+      "source": "Double Press <Red>F</> to Swap Weapon. | Press <Red>F</> to <Red>add</> weapon to inventory.",
+      "text": "Double pression <Red>F</> pour swap arme. <Red>F</> à <Red>ajouter</> arme à l'inventaire."
+    },
+    {
+      "ns": "",
+      "key": "EDBAB9824A5FA72CAFF52F8F27778809",
+      "source": "Keys",
+      "text": "Clés"
+    },
+    {
+      "ns": "",
+      "key": "EDBFF1064F00EEFE334DD0924B03B82C",
+      "source": "AR-15 VLTOR IMOD Buttstock",
+      "text": "Crosse AR-15 VLTOR IMOD"
+    },
+    {
+      "ns": "",
+      "key": "EDC771914AE31280764216BEDF6C6B89",
+      "source": "H.A.S Blueprint",
+      "text": "Plan directeur de H.A.S"
+    },
+    {
+      "ns": "",
+      "key": "EDC77B60431B14A7628A3BBE29A76088",
+      "source": "Confirmed KIA",
+      "text": "Mort confirmé au combat"
+    },
+    {
+      "ns": "",
+      "key": "EDD2BB5145527D6E82E4DFAA5D04FD72",
+      "source": "Yup! All relevent operational information on your GCPS",
+      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+    },
+    {
+      "ns": "",
+      "key": "EDD9A3B842EFB82E88F4D5A06E2EB010",
+      "source": "Val Adapter",
+      "text": "Val adaptateur"
+    },
+    {
+      "ns": "",
+      "key": "EDDA1201497EE8730FE521935AB76E03",
+      "source": "Main Quests",
+      "text": "Missions principales"
+    },
+    {
+      "ns": "",
+      "key": "EDE37B864AD5D99E2886319514860DA0",
+      "source": "17rnd 9x19mm",
+      "text": "17rnd 9x19mm"
+    },
+    {
+      "ns": "",
+      "key": "EDF50D5F4F782702AECFDFB041737660",
+      "source": "HAND IN SHIPPING MANIFEST",
+      "text": "REMETTRE LE MANIFESTE DE TRANSPORT"
+    },
+    {
+      "ns": "",
+      "key": "EDF8322B4E212F02F4D9F69F7EA78F65",
+      "source": "PBS-4 5.45x39mm Suppressor",
+      "text": "PBS-4 5.45x39mm silencieux"
+    },
+    {
+      "ns": "",
+      "key": "EDFA5FC64BA1192A989A9EBF46547D52",
+      "source": "Template",
+      "text": "Modèle"
+    },
+    {
+      "ns": "",
+      "key": "EE048E9B4740EAE3541D3FBA16403E6B",
+      "source": "Setting to adjust Post Processing quality.  Enables volumetric effects like volmetric fog and clouds on High and Epic.",
+      "text": "Réglage pour ajuster la qualité post-traitement.  Permet des effets volumétriques comme le brouillard volmétrique et les nuages sur High et Epic."
+    },
+    {
+      "ns": "",
+      "key": "EE08EF444A4D9D055DCEF4A1D50311E2",
+      "source": "{Distance}m",
+      "text": "{Distance}m"
+    },
+    {
+      "ns": "",
+      "key": "EE0E0E9349053C575AF43392F162C968",
+      "source": "M700 20 Inch Barrel",
+      "text": "Canon M700 20 pouces"
+    },
+    {
+      "ns": "",
+      "key": "EE1C3774499F00462E78E3817D3A8D64",
+      "source": "Change your third person character model. Visible for team mates and in the lobby screen as well as the main menu.",
+      "text": "Changez votre modèle de personnage de troisième personne. Visible pour les coéquipiers et dans l'écran du hall ainsi que dans le menu principal."
+    },
+    {
+      "ns": "",
+      "key": "EE1F74664F180439722FBE9B55DA5D9A",
+      "source": "No",
+      "text": "Non"
+    },
+    {
+      "ns": "",
+      "key": "EE2D17CF4985802B1FF624A105B2941B",
+      "source": "Surefire Ryder 9M TI Suppressor",
+      "text": "Silencieux Surefire Ryder 9M TI"
+    },
+    {
+      "ns": "",
+      "key": "EE351C964A5C976A5F3AC2B651418E0C",
+      "source": "Hello? Yup, done. Head on out.",
+      "text": "Oui, c'est fini."
+    },
+    {
+      "ns": "",
+      "key": "EE3654BF4B9935B490B786B3B28E62DE",
+      "source": "Interact",
+      "text": "Interagir"
+    },
+    {
+      "ns": "",
+      "key": "EE47CBB04804763885518EBB4E86E254",
+      "source": "TRADER",
+      "text": "MARCHAND"
+    },
+    {
+      "ns": "",
+      "key": "EE4841794AB17BB3E30F6BADD57FF360",
+      "source": "Occlusion Impact",
+      "text": "Influence de l'occlusion"
+    },
+    {
+      "ns": "",
+      "key": "EE5A129C4891DF38A04599AF4A7C158C",
+      "source": "Cover",
+      "text": "Cover"
+    },
+    {
+      "ns": "",
+      "key": "EE5EA1BC44503316953C81ADB1EFA8E1",
+      "source": "USB Hacking Device VLF",
+      "text": "Clé USB de piratage VLF"
+    },
+    {
+      "ns": "",
+      "key": "EE6588054325E55C8AF5D9B23B072E7D",
+      "source": "STV-380 Handguard Panel",
+      "text": "STV-380 garde-main Panel"
+    },
+    {
+      "ns": "",
+      "key": "EE680FFA4C405D0EB9B8FA82E7C8E8F1",
+      "source": "Brown top cover for the M14 rifle.",
+      "text": "Couverture supérieure marron pour le fusil M14."
+    },
+    {
+      "ns": "",
+      "key": "EE9C3593414D68E6AC35778A34077B72",
+      "source": "Operator, FANG fighter pilot with call sign Shaggy spotted enemy soldiers in your immediate area, advising caution.",
+      "text": "Opérateur, pilote de chasse FANG avec indicatif d'appel Shaggy a repéré des soldats ennemis dans votre zone immédiate, conseillant la prudence."
+    },
+    {
+      "ns": "",
+      "key": "EEAF44CC43A5F9AE8F85E3AC1D24FE90",
+      "source": "Exports this as a weapon data preset at \"/Game/Blueprints/InventorySystem/Presets/Items/Weapons/Custom\". Only available in the editor.",
+      "text": "Exporte ceci sous forme de préréglage de données arme à \"/Game/Blueprints/InventorySystem/Presets/Items/armes/Custom\". Seulement disponible dans l'éditeur."
+    },
+    {
+      "ns": "",
+      "key": "EEB5AD584982AACE22729DB8907DD2D5",
+      "source": "9x39mm BP",
+      "text": "9x39mm BP"
+    },
+    {
+      "ns": "",
+      "key": "EED5BDBD4329D4483C5C00A340E60C94",
+      "source": "Hello? Yup, done. Head on out.",
+      "text": "Oui, c'est fini."
+    },
+    {
+      "ns": "",
+      "key": "EED97F0040448671862D51A0062ACC08",
+      "source": "The IGC says the UICS convoy moving through the area contains foreign goods. Check it out, take it out; rough location are on your GCPS and FANG air support is waiting.",
+      "text": "Le IGC indique que le convoi UICS qui traverse la zone contient des marchandises étrangères. Vérifiez-le, retirez-le; l'emplacement approximatif est sur votre GCPS et le support aérien FANG est en attente."
+    },
+    {
+      "ns": "",
+      "key": "EEEB59C44877C540399AE58055DEEA4A",
+      "source": "Error: Command \"{command}\" not recognized. Please enter a valid command. Or type \"help\" for a list of available commands.",
+      "text": "Erreur : commande \"{command}\" non reconnu. Veuillez saisir une commande valide. Ou tapez \"help\" pour une liste de commandes disponibles."
+    },
+    {
+      "ns": "",
+      "key": "EEF1C8C3453BAD2304FD188AA998C0E9",
+      "source": "dir",
+      "text": "dir"
+    },
+    {
+      "ns": "",
+      "key": "EF12C2BB46D6F5B05380929921FC08ED",
+      "source": "FAL Standard Handguard",
+      "text": "Garde-main FAL Standard"
+    },
+    {
+      "ns": "",
+      "key": "EF152FC444C0B24479D6A8A3F5ADB48A",
+      "source": "It offers quite a lot of attachment space.",
+      "text": "Il offre beaucoup d'espace de fixation."
+    },
+    {
+      "ns": "",
+      "key": "EF1E1F3C456E73FA548D5CBEAC87904F",
+      "source": "login",
+      "text": "login"
+    },
+    {
+      "ns": "",
+      "key": "EF219EF14049F42E11AAAD8FADB8B73E",
+      "source": "Pistol",
+      "text": "Pistol"
+    },
+    {
+      "ns": "",
+      "key": "EF2CFD484ED01E3C77EECC9668F8DE52",
+      "source": "The standard pistol grip for the PP-19 Vityaz.",
+      "text": "La poignée pistolet standard pour la PP-19 Vityaz."
+    },
+    {
+      "ns": "",
+      "key": "EF2D7D47482A1495D855A18485DD0F54",
+      "source": "Operation noted on GCPS, get going, dont die, you get it.",
+      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+    },
+    {
+      "ns": "",
+      "key": "EF2E2C5148E80DEA784E68808D1E70CB",
+      "source": "Honey Badger",
+      "text": "Honey Badger"
+    },
+    {
+      "ns": "",
+      "key": "EF3898674D6AB1FB3D4D9B990853FD01",
+      "source": "FAL Quad Rail Handguard",
+      "text": "Garde-main FAL Quad rail"
+    },
+    {
+      "ns": "",
+      "key": "EF459C53495003FD740224A306C1F1C1",
+      "source": "ASSAULT RIFLES",
+      "text": "FUSILS D'ASSAUT"
+    },
+    {
+      "ns": "",
+      "key": "EF5ED007409ED186562B4DA0974C6EC0",
+      "source": "Whistletip muzzle device.",
+      "text": "Whistletip dispositif de bouche."
+    },
+    {
+      "ns": "",
+      "key": "EF606B344F6E1CC0A40E1E8FDABEF406",
+      "source": "IM",
+      "text": "IM"
+    },
+    {
+      "ns": "",
+      "key": "EF647F464EF20D611DC2CAA3A4DF28E2",
+      "source": "Operation noted on GCPS, get going, dont die, you get it.",
+      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+    },
+    {
+      "ns": "",
+      "key": "EF6782004F7A6F5F9071ABB7DF1B76EE",
+      "source": "CANCELING",
+      "text": "ANNULATION"
+    },
+    {
+      "ns": "",
+      "key": "EF6EA8664AC2C0B63632D4BAC95BC77C",
+      "source": "SVDS Handguard",
+      "text": "Garde-main SVDS"
+    },
+    {
+      "ns": "",
+      "key": "EF7DA7D1465B496EF7EE8D9AD52C433C",
+      "source": "Portable container designed for organizing and storing tools. Essential for DIY projects, maintenance or repairs.",
+      "text": "Conteneur portable conçu pour l'organisation et le stockage des outils. Essentiel pour les projets de bricolage, l'entretien ou les réparations."
+    },
+    {
+      "ns": "",
+      "key": "EF8506BD4623211FE2AA1F8C0C8C830B",
+      "source": "Versatile platform for mounting various accessories, including optics, lasers, lights, or grips.",
+      "text": "Plate-forme polyvalente pour le montage de divers accessoires, dont l'optique, les lasers, les lumières ou les poignées."
+    },
+    {
+      "ns": "",
+      "key": "EF8FC56F4325318C296205AE2233C3EF",
+      "source": "Owned",
+      "text": "Possédé"
+    },
+    {
+      "ns": "",
+      "key": "EF9162FA44430AD0EA0E038CE8C6ECF3",
+      "source": "Calling in to let you know that the UICS says thank you, the convoy was stopped, and the airstrike was successful.",
+      "text": "En vous appelant pour vous informer que le UICS dit merci, le convoi a été arrêté, et la frappe aérienne a été réussie."
+    },
+    {
+      "ns": "",
+      "key": "EFAD40494AF3925999BC1887270D2F2F",
+      "source": "Save Current Preset?",
+      "text": "Enregistrer la configuration actuelle ?"
+    },
+    {
+      "ns": "",
+      "key": "EFB270CE4DB1660BA7284C85C684805C",
+      "source": "While in-game, this is affected by many different factors, such as whether a bot is already aware of you, whether they are suppressed, ect.",
+      "text": "Alors que dans le jeu, cela est affecté par de nombreux facteurs différents, comme si un robot est déjà conscient de vous, s'ils sont supprimés, ect."
+    },
+    {
+      "ns": "",
+      "key": "EFBA16C642CB48EA3E8F65B0FAA89D61",
+      "source": "Yup! The operation has been added to your GCPS",
+      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+    },
+    {
+      "ns": "",
+      "key": "EFCDB7AA4783781F8D74AFBA4B386BC8",
+      "source": "The M2 Tactical Pistol Grip Stock is a specialized stock designed for Benelli M2.",
+      "text": "Le M2 tactique poignée pistolet crosse est un crosse spécialisé conçu pour Benelli M2."
+    },
+    {
+      "ns": "",
+      "key": "EFD440474A7CE1C851D4668EFA358FB7",
+      "source": "Set Ping",
+      "text": "Placer un marqueur"
+    },
+    {
+      "ns": "",
+      "key": "EFD6847F42D28661F93EEAA143288FF8",
+      "source": "Yup! All relevent operational information on your GCPS",
+      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+    },
+    {
+      "ns": "",
+      "key": "EFE1A7784CEE01B162A6DEA4E626F068",
+      "source": "P320 9x19mm 21rnd",
+      "text": "P320 9x19mm 21rnd"
+    },
+    {
+      "ns": "",
+      "key": "EFEC13CD46FE5B1BFBFD50859763854E",
+      "source": "LUMEN Scalabiliy Settings",
+      "text": "Réglages de qualité de LUMEN"
+    },
+    {
+      "ns": "",
+      "key": "EFF0C16D43E9C52034BFB5B1D7D63CC2",
+      "source": "7.62x39mm 30 round capacity magazine designed for STV family of rifles. Compatibile with AK rifles.",
+      "text": "7.62x39mm 30 cartouches capacité chargeur conçu pour la famille de fusils STV. Compatibile avec fusils AK."
+    },
+    {
+      "ns": "",
+      "key": "EFFAAA1F4234014FD2ECB5B354AD75BB",
+      "source": "Hello? Well done! You're good here. Head on out.",
+      "text": "C'est bon, tu es bien ici."
+    },
+    {
+      "ns": "",
+      "key": "EFFEEE4843DA5BE546AC7E8904E526D8",
+      "source": "Bandage",
+      "text": "Bandage"
+    },
+    {
+      "ns": "",
+      "key": "F007129C47EA2BA67BED619CD842B9F7",
+      "source": "ms",
+      "text": "ms"
+    },
+    {
+      "ns": "",
+      "key": "F007B9AC4278F9964733829FDB0FEC8A",
+      "source": "REWARDS",
+      "text": "RÉCOMPENSES"
+    },
+    {
+      "ns": "",
+      "key": "F00CDBCD4AC28653FA7B39B98D1D6E25",
+      "source": "Standard Rear Iron Sight for the Five Seven.",
+      "text": "hausse mécanique standard pour le Five Seven."
+    },
+    {
+      "ns": "",
+      "key": "F02277724BBAB7F5D7A0B79DCCDC2D48",
+      "source": "MAIN STORY - NO SLEEP IN VIETNAM",
+      "text": "HISTOIRE PRINCIPALE - NUITS BLANCHES AU VIETNAM"
+    },
+    {
+      "ns": "",
+      "key": "F027A2CE4EE8EEABE8662CB7E0500777",
+      "source": "Secure Intel",
+      "text": "Récupérer les renseignements"
+    },
+    {
+      "ns": "",
+      "key": "F02BE8234F95E1D47C0735BB383FD5BC",
+      "source": "16 Inch barrel for the SCAR-H.",
+      "text": "16 pouces canon pour le SCAR-H."
+    },
+    {
+      "ns": "",
+      "key": "F02E39C947E11EBCA45857A4A8B055B7",
+      "source": "User Interface Volume",
+      "text": "Volume de l'interface"
+    },
+    {
+      "ns": "",
+      "key": "F035ACA44D84D6C24FEA56A019FBDDB4",
+      "source": "Cassette A",
+      "text": "Cassette A"
+    },
+    {
+      "ns": "",
+      "key": "F040AB6B4AE2294179859B96F5D44C43",
+      "source": "Yup! The operation has been added to your GCPS",
+      "text": "Yup! L'opération a été ajoutée à votre GCPS"
+    },
+    {
+      "ns": "",
+      "key": "F0450FED4AAD6A732F51B4B208E9F560",
+      "source": "Gear Box",
+      "text": "Boîte de vitesses"
+    },
+    {
+      "ns": "",
+      "key": "F049F79547053C4563C5FDA9A51FC745",
+      "source": "Suppresor for the VSS Vintorez. It is required for the proper function of the weapon.",
+      "text": "Suppléant pour le VSS Vintorez. Il est nécessaire pour la bonne fonction du arme."
+    },
+    {
+      "ns": "",
+      "key": "F05E21074C7CA3FF3ECAB88B790B88A1",
+      "source": "PK-06",
+      "text": "PK-06"
+    },
+    {
+      "ns": "",
+      "key": "F0613CC24F8DB48AE696498115242802",
+      "source": "Opens In: ",
+      "text": "Ouvre dans : "
+    },
+    {
+      "ns": "",
+      "key": "F063B4794807812462DAF8B12BD7C668",
+      "source": "AK-74M",
+      "text": "AK-74M"
+    },
+    {
+      "ns": "",
+      "key": "F07BFF4B4A938453FE3E0D8ED2703501",
+      "source": "Warrior Assault DCS Armored Rig",
+      "text": "Warrior Assault DCS gilet tactique blindé"
+    },
+    {
+      "ns": "",
+      "key": "F07CED894193E9A8884A42830B669DEC",
+      "source": "press <Red>F</> to <Red>open</> the door.",
+      "text": "Appuyez sur <Red>F</> pour <Red>ouvrir</> la porte."
+    },
+    {
+      "ns": "",
+      "key": "F085346C4C8928868280C5AEB9783C5B",
+      "source": "Yup! All relevent operational information on your GCPS",
+      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+    },
+    {
+      "ns": "",
+      "key": "F08D222F4E39DFA926F49E856A597C9B",
+      "source": "m",
+      "text": "m"
+    },
+    {
+      "ns": "",
+      "key": "F096E6CB42992BC9295FE38D388B0EA5",
+      "source": "Offers a M-LOK attachment slot with a 45 Degree offset, perfectly suited for canted sights.",
+      "text": "Offre une fente de fixation M-LOK avec un décalage de 45 degrés, parfaitement adapté pour les vues en canettes."
+    },
+    {
+      "ns": "",
+      "key": "F0A7C4AF4436C5390A601A961ED802C7",
+      "source": "Specialized firearm accessory designed for rifles chambered in .338 Lapua Magnum.",
+      "text": "Accessoire spécialisé pour armes à feu conçu pour les fusils en .338 Lapua Magnum."
+    },
+    {
+      "ns": "",
+      "key": "F0D90F0A42A617F155A1BFAD37850A84",
+      "source": "VAL/VSS King Arms Picatinny rail ring",
+      "text": "VAL/VSS King Arms Picatinny rail ring"
+    },
+    {
+      "ns": "",
+      "key": "F0D9CBA64D44C51AE97A45BC22E2A6FE",
+      "source": "Essential energy source for various applications, including cooking, heating, and powering equipment. Crucial for survival and mobility.",
+      "text": "Source d'énergie essentielle pour diverses applications, y compris l'équipement de cuisson, de chauffage et d'alimentation. Cruciale pour la survie et la mobilité."
+    },
+    {
+      "ns": "",
+      "key": "F0EABE854C0B60BD369F02BD9A3A2037",
+      "source": "Key for the room on the middle level of the vehicle lift.",
+      "text": "Clé pour la pièce au niveau intermédiaire de l'ascenseur du véhicule."
+    },
+    {
+      "ns": "",
+      "key": "F0EBCC794CD992E1B471B9891BF1918E",
+      "source": "10 Inch MK-47 barrel.",
+      "text": "10 pouces MK-47 canon."
+    },
+    {
+      "ns": "",
+      "key": "F100385242DB2FFE9F6E97A5B86F932A",
+      "source": "Bomb",
+      "text": "Bombe"
+    },
+    {
+      "ns": "",
+      "key": "F10485CE4C4554B6B7FF06AC81DFBCB7",
+      "source": "AK 7.62x39mm Bakelite 30rnd",
+      "text": "AK 7.62x39mm Bakelite 30rnd"
+    },
+    {
+      "ns": "",
+      "key": "F10A7B56453F63481BCFB79A782A58B9",
+      "source": "M9A3 Short Sights",
+      "text": "M9A3 Vues courtes"
+    },
+    {
+      "ns": "",
+      "key": "F1123E4F4950FFBE371B2A9F4B021CB5",
+      "source": "Upgrade",
+      "text": "Améliorer"
+    },
+    {
+      "ns": "",
+      "key": "F115F15C4E1623FA103C38BC54BA5873",
+      "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
+      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+    },
+    {
+      "ns": "",
+      "key": "F1164B5B4BEC10B2E9D579A170FD40F2",
+      "source": "OF",
+      "text": "OF"
+    },
+    {
+      "ns": "",
+      "key": "F12943C048EAFDC40927C6B765AB2DA7",
+      "source": "AR-15 Colt A2 Handguard",
+      "text": "Garde-main AR-15 Colt A2"
+    },
+    {
+      "ns": "",
+      "key": "F12D48E149A50C4C159DC59A638D64DA",
+      "source": "Intel Center",
+      "text": "Centre de renseignement"
+    },
+    {
+      "ns": "",
+      "key": "F14022DF402D3E31C6D5D9829374C916",
+      "source": "Eliminate the VLF boss",
+      "text": "Éliminer le chef du VLF"
+    },
+    {
+      "ns": "",
+      "key": "F151E1304398C532AE878EA448CE176C",
+      "source": "Visual Fidelity",
+      "text": "Fidélité visuelle"
+    },
+    {
+      "ns": "",
+      "key": "F15550A44DB4F6CB638013970BEDA4B5",
+      "source": "Virtual Shadow Maps can be very performance heavy, if you notice any performance problems, try to turn it off.",
+      "text": "Virtual Shadow Maps peut être très performant, si vous remarquez des problèmes de performance, essayez de l'éteindre."
+    },
+    {
+      "ns": "",
+      "key": "F1594EAE473C1F02746170B8DF20B69C",
+      "source": "Yup! Operation added, don't stretch yourself too thin",
+      "text": "Yup! Opération ajouté, ne vous étirez pas trop mince"
+    },
+    {
+      "ns": "",
+      "key": "F160140C42AD74C64828A7956A314F0D",
+      "source": "Yup! New operation added to your tasks.",
+      "text": "Yup! Nouvelle opération ajoutée à vos tâches."
+    },
+    {
+      "ns": "",
+      "key": "F16D0FE5489228E89DE1B280E6142025",
+      "source": "Yup! You've accepted an operation, check GCPS for next steps",
+      "text": "Vous avez accepté une opération, vérifiez les prochaines étapes de la GCPS."
+    },
+    {
+      "ns": "",
+      "key": "F179A8174ED6F2D45EE72FAA1000510D",
+      "source": "Hello? The factions have confirmed through FANG, you are all good. Once you extract, you'll receive your reward.",
+      "text": "Allô ? Les factions ont confirmé par FANG, vous êtes toutes bonnes. Une fois que vous aurez extrait, vous recevrez votre récompense."
+    },
+    {
+      "ns": "",
+      "key": "F17A3E074609859F8B742AA1DA795E42",
+      "source": "Sell",
+      "text": "Vendre"
+    },
+    {
+      "ns": "",
+      "key": "F17B63414BDD04A71E39F4A9A52E1684",
+      "source": "Quit To Desktop",
+      "text": "Quitter vers le bureau"
+    },
+    {
+      "ns": "",
+      "key": "F19E6E964104B0801B1D53869D51B19A",
+      "source": "Use Provided Loadout?",
+      "text": "Utiliser l'équipement fourni ?"
+    },
+    {
+      "ns": "",
+      "key": "F19F3C574021027E28D7768A7023BD87",
+      "source": "Loot",
+      "text": "Butin"
+    },
+    {
+      "ns": "",
+      "key": "F1BDEA11418C44C876DFAB8CFDB1D185",
+      "source": "AK-74M",
+      "text": "AK-74M"
+    },
+    {
+      "ns": "",
+      "key": "F1D2A3F54DC4109982C3E5B6E0B3B532",
+      "source": "BCM Gunfighter Mod3 Foregrip. It can be installed on any M-LOK compatible slots.",
+      "text": "BCM Gunfighter Mod3 poignée avant. Il peut être installé sur toutes les fentes compatibles M-LOK."
+    },
+    {
+      "ns": "",
+      "key": "F1F5B22C4F0D96066989C7A04F049935",
+      "source": "Target Aim Threshold",
+      "text": "Seuil de visée sur la cible"
+    },
+    {
+      "ns": "",
+      "key": "F1FA12834E28014124344A9A98218DD8",
+      "source": "+ Repair Bonus ",
+      "text": "+ Bonus de réparation "
+    },
+    {
+      "ns": "",
+      "key": "F206E7874D2145E38D5F4E83B73DFF05",
+      "source": "Yup! All relevent operational information on your GCPS",
+      "text": "Yup! Toutes les informations opérationnelles relevent sur votre SPGC"
+    },
+    {
+      "ns": "",
+      "key": "F21922B8473D5487DEB54FB367A399B3",
+      "source": "Operation accepted, info on GCPS",
+      "text": "Opération acceptée, informations sur le GCPS"
+    },
+    {
+      "ns": "",
+      "key": "F21FC17C4E052D9573BC60A2C10CD42A",
+      "source": "Loadout",
+      "text": "Équipement"
+    },
+    {
+      "ns": "",
+      "key": "F221A3D14A6F28E788720B8C4446B5C5",
+      "source": "Operation noted on GCPS, get going, dont die, you get it.",
+      "text": "Opération notée sur GCPS, allez-y, ne mourez pas, vous comprenez."
+    },
+    {
+      "ns": "",
+      "key": "F23A506D42F985ECAB188FAB467A156B",
+      "source": "The Intel Center is a data storage and processing rig. Intel picked up in-raid is held here and sent back to FANG headquarters when necessary. Later this area can be used to process radar-based weather data to generate heatmaps of suspicious activity.",
+      "text": "Le Centre Intel est un système de stockage et de traitement des données. Intel ramassé dans le raid est retenu ici et renvoyé au siège de FANG si nécessaire. Plus tard, cette zone peut être utilisée pour traiter des données météorologiques basées sur le radar afin de générer des cartes thermiques d'activités suspectes."
+    }
+  ]
+}

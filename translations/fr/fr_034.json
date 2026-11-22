@@ -1,0 +1,1192 @@
+{
+  "texts": [
+    {
+      "ns": "IRRVoiceChat",
+      "key": "DefaultDevice",
+      "source": "System Default",
+      "text": "Valeur système par défaut"
+    },
+    {
+      "ns": "IRRVoiceChat",
+      "key": "PanelTitle",
+      "source": "Voice Chat",
+      "text": "Discussion vocale"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "Challenges_Description",
+      "source": "These are secondary missions or objectives. Completion increases reputation. Challenges cannot be failed, and do not have to be completed in a single raid.",
+      "text": "Ce sont les missions et objectifs secondaires. Les accomplir augmente votre réputation. Les défis ne peuvent pas échouer et peuvent être terminés sur plusieurs raids."
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "Challenges_Headline",
+      "source": "Challenges",
+      "text": "Défis"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "Contracts_Description",
+      "source": "These are primary missions or objectives. Their completion makes the story evolve, and they affect the reputation you have with factions.",
+      "text": "Ce sont les missions et objectifs principaux. Leur accomplissement fait avancer l'histoire et influence votre réputation auprès des factions."
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "Contracts_Headline",
+      "source": "Contracts",
+      "text": "Contrats"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "CustomizeInput_Description",
+      "source": "Some prefer toggles, some hold down. If you want to switch your input for the likes of aiming/running and more, go to the settings and enable/disable the toggle function. Also many other things can be customize to your needs so its worth it to check out the settings menu!",
+      "text": "Certains préfèrent appuyer une fois, d'autres maintenir la touche. Pour modifier le fonctionnement de la visée, de la course et d'autres actions, activez ou désactivez les options de bascule dans les paramètres. De nombreux autres réglages permettent d'adapter le jeu à vos préférences : prenez le temps de les consulter !"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "CustomizeInput_Headline",
+      "source": "Customize Input",
+      "text": "Personnaliser les commandes"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "Difficulty_Headline",
+      "source": "Difficulty",
+      "text": "Difficulté"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "FactionReputation_Description",
+      "source": "As more Operations are completed, reputation increases with each faction.Increased reputation allows for better items to be purchased from the vendor. It also unlocks greater rewards, including money and rare items.",
+      "text": "À mesure que les opérations sont terminées, la réputation augmente avec chaque faction.La réputation accrue permet d'acheter de meilleurs articles au vendeur. Il débloque également de plus grandes récompenses, y compris de l'argent et des articles rares."
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "FactionReputation_Headline",
+      "source": "Faction Reputation",
+      "text": "Réputation de faction"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "GCPS_Description",
+      "source": "This in-raid device shows the map, tracked quest objectives, and a live position of your friends (if you queued with any).",
+      "text": "Cet appareil utilisable en raid affiche la carte, les objectifs de mission suivis et la position de vos amis en temps réel, si vous êtes partis en groupe."
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "GCPS_Headline",
+      "source": "GCPS",
+      "text": "GCPS"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "PrepareForExtractionGearUpStrategizeAndC_Description",
+      "source": "Before embarking on your high-stakes raid, take a moment to ensure you're fully prepared for the mission ahead. Coordinate with your squad, fine-tune your loadout, and get ready to face relentless challenges. Once everyone's ready, the countdown begins – success awaits those who work together and stay vigilant!",
+      "text": "Avant d'embarquer dans votre raid, prenez un moment pour vous assurer que vous êtes prêt pour la mission à venir. Coordonnez avec votre équipe, peaufinez votre équipement et préparez-vous à affronter des défis implacables. Une fois que tout le monde est prêt, le compte à rebours commence – le succès attend ceux qui travaillent ensemble et restent vigilants!"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "PrepareForExtractionGearUpStrategizeAndC_Headline",
+      "source": "Prepare for Extraction: Gear Up, Strategize, and Conquer",
+      "text": "Préparez votre extraction : équipez-vous, élaborez votre stratégie et triomphez"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "ShootingRange_Description",
+      "source": "Within your hideout, you'll find a shooting range designed for you to test all your firearms. This provides a perfect opportunity to become acquainted with their recoil patterns and handling characteristics. The best part? Ammunition is not depleted here, so feel free to practice your shooting to your heart's content!",
+      "text": "Le stand de tir de votre base vous permet d'essayer toutes vos armes, de vous familiariser avec leur recul et de tester leur maniabilité. Les munitions n'y sont pas consommées : entraînez-vous autant que vous voulez !"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "ShootingRange_Headline",
+      "source": "Shooting Range",
+      "text": "Stand de tir"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "Stash_Description",
+      "source": "Within your hideout, there's also the capability to manage your stash. This feature allows you to organize all your loot, ensuring you're well-equipped for your next raid. Moreover, the stash can be upgraded to accommodate even more loot, enhancing your capacity to store valuable equipment and items!",
+      "text": "Votre base vous permet également de gérer votre réserve. Rangez-y votre butin pour préparer votre prochain raid. Vous pouvez améliorer la réserve pour augmenter sa capacité et stocker davantage d'équipement et d'objets précieux !"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "Stash_Headline",
+      "source": "Stash",
+      "text": "Réserve"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "Terminal_Description",
+      "source": "The laptop located within your hideout functions as the primary terminal for tracking contracts and challenges, purchasing new items, and embarking on missions. It also serves as the venue for forming groups and inviting your friends to join!",
+      "text": "L'ordinateur portable de votre base est votre terminal principal : il permet de suivre les contrats et les défis, d'acheter des objets et de partir en mission. Vous pouvez aussi y créer un groupe et inviter vos amis !"
+    },
+    {
+      "ns": "LoadingScreenHints",
+      "key": "Terminal_Headline",
+      "source": "Terminal",
+      "text": "Terminal"
+    },
+    {
+      "ns": "MissionBriefing",
+      "key": "ObjectiveComplete_General_01",
+      "source": "You've done it, now keep your eyes forward.",
+      "text": "C'est fait. Maintenant, restez sur vos gardes."
+    },
+    {
+      "ns": "MissionBriefing",
+      "key": "ObjectiveComplete_General_02",
+      "source": "..yup, got it.",
+      "text": "...oui, bien reçu."
+    },
+    {
+      "ns": "MissionBriefing",
+      "key": "ObjectiveComplete_General_03",
+      "source": "Well done, continue moving.",
+      "text": "Bien joué, continuez d'avancer."
+    },
+    {
+      "ns": "MissionBriefing",
+      "key": "ObjectiveComplete_General_04",
+      "source": "Nice job, keep going.",
+      "text": "Beau travail, continuez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0000x5.A.Subtitle.00",
+      "source": "Thanks for calling in. Good job eliminating those, ah, auditors. You see how rough it is here? The civil war was brutal and it didn’t take long after the start of the conflict for the old government, the <strong>VCUP</>, Vietnamese Communist Union Party, to fall apart and the <strong>UICS</> to step in with humanitarian aid for the locals. Unfortunately, the troops they brought in have struggled staying to peaceful activities",
+      "text": "Merci d'avoir appelé. Beau travail pour l'élimination de ces... auditeurs. Vous voyez à quel point la situation est difficile ici ? La guerre civile a été brutale. Peu après le début du conflit, l'ancien gouvernement, le <strong>VCUP</>, Parti de l'Union communiste vietnamienne, s'est effondré. L'<strong>UICS</> est alors intervenu pour apporter une aide humanitaire à la population. Malheureusement, ses soldats ont du mal à s'en tenir à des activités pacifiques."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0000x5.Briefing.Text.01",
+      "source": "<strong>CHARLES BARRELL</> // <strong>FANG</> and <strong>FANG</> Operator // Operation Audition: <italic>Greetings</> <strongitalic>FANG</><italic>. Some of our member nations have thought it necessary to have their own representatives on the ground in Vietnam for oversight. While we appreciate their enthusiasm, it can be quite dangerous to send outsiders into this violent faction war. Please have your Operator greet the five men in suits with as much subtlety as they can muster. We hope to have a long working relationship with one another.</>",
+      "text": "<strong>CHARLES BARRELL</> // <strong>FANG</> et <strong>FANG</> Opérateur // Opération Audition: <italic>Salutations</> <strongitalic>FANG</><italic>. Certains de nos pays membres ont jugé nécessaire d'avoir leurs propres représentants sur le terrain au Vietnam pour la surveillance. Bien que nous apprécions leur enthousiasme, il peut être très dangereux d'envoyer des étrangers dans cette violente guerre de faction. S'il vous plaît, faites saluer les cinq hommes en costume avec autant de subtilité qu'ils peuvent rassembler. Nous espérons avoir une longue relation de travail les uns avec les autres.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0000x5.Debriefing.Text.00",
+      "source": "I’m glad your abnormal arrival didn’t dull your skill in the field. <strong>FANG</> is getting some backend details planned. In the meantime give your full attention to the faction missions.",
+      "text": "Je suis content que votre arrivée anormale n'ait pas ébranlé votre compétence sur le terrain. <strong>FANG</> est en train d'obtenir quelques détails backend planifiés. En attendant, prêtez toute votre attention aux missions de faction."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0000x75.A.Subtitle.00",
+      "source": "Operator? Well done taking out those rogue <strong>UICS</> soldiers. Good job and head out.",
+      "text": "Opérateur ? Beau travail, vous avez éliminé ces soldats renégats de l'<strong>UICS</>. Maintenant, quittez la zone."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0000x75.Briefing.Text.00",
+      "source": "<strong>UICS</> has a follow-up mission for you. <strong>FANG</> has a task for you directly, but responding to faction requests in a timely manner is the priority.",
+      "text": "<strong>UICS</> a une mission de suivi pour vous. <strong>FANG</> a une tâche pour vous directement, mais répondre aux demandes de faction en temps opportun est la priorité."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0000x75.Briefing.Text.01",
+      "source": "<strong>CHARLES BARRELL</> // <strong>FANG</> Operator // Operation Show: <italic>The work you have done is adequate but unfortunately wasn’t enough. After further investigation, our team has identified several groups of soldiers that had been working with those suits. While our sources say many of the grunts have scattered, a few have stayed, greatly hindering our research. Take them out and continue with your subtlety.</>",
+      "text": "<strong>CHARLES BARRELL</> // <strong>FANG</> Opérateur // Opération Afficher : <italic>Le travail que vous avez fait est adéquat, mais malheureusement n'était pas suffisant. Après une enquête plus approfondie, notre équipe a identifié plusieurs groupes de soldats qui avaient travaillé avec ces costumes. Bien que nos sources disent que beaucoup de grognements se sont dispersés, quelques-uns sont restés, ce qui entrave considérablement nos recherches. Sortez-les et continuez avec votre subtilité.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0000x75.Briefing.Text.02",
+      "source": "The remaining soldiers are near the blue-roofed <strong>UICS</> Humanitarian Aid Sites or H.A.S. These H.A.S. give supplies to the locals affected by the civil war, mostly harm done at the hands of the Iron Guard Corp, the <strong>IGC</>. They are a paramilitary force funded by the Russian and Chinese backers of the fallen government, the Vietnamese Communist Union Party. <strong>VCUP</>. But, you'll encounter no <strong>IGC</> here. Good luck and get out.",
+      "text": "Les soldats restants sont près du toit bleu <strong>UICS</> Sites d'aide humanitaire ou H.A.S. Ces H.A.S. fournissent des vivres aux habitants touchés par la guerre civile, principalement des dommages infligés par la Iron Guard Corp. <strong>IGC</>. Il s'agit d'une force paramilitaire financée par les soutiens russes et chinois du gouvernement déchu, le Parti communiste vietnamien. <strong>VCUP</>Mais, vous ne rencontrerez pas <strong>IGC</> Bonne chance et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0000x75.Debriefing.Text.00",
+      "source": "Hopefully you feel acquainted with the <strong>UICS</>. Now though, <strong>FANG</> is ready for your services themselves.",
+      "text": "J'espère que vous vous sentirez au courant du <strong>UICS</>. Mais maintenant, <strong>FANG</> est prêt pour vos services eux-mêmes."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0001.Briefing.Text.00",
+      "source": "<strong>FANG</> has a direct mission for you. And just to say, while <strong>FANG</> might see you as expendable, I really do see your potential. I’ll give a bit, just a bit, of confidential context to give you the best chance here in Vietnam:",
+      "text": "<strong>FANG</> J'ai une mission directe pour vous. <strong>FANG</> Peut-être que tu es durable, je vois vraiment ton potentiel. Je vais donner un peu, juste un peu, de contexte confidentiel pour vous donner la meilleure chance ici au Vietnam:"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0001.Briefing.Text.01",
+      "source": "<strong>FANG</> has a satellite monitoring the region. In order to keep this project secret, however, the satellite is dark whenever it is not over Vietnamese airspace. What does this mean for you? Your main task for <strong>FANG</> will be establishing a connection to the satellite locally, via a special antenna.",
+      "text": "<strong>FANG</> dispose d'un satellite qui surveille la région. Cependant, pour garder ce projet secret, le satellite est sombre chaque fois qu'il n'est pas au-dessus de l'espace aérien vietnamien. Qu'est-ce que ça veut dire pour vous ? Votre tâche principale pour <strong>FANG</> sera en train d'établir une connexion au satellite localement, par l'intermédiaire d'une antenne spéciale."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0001.Briefing.Text.02",
+      "source": "<strong>FANG</> would have preferred I withhold the purpose of assembly until necessary, but, like I said, I'm trying to give you a better shot in Vietnam.",
+      "text": "<strong>FANG</> J'aurais préféré retenir le but de l'assemblée jusqu'à ce qu'il soit nécessaire, mais, comme je l'ai dit, j'essaie de vous donner un meilleur coup de feu au Vietnam."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0001.Briefing.Text.03",
+      "source": "In order to route these antenna pieces to you, <strong>FANG</> will switch the antenna parts into ordinary <strong>IGC</> trucking shipments. The trucking system on <strong>DELTA</> connects the <strong>IGC</> to their arms suppliers, food supply, and more. But the <strong>IGC</> is careful. None of the information about dates, times, or license plates is digitized. Instead, everything is hand-delivered and done on paper. Before <strong>FANG</> sends the parts, they need to know a bit more.",
+      "text": "Pour acheminer ces pièces d'antenne vers vous, <strong>FANG</> changera les parties de l'antenne en ordinaire <strong>IGC</> Le système de camionnage sur <strong>DELTA</> connecte le <strong>IGC</> à leurs fournisseurs d'armes, l'approvisionnement alimentaire, et plus encore. <strong>IGC</> est prudent. Aucune des informations sur les dates, les heures ou les plaques d'immatriculation n'est numérisée. Au lieu de cela, tout est livré à la main et fait sur papier. Avant <strong>FANG</> envoie les pièces, ils doivent en savoir un peu plus."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0001.Briefing.Text.04",
+      "source": "You must find the shipping logistics office, steal the dates and times of delivery, and report back. I’ve taken all the steps I can to set you up. And please, do not fail me.",
+      "text": "Vous devez trouver le bureau de logistique d'expédition, voler les dates et les heures de livraison, et rapporter. J'ai fait tout ce que je peux pour vous mettre en place. Et s'il vous plaît, ne me laissez pas tomber."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0002.A.Subtitle.00",
+      "source": "Thanks for calling in Operator, well done. A meeting that will never take place. I should tell you briefly about the <strong>VLF</>, those they were trying to meet. The Vietnamese Liberation Front, or <strong>VLF</>, are locals, old government workers and young revolutionaries. Their leaders are new and their intentions of liberating Vietnam are inspiring, but <strong>FANG</> is curious to see in what ways they go about it. With that context out of the way, head out before you’re tied to the scene.",
+      "text": "Merci d'avoir appelé, Opérateur. Beau travail : cette rencontre n'aura jamais lieu. Quelques mots sur le <strong>VLF</>, ceux qu'ils devaient rencontrer. Le Front de libération vietnamien, ou <strong>VLF</>, rassemble des habitants, d'anciens fonctionnaires et de jeunes révolutionnaires. Ses dirigeants sont nouveaux et leur volonté de libérer le Vietnam est inspirante, mais <strong>FANG</> souhaite savoir comment ils comptent s'y prendre. Maintenant que vous connaissez le contexte, partez avant qu'on vous associe à ce qui s'est passé."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0002.Briefing.Text.00",
+      "source": "<strong>FANG</> is busy implementing the information in the manifest you retrieved on your previous mission. I, and therefore you, will be notified when the puzzle pieces are set. That being said, nothing ever sleeps in Vietnam. Leader <strong>ILYA MAMONTOV</> of the <strong>IGC</> has a task for you:",
+      "text": "<strong>FANG</> est occupé à mettre en œuvre l'information dans le manifeste que vous avez récupéré sur votre mission précédente. Moi, et donc vous serez avertis quand les pièces de puzzle seront mises. Cela dit, rien ne dort jamais au Vietnam. Chef <strong>ILYA MAMONTOV</> des <strong>IGC</> a une tâche pour vous:"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0002.Briefing.Text.01",
+      "source": "<italic>“Клыки [you], In several hours,</> <strongitalic>UICS</> <italic>is meeting with</> <strongitalic>VLF</> <italic>military боевой отряд [warbands]</> <redacted>akhdfj kfjdkjf jjkj kdjfkjdkfjdjf lj kjdfkjk djfkdjfkj</> <italic>in control of the forests. The</> <strongitalic>UICS</> <italic>group that is waiting to meet cannot be allowed to make contact.”</>",
+      "text": "<italic>\"Клыки [vous], dans quelques heures,</> <strongitalic>UICS</> <italic>est en réunion avec</> <strongitalic>VLF</> <italic>militaire шоевой отряд</> <redacted>Akhdfj kfjdkjf jjkj kdjfkjdkfjdjf lj kjdfkjk djfkdjfkj</> <italic>dans le contrôle des forêts.</> <strongitalic>UICS</> <italic>groupe qui attend de se rencontrer ne peut pas être autorisé à prendre contact.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0002.Briefing.Text.02",
+      "source": "His message ended there. Once again, I can't get into all of the background, you know, <strong>FANG</> likes to keep the important stuff close and I must be... judicious in when I break rank. But suffice it to say <strong>FANG</> agrees that a successful meeting of <strong>UICS</> and those particular <strong>VLF</> would push pieces in the wrong direction. Take out the <strong>UICS</> group, they are waiting in the <strong>LUMBER YARD</>.",
+      "text": "Son message s'est terminé là. Encore une fois, je ne peux pas entrer dans tous les contextes. <strong>FANG</> J'aime garder les choses importantes près de moi et je dois être... judicieux quand je brise le rang. Mais il suffit de dire <strong>FANG</> convient qu'une réunion réussie des <strong>UICS</> et de ceux en particulier <strong>VLF</> Je vais pousser des morceaux dans la mauvaise direction. <strong>UICS</> groupe, ils attendent dans le <strong>YEUX DE LUMIERE</>."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0002.Briefing.Text.03",
+      "source": "Also, as part of my job, I need to make sure your health is adequate and that you are reacting well to the environment. Which is annoying because you’re supposed to be a highly selected elite military blah, blah, blah. Have you been experiencing any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, nausea? Nope? Good good.",
+      "text": "De plus, dans le cadre de mon travail, je dois m'assurer que votre santé est adéquate et que vous réagissez bien à l'environnement. Ce qui est ennuyeux parce que vous êtes censé être un bla, bla, bla. Avez-vous éprouvé l'une des situations suivantes : maux de tête, vertiges, problèmes d'équilibre, haute température, essoufflement, nausées? Pas du tout ? Tant mieux."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0002.Briefing.Text.04",
+      "source": "Alrighty, good luck, stay safe and, you know, make sure you get out.",
+      "text": "Bonne chance, restez en sécurité et assurez-vous de sortir."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0002.Debriefing.Text.00",
+      "source": "Good job on these first missions Operator. <strong>FANG</> is ready to act on the manifest.",
+      "text": "Bon travail sur ces premières missions Opérateur. <strong>FANG</> est prêt à agir sur le manifeste."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0002.Debriefing.Text.01",
+      "source": "Usual health check. Let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Contrôle de santé habituel. Faites-moi savoir si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0003.Briefing.Text.00",
+      "source": "<strong>FANG</> has split the satellite antenna into three separate shipments to minimize exposure. Your task is to pick up the first part. According to the intel you retrieved, the truck <strong>FANG</> managed to smuggle the piece onto is set to arrive shortly. It has cost the organization greatly to ensure its delivery for you, so I apologize I couldn’t give you more of a heads-up. As the manifest says, the truck depot should be full as a large convoy of trucks is due to arrive in the next few minutes. Find the truck with packages from the TELOCK company. Your package should be stacked at the back of the truck but several interchanges have happened since <strong>FANG</> last checked its movement, so look around. Your box will be labeled with the following identification number: 0302202. The antenna piece is large and heavy, so prep light and, well, bring your wits with you and keep your eyes sharp. Get to the trucks, find the crate, bring it back, good luck and get out.",
+      "text": "<strong>FANG</> a divisé l'antenne satellite en trois expéditions distinctes afin de minimiser l'exposition. Votre tâche est de récupérer la première partie. Selon l'info que vous avez récupéré, le camion <strong>FANG</> est prêt à arriver sous peu. Cela a coûté cher à l'organisation d'assurer sa livraison pour vous, donc je m'excuse de ne pas pouvoir vous donner plus d'alertes. Comme le dit le manifeste, le dépôt de camions devrait être plein car un grand convoi de camions doit arriver dans les prochaines minutes. Trouvez le camion avec des paquets de la société TELOCK. Votre colis devrait être empilé à l'arrière du camion, mais plusieurs échanges se sont produits depuis <strong>FANG</> la dernière fois que j'ai vérifié son mouvement, regarde autour de toi. Votre boîte sera étiquetée avec le numéro d'identification suivant : 0302202. La pièce d'antenne est grande et lourde, donc préparez la lumière et, bien, apportez votre esprit avec vous et gardez vos yeux aiguisés. Allez aux camions, trouvez la caisse, ramenez-la, bonne chance et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0003.Debriefing.Text.00",
+      "source": "Nice job getting that antenna piece out, it must’ve been difficult with it taking so much space in your pack. One piece down, two to go.",
+      "text": "Beau travail d'obtenir cette pièce d'antenne, il doit avoir été difficile avec elle prendre tellement d'espace dans votre paquet. Un morceau vers le bas, deux à partir."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0003.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0004.A.Subtitle.00",
+      "source": "Thanks for continuing to report what you see on the ground. You are right, there is certainly more military here than would be needed for food distribution. Guess <strong>SỪNG TRÂU</> was onto something. Don’t be too bold and get yourself killed here, you’re doing good so just move on.",
+      "text": "Merci de continuer à nous rapporter ce que vous voyez sur le terrain. Vous avez raison : ces effectifs militaires dépassent largement les besoins d'une distribution alimentaire. <strong>SỪNG TRÂU</> avait sans doute flairé quelque chose. Ne prenez pas de risques inutiles. Vous faites du bon travail, poursuivez votre route."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0004.Briefing.Text.00",
+      "source": "The <strong>VLF</> has their first mission for you. Missions from factions are sent by the leaders to <strong>FANG</>, and then I relay the needed information to you. <strong>FANG</> redacts sections of what the factions send over, but I’ll do my best to fill in the gaps and translate some too. Nguyễn Văn Định, also known as <strong>SỪNG TRÂU</>, The Horn, writes as follows:",
+      "text": "Les <strong>VLF</> a leur première mission pour vous. Les missions des factions sont envoyées par les dirigeants <strong>FANG</>, et puis je vous transmets les informations nécessaires. <strong>FANG</> clarifie les sections de ce que les factions envoient, mais je ferai de mon mieux pour combler les lacunes et traduire certains aussi. Nguyen Văn, également connu sous le nom <strong>SỪNG TRÂU</>, The Horn, écrit comme suit:"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0004.Briefing.Text.01",
+      "source": "<italic>Nanh Operator [you], prove your discretion.</> <redacted>Last Operatorwe sent never returned.</> <strongitalic>LÂM</> <italic>seems not worried by Quân Liên Lục Địa,</> [That means <strong>UICS</>], <italic>building expansions all over Khu mỏ,</> [That’s <strong>QUARRY</>]<italic>. But I know [</><strongitalic>UICS</><italic>] hunt after me.</>",
+      "text": "<italic>L'opérateur Nanh [vous], prouvez votre discrétion.</> <redacted>Dernier opérateur que nous avons envoyé n'est jamais revenu.</> <strongitalic>LÂM</> <italic>ne semble pas inquiet par Quân Liên L.C.</> [Cela signifie que <strong>UICS</>], <italic>d'agrandissements de bâtiments dans tout le Khu,</> [C'est] <strong>QUARRIE</>]<italic>Mais je sais [</><strongitalic>UICS</><italic>] chassez-moi.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0004.Briefing.Text.02",
+      "source": "The message continues:",
+      "text": "Le message se poursuit :"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0004.Briefing.Text.03",
+      "source": "<italic>We do not want Quân Liên Lục Địa [</><strongitalic>UICS</><italic>] support. All you bọn tây,</> [this is a bit derogatory but it means “them westerners”, <italic>bọn tây] want to take Việt Nam, you need prove you are different from them.</> <redacted>There are antennas all over, same company not make food crates has crates there.</> <italic>Find why [</><strongitalic>UICS</><italic>] here.</> <redacted>Keep it secret</><italic>.</>",
+      "text": "<italic>Nous ne voulons pas Quân Liên L.C. [</><strongitalic>UICS</><italic>Tout ce que vous avez à faire,</> [C'est un peu dérogatoire, mais ça veut dire : <italic>vous avez besoin de prouver que vous êtes différent d'eux.</> <redacted>Il y a des antennes partout, la même compagnie ne fait pas de caisses alimentaires a des caisses là-bas.</> <italic>Trouvez pourquoi [</><strongitalic>UICS</><italic>Ici.</> <redacted>Gardez-le secret.</><italic>.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0004.Briefing.Text.04",
+      "source": "Essentially, mark all the H.A.S. around <strong>QUARRY</> and see if his fears have any substance worth looking into. Good luck, and get out.",
+      "text": "Essentiellement, marquez tous les H.A.S. autour <strong>QUARRIE</> et de voir si ses craintes ont une substance qui mérite d'être examinée. Bonne chance, et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0004.Debriefing.Text.00",
+      "source": "Your first mission with the <strong>VLF</> was a success. Validating <strong>SỪNG TRÂU</>’s concerns will put you in good graces with the <strong>VLF</> and with <strong>SỪNG TRÂU</> himself. I’m sure he will want to learn more.",
+      "text": "Votre première mission avec le <strong>VLF</> a été un succès. Valider <strong>SỪNG TRÂU</>Les préoccupations vous mettra dans de bonnes grâces avec le <strong>VLF</> et avec <strong>SỪNG TRÂU</> Je suis sûr qu'il voudra en savoir plus."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0004.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0005.Briefing.Text.00",
+      "source": "<strong>IGC</> has their second mission for you. I gotta warn you though, those bastards are gonna make you do some evil stuff to prove yourself. And they speak surprisingly good English in this message, I barely have to translate. <strong>FANG</> redacted some stuff here.",
+      "text": "<strong>IGC</> a leur deuxième mission pour vous. Je dois te prévenir, ces salauds vont t'obliger à faire des choses diaboliques pour te prouver. Et ils parlent étonnamment bien anglais dans ce message, je dois à peine traduire. <strong>FANG</> J'ai expurgé des trucs ici."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0005.Briefing.Text.01",
+      "source": "<italic>I am</> <strongitalic>KSENIA MYRONOVA</> <italic>of the Iron Guard Corps, Жук [how they refer to the</> <strongitalic>VLF</><italic>, Жук] is eating from our rice fields.</> <redacted>We know you are from west but trust FANG to bring in the ruthless best killers, soulless you must be.</> <italic>vermin. Go at night and avoid too much noise. If we feed them they will spread everywhere. They steal our food and use it to feed murderers. We need to poison the fields to prevent this. If they are allowed to continue they will rot this land…</> <redacted>adkjflkadjflkadsjfkljadslkf sdaj fdskafkdsa kdfjkdsfjkladsjkdj dkjfkdj f kjkkjd.</>",
+      "text": "<italic>Je suis</> <strongitalic>KSÉNIE MYRONOVA</> <italic>de la Iron Guard Corps,</> <strongitalic>VLF</><italic>C'est manger dans nos rizières.</> <redacted>Nous savons que vous êtes de l'ouest mais faites confiance à FANG pour apporter les meilleurs tueurs impitoyables, vous devez être sans âme.</> <italic>La vermine. Allez la nuit et évitez trop de bruit. Si nous les nourrissons, ils se répandront partout. Ils volent notre nourriture et l'utilisent pour nourrir les meurtriers. Nous devons empoisonner les champs pour empêcher cela. S'ils sont autorisés à continuer, ils pourriront cette terre...</> <redacted>Adjjflkadjflkadsjfkljadslkf sdaj fdskafkdsa kdfjkdsfjkladsjkdj dkjfkdj f kjkkjd.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0005.Briefing.Text.02",
+      "source": "The rest of the message is vile and I won’t breathe those words. <strong>MYRONOVA</> says… to place poison into the rice fields at three specific locations. She said this will ensure no <strong>VLF</> can eat from them, or if they do, they’ll die. I know it can be tough, doing missions that are so targeted at civilians, but this is the job, and you gotta do as they say. Know your actions are for the good of the region and if you follow through to the end here in Vietnam you will save <italic>countless</> lives. Prove yourself to them, steel your thoughts, good luck and get out.",
+      "text": "Le reste du message est vil et je n'ai pas respiré ces mots. <strong>MYRONOVA</> Dit... de mettre du poison dans les rizières à trois endroits précis. Elle a dit que cela garantirait non <strong>VLF</> peuvent manger d'eux, ou s'ils le font, ils mourront. Je sais que ça peut être dur, de faire des missions si ciblées sur les civils, mais c'est le boulot, et vous devez faire ce qu'ils disent. Sachez que vos actions sont pour le bien de la région et si vous suivez jusqu'à la fin ici au Vietnam, vous sauverez <italic>innombrables</> Prouvez-vous à eux, alignez vos pensées, bonne chance et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0005.Debriefing.Text.00",
+      "source": "I’ve reported your findings to <strong>FANG</>, who will look into the significance of those…burial mounds. If you go back for a better look, see if there are any details about the origin of those corpses. Any information might help figure this out.",
+      "text": "J'ai fait part de vos constatations à <strong>FANG</>, qui s'intéressera à la signification de ces... monticules funéraires. Si vous y retournez pour un meilleur regard, voyez s'il y a des détails sur l'origine de ces cadavres. N'importe quelle information pourrait aider à comprendre cela."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0005.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0006.A.Subtitle.00",
+      "source": "Well, you now know where all the H.A.S. are on <strong>DELTA</>, maybe that will be enough for <strong>SỪNG TRÂU</>.",
+      "text": "Vous savez maintenant où se trouvent tous les H.A.S. sur <strong>DELTA</>. Ce sera peut-être suffisant pour <strong>SỪNG TRÂU</>."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0006.B.Subtitle.00",
+      "source": "All <strong>IGC</> seem to be clear of the Market for now, good job. I know the cost of life can be high, sometimes, sorry, my other business is in my head at the moment. Good job, finish up and get out safely.",
+      "text": "Le marché semble débarrassé de l'<strong>IGC</> pour le moment. Beau travail. Je sais que le prix de la vie peut être élevé, parfois... Désolée, je pensais à une autre affaire. Terminez ici et repartez sans vous faire tuer."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0006.Briefing.Text.00",
+      "source": "OBSERVER: Unfortunately, I am away and cannot record the briefing at this time, I'm dealing with other matters. You, ah, nearly ran into him a while back. I won't be gone long and should be back by the time you are in the field, so you can still call with updates and observations. Below is your brief.",
+      "text": "M. OBSERVER : [interprétation] Malheureusement, je suis absent et je ne peux pas enregistrer le briefing en ce moment, j'ai affaire à d'autres questions. Vous avez failli le rencontrer il y a un moment. Je ne serai pas partie longtemps et je devrais revenir au moment où vous êtes sur le terrain, donc vous pouvez toujours appeler avec des mises à jour et des observations. Voici votre mémoire."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0006.Briefing.Text.01",
+      "source": "From: <strong>SỪNG TRÂU</>. <strongitalic>VLF</> <italic>need you to find more Quân Liên Lục Địa [</><strongitalic>UICS</><italic>] buildings on Châu thổ [</><strongitalic>DELTA</><italic>]. Small thing while you there, check on Market Building for me. Kill all bọn thiết vệ [</><strongitalic>IGC</><italic>] soldiers around the [Market Building], they are not supposed to be near, I have said to them many times. Continue your discretion.</>",
+      "text": "Depuis : <strong>SỪNG TRÂU</>. <strongitalic>VLF</> <italic>besoin de vous pour trouver plus Quân Liên L.C. [</><strongitalic>UICS</><italic>] les bâtiments sur Châu th.</><strongitalic>DELTA</><italic>]. Petite chose pendant que tu es là, vérifie pour moi le Market Building. Tuer tous les b.i.n.t. v.I. [</><strongitalic>IGC</><italic>] soldats autour du [Market Building], ils ne sont pas censés être près, je leur ai dit plusieurs fois. Continuez votre discrétion.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0006.Briefing.Text.02",
+      "source": "OBSERVER: <strong>SỪNG TRÂU</> seems very worried about the H.A.S.; his worry might signify something deeper. <strong>FANG</> is unsure of the significance of his second request at this time but take out the <strong>IGC</> around the Market Building to stay in <strong>VLF</> favor. Good luck, get out and talk to you on <strong>DELTA</>.",
+      "text": "OBSERVATEUR : <strong>SỪNG TRÂU</> semble très inquiet au sujet de la S.A.S.; son inquiétude pourrait signifier quelque chose de plus profond. <strong>FANG</> n'est pas sûr de l'importance de sa deuxième demande à ce moment, mais <strong>IGC</> autour du Market Building pour rester dans <strong>VLF</> Bonne chance, sortez et parlez-vous. <strong>DELTA</>."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0006.Debriefing.Text.00",
+      "source": "<strong>SỪNG TRÂU</> will be pleased to know you have completed his mission. Eliminating any of those soldiers might stir the pot with the <strong>IGC</>, but that’s not our problem, currently.",
+      "text": "<strong>SỪNG TRÂU</> sera heureux de savoir que vous avez terminé sa mission. Éliminer n'importe lequel de ces soldats pourrait remuer le pot avec le <strong>IGC</>Mais ce n'est pas notre problème, actuellement."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0006.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0007.A.Subtitle.00",
+      "source": "Food crates destroyed, I think that will send the message the <strong>IGC</> wanted.",
+      "text": "Les caisses de nourriture sont détruites. Le message voulu par l'<strong>IGC</> devrait être clair."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0007.Briefing.Text.00",
+      "source": "OBSERVER: Unfortunately, I am away and cannot record the briefing at this time, I'm dealing with other matters, the same matter. I won't be gone long and should be back by the time you are in the field, so you can still call with updates and observations. Below is your brief.",
+      "text": "L'OBSERVATEUR : Malheureusement, je suis absent et je ne peux pas enregistrer le briefing en ce moment, j'ai affaire à d'autres questions, à la même question. Je ne serai pas partie longtemps et je devrais revenir au moment où vous êtes sur le terrain, donc vous pouvez toujours appeler avec des mises à jour et des observations. Voici votre mémoire."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0007.Briefing.Text.01",
+      "source": "From: <strong>KSENIA MYRONOVA</>. <italic>Жук</> [she means <strong>VLF</>] <italic>hide in their cave and eat like rats. The food is stolen from the hard-working Vietnamese people. It is food for war and for murder, not surviving. Destroy their food boxes. Leave them nothing.</>",
+      "text": "Depuis : <strong>KSÉNIE MYRONOVA</>. <italic>Жук</> [Elle veut dire <strong>VLF</>] <italic>Se cacher dans leur grotte et manger comme des rats. La nourriture est volée aux Vietnamiens qui travaillent dur. C'est de la nourriture pour la guerre et pour le meurtre, pas pour survivre. Détruisez leurs boîtes alimentaires. Ne les laissez rien.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0007.Briefing.Text.02",
+      "source": "OBSERVER: It seems they are on a kick of starving out their enemies. Already, <strong>FANG</> is seeing signs of famine among the <strong>VLF</> populace; it seems the <strong>IGC</> wish to push them even further. In this line of work, it's on the less heinous side, but I guess you know that. Good luck, get out.",
+      "text": "Il semble qu'ils soient sur un coup de pied de faim hors de leurs ennemis. <strong>FANG</> est de voir des signes de famine parmi les <strong>VLF</> populace; il semble que <strong>IGC</> veulent les pousser encore plus loin. Dans ce genre de travail, c'est moins odieux, mais je suppose que vous le savez. Bonne chance, sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0007.Debriefing.Text.00",
+      "source": "Mission completed. Remember, it’s for the greater good. I’ll contact you soon for your next mission.",
+      "text": "Mission terminée. Souvenez-vous, c'est pour le plus grand bien. Je vous contacterai bientôt pour votre prochaine mission."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0007.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008.A.Subtitle.00",
+      "source": "Well, that’s all the <strong>VLF</> asked for. Seems like, I don’t know, perfunctory, but hopefully the <strong>VLF</> is appeased.",
+      "text": "Voilà, c'est tout ce que demandait le <strong>VLF</>. Ça paraît un peu... expéditif, mais espérons que le <strong>VLF</> sera satisfait."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008.Briefing.Text.00",
+      "source": "Sorry, I was away for the past two missions… I had to deal with… other business. But I want you to know that I have been reading your reports and watching closely. It's good work. Getting out of <strong>BUNKER</> is not easy. I’m glad you made it, truly. For future missions near civilian areas look around as <strong>FANG</> has gotten missing persons reports from locals. Just keep your eyes peeled.",
+      "text": "Désolé, j'étais parti pour les deux dernières missions... j'ai dû gérer... d'autres affaires. Mais je veux que vous sachiez que j'ai lu vos rapports et que j'ai suivi de près. C'est du bon travail. Sortir de là <strong>BUNKER</> Ce n'est pas facile. Je suis content que tu l'aies fait. Pour les futures missions près des zones civiles, <strong>FANG</> Il a reçu des rapports de personnes disparues de la part des habitants."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008.Briefing.Text.01",
+      "source": "Now to the matter at hand. The <strong>VLF</> sent two missions for you, but they were a bit odd. First, <strong>FANG</> received a mission request from <strong>LÂM ALEXANDRE</>, sharing his anger and assigning you to kill a good dozen <strong>IGC</> soldiers. He noted that he suspected the recent attacks on their food stores to be <strong>IGC</>. <strong>LÂM</> said something about retaliation and keeping the <strong>IGC</> in their place. What's good is that there is no sign they know that you carried it out. That's where it got weird. Just an hour after <strong>FANG</> received that mission request, <strong>VLF</> sent over another, by <strong>SỪNG TRÂU</>. It was clearly hastily written, but said:",
+      "text": "Maintenant à l'affaire en cause. <strong>VLF</> J'ai envoyé deux missions pour vous, mais elles étaient un peu bizarres. <strong>FANG</> a reçu une demande de la mission <strong>LÂM ALEXANDE</>, partager sa colère et vous assigner à tuer une bonne douzaine <strong>IGC</> soldats. Il a indiqué qu'il soupçonnait que les récentes attaques contre leurs magasins d'alimentation étaient <strong>IGC</>. <strong>LÂM</> a dit quelque chose sur les représailles et le maintien du <strong>IGC</> à leur place. Ce qui est bon, c'est qu'il n'y a aucun signe qu'ils savent que vous l'avez fait. C'est là que ça devient bizarre. Juste une heure après <strong>FANG</> a reçu cette demande de mission, <strong>VLF</> envoyé sur un autre, par <strong>SỪNG TRÂU</>. Il a été clairement écrit à la hâte, mais a dit:"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008.Briefing.Text.02",
+      "source": "<italic>Killing so many is wrong. We do not think</> <strongitalic>IGC</> <italic>destroyed our food. We can show them force as</> <strongitalic>LÂM</> <italic>says but kill no more than two.</>",
+      "text": "<italic>Tuer tant de gens, c'est mal.</> <strongitalic>IGC</> <italic>Nous pouvons leur montrer la force comme</> <strongitalic>LÂM</> <italic>Mais ne tuez pas plus de deux.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008.Briefing.Text.03",
+      "source": "So, leadership infighting appears to continue. What a mess. Your mission is to kill just two <strong>IGC</> soldiers on <strong>DELTA</>. This feels like too little, but you do as they say. It is the duty of <strong>FANG</> Operators to not ask questions and trust that <strong>FANG</> has their interest at heart. You’ve been doing well thus far and you can be sure <italic>I’m</> looking into this. Good luck and get out.",
+      "text": "Ainsi, la lutte contre le leadership semble se poursuivre. Quelle pagaille. Votre mission est de tuer seulement deux personnes. <strong>IGC</> soldats en <strong>DELTA</>. C'est comme si c'était trop peu, mais vous faites ce qu'ils disent. <strong>FANG</> Les opérateurs de ne pas poser de questions et de confiance que <strong>FANG</> a leur intérêt à cœur. Tu t'en sors bien jusqu'à présent et tu peux être sûr <italic>I’m</> Bonne chance et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008.Debriefing.Text.00",
+      "source": "All in all an odd mission but nice job. <strong>FANG</> intel suggests that the infighting between the two different <strong>VLF</> leaders and their conflicting missions has something more to it, but that's all I can tell you at this time.",
+      "text": "C'est une mission étrange, mais un bon boulot. <strong>FANG</> intel suggère que la lutte entre les deux <strong>VLF</> Les dirigeants et leurs missions conflictuelles ont quelque chose de plus à faire, mais c'est tout ce que je peux vous dire en ce moment."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008x5.A.Subtitle.00",
+      "source": "The <strong>UICS</> really are trying to put down roots. First the H.A.S buildings, and now larger projects too. But yes, this is the site.",
+      "text": "L'<strong>UICS</> cherche vraiment à s'implanter : d'abord les bâtiments des H.A.S., et maintenant de plus grands projets. Oui, c'est bien le site recherché."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008x5.B.Subtitle.00",
+      "source": "<strong>IGC</> will be pleased. I’m sure the <strong>UICS</> will bounce back but their progress has definitely been slowed. <strong>FANG</> is nearly ready for the next antenna piece, so stay ready for that mission.",
+      "text": "L'<strong>IGC</> sera satisfait. L'<strong>UICS</> s'en remettra sûrement, mais sa progression a été ralentie. <strong>FANG</> est presque prêt pour le prochain élément d'antenne. Tenez-vous prêt pour cette mission."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008x5.Briefing.Text.00",
+      "source": "The <strong>IGC</> has a mission for you, Leader <strong>ILYA MAMONTOV</> sent the message:",
+      "text": "Les <strong>IGC</> Il a une mission pour vous, Leader. <strong>ILYA MAMONTOV</> a envoyé le message:"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008x5.Briefing.Text.01",
+      "source": "<italic>“Клыки [you], the иностранцы Security [Foreigner Security,</> <strongitalic>UICS</><italic>] construction projects continue and you наёмник [mercenary], go place explosives to slow down their expansions.”</>",
+      "text": "<italic>Клыки [vous], la sécurité иностранюы [Sécurité des étrangers,</> <strongitalic>UICS</><italic>] les projets de construction continuent et vous наюмник [mercenaire], allez placer des explosifs pour ralentir leurs expansions.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008x5.Briefing.Text.02",
+      "source": "The <strong>IGC</> soldiers spend most of their time guarding their own sector of <strong>OUTSKIRTS</>; they seem reluctant to leave their compound. As such the <strong>IGC</> has asked you to damage the ongoing <strong>UICS</> construction and slow down their progress. They have supplied the explosives; you are just doing the dirty work. <strong>FANG</> interests align in this mission. The messier the explosion, the more conflict, the more they need you. Good luck, and get out.",
+      "text": "Les <strong>IGC</> les soldats passent la plus grande partie de leur temps à garder leur propre secteur de <strong>Périphérie</>; ils semblent réticents à quitter leur complexe. <strong>IGC</> vous a demandé d'endommager le <strong>UICS</> la construction et ralentir leurs progrès. Ils ont fourni les explosifs; vous faites juste le sale boulot. <strong>FANG</> les intérêts s'alignent dans cette mission. Plus l'explosion est grave, plus ils ont besoin de vous. Bonne chance, et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008x5.Debriefing.Text.00",
+      "source": "While some of these missions might feel like destruction for destruction’s sake, you must trust <strong>FANG</>. In order to truly bring peace, like I’ve known, the faction’s need to trust you.",
+      "text": "Alors que certaines de ces missions pourraient se sentir comme la destruction pour le bien de la destruction, vous devez faire confiance <strong>FANG</>. Pour vraiment apporter la paix, comme je l'ai connu, les factions doivent vous faire confiance."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0008x5.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0009.Briefing.Text.00",
+      "source": "<strong>FANG</> has set up and shipped the next piece of the antenna through the <strong>IGC</> on <strong>DELTA</>. Go now, look around, and find the truck, package 0102003. It will be in the same type of box and contain the second of the three parts for the satellite antenna. It's just as big as the other one so pack light and stay agile. Oh, and <strong>FANG</> wanted me to tell you that things were a bit rougher getting the package slipped into the supply stream due an intense passing storm.",
+      "text": "<strong>FANG</> a mis en place et expédié le prochain morceau de l'antenne par le <strong>IGC</> le <strong>DELTA</>. Allez maintenant, regardez autour de vous, et trouvez le camion, paquet 0102003. Il sera dans le même type de boîte et contiendra la seconde des trois parties pour l'antenne satellite. C'est aussi grand que l'autre, alors faites la lumière et restez agile. Oh et <strong>FANG</> Je voulais vous dire que les choses étaient un peu plus difficiles à faire glisser le paquet dans le flux d'approvisionnement en raison d'une tempête intense de passage."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0009.Briefing.Text.01",
+      "source": "Honestly, when I heard it I couldn’t believe <strong>FANG</> had lowered its standards and let a low quality trash employee who would be bothered by a storm, no matter how intense it might be, into their ranks. But I’ve been assured he has been dealt with. As a result of his shortcomings the antenna piece could be in the back of a different delivery truck, so dig a little. Good luck and, as you know, get out.",
+      "text": "Honnêtement, quand je l'ai entendu je ne pouvais pas croire <strong>FANG</> a abaissé ses normes et a laissé un employé de la poubelle de mauvaise qualité qui serait ennuyé par une tempête, peu importe à quel point elle pourrait être intense, dans leurs rangs. Mais j'ai été assuré qu'il a été traité. En raison de ses lacunes, la pièce d'antenne pourrait être à l'arrière d'un autre camion de livraison, donc creuser un peu. Bonne chance et, comme vous le savez, sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0009.Debriefing.Text.00",
+      "source": "Good job getting the second piece of the antenna, we’re one step closer to connecting to the satellite. <strong>FANG</> has indicated there may be some worse complications with the third piece, but I will let you know when I hear more.",
+      "text": "Bon travail en obtenant le deuxième morceau de l'antenne, nous sommes un pas plus près de la connexion au satellite. <strong>FANG</> a indiqué qu'il peut y avoir des complications plus graves avec le troisième morceau, mais je vous ferai savoir quand j'en entendrai plus."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0009.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0010.Briefing.Text.00",
+      "source": "The <strong>VLF</> and <strong>SỪNG TRÂU</> have another mission for you, responding to the many soldiers that were around the H.A.S., the Humanitarian Aid Site. <strong>FANG</> intelligence will only call it a patrol overlap, but <strong>SỪNG TRÂU</> seems intent on squeezing out every last detail from those buildings. He clearly sees some rot in those walls. Regardless, if he cares, you are there. Here is what he sent:",
+      "text": "Les <strong>VLF</> et <strong>SỪNG TRÂU</> avoir une autre mission pour vous, en répondant aux nombreux soldats qui étaient autour de la S.A.S., le site d'aide humanitaire. <strong>FANG</> Le renseignement n'appellera ça qu'un chevauchement de patrouille, mais <strong>SỪNG TRÂU</> Il semble qu'il ait l'intention de presser tous les derniers détails de ces bâtiments. Il voit clairement de la pourriture dans ces murs. Quoi qu'il en soit, s'il s'en soucie, vous êtes là. Voici ce qu'il a envoyé:"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0010.Briefing.Text.01",
+      "source": "<italic>Cảm ơn sự cố gắng của anh. Tôi mong chúng ta sẽ được hợp tác dài lâu cùng nhau [he appreciates what you’ve done and sees a long road of corporation ahead]. I need more information about bọn tây [</><strongitalic>UICS</><italic>] buildings. Go to</> <redacted>location one</><italic>, and</> <redacted>location two</><italic>. [I’ll tell you the places in a second] Get blueprints of building construction.</> <redacted>I am worried by all of the antenna, tracking me, trying to find me.</> <italic>Bring back to me.</>",
+      "text": "<italic>C.M.S. C.M.S. C.M.S. C.M.S. C.M.S. C.M.S. C.G.G.C.C.C.C.C.C.C.C.C.C.C.C.C.M.S.C.S.C.C.C.C.C.C.C.M.S.C.C.C.M.S.C.S.C.C.C.S.C.C.C.G.C.C.G.C.C.C.G.C.C.G.C.S.C.C.S.C.C.C.M.C.M.S.C.C.S.C.C.C.M.C.C.M.S.C.S.C.C.C.S.C.C.C.C.S.C.C.S.C.C.C.C.M.C.M.S.C.C.S.C.C.S.C.C.C.M.C.C.C.C.M.C.M.C.C.C.M.C.C.S.C.C.C.S.C.C.S.C.S.C.C.C.C.C.S.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.R.C.C.C.C.C.C.C.C.C.C.C.C.D.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C.C. Tôi mong chúng ta scission, il apprécie ce que vous avez fait et voit un long chemin de société en avant. J'ai besoin de plus d'informations sur b..n. tây [</><strongitalic>UICS</><italic>Dans les bâtiments.</> <redacted>emplacement un</><italic>et</> <redacted>emplacement deux</><italic>. [Je vais vous dire les endroits dans une seconde] Obtenez des plans de construction.</> <redacted>Je suis inquiet par toute l'antenne, me traquant, essayant de me trouver.</> <italic>Ramène-moi.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0010.Briefing.Text.02",
+      "source": "His directions were vague, but <strong>FANG</> has found the two locations he meant. Check each of them out and see what blueprints you can find for the H.A.S. You are being sent a little deeper into <strong>QUARRY</> than you might have previously explored, so plan ahead: close quarters, flashlight, etc. You’re going to be all over <strong>QUARRY</>, so try to minimize exposure. Good luck and get out.",
+      "text": "Ses directions étaient vagues, mais <strong>FANG</> a trouvé les deux endroits qu'il voulait dire. Vérifiez chacun d'entre eux et voyez quels plans vous pouvez trouver pour le H.A.S. On vous envoie un peu plus loin. <strong>QUARRIE</> que vous auriez pu explorer auparavant, alors planifiez-vous à l'avance: fermer les quartiers, lampe de poche, etc. Tu vas être partout. <strong>QUARRIE</>, alors essayez de minimiser l'exposition . Bonne chance et sortir."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0010.Debriefing.Text.00",
+      "source": "Mission completed, good job Operator. Walking around H.A.S. like a building inspector is certainly underutilizing your skills. Also, did you see anything odd about the roofs on the bigger buildings? Something that <strong>FANG</> redacted from the mission that I’ll risk disclosing is that <strong>SỪNG TRÂU</> seems paranoid about the H.A.S., like the buildings are after him personally.",
+      "text": "Mission terminée, bon travail Opérateur. Se promener autour de H.A.S. comme un inspecteur de bâtiment est certainement sous-utilisé vos compétences. Et tu as vu quelque chose d'étrange sur les toits des plus grands bâtiments ? Quelque chose qui <strong>FANG</> expiré de la mission que I.ll risque de divulguer est que <strong>SỪNG TRÂU</> C'est paranoïaque à propos du H.A.S., comme si les bâtiments le poursuivaient personnellement."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0010.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0011.A.Subtitle.00",
+      "source": "Ok now head back to your safehouse to “find” the missing supplies from the <strong>VLF</> in the marketplace. You can turn over the parts to <strong>IGC</> from the terminal upon mission completion. Good job.",
+      "text": "Retournez maintenant à votre base pour « trouver » les fournitures manquantes du <strong>VLF</> sur le marché. Une fois la mission terminée, vous pourrez remettre les pièces à l'<strong>IGC</> depuis le terminal. Beau travail."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0011.Briefing.Text.00",
+      "source": "<strong>IGC KSENIA MYRONOVA</> has found and identified the empty crates from both of the smuggled antenna pieces and has blamed them, luckily, on the <strong>UICS</>. She sent the following:",
+      "text": "<strong>IGC KSÉNIE MYRONOVA</> a trouvé et identifié les caisses vides des deux pièces d'antenne introduites clandestinement et les a blâmées, heureusement, sur le <strong>UICS</>. Elle a envoyé ce qui suit :"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0011.Briefing.Text.01",
+      "source": "<italic>This is</> <strongitalic>KSENIA MYRONOVA</> <italic>of the Iron Guard Corps. There are more rats in Vietnam. This time from</> <strongitalic>UICS</><italic>. They have stolen out of our trucks. These western fuckers did it twice.</> <redacted>Adfasdkjjf lkdas f dsakfjdsk fkdasj fkasd jj kj kfdj k</> <italic>I think they keep some supplies in a small river building. Clear them out. Confirm the stolen supplies and bring them back.</>",
+      "text": "<italic>Voici</> <strongitalic>KSÉNIE MYRONOVA</> <italic>du Iron Guard Corps. Il y a plus de rats au Vietnam.</> <strongitalic>UICS</><italic>Ils ont volé nos camions, ces enfoirés occidentaux l'ont fait deux fois.</> <redacted>L'aide est accordée par l'État membre d'accueil, conformément aux dispositions de l'article 4 du règlement (UE) no 1308/2013.</> <italic>Je pense qu'ils gardent des provisions dans un petit bâtiment fluvial. Éliminez-les. Confirmez les fournitures volées et rapportez-les.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0011.Briefing.Text.02",
+      "source": "Alright, clear out the small Quarry Docks like the <strong>IGC</> asked, but as you know there are no supplies that the <strong>UICS</> stole. <strong>FANG</> did well in setting up the packages to place the blame on the <strong>UICS</>. In anticipation of this moment, <strong>FANG</> has kept the items they replaced when smuggling the antenna pieces. The “missing supplies” have been routed to you via the <strong>VLF</> in the marketplace. While <strong>FANG</> has withheld making a judgment about what the missing supplies are for, they seem to be parts for a substation or other similar facility. Probably something the <strong>IGC</> stole from elsewhere. Just make sure to get the parts from the marketplace; they are called “basic machine parts,” and then turn them into the <strong>IGC</> when you get back from the field. Good luck, and get out.",
+      "text": "D'accord, débarrassez les petites quais de carrières comme le <strong>IGC</> demande, mais comme vous le savez, il n'y a pas de fournitures que les <strong>UICS</> volé. <strong>FANG</> a bien réussi à mettre en place les paquets pour mettre le blâme sur le <strong>UICS</>. En prévision de ce moment, <strong>FANG</> a conservé les articles qu'ils ont remplacés lors de la contrebande des pièces d'antenne. Les fournitures manquantes ont été acheminées vers vous via le <strong>VLF</> sur le marché. <strong>FANG</> a refusé de se prononcer sur les fournitures manquantes, elles semblent être des pièces pour une sous-station ou une autre installation similaire. Sans doute quelque chose <strong>IGC</> volé ailleurs. Il suffit de s'assurer d'obtenir les pièces du marché; ils sont appelés pièces de machine de base, <strong>IGC</> Bonne chance, et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0011.Debriefing.Text.00",
+      "source": "Well done, the <strong>IGC</> should have no doubt that the <strong>UICS</> were the ones responsible. <strong>FANG</> has also further looked into the machine parts and they are almost certainly from an electrical substation. Current best guess is they were in fact stolen from a train shipping crate.",
+      "text": "Bien joué, le <strong>IGC</> ne devrait pas douter que les <strong>UICS</> étaient les responsables. <strong>FANG</> a également examiné plus en détail les pièces de la machine et ils sont presque certainement d'une sous-station électrique. La meilleure supposition, c'est qu'ils ont été volés à une caisse d'expédition de train."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0011.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0012.B.Subtitle.00",
+      "source": "The <strong>IGC</> are really trying to wrestle control of the <strong>DELTA</> region, it seems, very well done, pushing them back.",
+      "text": "L'<strong>IGC</> semble déterminé à prendre le contrôle de <strong>DELTA</>. Beau travail pour l'avoir repoussé."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0012.Briefing.Text.00",
+      "source": "The <strong>UICS</> at last has more missions for you. Finally! I’ll tell you, the Handlers were getting worried that it took them this long to ask for your services. The message comes from <strong>DALIA SLOAN</>; she sent it over in English. The mission:",
+      "text": "Les <strong>UICS</> enfin a plus de missions pour vous. Enfin ! Je vais vous dire, les Handlers s'inquiétaient qu'il leur ait fallu autant de temps pour demander vos services. Le message vient de <strong>DALIA SLOAN</>; elle l'a envoyé en anglais."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0012.Briefing.Text.01",
+      "source": "<italic>[From]</> <strongitalic>DALIA SLOAN</> <italic>// [to]</> <strongitalic>FANG</> <italic>Operator // Operation Lock:</> <strongitalic>IGC</> <italic>has removed our bugs from the two isolated warehouses we had been monitoring. We respect the privacy of the locals, and it is important to us that our intelligence remains limited to areas of concern. In following that creed, find the two locked warehouses with steel doors, and only place a bug across from each.</>",
+      "text": "<italic>[De]</> <strongitalic>DALIA SLOAN</> <italic>// [à]</> <strongitalic>FANG</> <italic>Opérateur // Verrouillage d'opération:</> <strongitalic>IGC</> <italic>nous avons retiré nos bogues des deux entrepôts isolés que nous avions surveillés. Nous respectons la vie privée des habitants, et il est important pour nous que nos renseignements demeurent limités aux domaines préoccupants. En suivant cette croyance, trouvez les deux entrepôts verrouillés avec des portes en acier, et placez seulement un bug en face de chaque.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0012.Briefing.Text.02",
+      "source": "<strong>FANG</> had to wait to give this to you, and, in that time, they sent over another mission.",
+      "text": "<strong>FANG</> Ils ont dû attendre pour vous donner ça, et, à ce moment-là, ils ont envoyé une autre mission."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0012.Briefing.Text.03",
+      "source": "<italic>[From]</> <strongitalic>DALIA SLOAN</> <italic>// [to]</> <strongitalic>FANG</> <italic>Operator // Operation Key: Troops in the surrounding area have moved in on our Humanitarian Aid Sites. If they are allowed to remain in control of our Aid Site, it would result in an elevated starvation risk for the civilian population we are trying to serve.</> <strongitalic>IGC</> <italic>has taken one of our bigger buildings in the</> <strongitalic>DELTA</> <italic>region, and we need you to retake it, remove the</> <strongitalic>IGC</> <italic>soldier presence, and return it to the</> <strongitalic>UICS</> <italic>aid activities.</>",
+      "text": "<italic>[De]</> <strongitalic>DALIA SLOAN</> <italic>// [à]</> <strongitalic>FANG</> <italic>Opérateur // Opération Clé : Les troupes des environs ont emménagé sur nos sites d'aide humanitaire. S'ils sont autorisés à garder le contrôle de notre site d'aide, cela entraînerait un risque élevé de famine pour la population civile que nous essayons de desservir.</> <strongitalic>IGC</> <italic>a pris l'un de nos plus grands bâtiments dans le</> <strongitalic>DELTA</> <italic>région, et nous avons besoin de vous pour la reprendre, supprimer le</> <strongitalic>IGC</> <italic>la présence des soldats, et de la rendre au</> <strongitalic>UICS</> <italic>les activités d'aide.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0012.Briefing.Text.04",
+      "source": "They really cash in all at once don’t they? Find and bug those warehouses of concern. Their location away from the main warehouse district does make them noteworthy, I suppose, but beyond that being in the field will have to tell. Watch open sightlines on the streets and take out the <strong>IGC</> on the H.A.S. they have taken over. Good luck, stay safe, and get out.",
+      "text": "Ils encaissent vraiment tout à la fois, non ? Trouvez et boguez ces entrepôts préoccupants. Leur emplacement loin du quartier principal des entrepôts les rend dignes de mention, je suppose, mais au-delà de cela être sur le terrain devra dire. Regarder les lignes de vue ouvertes dans les rues et sortir le <strong>IGC</> Bonne chance, restez en sécurité et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0012.Debriefing.Text.00",
+      "source": "You handled this well. Planting the bugs, fighting off the <strong>IGC</>, and then getting out with your life is no small task. This type of commotion is good for <strong>FANG</>. The deeper you get, the more they come to rely on your skill set and services. <strong>FANG</> eagerly watches on.",
+      "text": "Tu t'es bien débrouillée. <strong>IGC</>, et puis sortir avec votre vie n'est pas une petite tâche. Ce type de commotion est bon pour <strong>FANG</>. Plus vous êtes profond, plus ils comptent sur vos compétences et vos services. <strong>FANG</> J'observe avec impatience."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0012.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.B.Subtitle.00",
+      "source": "If that carnage doesn’t satisfy the <strong>IGC</>, well, it should. Good job staying alive. Keep it up.",
+      "text": "Si ce carnage ne satisfait pas l'<strong>IGC</>, je ne sais pas ce qu'il lui faut. Vous avez réussi à rester en vie. Continuez comme ça."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.Briefing.Text.00",
+      "source": "<strong>IGC</> has a new mission for you, but first, <strong>FANG</> has issued a warning:",
+      "text": "<strong>IGC</> a une nouvelle mission pour vous, mais d'abord, <strong>FANG</> a émis un avertissement:"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.Briefing.Text.01",
+      "source": "<strong>FANG</>’s intelligence operations have had to go underground for the moment to avoid higher scrutiny. Our contacts’ last message was that a rogue figure’s movements in <strong>QUARRY</> were recorded and connected to a similar figure’s past actions in the area. While we do not think they know your name, or have linked it to the Operator they have hired on, they <italic>are</> building a profile, and we fear it won’t be long before they have made the connections.",
+      "text": "<strong>FANG</>Les opérations de renseignement ont dû se cacher pour le moment afin d'éviter un examen plus approfondi. Notre dernier message était qu'une figure voyoue se déplace en <strong>QUARRIE</> ont été enregistrées et reliées à une figure similaire des actions passées dans la région. Bien que nous ne pensons pas qu'ils connaissent votre nom, ou l'aient lié à l'opérateur qu'ils ont embauché, ils <italic>sont</> construire un profil, et nous craignons qu'il ne soit pas long avant qu'ils aient fait les connexions."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.Briefing.Text.02",
+      "source": "What the fuck. Did. You. Do. Straying from optimal operation lines — killing non-targets — is dangerous. I just want to remind you who you work for. <strong>FANG</> is infamous the world over, spoken of highly in all the darkest corners and most secure rooms. The higher-ups have connects so deep they might as well be bloodlines. You've… you've threatened many lives with your carelessness, and now, your own. Deal with the consequences. These consequences, our informants report, come in the form of a specialized <strong>UICS</> sniper, known as <strong>MONSTERA</>. Monstera’s role is to hunt down anomalies. Spies. You. All I can say is watch your back while in <strong>QUARRY</>. Don’t die. By staying alive, you will prove that this mistake was just a small hiccup. But back to the matter at hand.",
+      "text": "C'est quoi ce bordel ? C'est vrai. Toi. Faites. Il est dangereux de s'éloigner des lignes d'opération optimales — tuant des non-cibles. Je veux juste te rappeler pour qui tu travailles. <strong>FANG</> est célèbre dans le monde entier, très parlé dans les coins les plus sombres et les chambres les plus sécurisées. Les plus élevés se connectent si profondément qu'ils pourraient aussi bien être des lignées de sang. Vous... vous avez menacé beaucoup de vies avec votre négligence, et maintenant, la vôtre. S'occuper des conséquences. Ces conséquences, selon nos informateurs, prennent la forme d'une <strong>UICS</> sniper, connu sous le nom de <strong>MONSTERA</>. Le rôle de Monstera est de traquer les anomalies. Des espions. Toi. Tout ce que je peux dire, c'est de surveiller tes arrières pendant qu'ils sont là. <strong>QUARRIE</>. Ne meurs pas. En restant en vie, vous prouverez que cette erreur n'était qu'un petit hic. Mais revenons à l'affaire en cours."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.Briefing.Text.03",
+      "source": "Leader <strong>ILYA MAMONTOV</> of the <strong>IGC</> is angry. Of course he is. When is he not? Just like the rest of the <strong>IGC</> leadership. His message reads as follows, I’ve unredacted just a small taste of the colorful language so you can get an idea of who you are dealing with:",
+      "text": "Chef <strong>ILYA MAMONTOV</> des <strong>IGC</> Bien sûr qu'il l'est. <strong>IGC</> Le leadership. Son message se lit comme suit, je n'ai pas expurgé juste un petit goût de la langue colorée afin que vous puissiez obtenir une idée de qui vous avez affaire:"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.Briefing.Text.04",
+      "source": "<italic>Сволочь,</> <redacted>Сука, Мудак,</> <italic>going where they do not belong, killing our people in the продовольственный банк [H.A.S.] They are hypocrites, lying about “good for the people”. They are invading and do not want us to notice. They think we will take this lying down, like bitches asleep.</> <redacted>Do you know that they are doing evil tests? That they do research and walk around with antennas like bugs.</> They are the ones who are Блядь. [essentially whore<italic>]</> <redacted>BLAH BLAH BLAH BBLBLALAHAIHBHBLAJ BPAHLBH ABLH BLAH BLAH BLAH BBLBLALAHAIHBHBLAJ BPAHLBH ABLH n lines is DANGEROUS. You've, you've threatened all of the lives involved, and now, your own.</>",
+      "text": "<italic>Сволочь,</> <redacted>Сука, Мудак,</> <italic>aller là où ils n'appartiennent pas, tuer notre peuple dans le шродовольственный юанк [H.A.S.] Ce sont des hypocrites, mentant sur le \"bon pour le peuple\". Ils envahissent et ne veulent pas qu'on le remarque. Ils pensent qu'on va prendre ça couché, comme des salopes endormies.</> <redacted>Savez-vous qu'ils font des tests diaboliques ? Qu'ils font des recherches et se baladent avec des antennes comme des insectes.</> C'est eux qui sont, pour l'essentiel, des putains.<italic>]</> <redacted>BLAH BLAH BLAH BLBLALAHAIHBHBLAJ BLAHLBH BLAH BLAH BLAH BLAH BLAH BLBLALAHAIHBHBLAJ BLAHLBH n les lignes sont DANGEREUSES. Vous avez, vous avez menacé toutes les vies impliquées, et maintenant, la vôtre.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.Briefing.Text.05",
+      "source": "He goes on for a while, but eventually <strong>ILYA MAMONTOV</> says:",
+      "text": "Il continue pendant un moment, mais finalement <strong>ILYA MAMONTOV</> Il dit :"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.Briefing.Text.06",
+      "source": "<strongitalic>QUARRY</> <italic>has a factory, it is beating heart of the Western Machine. Shoot anyone you like and stop their operations there. I know you</> <strongitalic>FANG</> <italic>are vicious bastards.</>",
+      "text": "<strongitalic>QUARRIE</> <italic>a une usine, il bat le cœur de la Western Machine. Tuez tous ceux que vous aimez et arrêtez leurs opérations là-bas. Je te connais.</> <strongitalic>FANG</> <italic>Ce sont de vilains salauds.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.Briefing.Text.07",
+      "source": "So, shoot up the factory and draw some blood to satiate their bloodlust, I suppose.",
+      "text": "Donc, tirez sur l'usine et puisez du sang pour satisfer leur sang, je suppose."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.Briefing.Text.08",
+      "source": "There is something else <strong>FANG</> needs you to do while you are in the factory. In the office, there will be a terminal with important data related to the final operation of the satellite. Download the data there to your GCPS and submit it back to <strong>FANG</>. When prompted, you will need to enter a password. Luckily, <strong>FANG</> intelligence has sourced them for you. You can find them in a text document in the terminal. That’s all for now. Let this be your only failure. And get out.",
+      "text": "Il y a autre chose. <strong>FANG</> Vous devez faire pendant que vous êtes à l'usine. Au bureau, il y aura un terminal avec des données importantes liées à l'exploitation finale du satellite. Téléchargez les données là-bas à votre GCPS et soumettez-les à <strong>FANG</>. Lorsque vous êtes invité, vous devrez saisir un mot de passe. <strong>FANG</> L'intelligence les a sources pour vous. Vous pouvez les trouver dans un document texte dans le terminal. C'est tout pour l'instant. Que ce soit votre seul échec. Et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.Debriefing.Text.00",
+      "source": "With all the commotion you caused, I doubt they’ll notice you probing around their intel. Once <strong>FANG</> has gone over the data you sent, I’ll let you know what we find. <strong>FANG</> is withholding more details at the moment, but it is an important element alongside the antenna pieces.",
+      "text": "Avec toute la commotion que tu as causée, je doute qu'ils te remarquent en train de fouiller leurs infos. Une fois <strong>FANG</> a passé en revue les données que vous avez envoyées, je vous ferai savoir ce qu'on trouve. <strong>FANG</> est de retenir plus de détails pour le moment, mais c'est un élément important à côté des pièces d'antenne."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0013.X.Subtitle.00",
+      "source": "Well done. Monstera was a serious threat to <strong>FANG</> intelligence. <strong>FANG</> is assured that <strong>MONSTERA</> did not have your name and instead simply paired the figure he saw with the actions you did. His death will greatly hamper <strong>UICS</>, looking where they are not supposed to. You should be in the clear.",
+      "text": "Beau travail. Monstera représentait une menace sérieuse pour les renseignements de <strong>FANG</>. Selon <strong>FANG</>, <strong>MONSTERA</> ne connaissait pas votre nom : il avait simplement fait le lien entre votre silhouette et vos actions. Sa mort freinera les enquêtes indiscrètes de l'<strong>UICS</>. Vous devriez être tranquille."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0014.Briefing.Text.00",
+      "source": "<strong>UICS CHARLES BARRELL</> has a follow-up mission based on your work placing bugs for them. A quick note, <strong>FANG</> is having external difficulties getting the third piece of the satellite antenna to you. They are working to resolve the issues, but this time have a good team on it. Be patient and just stay on task. Alright, looks like <strong>UICS</> might have found something on <strong>DELTA</>:",
+      "text": "<strong>UICS CHARLES BARRELL</> a une mission de suivi basée sur votre travail en plaçant des bugs pour eux. Un mot rapide, <strong>FANG</> est d'avoir des difficultés externes pour obtenir le troisième morceau de l'antenne satellite pour vous. Ils s'efforcent de résoudre les problèmes, mais cette fois-ci, ils ont une bonne équipe. Soyez patient et restez en mission. Très bien, on dirait <strong>UICS</> Peut-être trouvé quelque chose sur <strong>DELTA</>:"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0014.Briefing.Text.01",
+      "source": "<italic>[From]</> <strong>CHARLES BARRELL</> <italic>// [to]</> <strongitalic>FANG</> <italic>Operator // Operation Tree-House: There is odd activity leading out from the center of</> <strongitalic>DELTA</> <italic>towards an old building in an inactive area of the region. Our records and reconnaissance show that the building is an abandoned Market astir with a new purpose — which purpose, however, is unknown. It seems to be frequented by a concerning combination of</> <strongitalic>IGC</> <italic>and the general Vietnamese populace. Previous passes by intelligence have identified a foot trail leading away from the building as a main location of activity. We have provided you with 5 cameras, connected to our servers, to place at specific locations along the trail for 24-hour monitoring.</>",
+      "text": "<italic>[De]</> <strong>CHARLES BARRELL</> <italic>// [à]</> <strongitalic>FANG</> <italic>Opérateur // Opération Tree-House: Il y a une activité étrange menant du centre de</> <strongitalic>DELTA</> <italic>vers un vieux bâtiment dans une zone inactive de la région. Nos dossiers et nos reconnaissances montrent que le bâtiment est un astreur du marché abandonné avec un but nouveau — qui, cependant, n'est pas connu. Il semble être fréquenté par une combinaison concernant</> <strongitalic>IGC</> <italic>et la population générale vietnamienne. Des laissez-passer de renseignements antérieurs ont identifié un sentier à pied qui s'éloigne du bâtiment comme étant l'un des principaux lieux d'activité. Nous vous avons fourni 5 caméras, connectées à nos serveurs, pour placer à des endroits précis le long du sentier pour une surveillance 24 heures sur 24.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0014.Briefing.Text.02",
+      "source": "Huh…<strong>VLF SỪNG TRÂU</> also had you check up on the Market a while back too... Anyway, place the five cameras the <strong>UICS</> provided at the designated vantage points along the foot trail behind the previously-abandoned Market on <strong>DELTA</>. Good luck and get out.",
+      "text": "C'est...<strong>VLF SỪNG TRÂU</> Vous avez aussi fait vérifier le marché un peu plus tard... En tout cas, placez les cinq caméras <strong>UICS</> fourni aux points de vue désignés le long du sentier à pied derrière le marché précédemment abandonné sur <strong>DELTA</>Bonne chance et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0014.Debriefing.Text.00",
+      "source": "Let’s see what the cameras pick up now that they’re planted. I’m not sure how long they’ll stay active since <strong>IGC</> is already on high alert, but you did what you could.",
+      "text": "Voyons ce que les caméras captent maintenant qu'elles sont plantées. Je ne sais pas combien de temps ils resteront actifs depuis <strong>IGC</> est déjà en haute alerte, mais tu as fait ce que tu pouvais."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0014.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0015.B.Subtitle.00",
+      "source": "Got the keys, yeah?",
+      "text": "Vous avez les clés ?"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0015.Briefing.Text.00",
+      "source": "<strong>VLF</> finally has their ducks in a row and wants you to actually do something about the H.A.S. It seems their paranoia has been validated. <strong>FANG</> looked over the blueprints that you brought back in your earlier mission. As you should have noticed from your explorations and the schematics, several of the larger H.A.S. have large, windowless back rooms that are locked. The documents hint that they were created to house research operations, of what kind <strong>FANG</> declined to assume. But the various antennas sprouting from the roof hint that perhaps they are attempting something related to the purpose of your assignment with <strong>FANG</>. Anyway, <strong>SỪNG TRÂU</> sent the following:",
+      "text": "<strong>VLF</> Ils ont enfin leurs canards d'affilée et ils veulent que vous fassiez quelque chose au sujet du H.A.S. Il semble que leur paranoïa ait été validée. <strong>FANG</> J'ai regardé les plans que vous avez ramenés dans votre mission précédente. Comme vous auriez dû le constater à partir de vos explorations et de vos schémas, plusieurs des plus grandes salles arrière des S.A.S. ont de grandes pièces sans fenêtre qui sont verrouillées. Les documents indiquent qu'ils ont été créés pour abriter des opérations de recherche, de quel type <strong>FANG</> a refusé d'assumer. Mais les différentes antennes germant du toit indiquent qu'ils tentent peut-être quelque chose en rapport avec le but de votre mission avec <strong>FANG</>Peu importe, <strong>SỪNG TRÂU</> a envoyé ce qui suit:"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0015.Briefing.Text.01",
+      "source": "<italic>I am right. Leader</> <strongitalic>LÂM</> <italic>said again and again not worry. But bọn tây and the Quân Liên Lục Địa [</><strongitalic>UICS</><italic>] are after me. All the ăng ten [antennas] are trying to spy on người Việt. [the Vietnamese people] I need know what is inside. I looked at building plans, and there a way to enter the locked room. I need know what is inside. I looked at building plans, and there a way to enter the locked room. [this is all vietnamese here. Ok, it translates to:</> “A mechanical generator powers one of the H.A.S. One that is isolated from the military base on <strong>QUARRY</>. <strong>UICS</> thinks this makes it more resilient. If you shoot and destroy the generator, the door can be unlocked. Inside, I think you should find the keys to get past the doors in the other building.”<italic>] Do not speak of this to Leader</> <strongitalic>LÂM</><italic>, you stay quiet.</>",
+      "text": "<italic>J'ai raison, chef.</> <strongitalic>LÂM</> <italic>dit encore et encore ne pas s'inquiéter. Mais b.n. tây et le Quân Liên L.c.</><strongitalic>UICS</><italic>] sont après moi. Tous les ăng ten [antennes] essaient d'espionner sur ng..[les Vietnamiens] J'ai besoin de savoir ce qu'il y a dedans. J'ai regardé les plans de construction, et il y a un moyen d'entrer dans la pièce verrouillée. J'ai besoin de savoir ce qu'il y a dedans. J'ai regardé les plans de construction, et il y a un moyen d'entrer dans la pièce verrouillée. Ok, ça se traduit par :</> Un générateur mécanique alimente un des H.A.S. Une qui est isolée de la base militaire sur <strong>QUARRIE</>. <strong>UICS</> pense que cela le rend plus résilient. Si vous tirez et détruisez le générateur, la porte peut être déverrouillée. A l'intérieur, je pense que vous devriez trouver les clés pour passer les portes dans l'autre bâtiment.<italic>] Ne parlez pas de cela à Leader</> <strongitalic>LÂM</><italic>, reste calme.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0015.Briefing.Text.02",
+      "source": "Destroy the generator near the electrically isolated H.A.S., infiltrate the back room, and make sure to get any keys you find there. Good luck and get out safely.",
+      "text": "Détruisez le générateur près du H.A.S. électriquement isolé, infiltrez la salle arrière, et assurez-vous d'obtenir toutes les clés que vous trouvez là. Bonne chance et sortez en sécurité."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0015.Debriefing.Text.00",
+      "source": "Got to give <strong>SỪNG TRÂU</> credit, he knew the <strong>UICS</> were up to something. There is more research being done there than I had thought. <strong>FANG</> wants to look over the material you found, and they will get back to you but see what you can decipher in the meantime.",
+      "text": "Je dois donner <strong>SỪNG TRÂU</> crédit, il connaissait le <strong>UICS</> j'ai fait quelque chose. Il y a plus de recherches qui y sont faites que je ne le pensais. <strong>FANG</> veut regarder le matériel que vous avez trouvé, et ils vont revenir à vous mais voir ce que vous pouvez déchiffrer en attendant."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0015.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0016.A.Subtitle.00",
+      "source": "All necessary footage has been downloaded. Now <strong>FANG</> can look it over and see what the <strong>UICS</> found. I’ve got to get back now. Don’t get killed on your way out.",
+      "text": "Toutes les images nécessaires ont été téléchargées. <strong>FANG</> peut maintenant les examiner et découvrir ce qu'a trouvé l'<strong>UICS</>. Je dois y retourner. Ne vous faites pas tuer en repartant."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0016.Briefing.Text.00",
+      "source": "OBSERVER: Unfortunately, I am away and cannot record the briefing at this time, I'm dealing with other matters. I won’t be gone long and should be back by the time you are in the field, so you can still call with updates and observations. Below is your brief.",
+      "text": "M. OBSERVER : [interprétation] Malheureusement, je suis absent et je ne peux pas enregistrer le briefing en ce moment, j'ai affaire à d'autres questions. Je ne suis pas parti longtemps et devrait être de retour au moment où vous êtes sur le terrain, de sorte que vous pouvez toujours appeler avec des mises à jour et des observations. Voici votre mémoire."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0016.Briefing.Text.01",
+      "source": "From: <strong>UICS</>: <strongitalic>CHARLES BARRELL</> <italic>//</> <strongitalic>FANG</> <italic>Operator// Operation Tree-House Down: Your work and placement of the cameras was commendable despite their rapid subsequent destruction. The</> <strongitalic>UICS</> <italic>has learned a lot during their brief operation and will communicate when our plans have further need of your services.</>",
+      "text": "Depuis : <strong>UICS</>: <strongitalic>CHARLES BARRELL</> <italic>//</> <strongitalic>FANG</> <italic>Opérateur// Opération Tree-House Down : Votre travail et la mise en place des caméras étaient louables malgré leur destruction rapide subséquente. Les</> <strongitalic>UICS</> <italic>a beaucoup appris au cours de leur brève opération et communiquera lorsque nos plans auront besoin de vos services.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0016.Briefing.Text.02",
+      "source": "OBSERVER: Judging by what they wrote, the footage from the cameras was very insightful. Unfortunately, they did not communicate to you or <strong>FANG</> what they saw. If what was captured is as valuable as they hint it to be, <strong>FANG</> needs to know. Hack into the terminal on <strong>QUARRY</> and download the footage. Good luck and get out.",
+      "text": "D'après ce qu'ils ont écrit, les images des caméras étaient très perspicaces. Malheureusement, ils ne vous ont pas communiqué. <strong>FANG</> Ce qu'ils ont vu. Si ce qui a été capturé est aussi précieux qu'ils l'indiquent, <strong>FANG</> Il faut savoir. <strong>QUARRIE</> et download les images. Bonne chance et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0016.Debriefing.Text.00",
+      "source": "If you did your job right they’ll never know you were there. Either way, nice job. <strong>FANG</> will go over the footage, and I’ll be in touch.",
+      "text": "Si vous avez bien fait votre travail, ils ne sauront jamais que vous étiez là. D'une façon ou d'une autre, beau travail. <strong>FANG</> Je vais passer en revue les images, et je serai en contact."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0016.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0017.A.Subtitle.00",
+      "source": "Now we wait to see what the <strong>VLF</> leadership does with their internal issues. Leadership has to take responsibilities for subordinates that are out of line, it's part of their job.",
+      "text": "Attendons de voir comment les dirigeants du <strong>VLF</> vont régler leurs problèmes internes. Ils doivent répondre des agissements de leurs subordonnés. Cela fait partie de leur rôle."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0017.B.Subtitle.00",
+      "source": "<strong>VLF</> weather data downloaded to GCPS. Well done.",
+      "text": "Les données météo du <strong>VLF</> ont été téléchargées sur le GCPS. Beau travail."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0017.Briefing.Text.00",
+      "source": "OBSERVER: Unfortunately, I am away and cannot record the briefing at this time, I'm dealing with other matters. I won’t be gone long and should be back by the time you are in the field, so you can still call with updates and observations. Below is your brief.",
+      "text": "M. OBSERVER : [interprétation] Malheureusement, je suis absent et je ne peux pas enregistrer le briefing en ce moment, j'ai affaire à d'autres questions. Je ne suis pas parti longtemps et devrait être de retour au moment où vous êtes sur le terrain, de sorte que vous pouvez toujours appeler avec des mises à jour et des observations. Voici votre mémoire."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0017.Briefing.Text.01",
+      "source": "From <strong>UICS</>: <strongitalic>CHARLES BARRELL</> <italic>//</> <strongitalic>FANG</> <italic>Operator // Operation Limelight: The footage from the cameras you placed surrounding the Market Building has revealed some involvement by</> <strongitalic>VLF</> <italic>soldiers. Covertly deliver the provided USB drive, with a copy of the footage, to the command room on</> <strongitalic>BUNKER</><italic>. Avoid being seen.</>",
+      "text": "À partir <strong>UICS</>: <strongitalic>CHARLES BARRELL</> <italic>//</> <strongitalic>FANG</> <italic>Opérateur // Opération Limelight: Les images des caméras que vous avez placées autour du Market Building ont révélé une certaine implication par</> <strongitalic>VLF</> <italic>soldats. Livrer secrètement le lecteur USB fourni, avec une copie de l'image, à la salle de commande sur</> <strongitalic>BUNKER</><italic>. Évitez d'être vu.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0017.Briefing.Text.02",
+      "source": "OBSERVER: <strong>FANG</> looked at the footage themselves, and, indeed, it does show <strong>VLF</> soldiers. In the video, soldiers lead a line of locals out the back of the Market and along the trail where you placed the cameras. The people are then loaded onto a truck and driven off. <strong>FANG</> analysis determined it to be an <strong>IGC</> truck. It seems some treacherous soldiers have been at work. <strong>UICS</> cannot expose any internal <strong>VLF</> issues right now without it being seen with suspicion. Hence, <strong>FANG</>'s involvement. Hopefully, <strong>VLF</> leadership takes action against the dirty segments in their ranks. I bet the next mission the <strong>VLF</> assigns you will be quite revealing; maybe you'll be asked to root them out yourself.",
+      "text": "OBSERVATEUR : <strong>FANG</> a regardé les images elles-mêmes, et, en effet, il montre <strong>VLF</> soldats. Dans la vidéo, les soldats mènent une ligne de locaux à l'arrière du marché et le long du sentier où vous avez placé les caméras. Les gens sont ensuite chargés dans un camion et chassés. <strong>FANG</> l'analyse a déterminé qu'il s'agissait <strong>IGC</> Il semble que des soldats traîtres soient au travail. <strong>UICS</> ne peut exposer aucun interne <strong>VLF</> Il n'y a pas de suspicion à ce sujet. <strong>FANG</>J'espère que c'est le cas. <strong>VLF</> Le leadership prend des mesures contre les segments sales de leurs rangs. Je parie que la prochaine mission <strong>VLF</> Vous serez tout à fait révélateur; peut-être vous sera-t-on demandé de les extirper vous-même."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0017.Briefing.Text.03",
+      "source": "Also, <strong>FANG</> needs you to get to a terminal while you are in <strong>BUNKER</> and download the <strong>VLF</>’s data for the final satellite operation. Its just a little bit of information, but <strong>FANG</> wants me to tell you about the purpose of the downloads:",
+      "text": "Aussi, <strong>FANG</> besoin de vous rendre à un terminal pendant que vous êtes dans <strong>BUNKER</> et download <strong>VLF</>Données pour l'exploitation finale du satellite. C'est juste un peu d'information, mais <strong>FANG</> Je veux vous parler du but des téléchargements :"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0017.Briefing.Text.04",
+      "source": "Each faction has access to historical weather data in areas that the satellite will not be able to cover. Obtaining this information will help ensure we have full coverage of the region.",
+      "text": "Chaque faction a accès à des données météorologiques historiques dans des zones que le satellite ne sera pas en mesure de couvrir. L'obtention de cette information nous aidera à assurer une couverture complète de la région."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0017.Briefing.Text.05",
+      "source": "For now, deliver the USB to the command room in <strong>BUNKER</>. Records show the room may not look like much, but <strong>UICS</> is sure the bosses will see it there. Oh, and don’t forget to download the weather data to your GCPS. Good luck and get out",
+      "text": "Pour l'instant, livrez l'USB à la salle de commande dans <strong>BUNKER</>. Les dossiers montrent que la pièce ne ressemble pas beaucoup, mais <strong>UICS</> est sûr que les patrons le verront là. Oh, et n'oubliez pas de télécharger les données météorologiques à votre GCPS. Bonne chance et sortez"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0017.Debriefing.Text.00",
+      "source": "Now that you’ve delivered the footage, we’ll need to wait and see how the <strong>VLF</> responds. What the hell are the <strong>VLF</> doing working with <strong>IGC</> at all in the first place? And well done, only one more faction to get that weather data from.",
+      "text": "Maintenant que vous avez livré les images, nous allons devoir attendre et voir comment le <strong>VLF</> Mais qu'est-ce que c'est ? <strong>VLF</> travailler avec <strong>IGC</> Tout d'abord ? Et bien joué, une seule faction de plus pour obtenir ces données météorologiques."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0017.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0018.A.Subtitle.00",
+      "source": "Each death is on <strong>SỪNG TRÂU</>, remember that. But, whatever his reasons, you’re done, head back to the safehouse.",
+      "text": "Chacune de ces morts est imputable à <strong>SỪNG TRÂU</>, ne l'oubliez pas. Quelles que soient ses raisons, vous avez terminé. Rentrez à la base."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0018.Briefing.Text.00",
+      "source": "<strong>VLF</> has assigned you a mission. My other tasks have been resolved for the moment, and I can be fully present, though I have been watching. A quick recap to ensure we are on the same page: You were sent to get a copy of the footage from the trail cameras, and through it both the <strong>UICS</> and <strong>FANG</> found evidence that the <strong>VLF</> was involved at the market. You dropped off a USB with the footage, hoping the <strong>VLF</> would deal with their own internal issues. Now, <strong>SỪNG TRÂU</> has assigned you a mission, though it’s not the response I am sure either of us expected. Here is what he said:",
+      "text": "<strong>VLF</> vous a assigné une mission. Mes autres tâches ont été résolues pour le moment, et je peux être pleinement présent, bien que j'aie regardé. Une récapitulation rapide pour s'assurer que nous sommes sur la même page: Vous avez été envoyé pour obtenir une copie des images des caméras de piste, et à travers elle les deux <strong>UICS</> et <strong>FANG</> a trouvé des preuves que les <strong>VLF</> Vous avez déposé une clé USB avec les images, en espérant que la <strong>VLF</> Ils s'occuperaient de leurs propres problèmes internes. <strong>SỪNG TRÂU</> vous a assigné une mission, bien que ce n'est pas la réponse que je suis sûr que l'un ou l'autre de nous attend. Voici ce qu'il a dit :"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0018.Briefing.Text.01",
+      "source": "<italic>I am impressed that you have not told others what you do for me. You do good by keeping up appearances by work with Leader</> <strongitalic>LÂM</> <italic>also. Lực lượng An ninh Liên lục địa [the</> <strongitalic>UICS</><italic>] have crossed the line. They attack the Mặt Trận Giải Phóng Việt Nam [</><strongitalic>VLF</><italic>]. They say they here to help our people but spy bọn tây left traces. They kill anh em giải phóng [Liberation Brothers] and</> <redacted>adskjflkasdjf dskfjkldsj fk dkjfkdf kdjfkdjfkdjfkd fjj</><italic>. Fight back!</>",
+      "text": "<italic>Je suis impressionné que vous n'ayez pas dit aux autres ce que vous faites pour moi. Vous faites du bien en gardant les apparences par le travail avec Leader</> <strongitalic>LÂM</> <italic>Il n'en reste pas moins qu'il n'y a pas d'autre solution.</> <strongitalic>UICS</><italic>] ont franchi la ligne. Ils attaquent le M't Tr'n Gi'i Phóng Vi't Nam</><strongitalic>VLF</><italic>]. Ils disent qu'ils sont ici pour aider notre peuple, mais espionne B.N. Tây laissé des traces. Ils tuent anh em gíi phóng [Frères de la Libération] et</> <redacted>DKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKDKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKHKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk</><italic>Bats-toi !</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0018.Briefing.Text.02",
+      "source": "He did not address the footage at all, and <strong>FANG</> has not noted large amounts of <strong>UICS</> slaughter in the way he implies. Those “traces” are probably the USB drive you left, though he’s still playing his cards close to his chest. Given their infighting, it may be that <strong>LÂM ALEXANDRE</> has not seen the footage if <strong>SỪNG TRÂU</> got to it first. It could be that <strong>SỪNG TRÂU</> is waiting before dealing with their internal problems… I’m sure you will be contacted to deal with those problems when the time comes. You’ve certainly become invaluable to him. Congrats. Anyway, your mission: take out a significant number of <strong>UICS</>. If you have ethical concerns, feel free to purge the especially violent ideologues among them. Good luck and get out.",
+      "text": "Il n'a pas parlé de la vidéo du tout, et <strong>FANG</> n'a pas noté de grandes quantités de <strong>UICS</> l'abattage de la manière qu'il implique. Ces Traces sont probablement la clé USB que vous avez laissée, bien qu'il joue encore ses cartes près de sa poitrine. Etant donné leur lutte, il se peut que <strong>LÂM ALEXANDE</> n'a pas vu les images si <strong>SỪNG TRÂU</> C'est peut-être la première fois que ça arrive. <strong>SỪNG TRÂU</> attend avant de traiter leurs problèmes internes... Je suis sûr que vous serez contacté pour traiter ces problèmes le moment venu. Vous êtes certainement devenu précieux pour lui. Félicitations. Quoi qu'il en soit, votre mission : <strong>UICS</>. Si vous avez des préoccupations éthiques, n'hésitez pas à purger les idéologues particulièrement violents parmi eux. Bonne chance et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0018.Debriefing.Text.00",
+      "source": "Let’s see if killing <strong>UICS</> soldiers triggers anything. So far we haven’t picked up any hint that they’re reacting to the footage by dealing with their potential internal corruption. We might need to force their hand, but I’m not sure. Let’s see what <strong>FANG</> decides to do.",
+      "text": "Voyons si on tue. <strong>UICS</> les soldats déclenchent tout. Jusqu'à présent, nous n'avons pas trouvé d'indice qu'ils réagissent aux images en traitant de leur possible corruption interne. Nous pourrions avoir besoin de forcer leur main, mais je ne suis pas sûr. Voyons voir. <strong>FANG</> décide de le faire."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0018.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0019.B.Subtitle.00",
+      "source": "Those are indeed the papers, must be something notable if <strong>IGC</> movements only now triggered a <strong>VLF</> red flag.",
+      "text": "Ce sont bien les documents recherchés. Ils doivent être importants pour que les mouvements de l'<strong>IGC</> aient enfin alerté le <strong>VLF</>."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0019.Briefing.Text.00",
+      "source": "<strong>VLF</> Leader <strong>LÂM ALEXANDRE</> has sent a mission where he seems worried about <strong>IGC</> movements. His eyes are turned towards <strong>DELTA</> and the <strong>IGC</> in a way that your previous <strong>VLF</> missions have not been. It could be a more genuine addressing of the military threat that the <strong>IGC</> poses to the <strong>VLF</>. This is what he sent:",
+      "text": "<strong>VLF</> Chef <strong>LÂM ALEXANDE</> a envoyé une mission où il semble inquiet <strong>IGC</> mouvements. Ses yeux sont tournés vers <strong>DELTA</> et les <strong>IGC</> d'une manière que votre précédent <strong>VLF</> Ce n'est pas le cas des missions. Il pourrait s'agir d'une réponse plus authentique à la menace militaire que représente le <strong>IGC</> pose à la <strong>VLF</>C'est ce qu'il a envoyé :"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0019.Briefing.Text.01",
+      "source": "<italic>I know</> <strongitalic>SỪNG TRÂU</> <italic>uses you for many missions. You will do this for me. Get the papers on troop movement from the command housing on</> <strongitalic>DELTA</><italic>. While</> <strongitalic>SỪNG TRÂU</> <italic>does not care about or enemy, I do.</>",
+      "text": "<italic>Je sais.</> <strongitalic>SỪNG TRÂU</> <italic>vous utilise pour de nombreuses missions. Tu feras ça pour moi. Obtenez les papiers sur le mouvement des troupes du logement du commandement sur</> <strongitalic>DELTA</><italic>. Pendant</> <strongitalic>SỪNG TRÂU</> <italic>ne se soucie ni de l'ennemi, je le fais.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0019.Briefing.Text.02",
+      "source": "It’s short. Seems a bit <italic>operational</>. A bit too normal a response if he had seen the footage or heard about what it contained from the other <strong>VLF</> leadership. It's certainly something to note. Also, <strong>FANG</> wants you to use this opportunity to download the last of the faction weather data. I’ve been authorized to share the following:",
+      "text": "C'est un peu court. <italic>opérationnel</>. Un peu trop normal une réponse s'il avait vu la vidéo ou entendu ce qu'elle contenait de l'autre <strong>VLF</> C'est certainement quelque chose à noter. <strong>FANG</> veut que vous profitiez de cette occasion pour télécharger la dernière des données météo de faction. L'entreprise a été autorisée à partager les éléments suivants :"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0019.Briefing.Text.03",
+      "source": "The last piece of the satellite antenna is inbound through the same <strong>IGC</> trucks. It will not arrive for several days. Given the imminent completion of the antenna, it is now important that you know about its operation. The satellite that will periodically orbit over Vietnam reads, among other things, temperature data. This is the same reason you are acquiring each faction’s regional weather data. Due to the positioning of the satellite, its readings cannot cover the full region needed. The data you have been collecting fills in those gaps. These specific temperature readings include the W-Band, 75 to 110 GHz, our primary region of interest. Upon completing the satellite connection, <strong>FANG</> will be able to spot anomalies in the region.",
+      "text": "Le dernier morceau de l'antenne satellite est entré par la même <strong>IGC</> Des camions. Il n'arrivera pas pendant plusieurs jours. Étant donné l'achèvement imminent de l'antenne, il est maintenant important que vous sachiez son fonctionnement. Le satellite qui sera périodiquement en orbite au-dessus du Vietnam lit, entre autres, des données de température. C'est la même raison pour laquelle vous acquérez chaque faction des données météorologiques régionales. En raison du positionnement du satellite, ses lectures ne peuvent couvrir toute la région nécessaire. Les données que vous collectez comblent ces lacunes. Ces valeurs de température spécifiques incluent le W-Band, 75 à 110 GHz, notre principale région d'intérêt. Une fois la connexion par satellite achevée, <strong>FANG</> sera en mesure de repérer des anomalies dans la région."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0019.Briefing.Text.04",
+      "source": "<strong>FANG</> are still being cagey, aren't they? But what you need to complete is clear. Quick recap: <strong>DELTA</>, command housing papers, communication building, download GCPS temperature data, good luck, get out.",
+      "text": "<strong>FANG</> sont toujours en cage, n'est-ce pas ? Mais ce que vous devez compléter est clair. Récapitulation rapide : <strong>DELTA</>, commande les papiers de logement, le bâtiment de communication, télécharger les données de température GCPS, bonne chance, sortir."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0019.Debriefing.Text.00",
+      "source": "Nicely done. I wonder what the <strong>VLF</> will do with that troop movement information. <strong>FANG</> will also analyze what you sent over in case it’s helpful to their cause. If any of the findings are relevant to you or your mission, it will show up on your terminal.",
+      "text": "Bien fait. Je me demande ce que le <strong>VLF</> Il s'agira de l'information sur les mouvements des troupes. <strong>FANG</> analysera également ce que vous avez envoyé au cas où il serait utile à leur cause. Si l'une ou l'autre des constatations est pertinente pour vous ou votre mission, elle apparaîtra sur votre terminal."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0019.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0020.A.Subtitle.00",
+      "source": "Fuck, did you say the trucks are filled with marble?.... <strong>UICS</>…. They must have intercepted the shipments. Those must be from <strong>QUARRY</> West of here … Double check to make sure the package is not in the rest of the trucks, then get out, it might have gotten lost or something worse. The paper-only <strong>IGC</> system means it's too damn easy to have their trucks go missing or be where they are not supposed to be...",
+      "text": "Merde, vous avez dit que les camions transportent du marbre ? L'<strong>UICS</>... Ils ont dû intercepter les livraisons. Cela vient sûrement de <strong>QUARRY</>, à l'ouest d'ici. Vérifiez les autres camions pour être sûr que le colis n'y est pas, puis partez. Il a peut-être été perdu... ou pire. Avec le système entièrement sur papier de l'<strong>IGC</>, leurs camions disparaissent ou se retrouvent au mauvais endroit bien trop facilement..."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0020.Briefing.Text.00",
+      "source": "It is finally time. The third and final piece to get the satellite connection online is en route and should be in the same trucks in box 0610001. <strong>FANG</> reported that each earlier stage of getting it to you was a success. All that's left is for you to locate the truck and bring back the part. It's smaller than the others, but still don't go in with a full pack. <strong>FANG</> also finally sees fit to tell you the following:",
+      "text": "Il est enfin temps. La troisième et dernière pièce pour obtenir la connexion satellite en ligne est en route et devrait être dans les mêmes camions dans la boîte 0610001. <strong>FANG</> a déclaré que chaque étape antérieure de l'obtention à vous était un succès. Il ne vous reste plus qu'à localiser le camion et ramener la pièce. C'est plus petit que les autres, mais n'y va toujours pas avec un paquet complet. <strong>FANG</> Enfin, il est bon de vous dire ce qui suit :"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0020.Briefing.Text.01",
+      "source": "<strong>FANG</> has many partners. Your assignment in Vietnam was ordered by the international company, TELOCK. You may have already seen their presence. While primarily they operate in logistics, the reason you are here is to find a piece of equipment from their medical branch. This equipment is used in hospitals for important procedures, but, due to its high-powered nature, it can be used for harm in the wrong hands. Its use creates small spikes in frequency bands that both the faction weather data and the satellite pick up. Tracking down that medical equipment will be your next focus once the antenna is operational.",
+      "text": "<strong>FANG</> a de nombreux partenaires. Votre mission au Vietnam a été ordonnée par la société internationale, TELOCK. Vous avez peut-être déjà vu leur présence. Alors qu'ils opèrent principalement dans la logistique, la raison pour laquelle vous êtes ici est de trouver une pièce d'équipement de leur branche médicale. Cet équipement est utilisé dans les hôpitaux pour des procédures importantes, mais, en raison de sa grande puissance, il peut être utilisé pour des dommages dans les mauvaises mains. Son utilisation crée de petits pics dans les bandes de fréquences que les données météorologiques de faction et le satellite captent. Surveiller l'équipement médical sera votre prochain objectif dès que l'antenne sera opérationnelle."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0020.Briefing.Text.02",
+      "source": "Sometimes their level of “professionalism” really gets in the way. I think this is the kind of information you should have known earlier. At least now you know what you’re doing here. But you are not quite there yet. Get this last piece. Good luck, get out.",
+      "text": "Parfois, leur niveau de professionalisme se trouve vraiment dans le chemin. Je pense que c'est le genre d'information que vous auriez dû connaître plus tôt. Au moins maintenant tu sais ce que tu fais ici. Mais vous n'y êtes pas encore. Prends ce dernier morceau. Bonne chance, sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0020.Debriefing.Text.00",
+      "source": "<strong>FANG</> has just identified that the shipment intended for <strong>DELTA</> was intercepted just before arrival. New mission: locate the missing shipping container somewhere on <strong>QUARRY</>.",
+      "text": "<strong>FANG</> vient d'identifier que l'expédition destinée à <strong>DELTA</> a été intercepté juste avant l'arrivée. Nouvelle mission: trouver le conteneur d'expédition manquant quelque part sur <strong>QUARRIE</>."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0020.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0021.Briefing.Text.00",
+      "source": "The person responsible for the oversight in transportation of the antenna pieces has been dealt with. <strong>FANG</> is now <italic>certain</> that the shipment was intercepted by <strong>UICS</> <italic>before</> it ever reached <strong>DELTA</>. It is most likely in a shipping container near the <strong>QUARRY</> military base. At least, that is <strong>FANG</>’s best guess. Once again, you are still looking for box 0610001. It will look similar to the last two. Watch your six extremely carefully. You are close. Good luck, get out.",
+      "text": "La personne responsable de la surveillance dans le transport des pièces d'antenne a été traitée. <strong>FANG</> est maintenant <italic>certains</> que l'envoi a été intercepté par <strong>UICS</> <italic>avant</> jamais atteint <strong>DELTA</>. Il est plus probable dans un conteneur d'expédition près de la <strong>QUARRIE</> Au moins, c'est la base militaire. <strong>FANG</>C'est mieux de deviner. Encore une fois, vous êtes toujours à la recherche de la boîte 0610001. Ça ressemblera aux deux derniers. Surveillez vos six très attentivement. Vous êtes proches. Bonne chance, sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0021.Debriefing.Text.00",
+      "source": "Congratulations! You found it! We can now really get underway here. The installation itself requires a couple different steps but you are close.",
+      "text": "Félicitations ! Vous l'avez trouvé ! Nous pouvons maintenant vraiment commencer ici. L'installation elle-même nécessite deux étapes différentes, mais vous êtes proche."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0021.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.A.Subtitle.00",
+      "source": "Well, certainly looks like he’s been here. This is a good step in convincing the <strong>UICS</> that he was involved.",
+      "text": "Il semble bien être passé ici. Voilà de quoi convaincre l'<strong>UICS</> de son implication."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.B.Subtitle.00",
+      "source": "Glad to hear he didn’t cover his tracks that well, makes proving his presence easier.",
+      "text": "Heureusement qu'il n'a pas mieux couvert ses traces. Sa présence sera plus facile à prouver."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.Briefing.Text.00",
+      "source": "<strong>FANG</> wants you to get the satellite antenna installed as soon as possible, but something else has come up first. Until this is resolved, <strong>FANG</> is pausing work on the satellite antenna installation. <strong>FANG</> sent the following:",
+      "text": "<strong>FANG</> veut que vous installiez l'antenne satellite le plus tôt possible, mais quelque chose d'autre est arrivé en premier. Jusqu'à ce que cela soit résolu, <strong>FANG</> est en train d'arrêter les travaux sur l'installation de l'antenne satellite. <strong>FANG</> a envoyé ce qui suit:"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.Briefing.Text.01",
+      "source": "Footage captured from the cameras you placed on <strong>DELTA</> have revealed the identity of one of the individuals — <strong>SỪNG TRÂU</>. If he is involved to the degree we think, the least of his crimes include human trafficking while employing the use of the <strong>IGC</> truck shipping routes. At this time, <strong>FANG</> needs any further actions against him to come from the <strong>UICS</>, but they seem hesitant, so you will need to convince them with more evidence. A defining characteristic of <strong>SỪNG TRÂU</> is his obsession with HỔ ĐÒ cigarettes, possibly going so far as to use them for his secret message system. Even more peculiar, his favorite snack, a condensed creamer. He seems particularly fond of a label-misprint edition. This quirk is also known by the <strong>UICS</>. <strong>FANG</> believes both the cigarettes and creamer could be present in two important locations and may be helpful in convincing the <strong>UICS</> of his involvement.",
+      "text": "Pieds capturés dans les caméras que vous avez placées <strong>DELTA</> ont révélé l'identité de l'un des individus — <strong>SỪNG TRÂU</>. S'il est impliqué dans la mesure où nous pensons, le moins de ses crimes comprennent la traite des êtres humains tout en employant le <strong>IGC</> Les routes d'expédition des camions. <strong>FANG</> a besoin de nouvelles actions contre lui pour venir de la <strong>UICS</>, mais ils semblent hésitants, donc vous aurez besoin de les convaincre avec plus de preuves. Une caractéristique déterminante de <strong>SỪNG TRÂU</> c'est son obsession pour les cigarettes H.I.I., allant peut-être jusqu'à les utiliser pour son système de message secret. Plus étrange encore, sa collation préférée, une crème condensée. Il semble particulièrement attaché à une édition label-misprint. Ce quirk est également connu par les <strong>UICS</>. <strong>FANG</> la cigarette et le crèmeur pourraient être présents dans deux endroits importants et pourraient être utiles pour convaincre les <strong>UICS</> de son implication."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.Briefing.Text.02",
+      "source": "I've been instructed to relay the rest myself. Almost like they acknowledge it requires a more personal touch sometimes. Anyway…",
+      "text": "J'ai reçu l'ordre de transmettre le reste moi-même. Presque comme ils reconnaissent qu'il faut parfois une touche plus personnelle. Bref..."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.Briefing.Text.03",
+      "source": "The first location is the Market. Investigate thoroughly and bring back any items that match the above descriptions.",
+      "text": "Le premier endroit est le Marché. Examinez attentivement et rapportez tous les éléments qui correspondent aux descriptions ci-dessus."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.Briefing.Text.04",
+      "source": "The second location is a spacious alley elsewhere on <strong>DELTA</>. Video forensics has linked several trafficked locals to their previous routines around that area. <strong>FANG</> believes that the space may be used as a part of a trafficking operation that involves sending locals to the Market.",
+      "text": "Le deuxième emplacement est une ruelle spacieuse ailleurs sur <strong>DELTA</>. La police judiciaire a établi un lien entre plusieurs locaux victimes de la traite et les routines qu'ils avaient suivies dans la région. <strong>FANG</> estime que l'espace peut être utilisé dans le cadre d'une opération de trafic impliquant l'envoi de locaux vers le marché."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.Briefing.Text.05",
+      "source": "Well… that concludes what I’ve been required to communicate. No wonder <strong>SỪNG TRÂU</> didn’t act on the information you delivered. If he is indeed responsible for human trafficking, he must have kept the footage from getting out. Just…. This job can get to you if you are not careful, working for people like him. Also, how weird is this guy’s taste! Condensed cream? His taste is definitely odd, but <strong>UICS</> knows that about him too.",
+      "text": "Et bien... ça conclut ce qu'on m'a demandé de communiquer. <strong>SỪNG TRÂU</> n'a pas agi sur les informations que vous avez fournies. S'il est effectivement responsable de la traite des êtres humains, il a dû empêcher les images de sortir. Juste... Ce travail peut vous atteindre si vous n'êtes pas prudent, travaillant pour des gens comme lui. Aussi, à quel point ce type a un goût bizarre ! De la crème condensée ? Son goût est définitivement étrange, mais <strong>UICS</> Ça aussi, c'est connu."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.Briefing.Text.06",
+      "source": "But, to summarize, confirm if it really is him by searching the alley and Market, finding <strong>SỪNG TRÂU</>’s personal clues, and turning the items over to <strong>FANG</> and <strong>UICS</> in the safehouse. Good luck and get out.",
+      "text": "Mais, pour résumer, confirmez si c'est vraiment lui en cherchant l'allée et le marché, en trouvant <strong>SỪNG TRÂU</>C'est des indices personnels, et de remettre les objets à <strong>FANG</> et <strong>UICS</> dans le base. Bonne chance et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.Debriefing.Text.00",
+      "source": "That seals it, <strong>SỪNG TRÂU</> really was the one involved. Undone by cigarettes and cream. Get back to the safehouse and prepare, we both know what your next mission will be.",
+      "text": "Ça scelle, <strong>SỪNG TRÂU</> C'était vraiment celui qui était impliqué. Undone par les cigarettes et la crème. Retournez au base et préparez-vous, nous savons tous les deux quelle sera votre prochaine mission."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0022.X.Subtitle.00",
+      "source": "You’re calling me in to say you found, what, more cream cans? I guess finding them on the trail itself is good evidence, bring it back too.",
+      "text": "Vous m'appelez pour me dire que vous avez trouvé... encore des boîtes de crème ? Les trouver directement sur la piste constitue une preuve intéressante. Rapportez-les aussi."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0023.A.Subtitle.00",
+      "source": "Congratulations Operator, you’ve taken out a corrupt leader of the <strong>VLF</> and moved the end of this conflict one step closer. You’ve put an end to an evil that has been starving and then kidnapping his own people. The people of Vietnam are in your debt. Get out now.",
+      "text": "Félicitations, Opérateur. Vous avez éliminé un dirigeant corrompu du <strong>VLF</> et rapproché la fin de ce conflit. Vous avez mis fin aux agissements d'un homme qui affamait puis enlevait sa propre population. Le peuple vietnamien vous est redevable. Maintenant, partez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0023.Briefing.Text.00",
+      "source": "Your effort collecting cans wasn’t for nothing, Operator. The <strong>UICS</> has agreed that there needs to be action, and the evidence you’ve sent has corroborated their own findings. They have given the following mission:",
+      "text": "Votre effort de collecte de canettes n'était pas pour rien, Opérateur. <strong>UICS</> a convenu qu'il faut agir, et les preuves que vous avez envoyées ont corroboré leurs propres constatations. Ils ont donné la mission suivante :"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0023.Briefing.Text.01",
+      "source": "<italic>[From]</> <strongitalic>DALIA SLOAN</> <italic>// [to]</> <strongitalic>FANG</> <italic>Operator // Operation Out of The Basement:</> <strongitalic>SỪNG TRÂU</> <italic>of the</> <strongitalic>VLF</> <italic>has been engaged in the human trafficking of Vietnamese locals. While they approach the Market and walk out willingly, evidence shows they are coerced with starvation and a promise of food, all under the name of a scientific “study.”</> <strongitalic>VLF</> <italic>food stores have been running low, and our Humanitarian Aid Sites have been met with hostility, preventing local people from coming to us for food. Once they have been guided out of the market, they board a truck that delivers the people to the locked warehouses elsewhere on</> <strongitalic>DELTA</><italic>. The bugs you placed there were essential in making this connection. The purpose of this system is unclear, but working with the</> <strongitalic>IGC</> <italic>and the starvation of his own people is enough to condemn</> <strongitalic>SỪNG TRÂU</><italic>. Kill him.</>",
+      "text": "<italic>[De]</> <strongitalic>DALIA SLOAN</> <italic>// [à]</> <strongitalic>FANG</> <italic>Opérateur // Opération hors du sous-sol :</> <strongitalic>SỪNG TRÂU</> <italic>des</> <strongitalic>VLF</> <italic>a été impliqué dans le trafic d'êtres humains des habitants vietnamiens. Alors qu'ils s'approchent du marché et sortent volontairement, les preuves montrent qu'ils sont contraints de mourir de faim et d'une promesse de nourriture, tous sous le nom d'une étude scientifique.</> <strongitalic>VLF</> <italic>les magasins de nourriture sont bas, et nos sites d'aide humanitaire ont été accueillis avec hostilité, empêchant les populations locales de venir nous chercher de la nourriture. Une fois qu'ils ont été guidés hors du marché, ils embarquent dans un camion qui livre les gens aux entrepôts verrouillés ailleurs sur</> <strongitalic>DELTA</><italic>. Les bogues que vous avez placés là étaient essentiels pour faire cette connexion. Le but de ce système n'est pas clair, mais travailler avec les</> <strongitalic>IGC</> <italic>et la famine de son propre peuple suffit à condamner</> <strongitalic>SỪNG TRÂU</><italic>Tuez-le.</>"
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0023.Briefing.Text.02",
+      "source": "Removing <strong>SỪNG TRÂU</> will no doubt be a great gift to Red River. How many of those missing person posters have you seen that could all be linked to this? When he's not committing war crimes, <strong>SỪNG TRÂU</> usually operates in the center of <strong>BUNKER</>. Time is of the essence, so terminate him now at <strong>BUNKER</>. Good luck, kill him, and get out.",
+      "text": "Suppression <strong>SỪNG TRÂU</> sera sans doute un grand cadeau à la Rivière-Rouge. Combien d'affiches de personnes disparues avez-vous vu que tout cela pourrait être lié à ça ? Quand il ne commet pas de crimes de guerre, <strong>SỪNG TRÂU</> fonctionne généralement dans le centre de <strong>BUNKER</>. Le temps est de l'essence, alors terminez-le maintenant à <strong>BUNKER</>Bonne chance, tuez-le et sortez."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0023.Debriefing.Text.00",
+      "source": "Good work. <strong>FANG</>’s not sure what the key you found on his body opens, but they will analyze it and find out. Also, the letter you found on his body is heavily redacted, but <strong>FANG</> will look it over, too. Well done so far, and be ready for your next mission. I’m not supposed to say this, but taking him out feels like a breath of fresh air. Time will tell how the <strong>VLF</> respond to the death of their leader and the power vacuum it leaves, but I can only hope this brings about the betterment of Vietnam.",
+      "text": "Bon travail. <strong>FANG</>Il ne sait pas ce que la clé que vous avez trouvé sur son corps s'ouvre, mais ils l'analyseront et le découvriront. De plus, la lettre que vous avez trouvée sur son corps est fortement expurgée, mais <strong>FANG</> Je vais regarder ça aussi. Bien joué jusqu'ici, et soyez prêt pour votre prochaine mission. Je ne suis pas censé dire ça, mais l'enlever ressemble à un souffle d'air frais. Le temps dira comment les <strong>VLF</> répondre à la mort de leur leader et au vide de pouvoir qu'il laisse, mais je ne peux qu'espérer que cela apporte l'amélioration du Vietnam."
+    },
+    {
+      "ns": "StoryMissionBriefing",
+      "key": "0023.Debriefing.Text.01",
+      "source": "As always, let me know if you have any of the following: Headaches, dizziness, balance issues, high temp, shortness of breath, or nausea.",
+      "text": "Comme toujours, dites-moi si vous avez l'un des symptômes suivants : maux de tête, vertiges, problèmes d'équilibre, température élevée, essoufflement ou nausées."
+    },
+    {
+      "ns": "UObjectToolTips",
+      "key": "CharacterMontageSet:TP_Animation",
+      "source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTag StringPayload;",
+      "text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTag StringPayload;"
+    },
+    {
+      "ns": "UObjectToolTips",
+      "key": "ContainerItem:CanStack",
+      "source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;",
+      "text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFItemDimensions CurrentDimensions;"
+    },
+    {
+      "ns": "UObjectToolTips",
+      "key": "ContainerItem:CurrentState",
+      "source": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below",
+      "text": "UPROPERTY(EditAnywhere, BlueprintReadWrite)\nFGameplayTagContainer CurrentEquipToRequirements;\nTODO Rename to state and stats and remove everything below"
+    },
+    {
+      "ns": "UObjectToolTips",
+      "key": "ContainerItem:ItemDimensions",
+      "source": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;",
+      "text": "UPROPERTY(EditAnywhere, BlueprintReadWrite, Transient)\n       TArray<FGuid> RequiredFromItemUIDs;"
+    },
+    {
+      "ns": "UObjectToolTips",
+      "key": "MagMontageSet:OpenChamberMagCheckMontageSet",
+      "source": "Only necessary for specific weapons like SKS, can be left empty otherwise",
+      "text": "Nécessaire uniquement pour certaines armes, comme le SKS. Peut rester vide dans les autres cas."
+    }
+  ]
+}

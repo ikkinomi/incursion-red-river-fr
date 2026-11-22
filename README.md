@@ -1,105 +1,60 @@
 # Incursion Red River — Traduction française
 
-Patch français non officiel pour **Incursion Red River 1.4.0.2** (build Steam **26596277**).
+Traduction communautaire pour **Incursion Red River 1.4.0.4**, build Steam **26761568**.
 
-**Patch 0.1.7 bêta.** Le lancement du jeu et l’affichage en français ont été confirmés en jeu sur le build Steam **26596277**.
+**Version 0.1.8 bêta.** Le démarrage et le menu français ont été vérifiés. Le joueur a également confirmé le fonctionnement lors de son essai en partie.
 
-[Télécharger le ZIP de la 0.1.7 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.1.7-beta/Incursion_Red_River_FR_1.4.0.2_v0.1.7-beta.zip) · [Voir la publication GitHub](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.7-beta)
+[Télécharger la 0.1.8 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.1.8-beta/Incursion_Red_River_FR_1.4.0.4_v0.1.8-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.8-beta)
 
-## Installation
+## Migration depuis la 0.1.7 et les versions précédentes
 
-1. Fermez le jeu.
-2. Téléchargez le ZIP ci-dessus et extrayez-le.
-3. Dans Steam : **Incursion Red River → Propriétés → Fichiers installés → Parcourir**.
-4. Copiez le dossier `Test_C` de l’archive dans le dossier du jeu, généralement nommé `PROJECT QUARANTINE`. Pour mettre à jour une ancienne version, acceptez le remplacement de `pakchunk99-French_P.pak`.
-5. Vérifiez la présence de ce seul fichier ajouté :
+**Fermez le jeu et désactivez l’ancien patch avant d’installer la 0.1.8.**
 
-   ```text
-   PROJECT QUARANTINE/
-   └── Test_C/
-       └── Content/
-           └── Paks/
-               └── pakchunk99-French_P.pak
-   ```
+1. Dans Steam, ouvrez **Incursion Red River → Propriétés → Fichiers installés → Parcourir**.
+2. Ouvrez `Test_C/Content/Paks`.
+3. Renommez uniquement `pakchunk99-French_P.pak` en `pakchunk99-French_P.pak.disabled`, ou déplacez ce fichier dans un dossier de sauvegarde hors du jeu.
+4. Installez ensuite le dossier `fr` selon les étapes ci-dessous.
 
-6. Lancez le jeu. Gardez **English** ou **Français (patch)** dans le réglage de langue : le patch utilise l'emplacement anglais.
+L’ancien patch remplaçait des composants du jeu prévus pour une version antérieure. La 0.1.8 utilise le système de langues communautaires intégré au jeu depuis les derniers hotfixes.
 
-Aucun injecteur ni UE4SS n'est nécessaire. L'installation ajoute une archive de traduction séparée, sans remplacer les archives originales et sans modifier les sauvegardes.
+## Installation de la 0.1.8
 
-## Avertissement au démarrage
+1. Lancez le jeu une fois pour qu’il crée son dossier de traductions, puis fermez-le.
+2. Téléchargez et extrayez le ZIP ci-dessus.
+3. Appuyez sur **Windows + R**, saisissez `%LOCALAPPDATA%\Test_C\Saved\Translations`, puis validez.
+4. Copiez le dossier **`fr`** de l’archive dans ce dossier. Le résultat doit être `Translations/fr/fr_001.json`, avec les autres fichiers JSON à côté.
+5. Lancez le jeu et choisissez **Français** dans **Paramètres → Langue**. L’ancien choix **English / Français (patch)** concernait les versions précédentes.
 
-Depuis le hotfix 1.4.0.2, le jeu peut afficher « Mods are installed » en anglais et lister `pakchunk99-French_P.pak`. Si le jeu démarre normalement, fermez la fenêtre pour accéder au menu. Le message peut réapparaître après une mise à jour du jeu ou une modification des mods.
+Lors d’une prochaine mise à jour de la traduction, jeu fermé, remplacez les fichiers de votre dossier `fr` avec ceux de la nouvelle archive.
 
-## Désactivation
+## Nouveautés et validation
 
-Jeu fermé, renommez `pakchunk99-French_P.pak` en `pakchunk99-French_P.pak.disabled`. Pour réactiver la traduction, remettez son nom d'origine.
+- Migration vers le format JSON pris en charge par le jeu.
+- 6 773 textes du modèle courant chargés et 96 entrées supplémentaires acceptées par le moteur.
+- 50 entrées nouvelles ou modifiées prises en charge, notamment les annonces de ressources, les invites des coffres et « Récupérer » les récompenses.
+- Le rapport du jeu indique **0 erreur de formatage et 0 fichier illisible**.
+- 25 libellés d’outils d’édition ou identifiants internes restent en anglais.
 
-Vous pouvez aussi retirer uniquement ce fichier du dossier `Paks`.
+Les traductions des noms propres et les corrections précédentes, dont **Discord**, **NVIDIA Reflex / Boost** et **Boîte de munitions vide**, sont reprises lorsqu’elles correspondent aux sources actuelles. Des maladresses ou textes absents du modèle peuvent subsister. Chaque mission et chaque écran n’ont pas été testés individuellement.
 
-## Adaptation 0.1.7
+## Si le jeu plante au démarrage
 
-La 0.1.7 adapte 79 entrées nouvelles ou modifiées, dont les réglages IA, une réplique de mission et le message de piratage. L’inventaire affiche aussi « Vivres ». Les corrections précédentes sont incluses. [Rapport d’audit](docs/VALIDATION.md) · [Textes ajoutés ou corrigés](translations/update-1.4.0.2-fr.csv)
+Vérifiez d’abord que l’ancien `pakchunk99-French_P.pak` est désactivé. Un essai sur le PC de test a également révélé une erreur DirectX `DXGI_ERROR_INVALID_CALL` en plein écran à 3440 × 1440. Un démarrage en mode fenêtré a permis d’atteindre le menu. Ce résultat concerne la configuration testée et ne constitue pas une correction universelle de tous les plantages.
 
-## Correction 0.1.6
+Si Steam signale des fichiers corrompus, utilisez **Propriétés → Fichiers installés → Vérifier l’intégrité des fichiers du jeu**.
 
-Le bouton **Discord** du menu principal conserve le nom du service au lieu de « Discorde ».
+## Désactivation et diagnostic de la traduction
 
-## Correction 0.1.5
+Choisissez une autre langue dans les paramètres. Pour retirer la traduction, jeu fermé, déplacez le dossier `fr` hors de `Translations`.
 
-Le nom de l'objet **Empty Ammo Can** devient **Boîte de munitions vide**, dans la ressource principale et dans la table de noms d'objets.
-
-## Correction 0.1.4
-
-L'option **Boost** de **Nvidia Reflex** conserve son nom d'origine dans la ressource de langue et dans le menu graphique. Elle n'est plus affichée comme « Coup de pouce ».
-
-## Corrections 0.1.3
-
-- Libellés des emplacements d'équipement traduits dans leur composant d'affichage, avec conservation des identifiants et des noms de modèles.
-- 49 répliques radio supplémentaires traduites manuellement, dont l'introduction de Quarry.
-- 86 entrées ajoutées pour Quarry, Delta, Outskirts et Bunker, portant la ressource principale à 6 756 entrées.
-- TactiNav : « Données satellite : OFF » pour l'état non chargé existant, sans modification de la logique du satellite.
-- Correctifs précédents conservés et titre **Incursion Red River** inchangé.
-
-## Corrections 0.1.2
-
-- Le titre du jeu reste **Incursion Red River**.
-- Titres et emplacements de l'inventaire en raid traduits.
-- Avertissement sur l'emplacement permanent du TactiNav traduit à l'affichage.
-- 25 répliques de voix off identifiées, relues manuellement et intégrées aux données des missions.
-- Textes intégrés des interfaces et des missions repris, dont dix composants du TactiNav.
-- Fonctions qui ne nécessitent aucun changement conservées à l'identique.
-- Correctif des catégories du marchand de la 0.1.1 conservé.
-
-Les fichiers reconstruits ont été relus pour contrôler leur contenu, les instructions modifiées et les traductions attendues. Cette version reste une bêta : le résultat de chaque sous-titre, écran ou situation doit encore être confirmé en jeu.
-
-## Correction des catégories du marchand
-
-Cette version traduit les catégories et sous-catégories du marchand : Munitions, Canon, Poignée avant, Conteneurs, etc. Une table de libellés dédiée est ajoutée, car ces noms étaient générés directement à partir des identifiants internes. Ces identifiants et le fonctionnement des filtres sont conservés.
-
-L’onglet « Sécuriser le marché » devient « Marché officiel ».
-
-## Contenu
-
-- 6 834 entrées dans la ressource principale, dont 86 entrées supplémentaires issues des cartes.
-- Traduction automatique locale comme base de travail.
-- 1 383 textes distincts corrigés manuellement, principalement les menus, actions, soins, objectifs courts, tutoriels et réglages.
-- Lexique contrôlé pour les composants d'armes.
-- Variables, balises et noms de fichiers vérifiés après compilation.
-
-Les noms de marques, modèles, identifiants et commandes à saisir dans les terminaux sont conservés quand nécessaire. Les voix ne sont pas doublées.
-
-## Limites connues
-
-Cette traduction est en bêta. Les longs briefings et certaines descriptions n'ont pas tous été relus intégralement : des maladresses ou approximations peuvent subsister. Des textes codés en dur, contenus dans des images ou provenant d'autres ressources peuvent rester en anglais. Tous les écrans, toutes les résolutions et le multijoueur n'ont pas été validés.
-
-Cette version cible le jeu 1.4.0.2, build Steam 26596277. Après une mise à jour du jeu, de nouveaux textes ou des textes modifiés peuvent rester en anglais. Désactivez le patch si vous constatez un problème.
+Le jeu écrit `_Report.txt` et `_Todo_*.json` dans le dossier de langue. Ces fichiers indiquent les textes chargés, manquants ou à adapter après une mise à jour. Les fichiers commençant par `_` sont des rapports générés par le jeu.
 
 ## Signaler une correction
 
-Ouvrez une [issue](https://github.com/ikkinomi/incursion-red-river-fr/issues) en indiquant la version du jeu, l'écran concerné, le texte observé et la correction proposée. Une capture aide à repérer un texte coupé ou mal placé.
+Indiquez la version du jeu, le texte concerné et, si possible, une capture. [Signaler un problème](https://github.com/ikkinomi/incursion-red-river-fr/issues)
 
-Les traductions éditables sont dans [`translations/fr.csv`](translations/fr.csv), avec les noms de catégories dans [`translations/categories-fr.json`](translations/categories-fr.json) et les répliques relues dans [`translations/subtitles-fr.json`](translations/subtitles-fr.json). Conservez les identifiants de la colonne `key` et les variables comme `{count}` ou `{x}`, les balises comme `<Red>...</>`, les noms de fichiers et les commandes à saisir. Les ajouts issus des cartes sont aussi disponibles dans [`translations/map-texts-fr.csv`](translations/map-texts-fr.csv). Une modification du CSV nécessite une recompilation du patch pour apparaître en jeu.
+Les fichiers éditables actuels se trouvent dans [`translations/fr`](translations/fr). Conservez `ns`, `key`, `source`, les variables et les balises. Modifiez le champ `text`, puis changez de langue et revenez au français pour recharger les traductions. Les anciens CSV restent disponibles comme références historiques.
 
-Voir aussi les [contrôles effectués](docs/VALIDATION.md), les [notes de version](RELEASE_NOTES.md) et les [crédits](CREDITS.md).
+[Validation](docs/VALIDATION.md) · [Historique](CHANGELOG.md) · [Crédits](CREDITS.md)
 
-Projet communautaire non officiel, sans affiliation avec les développeurs du jeu.
+Projet communautaire non officiel.

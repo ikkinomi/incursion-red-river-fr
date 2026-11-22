@@ -1,50 +1,14 @@
 {
-  "build": "26596277",
-  "packages": 26,
-  "indexed_files": 99812,
-  "compared_files": {
-    "identical": 687,
-    "baseline_missing": 248,
-    "new": 1,
-    "changed": 21
-  },
-  "patch_overrides": {
-    "identical": 524,
-    "changed": 13,
-    "absent": 4
-  },
-  "old_locres": 6670,
-  "new_locres": 6746,
-  "locres_delta": 79,
-  "locres_new_keys": 76,
-  "locres_removed": 0,
-  "embedded_delta": 197,
-  "embedded_not_in_locres": 37,
-  "game_locales": [
-    "Test_C/Content/Localization/Game/de/Game.locres",
-    "Test_C/Content/Localization/Game/en/Game.locres",
-    "Test_C/Content/Localization/Game/es-ES/Game.locres",
-    "Test_C/Content/Localization/Game/ja/Game.locres",
-    "Test_C/Content/Localization/Game/ko/Game.locres",
-    "Test_C/Content/Localization/Game/ru/Game.locres",
-    "Test_C/Content/Localization/Game/zh-Hans/Game.locres"
-  ],
-  "game_version": "1.4.0.2",
-  "patch_version": "0.1.7-beta",
-  "compiled_entries": 6834,
-  "map_entries_revalidated": 86,
-  "carried_asset_pairs": 262,
-  "rebased_asset_pairs": 7,
-  "rebased_text_fields": 91,
-  "removed_asset_pairs": [
-    "Test_C/Content/Blueprints/MissionSystem/DataAssets/Factions/BLUEFOR/ADLER/Contracts/Bunker/Sabotage/DA_BLUEFOR_ADLER_Contract_Bunker_Sabotage_Jammer_A"
-  ],
-  "package_files": 539,
-  "all_source_hashes_verified": true,
-  "compiled_translations_verified": true,
-  "visual_validation": "startup_and_french_display_confirmed_by_player",
-  "patch_sha256": "3d0ce5de86ebac1aef8d46942da456c40c824c4b5c3e195ce290ec72c0fd93d4",
-  "all_packaged_files_verified": 539,
-  "startup_mod_notice": "displayed_in_english",
-  "installed_patch_verified": true
+  "patch_version": "0.1.8-beta",
+  "game_version": "1.4.0.4",
+  "steam_build_id": "26761568",
+  "format": "native_player_translation_json",
+  "loaded_template_entries": 6773,
+  "template_entries": 6798,
+  "additional_entries": 96,
+  "broken_formatting": 0,
+  "unreadable_files": 0,
+  "untranslated_internal_entries": 25,
+  "visual_validation": "menu_observed_and_player_reported_raid_success",
+  "publication_date": "2026-11-22"
 }
