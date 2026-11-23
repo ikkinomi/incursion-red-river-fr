@@ -4,7 +4,7 @@
 - 28 propositions de libellés courts, pour 52 entrées, conservées hors des traductions actives en attendant le contrôle visuel.
 - Assistant FR avec détection des bibliothèques Steam, aperçu, complément du marché facultatif soumis au build validé, sauvegarde et restauration contrôlée.
 - Interface AZERTY et diagnostic des 13 affectations, conflits et autres commandes conservées. Les touches restent identiques à la 0.1.0.
-- Essais automatiques et copies locales : voir les validations TEST1. Je dois encore vérifier l’affichage des fenêtres sur mon bureau ; aucune nouvelle publication à ce stade.
+- Essais automatiques et copies locales : voir les validations TEST1. J’ai vérifié les deux fenêtres, les aperçus, les confirmations, l’installation et la restauration sur des copies le 24 novembre. Le refus d’un build incompatible a aussi été vérifié. Aucun nouvel essai en partie ni nouvelle publication à ce stade.
 
 ---
 

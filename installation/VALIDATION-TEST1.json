@@ -7,12 +7,15 @@
   "game_launched": false,
   "installed_game_modified": false,
   "published": false,
-  "gui_validation": "not visually verified: Windows control could not activate the Tk window",
+  "gui_validation": "Windows UI verified on copies: readable windows, preview/diagnostic, confirmation, installation and restoration passed.",
   "user_test": "pending",
   "operation_count": 39,
   "native_files": 36,
   "market_pak": true,
   "legacy_pak_disable_and_restore": true,
   "roundtrip_exact": true,
-  "real_process_guard": true
+  "real_process_guard": true,
+  "gui_test_date": "2026-11-24",
+  "gui_install_restore_on_copies": true,
+  "gui_build_mismatch_refused": true
 }

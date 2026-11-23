@@ -1,6 +1,6 @@
 # Assistant AZERTY 0.2.0 — TEST 1
 
-Cette version ajoute une interface et un diagnostic au préréglage AZERTY déjà essayé en jeu. Les **13 touches sont identiques à la 0.1.0**. Je dois encore essayer la nouvelle interface en conditions réelles.
+Cette version ajoute une interface et un diagnostic au préréglage AZERTY déjà essayé en jeu. Les **13 touches sont identiques à la 0.1.0**. J’ai vérifié la fenêtre, le diagnostic, l’installation et la restauration sur une copie du profil. Les 13 touches restent celles déjà validées en jeu ; un nouvel essai en partie reste à faire.
 
 ## Installation et vérification
 
