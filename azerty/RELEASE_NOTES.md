@@ -2,7 +2,7 @@
 
 Téléchargement indépendant de la traduction FR, pour Windows et AZERTY français classique. Vérifié sur Incursion Red River 1.4.0.4 / build 26761568.
 
-ZQSD, A/E, accessoires sur W et rangée & é " ' ( - è _ ç sans Maj. Garder Windows en français pour la saisie au terminal. Le joueur confirme que les mouvements, le terminal et les neuf raccourcis fonctionnent.
+ZQSD, A/E, accessoires sur W et rangée & é " ' ( - è _ ç sans Maj. Garder Windows en français pour la saisie au terminal. J’ai testé les mouvements, la saisie au terminal et les neuf raccourcis : tout fonctionne sur ma configuration.
 
 L’outil Python fusionne treize affectations dans vos préférences et sauvegarde le fichier d’origine. Il conserve les autres commandes ; aucun profil personnel n’est distribué. Installation jeu fermé, refus des conflits et des formats non pris en charge, restauration incluse. Python 3 est nécessaire, sans bibliothèque supplémentaire.
 

@@ -16,7 +16,7 @@ Les fonctions modifiées sont relues et comparées à leur représentation atten
 
 Vérifiés : démarrage, chargement de la base, catégories françaises, feuilles d’objets dans la sous-catégorie des capots de culasse, filtre retournant le bon objet AK Izhmash, fiche et chemin de catégorie, recherche de compatibilité et retrait de ce filtre. Aucun incident lié aux widgets modifiés ni erreur fatale/de sérialisation n’a été relevé dans le journal pendant ce contrôle. Les 36 fichiers JSON installés sont restés inchangés et le rapport du jeu indique 6 798/6 798 textes utilisés, plus 96 hors modèle, sans erreur de formatage.
 
-Le joueur confirme que cela semble bien fonctionner et indique qu’il refera un test approfondi plus tard. Il s’agit d’une validation initiale, pas d’une garantie d’absence de bug sur tous les écrans ou toutes les configurations.
+J’ai testé le complément et tout semble bien fonctionner. Je referai un test plus approfondi. Il s’agit d’une validation initiale, pas d’une garantie d’absence de bug sur tous les écrans ou toutes les configurations.
 
 ## Encore à tester ou à relire
 

@@ -4,7 +4,7 @@
 - 28 propositions de libellés courts, pour 52 entrées, conservées hors des traductions actives en attendant le contrôle visuel.
 - Assistant FR avec détection des bibliothèques Steam, aperçu, complément du marché facultatif soumis au build validé, sauvegarde et restauration contrôlée.
 - Interface AZERTY et diagnostic des 13 affectations, conflits et autres commandes conservées. Les touches restent identiques à la 0.1.0.
-- Essais automatiques et copies locales : voir les validations TEST1. L’affichage des fenêtres reste à confirmer sur le bureau du joueur ; aucune nouvelle publication à ce stade.
+- Essais automatiques et copies locales : voir les validations TEST1. Je dois encore vérifier l’affichage des fenêtres sur mon bureau ; aucune nouvelle publication à ce stade.
 
 ---
 
@@ -15,7 +15,7 @@ Pour Incursion Red River 1.4.0.4 / build Steam 26761568.
 - 240 entrées corrigées : Stock/Crosse selon le contexte, noms AK Star, Longbow, Paraclete Origin et Team Wendy, contrats FANG, terminal et descriptions d’équipement.
 - 368 valeurs de la table du marché synchronisées, chemins composés compris ; les dix fichiers des widgets testés restent identiques.
 - Glossaire et règles de conservation des noms ajoutés. Contrôles des 6 894 entrées : aucune erreur de structure, variable, balise ou identité ; 667 occurrences de noms protégés vérifiées.
-- Installation et essai par le joueur : bon fonctionnement rapporté. Cela ne constitue pas un test exhaustif de tous les objets, missions ou transactions.
+- J’ai installé et testé cette version : elle fonctionne bien sur ma configuration. Cela ne constitue pas un test exhaustif de tous les objets, missions ou transactions.
 
 **Mettre à jour les deux composants**, jeu fermé : `fr/` dans `%LOCALAPPDATA%/Test_C/Saved/Translations`, puis le nouveau `pakchunk98-FrenchMarketTest_P.pak` dans `Test_C/Content/Paks` du jeu. Le nom du .pak est identique, son contenu a changé. Garder l’ancien pakchunk99 désactivé. Désactiver le complément du marché après une mise à jour du jeu jusqu’à nouvelle validation.
 
@@ -35,7 +35,7 @@ Le préréglage AZERTY est un [téléchargement séparé](https://github.com/ikk
 - L’ancien `pakchunk99-French_P.pak` doit rester désactivé.
 - Retour à l’anglais prévu pour un libellé inconnu ; noms propres et identifiants fonctionnels conservés.
 
-**Premier essai concluant, confirmé par le joueur. Test approfondi à venir.** Le démarrage, les catégories, un filtre d’objet, sa fiche et la recherche de compatibilité ont été contrôlés. Les achats/ventes, le panier, le marché noir, la saisie dans la recherche, le changement de langue et tous les objets ne sont pas encore validés en jeu. Quelques formulations et textes longs restent à revoir.
+**J’ai fait un premier essai concluant. Je referai un test plus approfondi.** Le démarrage, les catégories, un filtre d’objet, sa fiche et la recherche de compatibilité ont été contrôlés. Les achats/ventes, le panier, le marché noir, la saisie dans la recherche, le changement de langue et tous les objets ne sont pas encore validés en jeu. Quelques formulations et textes longs restent à revoir.
 
 **Après une mise à jour du jeu, désactivez le complément du marché jusqu’à nouvelle vérification de compatibilité.** Le dossier de traduction JSON est indépendant.
 
@@ -74,7 +74,7 @@ Pour **Incursion Red River 1.4.0.2**, build Steam **26596277**.
 - 79 entrées nouvelles ou modifiées prises en charge, dont les réglages IA, une réplique de mission, le message de piratage et plusieurs descriptions d’objets.
 - Deux libellés d’inventaire « Provisions » traduits par « Vivres ».
 - Sept composants de l’inventaire et des missions repris depuis la mise à jour du jeu. Les 86 entrées des quatre cartes ont été vérifiées et les corrections précédentes sont incluses.
-- 6 834 entrées compilées et 539 fichiers du patch contrôlés. Le joueur a confirmé le lancement et l’affichage de la traduction avec cette version.
+- 6 834 entrées compilées et 539 fichiers du patch contrôlés. J’ai vérifié le lancement et l’affichage de la traduction avec cette version.
 
 Jeu fermé, copiez le dossier `Test_C` de l’archive dans le dossier du jeu et remplacez l’ancien fichier `pakchunk99-French_P.pak`. Gardez **English** ou **Français (patch)** comme langue.
 
@@ -127,7 +127,7 @@ Pour **Incursion Red River 1.4.0.1**, build Steam **26487830**.
 - L'option **Boost** de **Nvidia Reflex** conserve son appellation d'origine. La traduction incorrecte « Coup de pouce » a été supprimée de la ressource de langue et du menu graphique.
 - Les corrections de la 0.1.3 sont incluses.
 
-Les 6 756 entrées compilées et leurs empreintes sources ont été vérifiées. Le composant du menu graphique a été reconstruit puis relu. Cette correction n'a pas encore été vérifiée visuellement en jeu ; elle est publiée en bêta à la demande du joueur.
+Les 6 756 entrées compilées et leurs empreintes sources ont été vérifiées. Le composant du menu graphique a été reconstruit puis relu. Je n’ai pas encore vérifié cette correction visuellement en jeu ; elle est publiée en bêta.
 
 ## Installation
 
@@ -148,7 +148,7 @@ Pour **Incursion Red River 1.4.0.1**, build Steam **26487830**.
 - Libellé du TactiNav raccourci : « Données satellite : OFF » pour l'état non chargé existant. Le fonctionnement du satellite est conservé.
 - Corrections précédentes et titre **Incursion Red River** conservés.
 
-Les contrôles des fichiers compilés ont réussi. Cette version est publiée à la demande du joueur ; elle reste une bêta et toutes les situations de jeu n'ont pas fait l'objet d'une validation visuelle exhaustive.
+Les contrôles des fichiers compilés ont réussi. Je publie cette version en bêta : je n’ai pas encore vérifié toutes les situations en jeu.
 
 ## Installation
 
@@ -170,7 +170,7 @@ Pour **Incursion Red River 1.4.0.1**, build Steam **26487830**.
 - Fonctions non concernées conservées à l'identique.
 - Correctif des catégories du marchand de la 0.1.1 conservé.
 
-Les fichiers compilés et le contenu de l'archive ont passé les contrôles. Cette version est publiée à la demande du joueur ; elle reste une bêta et toutes les situations de jeu n'ont pas fait l'objet d'une validation visuelle exhaustive.
+Les fichiers compilés et le contenu de l'archive ont passé les contrôles. Je publie cette version en bêta : je n’ai pas encore vérifié toutes les situations en jeu.
 
 ## Installation
 
@@ -189,7 +189,7 @@ Cible : Incursion Red River 1.4.0.1, build Steam 26487830.
 - Correction de « Sécuriser le marché » en « Marché officiel » dans l'onglet concerné.
 - Correction de plusieurs termes d'accessoires dans la ressource de langue.
 
-Les contrôles de compilation et de structure ont réussi. La correction des catégories a été validée visuellement par le joueur.
+Les contrôles de compilation et de structure ont réussi. J’ai vérifié la traduction des catégories en jeu.
 
 Installation : jeu fermé, remplacez uniquement l'ancienne archive `pakchunk99-French_P.pak` par celle de cette version. Conservez English / Français (patch) comme langue. Les archives d'origine et les sauvegardes ne sont pas remplacées.
 

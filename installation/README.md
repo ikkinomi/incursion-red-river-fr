@@ -1,6 +1,6 @@
 # Assistant d’installation FR — version de test
 
-Cette version ajoute une installation guidée à la traduction **0.2.1 bêta** existante, pour Incursion Red River **1.4.0.4 / build Steam 26761568**. Les textes et le complément du marché restent identiques à ceux de la publication 0.2.1. L’assistant lui-même doit encore être essayé par le joueur.
+Cette version ajoute une installation guidée à la traduction **0.2.1 bêta** existante, pour Incursion Red River **1.4.0.4 / build Steam 26761568**. Les textes et le complément du marché restent identiques à ceux de la publication 0.2.1. Je dois encore essayer le nouvel assistant en conditions réelles.
 
 ## Utilisation
 
