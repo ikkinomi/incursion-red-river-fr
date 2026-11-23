@@ -1,0 +1,1842 @@
+[
+  {
+    "source": "AK 762x39 20rnd",
+    "before": "AK Étoile 7.62x39mm chargeur",
+    "after": "Chargeur AK Star 7.62x39mm"
+  },
+  {
+    "source": "AK SAG Buffertube",
+    "before": "AK SAG tube de crosse",
+    "after": "Tube de crosse AK SAG"
+  },
+  {
+    "source": "AR-10 CMMG SV 762x51 Muzzle Device",
+    "before": "AR-10 CMMG SV 7.62x51mm dispositif de bouche",
+    "after": "Dispositif de bouche AR-10 CMMG SV 7.62x51mm"
+  },
+  {
+    "source": "AR-15 Colt A2 Buffertube",
+    "before": "AR-15 Colt A2 tube de crosse",
+    "after": "Tube de crosse AR-15 Colt A2"
+  },
+  {
+    "source": "AR-15 Odin Works Zulu Stock",
+    "before": "AR-15 Odin Works Zulu 2.0 crosse",
+    "after": "Crosse AR-15 Odin Works Zulu 2.0"
+  },
+  {
+    "source": "AR-15 PWS Enhanced Buffertube",
+    "before": "AR-15 PWS amélioré tube de crosse",
+    "after": "Tube de crosse amélioré AR-15 PWS"
+  },
+  {
+    "source": "AR-15 Strike SI AR Advanced Buffertube",
+    "before": "AR-15 Strike SI AR avancé tube de crosse",
+    "after": "Tube de crosse amélioré AR-15 Strike SI AR"
+  },
+  {
+    "source": "AS VAL Buffertube Adapter",
+    "before": "AS VAL Aftermarket tube de crosse adaptateur",
+    "after": "Adaptateur de tube de crosse AS VAL"
+  },
+  {
+    "source": "AS VAL Skeleton Stock",
+    "before": "Crosse AS Val Skeleton",
+    "after": "Crosse ajourée AS Val"
+  },
+  {
+    "source": "AS Val Zenitco Stock Adapter",
+    "before": "AS Val ZenitCo crosse adaptateur",
+    "after": "Adaptateur de crosse AS Val ZenitCo"
+  },
+  {
+    "source": "AUG RAT Worx Muzzle Adapter",
+    "before": "AUG RAT Worx adaptateur de bouche",
+    "after": "Adaptateur de bouche AUG RAT Worx"
+  },
+  {
+    "source": "AUG Vertical Foregrip",
+    "before": "Poignée avant AUG Vertical",
+    "after": "Poignée avant verticale AUG"
+  },
+  {
+    "source": "Bolt Cutter",
+    "before": "Coupe-boulon",
+    "after": "Coupe-boulons"
+  },
+  {
+    "source": "Daniel Defense M-LOK Vertical Foregrip",
+    "before": "Poignée avant Daniel Defense M-LOK Vertical",
+    "after": "Poignée avant verticale Daniel Defense M-LOK"
+  },
+  {
+    "source": "FAL Folding Buffertube",
+    "before": "Pliage FAL tube de crosse",
+    "after": "Tube de crosse repliable FAL"
+  },
+  {
+    "source": "FAL Standard Muzzle",
+    "before": "FAL Standard bouche",
+    "after": "Dispositif de bouche standard FAL"
+  },
+  {
+    "source": "Five Seven MRD Mount",
+    "before": "Five Seven MRD Mount",
+    "after": "Support MRD Five Seven"
+  },
+  {
+    "source": "Fortis SHIFT Short M-LOK Angled Foregrip",
+    "before": "Poignée avant Fortis SHIFT court M-LOK Angled",
+    "after": "Poignée avant courte inclinée Fortis SHIFT M-LOK"
+  },
+  {
+    "source": "Fortis SHIFT Vertical Foregrip",
+    "before": "Poignée avant Fortis SHIFT Vertical",
+    "after": "Poignée avant verticale Fortis SHIFT"
+  },
+  {
+    "source": "GBRS Hydra Mount",
+    "before": "GBRS Hydra Mount",
+    "after": "Support GBRS Hydra"
+  },
+  {
+    "source": "Galil ACE II 762x51 Muzzle",
+    "before": "Galil ACE II 7.62x51mm bouche",
+    "after": "Dispositif de bouche Galil ACE II 7.62x51mm"
+  },
+  {
+    "source": "Galvion Caiman Ballistic Helmet",
+    "before": "Galvion Caiman Ballistic Helmet",
+    "after": "Casque balistique Galvion Caiman"
+  },
+  {
+    "source": "HHV Helmet",
+    "before": "HHV Helmet",
+    "after": "Casque HHV"
+  },
+  {
+    "source": "High Cut LSHZ Helmet",
+    "before": "High Cut LSHZ Helmet",
+    "after": "Casque LSHZ à coupe haute"
+  },
+  {
+    "source": "IHPS Helmet",
+    "before": "IHPS Helmet",
+    "after": "Casque IHPS"
+  },
+  {
+    "source": "KAC QDC 3-Prong Eliminator 556x45 Muzzle Device",
+    "before": "KAC QDC 3-Prong Eliminateur 5.56x45mm dispositif de bouche",
+    "after": "Dispositif de bouche KAC QDC 3-Prong Eliminator 5.56x45mm"
+  },
+  {
+    "source": "KRISS Vector Stock Adapter",
+    "before": "KRISS Vector crosse adaptateur",
+    "after": "Adaptateur de crosse KRISS Vector"
+  },
+  {
+    "source": "Kingarms Lite Angled Grip",
+    "before": "Kingarms Lite Angled Grip",
+    "after": "Poignée inclinée Kingarms Lite"
+  },
+  {
+    "source": "Kiver RSP Helmet",
+    "before": "Kiver RSP Helmet",
+    "after": "Casque Kiver RSP"
+  },
+  {
+    "source": "Kiver RSP Nguyin Edition Helmet",
+    "before": "Kiver RSP Nguyin Edition Helmet",
+    "after": "Casque Kiver RSP Nguyin Edition"
+  },
+  {
+    "source": "LAMG Buffer Tube Stock",
+    "before": "Crosse LAMG tube de crosse",
+    "after": "Tube de crosse LAMG"
+  },
+  {
+    "source": "Leupold Carbine Optic Reflex Sight",
+    "before": "Leupold Carbine optique Reflex Sight",
+    "after": "Viseur reflex Leupold Carbine Optic"
+  },
+  {
+    "source": "Leupold DeltaPoint Mount",
+    "before": "Leupold DeltaPoint Mount",
+    "after": "Support Leupold DeltaPoint"
+  },
+  {
+    "source": "Leupold DeltaPoint Reflex Sight",
+    "before": "Leupold DeltaPoint Reflex Sight",
+    "after": "Viseur reflex Leupold DeltaPoint"
+  },
+  {
+    "source": "M14 16 Inch 762x51 Muzzle Adapter",
+    "before": "M14 16 pouces 7.62x51 adaptateur de bouche",
+    "after": "Adaptateur de bouche M14 16 pouces 7.62x51"
+  },
+  {
+    "source": "M14 22 Inch 762x51 Muzzle Adapter",
+    "before": "M14 22 pouces 7.62x51 adaptateur de bouche",
+    "after": "Adaptateur de bouche M14 22 pouces 7.62x51"
+  },
+  {
+    "source": "M14 National Match 762x51 Muzzle Brake",
+    "before": "M14 Match national 7.62x51mm frein de bouche",
+    "after": "Frein de bouche M14 National Match 7.62x51mm"
+  },
+  {
+    "source": "M2 Nordic 14 inch 12ga 5-shell",
+    "before": "M2 Nordic 14 pouces 12ga 5 coquillages",
+    "after": "M2 Nordic 14 pouces calibre 12, 5 cartouches"
+  },
+  {
+    "source": "M2 Tactical Pistol Grip Stock",
+    "before": "Crosse M2 Tactical poignée pistolet",
+    "after": "Crosse à poignée pistolet M2 Tactical"
+  },
+  {
+    "source": "M4A1 Front Sight With Gas Block",
+    "before": "M4A1 guidon With bloc d'emprunt de gaz",
+    "after": "Guidon avec bloc d’emprunt de gaz M4A1"
+  },
+  {
+    "source": "M700 MDT ESS Stock Adapter",
+    "before": "M700 MDT ESS crosse adaptateur",
+    "after": "Adaptateur de crosse M700 MDT ESS"
+  },
+  {
+    "source": "M9A3 Short Sights",
+    "before": "M9A3 Vues courtes",
+    "after": "Organes de visée bas M9A3"
+  },
+  {
+    "source": "M9A3 Tall Sights",
+    "before": "M9A3 Grandes vues",
+    "after": "Organes de visée hauts M9A3"
+  },
+  {
+    "source": "MCX Folding Mini Skeleton Stock",
+    "before": "Crosse MCX repliable Mini Skeleton",
+    "after": "Petite crosse ajourée repliable MCX"
+  },
+  {
+    "source": "MCX Folding Skeleton Stock",
+    "before": "Crosse MCX repliable Skeleton",
+    "after": "Crosse ajourée repliable MCX"
+  },
+  {
+    "source": "MP5 A2 Fixed Buttstock",
+    "before": "Crosse MP5 A2 Fixed",
+    "after": "Crosse fixe MP5 A2"
+  },
+  {
+    "source": "MP5 A3 F Retractable Buttstock",
+    "before": "Crosse MP5 A3 F Retractable",
+    "after": "Crosse rétractable MP5 A3 F"
+  },
+  {
+    "source": "MP5 A3 Fixed Buttstock",
+    "before": "Crosse MP5 A3 Fixed",
+    "after": "Crosse fixe MP5 A3"
+  },
+  {
+    "source": "MP5 ICS With Flashlight Handguard",
+    "before": "Garde-main MP5 ICS With lampe torche",
+    "after": "Garde-main avec lampe MP5 ICS"
+  },
+  {
+    "source": "MP5K Polymer With Foregrip Handguard",
+    "before": "Garde-main MP5K en polymère With poignée avant",
+    "after": "Garde-main en polymère avec poignée avant MP5K"
+  },
+  {
+    "source": "OKP-7 Reflex Sight",
+    "before": "OKP-7 Reflex Sight",
+    "after": "Viseur reflex OKP-7"
+  },
+  {
+    "source": "OKP-77 Reflex Sight",
+    "before": "OKP-77 Reflex Sight",
+    "after": "Viseur reflex OKP-77"
+  },
+  {
+    "source": "Ops-Core FAST Bump Helmet",
+    "before": "Ops-Core FAST Bump Helmet",
+    "after": "Casque Ops-Core FAST Bump"
+  },
+  {
+    "source": "PP-19 Muzzle",
+    "before": "PP-19 bouche",
+    "after": "Dispositif de bouche PP-19"
+  },
+  {
+    "source": "Paraclete Origin Plate Carrier",
+    "before": "Paraclete Origin porte-plaques",
+    "after": "Porte-plaques Paraclete Origin"
+  },
+  {
+    "source": "QBZ-97 Longbow Carry Handle",
+    "before": "QBZ-97 Poignée de transport de bardeaux",
+    "after": "Poignée de transport QBZ-97 Longbow"
+  },
+  {
+    "source": "RFB 762x51 Muzzle",
+    "before": "RFB 7.62x51mm dispositif de bouche",
+    "after": "Dispositif de bouche RFB 7.62x51mm"
+  },
+  {
+    "source": "SKS SAGE International SKSALCS Telescoping Stock",
+    "before": "Crosse SKS SAGE International SKSALCS Telescoping",
+    "after": "Crosse télescopique SKS SAGE International SKSALCS"
+  },
+  {
+    "source": "SVDS Lynx Buffer Tube Adapter",
+    "before": "SVDS Lynx tube de crosse adaptateur",
+    "after": "Adaptateur de tube de crosse SVDS Lynx"
+  },
+  {
+    "source": "Saiga-12K 12ga Muzzle Device",
+    "before": "Saiga-12K 12ga dispositif de bouche",
+    "after": "Dispositif de bouche Saiga-12K calibre 12"
+  },
+  {
+    "source": "Saiga-12K GK-02 12ga Muzzle Device",
+    "before": "Saiga -2K GK-02 12ga dispositif de bouche",
+    "after": "Dispositif de bouche Saiga -2K GK-02 calibre 12"
+  },
+  {
+    "source": "Saiga-12K Tromix Monster Claw 12ga Muzzle Device",
+    "before": "Saiga-12K Tromix Monster Claw 12ga dispositif de bouche",
+    "after": "Dispositif de bouche Saiga-12K Tromix Monster Claw calibre 12"
+  },
+  {
+    "source": "TangoDown Stubby Vertical Foregrip",
+    "before": "Poignée avant TangoDown Stubby Vertical",
+    "after": "Poignée avant verticale TangoDown Stubby"
+  },
+  {
+    "source": "Team Wendy EXFIL Helmet",
+    "before": "Team Wendy EXFIL Helmet",
+    "after": "Casque Team Wendy EXFIL"
+  },
+  {
+    "source": "Trijicon MRO Reflex Sight",
+    "before": "Trijicon MRO Reflex Sight",
+    "after": "Viseur reflex Trijicon MRO"
+  },
+  {
+    "source": "Trijicon RMR Miniature Reflex Sight",
+    "before": "Trijicon RMR Miniature Reflex Sight",
+    "after": "Viseur reflex miniature Trijicon RMR"
+  },
+  {
+    "source": "Trijicon RMR Mount",
+    "before": "Trijicon RMR Mount",
+    "after": "Support Trijicon RMR"
+  },
+  {
+    "source": "VAL Aftermarket Picatinny Rail Long",
+    "before": "VAL Aftermarket Picatinny Rail Long",
+    "after": "Collier à rail Picatinny long VAL/VSS"
+  },
+  {
+    "source": "VAL King Arms Picatinny Basic Rail",
+    "before": "VAL King Arms Picatinny Basic Rail",
+    "after": "Collier à rail Picatinny King Arms VAL/VSS"
+  },
+  {
+    "source": "VR80 Stock And Pistol Grip",
+    "before": "Poignée pistolet VR80 crosse And",
+    "after": "Crosse et poignée pistolet VR80"
+  },
+  {
+    "source": "Vest Virtus Unarmored Rig",
+    "before": "Vest Virtus Unarmored Rig",
+    "after": "Gilet tactique non blindé Virtus"
+  },
+  {
+    "source": "Zenitco BelOMO PK-06 Reflex Sight",
+    "before": "Zenitco BelOMO PK-06 Reflex Sight",
+    "after": "Viseur reflex Zenitco BelOMO PK-06"
+  },
+  {
+    "source": "Zenitco RK-1 45deg Foregrip",
+    "before": "Poignée avant Zenitco RK-1 angled",
+    "after": "Poignée avant inclinée Zenitco RK-1"
+  },
+  {
+    "source": "Attachments > Dust Cover > QBZ-97 Longbow Carry Handle",
+    "before": "Accessoires > Capot de culasse > QBZ-97 Poignée de transport de bardeaux",
+    "after": "Accessoires > Capot de culasse > Poignée de transport QBZ-97 Longbow"
+  },
+  {
+    "source": "Attachments > Foregrip > AUG Vertical Foregrip",
+    "before": "Accessoires > Poignée avant > Poignée avant AUG Vertical",
+    "after": "Accessoires > Poignée avant > Poignée avant verticale AUG"
+  },
+  {
+    "source": "Attachments > Foregrip > Daniel Defense M-LOK Vertical Foregrip",
+    "before": "Accessoires > Poignée avant > Poignée avant Daniel Defense M-LOK Vertical",
+    "after": "Accessoires > Poignée avant > Poignée avant verticale Daniel Defense M-LOK"
+  },
+  {
+    "source": "Attachments > Foregrip > Fortis SHIFT Short M-LOK Angled Foregrip",
+    "before": "Accessoires > Poignée avant > Poignée avant Fortis SHIFT court M-LOK Angled",
+    "after": "Accessoires > Poignée avant > Poignée avant courte inclinée Fortis SHIFT M-LOK"
+  },
+  {
+    "source": "Attachments > Foregrip > Fortis SHIFT Vertical Foregrip",
+    "before": "Accessoires > Poignée avant > Poignée avant Fortis SHIFT Vertical",
+    "after": "Accessoires > Poignée avant > Poignée avant verticale Fortis SHIFT"
+  },
+  {
+    "source": "Attachments > Foregrip > Kingarms Lite Angled Grip",
+    "before": "Accessoires > Poignée avant > Kingarms Lite Angled Grip",
+    "after": "Accessoires > Poignée avant > Poignée inclinée Kingarms Lite"
+  },
+  {
+    "source": "Attachments > Foregrip > TangoDown Stubby Vertical Foregrip",
+    "before": "Accessoires > Poignée avant > Poignée avant TangoDown Stubby Vertical",
+    "after": "Accessoires > Poignée avant > Poignée avant verticale TangoDown Stubby"
+  },
+  {
+    "source": "Attachments > Foregrip > Zenitco RK-1 45deg Foregrip",
+    "before": "Accessoires > Poignée avant > Poignée avant Zenitco RK-1 angled",
+    "after": "Accessoires > Poignée avant > Poignée avant inclinée Zenitco RK-1"
+  },
+  {
+    "source": "Attachments > Gas Tube > M4A1 Front Sight With Gas Block",
+    "before": "Accessoires > Tube à gaz > M4A1 guidon With bloc d'emprunt de gaz",
+    "after": "Accessoires > Tube à gaz > Guidon avec bloc d’emprunt de gaz M4A1"
+  },
+  {
+    "source": "Attachments > Handguard > MP5 ICS With Flashlight Handguard",
+    "before": "Accessoires > Garde-main > Garde-main MP5 ICS With lampe torche",
+    "after": "Accessoires > Garde-main > Garde-main avec lampe MP5 ICS"
+  },
+  {
+    "source": "Attachments > Handguard > MP5K Polymer With Foregrip Handguard",
+    "before": "Accessoires > Garde-main > Garde-main MP5K en polymère With poignée avant",
+    "after": "Accessoires > Garde-main > Garde-main en polymère avec poignée avant MP5K"
+  },
+  {
+    "source": "Attachments > Mag > AK 762x39 20rnd",
+    "before": "Accessoires > Chargeur > AK Étoile 7.62x39mm chargeur",
+    "after": "Accessoires > Chargeur > Chargeur AK Star 7.62x39mm"
+  },
+  {
+    "source": "Attachments > Mag > M2 Nordic 14 inch 12ga 5-shell",
+    "before": "Accessoires > Chargeur > M2 Nordic 14 pouces 12ga 5 coquillages",
+    "after": "Accessoires > Chargeur > M2 Nordic 14 pouces calibre 12, 5 cartouches"
+  },
+  {
+    "source": "Attachments > Muzzle > AR-10 CMMG SV 762x51 Muzzle Device",
+    "before": "Accessoires > Dispositif de bouche > AR-10 CMMG SV 7.62x51mm dispositif de bouche",
+    "after": "Accessoires > Dispositif de bouche > Dispositif de bouche AR-10 CMMG SV 7.62x51mm"
+  },
+  {
+    "source": "Attachments > Muzzle > AUG RAT Worx Muzzle Adapter",
+    "before": "Accessoires > Dispositif de bouche > AUG RAT Worx adaptateur de bouche",
+    "after": "Accessoires > Dispositif de bouche > Adaptateur de bouche AUG RAT Worx"
+  },
+  {
+    "source": "Attachments > Muzzle > FAL Standard Muzzle",
+    "before": "Accessoires > Dispositif de bouche > FAL Standard bouche",
+    "after": "Accessoires > Dispositif de bouche > Dispositif de bouche standard FAL"
+  },
+  {
+    "source": "Attachments > Muzzle > Galil ACE II 762x51 Muzzle",
+    "before": "Accessoires > Dispositif de bouche > Galil ACE II 7.62x51mm bouche",
+    "after": "Accessoires > Dispositif de bouche > Dispositif de bouche Galil ACE II 7.62x51mm"
+  },
+  {
+    "source": "Attachments > Muzzle > KAC QDC 3-Prong Eliminator 556x45 Muzzle Device",
+    "before": "Accessoires > Dispositif de bouche > KAC QDC 3-Prong Eliminateur 5.56x45mm dispositif de bouche",
+    "after": "Accessoires > Dispositif de bouche > Dispositif de bouche KAC QDC 3-Prong Eliminator 5.56x45mm"
+  },
+  {
+    "source": "Attachments > Muzzle > M14 16 Inch 762x51 Muzzle Adapter",
+    "before": "Accessoires > Dispositif de bouche > M14 16 pouces 7.62x51 adaptateur de bouche",
+    "after": "Accessoires > Dispositif de bouche > Adaptateur de bouche M14 16 pouces 7.62x51"
+  },
+  {
+    "source": "Attachments > Muzzle > M14 22 Inch 762x51 Muzzle Adapter",
+    "before": "Accessoires > Dispositif de bouche > M14 22 pouces 7.62x51 adaptateur de bouche",
+    "after": "Accessoires > Dispositif de bouche > Adaptateur de bouche M14 22 pouces 7.62x51"
+  },
+  {
+    "source": "Attachments > Muzzle > M14 National Match 762x51 Muzzle Brake",
+    "before": "Accessoires > Dispositif de bouche > M14 Match national 7.62x51mm frein de bouche",
+    "after": "Accessoires > Dispositif de bouche > Frein de bouche M14 National Match 7.62x51mm"
+  },
+  {
+    "source": "Attachments > Muzzle > PP-19 Muzzle",
+    "before": "Accessoires > Dispositif de bouche > PP-19 bouche",
+    "after": "Accessoires > Dispositif de bouche > Dispositif de bouche PP-19"
+  },
+  {
+    "source": "Attachments > Muzzle > RFB 762x51 Muzzle",
+    "before": "Accessoires > Dispositif de bouche > RFB 7.62x51mm dispositif de bouche",
+    "after": "Accessoires > Dispositif de bouche > Dispositif de bouche RFB 7.62x51mm"
+  },
+  {
+    "source": "Attachments > Muzzle > Saiga-12K 12ga Muzzle Device",
+    "before": "Accessoires > Dispositif de bouche > Saiga-12K 12ga dispositif de bouche",
+    "after": "Accessoires > Dispositif de bouche > Dispositif de bouche Saiga-12K calibre 12"
+  },
+  {
+    "source": "Attachments > Muzzle > Saiga-12K GK-02 12ga Muzzle Device",
+    "before": "Accessoires > Dispositif de bouche > Saiga -2K GK-02 12ga dispositif de bouche",
+    "after": "Accessoires > Dispositif de bouche > Dispositif de bouche Saiga -2K GK-02 calibre 12"
+  },
+  {
+    "source": "Attachments > Muzzle > Saiga-12K Tromix Monster Claw 12ga Muzzle Device",
+    "before": "Accessoires > Dispositif de bouche > Saiga-12K Tromix Monster Claw 12ga dispositif de bouche",
+    "after": "Accessoires > Dispositif de bouche > Dispositif de bouche Saiga-12K Tromix Monster Claw calibre 12"
+  },
+  {
+    "source": "Attachments > Pistol Grip > VR80 Stock And Pistol Grip",
+    "before": "Accessoires > Poignée pistolet > Poignée pistolet VR80 crosse And",
+    "after": "Accessoires > Poignée pistolet > Crosse et poignée pistolet VR80"
+  },
+  {
+    "source": "Attachments > Rail > Five Seven MRD Mount",
+    "before": "Accessoires > Rail > Five Seven MRD Mount",
+    "after": "Accessoires > Rail > Support MRD Five Seven"
+  },
+  {
+    "source": "Attachments > Rail > GBRS Hydra Mount",
+    "before": "Accessoires > Rail > GBRS Hydra Mount",
+    "after": "Accessoires > Rail > Support GBRS Hydra"
+  },
+  {
+    "source": "Attachments > Rail > Leupold DeltaPoint Mount",
+    "before": "Accessoires > Rail > Leupold DeltaPoint Mount",
+    "after": "Accessoires > Rail > Support Leupold DeltaPoint"
+  },
+  {
+    "source": "Attachments > Rail > Trijicon RMR Mount",
+    "before": "Accessoires > Rail > Trijicon RMR Mount",
+    "after": "Accessoires > Rail > Support Trijicon RMR"
+  },
+  {
+    "source": "Attachments > Rail > VAL Aftermarket Picatinny Rail Long",
+    "before": "Accessoires > Rail > VAL Aftermarket Picatinny Rail Long",
+    "after": "Accessoires > Rail > Collier à rail Picatinny long VAL/VSS"
+  },
+  {
+    "source": "Attachments > Rail > VAL King Arms Picatinny Basic Rail",
+    "before": "Accessoires > Rail > VAL King Arms Picatinny Basic Rail",
+    "after": "Accessoires > Rail > Collier à rail Picatinny King Arms VAL/VSS"
+  },
+  {
+    "source": "Attachments > Sight > Leupold Carbine Optic Reflex Sight",
+    "before": "Accessoires > Viseur > Leupold Carbine optique Reflex Sight",
+    "after": "Accessoires > Viseur > Viseur reflex Leupold Carbine Optic"
+  },
+  {
+    "source": "Attachments > Sight > Leupold DeltaPoint Reflex Sight",
+    "before": "Accessoires > Viseur > Leupold DeltaPoint Reflex Sight",
+    "after": "Accessoires > Viseur > Viseur reflex Leupold DeltaPoint"
+  },
+  {
+    "source": "Attachments > Sight > M9A3 Short Sights",
+    "before": "Accessoires > Viseur > M9A3 Vues courtes",
+    "after": "Accessoires > Viseur > Organes de visée bas M9A3"
+  },
+  {
+    "source": "Attachments > Sight > M9A3 Tall Sights",
+    "before": "Accessoires > Viseur > M9A3 Grandes vues",
+    "after": "Accessoires > Viseur > Organes de visée hauts M9A3"
+  },
+  {
+    "source": "Attachments > Sight > OKP-7 Reflex Sight",
+    "before": "Accessoires > Viseur > OKP-7 Reflex Sight",
+    "after": "Accessoires > Viseur > Viseur reflex OKP-7"
+  },
+  {
+    "source": "Attachments > Sight > OKP-77 Reflex Sight",
+    "before": "Accessoires > Viseur > OKP-77 Reflex Sight",
+    "after": "Accessoires > Viseur > Viseur reflex OKP-77"
+  },
+  {
+    "source": "Attachments > Sight > Trijicon MRO Reflex Sight",
+    "before": "Accessoires > Viseur > Trijicon MRO Reflex Sight",
+    "after": "Accessoires > Viseur > Viseur reflex Trijicon MRO"
+  },
+  {
+    "source": "Attachments > Sight > Trijicon RMR Miniature Reflex Sight",
+    "before": "Accessoires > Viseur > Trijicon RMR Miniature Reflex Sight",
+    "after": "Accessoires > Viseur > Viseur reflex miniature Trijicon RMR"
+  },
+  {
+    "source": "Attachments > Sight > Zenitco BelOMO PK-06 Reflex Sight",
+    "before": "Accessoires > Viseur > Zenitco BelOMO PK-06 Reflex Sight",
+    "after": "Accessoires > Viseur > Viseur reflex Zenitco BelOMO PK-06"
+  },
+  {
+    "source": "Attachments > Stock > AK SAG Buffertube",
+    "before": "Accessoires > Crosse > AK SAG tube de crosse",
+    "after": "Accessoires > Crosse > Tube de crosse AK SAG"
+  },
+  {
+    "source": "Attachments > Stock > AR-15 Colt A2 Buffertube",
+    "before": "Accessoires > Crosse > AR-15 Colt A2 tube de crosse",
+    "after": "Accessoires > Crosse > Tube de crosse AR-15 Colt A2"
+  },
+  {
+    "source": "Attachments > Stock > AR-15 Odin Works Zulu Stock",
+    "before": "Accessoires > Crosse > AR-15 Odin Works Zulu 2.0 crosse",
+    "after": "Accessoires > Crosse > Crosse AR-15 Odin Works Zulu 2.0"
+  },
+  {
+    "source": "Attachments > Stock > AR-15 PWS Enhanced Buffertube",
+    "before": "Accessoires > Crosse > AR-15 PWS amélioré tube de crosse",
+    "after": "Accessoires > Crosse > Tube de crosse amélioré AR-15 PWS"
+  },
+  {
+    "source": "Attachments > Stock > AR-15 Strike SI AR Advanced Buffertube",
+    "before": "Accessoires > Crosse > AR-15 Strike SI AR avancé tube de crosse",
+    "after": "Accessoires > Crosse > Tube de crosse amélioré AR-15 Strike SI AR"
+  },
+  {
+    "source": "Attachments > Stock > AS VAL Buffertube Adapter",
+    "before": "Accessoires > Crosse > AS VAL Aftermarket tube de crosse adaptateur",
+    "after": "Accessoires > Crosse > Adaptateur de tube de crosse AS VAL"
+  },
+  {
+    "source": "Attachments > Stock > AS VAL Skeleton Stock",
+    "before": "Accessoires > Crosse > Crosse AS Val Skeleton",
+    "after": "Accessoires > Crosse > Crosse ajourée AS Val"
+  },
+  {
+    "source": "Attachments > Stock > AS Val Zenitco Stock Adapter",
+    "before": "Accessoires > Crosse > AS Val ZenitCo crosse adaptateur",
+    "after": "Accessoires > Crosse > Adaptateur de crosse AS Val ZenitCo"
+  },
+  {
+    "source": "Attachments > Stock > FAL Folding Buffertube",
+    "before": "Accessoires > Crosse > Pliage FAL tube de crosse",
+    "after": "Accessoires > Crosse > Tube de crosse repliable FAL"
+  },
+  {
+    "source": "Attachments > Stock > KRISS Vector Stock Adapter",
+    "before": "Accessoires > Crosse > KRISS Vector crosse adaptateur",
+    "after": "Accessoires > Crosse > Adaptateur de crosse KRISS Vector"
+  },
+  {
+    "source": "Attachments > Stock > LAMG Buffer Tube Stock",
+    "before": "Accessoires > Crosse > Crosse LAMG tube de crosse",
+    "after": "Accessoires > Crosse > Tube de crosse LAMG"
+  },
+  {
+    "source": "Attachments > Stock > M2 Tactical Pistol Grip Stock",
+    "before": "Accessoires > Crosse > Crosse M2 Tactical poignée pistolet",
+    "after": "Accessoires > Crosse > Crosse à poignée pistolet M2 Tactical"
+  },
+  {
+    "source": "Attachments > Stock > M700 MDT ESS Stock Adapter",
+    "before": "Accessoires > Crosse > M700 MDT ESS crosse adaptateur",
+    "after": "Accessoires > Crosse > Adaptateur de crosse M700 MDT ESS"
+  },
+  {
+    "source": "Attachments > Stock > MCX Folding Mini Skeleton Stock",
+    "before": "Accessoires > Crosse > Crosse MCX repliable Mini Skeleton",
+    "after": "Accessoires > Crosse > Petite crosse ajourée repliable MCX"
+  },
+  {
+    "source": "Attachments > Stock > MCX Folding Skeleton Stock",
+    "before": "Accessoires > Crosse > Crosse MCX repliable Skeleton",
+    "after": "Accessoires > Crosse > Crosse ajourée repliable MCX"
+  },
+  {
+    "source": "Attachments > Stock > MP5 A2 Fixed Buttstock",
+    "before": "Accessoires > Crosse > Crosse MP5 A2 Fixed",
+    "after": "Accessoires > Crosse > Crosse fixe MP5 A2"
+  },
+  {
+    "source": "Attachments > Stock > MP5 A3 F Retractable Buttstock",
+    "before": "Accessoires > Crosse > Crosse MP5 A3 F Retractable",
+    "after": "Accessoires > Crosse > Crosse rétractable MP5 A3 F"
+  },
+  {
+    "source": "Attachments > Stock > MP5 A3 Fixed Buttstock",
+    "before": "Accessoires > Crosse > Crosse MP5 A3 Fixed",
+    "after": "Accessoires > Crosse > Crosse fixe MP5 A3"
+  },
+  {
+    "source": "Attachments > Stock > SKS SAGE International SKSALCS Telescoping Stock",
+    "before": "Accessoires > Crosse > Crosse SKS SAGE International SKSALCS Telescoping",
+    "after": "Accessoires > Crosse > Crosse télescopique SKS SAGE International SKSALCS"
+  },
+  {
+    "source": "Attachments > Stock > SVDS Lynx Buffer Tube Adapter",
+    "before": "Accessoires > Crosse > SVDS Lynx tube de crosse adaptateur",
+    "after": "Accessoires > Crosse > Adaptateur de tube de crosse SVDS Lynx"
+  },
+  {
+    "source": "Barter > Bolt Cutter",
+    "before": "Troc > Coupe-boulon",
+    "after": "Troc > Coupe-boulons"
+  },
+  {
+    "source": "Barter > Tools > Bolt Cutter",
+    "before": "Troc > Outils > Coupe-boulon",
+    "after": "Troc > Outils > Coupe-boulons"
+  },
+  {
+    "source": "Dust Cover > QBZ-97 Longbow Carry Handle",
+    "before": "Capot de culasse > QBZ-97 Poignée de transport de bardeaux",
+    "after": "Capot de culasse > Poignée de transport QBZ-97 Longbow"
+  },
+  {
+    "source": "Foregrip > AUG Vertical Foregrip",
+    "before": "Poignée avant > Poignée avant AUG Vertical",
+    "after": "Poignée avant > Poignée avant verticale AUG"
+  },
+  {
+    "source": "Foregrip > Daniel Defense M-LOK Vertical Foregrip",
+    "before": "Poignée avant > Poignée avant Daniel Defense M-LOK Vertical",
+    "after": "Poignée avant > Poignée avant verticale Daniel Defense M-LOK"
+  },
+  {
+    "source": "Foregrip > Fortis SHIFT Short M-LOK Angled Foregrip",
+    "before": "Poignée avant > Poignée avant Fortis SHIFT court M-LOK Angled",
+    "after": "Poignée avant > Poignée avant courte inclinée Fortis SHIFT M-LOK"
+  },
+  {
+    "source": "Foregrip > Fortis SHIFT Vertical Foregrip",
+    "before": "Poignée avant > Poignée avant Fortis SHIFT Vertical",
+    "after": "Poignée avant > Poignée avant verticale Fortis SHIFT"
+  },
+  {
+    "source": "Foregrip > Kingarms Lite Angled Grip",
+    "before": "Poignée avant > Kingarms Lite Angled Grip",
+    "after": "Poignée avant > Poignée inclinée Kingarms Lite"
+  },
+  {
+    "source": "Foregrip > TangoDown Stubby Vertical Foregrip",
+    "before": "Poignée avant > Poignée avant TangoDown Stubby Vertical",
+    "after": "Poignée avant > Poignée avant verticale TangoDown Stubby"
+  },
+  {
+    "source": "Foregrip > Zenitco RK-1 45deg Foregrip",
+    "before": "Poignée avant > Poignée avant Zenitco RK-1 angled",
+    "after": "Poignée avant > Poignée avant inclinée Zenitco RK-1"
+  },
+  {
+    "source": "Gas Tube > M4A1 Front Sight With Gas Block",
+    "before": "Tube à gaz > M4A1 guidon With bloc d'emprunt de gaz",
+    "after": "Tube à gaz > Guidon avec bloc d’emprunt de gaz M4A1"
+  },
+  {
+    "source": "Gear > Helmet > Galvion Caiman Ballistic Helmet",
+    "before": "Équipement > Casque > Galvion Caiman Ballistic Helmet",
+    "after": "Équipement > Casque > Casque balistique Galvion Caiman"
+  },
+  {
+    "source": "Gear > Helmet > HHV Helmet",
+    "before": "Équipement > Casque > HHV Helmet",
+    "after": "Équipement > Casque > Casque HHV"
+  },
+  {
+    "source": "Gear > Helmet > High Cut LSHZ Helmet",
+    "before": "Équipement > Casque > High Cut LSHZ Helmet",
+    "after": "Équipement > Casque > Casque LSHZ à coupe haute"
+  },
+  {
+    "source": "Gear > Helmet > IHPS Helmet",
+    "before": "Équipement > Casque > IHPS Helmet",
+    "after": "Équipement > Casque > Casque IHPS"
+  },
+  {
+    "source": "Gear > Helmet > Kiver RSP Helmet",
+    "before": "Équipement > Casque > Kiver RSP Helmet",
+    "after": "Équipement > Casque > Casque Kiver RSP"
+  },
+  {
+    "source": "Gear > Helmet > Kiver RSP Nguyin Edition Helmet",
+    "before": "Équipement > Casque > Kiver RSP Nguyin Edition Helmet",
+    "after": "Équipement > Casque > Casque Kiver RSP Nguyin Edition"
+  },
+  {
+    "source": "Gear > Helmet > Ops-Core FAST Bump Helmet",
+    "before": "Équipement > Casque > Ops-Core FAST Bump Helmet",
+    "after": "Équipement > Casque > Casque Ops-Core FAST Bump"
+  },
+  {
+    "source": "Gear > Helmet > Team Wendy EXFIL Helmet",
+    "before": "Équipement > Casque > Team Wendy EXFIL Helmet",
+    "after": "Équipement > Casque > Casque Team Wendy EXFIL"
+  },
+  {
+    "source": "Gear > Plate Carrier > Paraclete Origin Plate Carrier",
+    "before": "Équipement > Porte-plaques > Paraclete Origin porte-plaques",
+    "after": "Équipement > Porte-plaques > Porte-plaques Paraclete Origin"
+  },
+  {
+    "source": "Gear > Unarmored Rig > Vest Virtus Unarmored Rig",
+    "before": "Équipement > Gilet tactique > Vest Virtus Unarmored Rig",
+    "after": "Équipement > Gilet tactique > Gilet tactique non blindé Virtus"
+  },
+  {
+    "source": "Handguard > MP5 ICS With Flashlight Handguard",
+    "before": "Garde-main > Garde-main MP5 ICS With lampe torche",
+    "after": "Garde-main > Garde-main avec lampe MP5 ICS"
+  },
+  {
+    "source": "Handguard > MP5K Polymer With Foregrip Handguard",
+    "before": "Garde-main > Garde-main MP5K en polymère With poignée avant",
+    "after": "Garde-main > Garde-main en polymère avec poignée avant MP5K"
+  },
+  {
+    "source": "Helmet > Galvion Caiman Ballistic Helmet",
+    "before": "Casque > Galvion Caiman Ballistic Helmet",
+    "after": "Casque > Casque balistique Galvion Caiman"
+  },
+  {
+    "source": "Helmet > HHV Helmet",
+    "before": "Casque > HHV Helmet",
+    "after": "Casque > Casque HHV"
+  },
+  {
+    "source": "Helmet > High Cut LSHZ Helmet",
+    "before": "Casque > High Cut LSHZ Helmet",
+    "after": "Casque > Casque LSHZ à coupe haute"
+  },
+  {
+    "source": "Helmet > IHPS Helmet",
+    "before": "Casque > IHPS Helmet",
+    "after": "Casque > Casque IHPS"
+  },
+  {
+    "source": "Helmet > Kiver RSP Helmet",
+    "before": "Casque > Kiver RSP Helmet",
+    "after": "Casque > Casque Kiver RSP"
+  },
+  {
+    "source": "Helmet > Kiver RSP Nguyin Edition Helmet",
+    "before": "Casque > Kiver RSP Nguyin Edition Helmet",
+    "after": "Casque > Casque Kiver RSP Nguyin Edition"
+  },
+  {
+    "source": "Helmet > Ops-Core FAST Bump Helmet",
+    "before": "Casque > Ops-Core FAST Bump Helmet",
+    "after": "Casque > Casque Ops-Core FAST Bump"
+  },
+  {
+    "source": "Helmet > Team Wendy EXFIL Helmet",
+    "before": "Casque > Team Wendy EXFIL Helmet",
+    "after": "Casque > Casque Team Wendy EXFIL"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Dust Cover > QBZ-97 Longbow Carry Handle",
+    "before": "Inventory > Items > Accessoires > Capot de culasse > QBZ-97 Poignée de transport de bardeaux",
+    "after": "Inventory > Items > Accessoires > Capot de culasse > Poignée de transport QBZ-97 Longbow"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Foregrip > AUG Vertical Foregrip",
+    "before": "Inventory > Items > Accessoires > Poignée avant > Poignée avant AUG Vertical",
+    "after": "Inventory > Items > Accessoires > Poignée avant > Poignée avant verticale AUG"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Foregrip > Daniel Defense M-LOK Vertical Foregrip",
+    "before": "Inventory > Items > Accessoires > Poignée avant > Poignée avant Daniel Defense M-LOK Vertical",
+    "after": "Inventory > Items > Accessoires > Poignée avant > Poignée avant verticale Daniel Defense M-LOK"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Foregrip > Fortis SHIFT Short M-LOK Angled Foregrip",
+    "before": "Inventory > Items > Accessoires > Poignée avant > Poignée avant Fortis SHIFT court M-LOK Angled",
+    "after": "Inventory > Items > Accessoires > Poignée avant > Poignée avant courte inclinée Fortis SHIFT M-LOK"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Foregrip > Fortis SHIFT Vertical Foregrip",
+    "before": "Inventory > Items > Accessoires > Poignée avant > Poignée avant Fortis SHIFT Vertical",
+    "after": "Inventory > Items > Accessoires > Poignée avant > Poignée avant verticale Fortis SHIFT"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Foregrip > Kingarms Lite Angled Grip",
+    "before": "Inventory > Items > Accessoires > Poignée avant > Kingarms Lite Angled Grip",
+    "after": "Inventory > Items > Accessoires > Poignée avant > Poignée inclinée Kingarms Lite"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Foregrip > TangoDown Stubby Vertical Foregrip",
+    "before": "Inventory > Items > Accessoires > Poignée avant > Poignée avant TangoDown Stubby Vertical",
+    "after": "Inventory > Items > Accessoires > Poignée avant > Poignée avant verticale TangoDown Stubby"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Foregrip > Zenitco RK-1 45deg Foregrip",
+    "before": "Inventory > Items > Accessoires > Poignée avant > Poignée avant Zenitco RK-1 angled",
+    "after": "Inventory > Items > Accessoires > Poignée avant > Poignée avant inclinée Zenitco RK-1"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Gas Tube > M4A1 Front Sight With Gas Block",
+    "before": "Inventory > Items > Accessoires > Tube à gaz > M4A1 guidon With bloc d'emprunt de gaz",
+    "after": "Inventory > Items > Accessoires > Tube à gaz > Guidon avec bloc d’emprunt de gaz M4A1"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Handguard > MP5 ICS With Flashlight Handguard",
+    "before": "Inventory > Items > Accessoires > Garde-main > Garde-main MP5 ICS With lampe torche",
+    "after": "Inventory > Items > Accessoires > Garde-main > Garde-main avec lampe MP5 ICS"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Handguard > MP5K Polymer With Foregrip Handguard",
+    "before": "Inventory > Items > Accessoires > Garde-main > Garde-main MP5K en polymère With poignée avant",
+    "after": "Inventory > Items > Accessoires > Garde-main > Garde-main en polymère avec poignée avant MP5K"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Mag > AK 762x39 20rnd",
+    "before": "Inventory > Items > Accessoires > Chargeur > AK Étoile 7.62x39mm chargeur",
+    "after": "Inventory > Items > Accessoires > Chargeur > Chargeur AK Star 7.62x39mm"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Mag > M2 Nordic 14 inch 12ga 5-shell",
+    "before": "Inventory > Items > Accessoires > Chargeur > M2 Nordic 14 pouces 12ga 5 coquillages",
+    "after": "Inventory > Items > Accessoires > Chargeur > M2 Nordic 14 pouces calibre 12, 5 cartouches"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > AR-10 CMMG SV 762x51 Muzzle Device",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > AR-10 CMMG SV 7.62x51mm dispositif de bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Dispositif de bouche AR-10 CMMG SV 7.62x51mm"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > AUG RAT Worx Muzzle Adapter",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > AUG RAT Worx adaptateur de bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Adaptateur de bouche AUG RAT Worx"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > FAL Standard Muzzle",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > FAL Standard bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Dispositif de bouche standard FAL"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > Galil ACE II 762x51 Muzzle",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > Galil ACE II 7.62x51mm bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Dispositif de bouche Galil ACE II 7.62x51mm"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > KAC QDC 3-Prong Eliminator 556x45 Muzzle Device",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > KAC QDC 3-Prong Eliminateur 5.56x45mm dispositif de bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Dispositif de bouche KAC QDC 3-Prong Eliminator 5.56x45mm"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > M14 16 Inch 762x51 Muzzle Adapter",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > M14 16 pouces 7.62x51 adaptateur de bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Adaptateur de bouche M14 16 pouces 7.62x51"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > M14 22 Inch 762x51 Muzzle Adapter",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > M14 22 pouces 7.62x51 adaptateur de bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Adaptateur de bouche M14 22 pouces 7.62x51"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > M14 National Match 762x51 Muzzle Brake",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > M14 Match national 7.62x51mm frein de bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Frein de bouche M14 National Match 7.62x51mm"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > PP-19 Muzzle",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > PP-19 bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Dispositif de bouche PP-19"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > RFB 762x51 Muzzle",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > RFB 7.62x51mm dispositif de bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Dispositif de bouche RFB 7.62x51mm"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > Saiga-12K 12ga Muzzle Device",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > Saiga-12K 12ga dispositif de bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Dispositif de bouche Saiga-12K calibre 12"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > Saiga-12K GK-02 12ga Muzzle Device",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > Saiga -2K GK-02 12ga dispositif de bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Dispositif de bouche Saiga -2K GK-02 calibre 12"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Muzzle > Saiga-12K Tromix Monster Claw 12ga Muzzle Device",
+    "before": "Inventory > Items > Accessoires > Dispositif de bouche > Saiga-12K Tromix Monster Claw 12ga dispositif de bouche",
+    "after": "Inventory > Items > Accessoires > Dispositif de bouche > Dispositif de bouche Saiga-12K Tromix Monster Claw calibre 12"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Pistol Grip > VR80 Stock And Pistol Grip",
+    "before": "Inventory > Items > Accessoires > Poignée pistolet > Poignée pistolet VR80 crosse And",
+    "after": "Inventory > Items > Accessoires > Poignée pistolet > Crosse et poignée pistolet VR80"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Rail > Five Seven MRD Mount",
+    "before": "Inventory > Items > Accessoires > Rail > Five Seven MRD Mount",
+    "after": "Inventory > Items > Accessoires > Rail > Support MRD Five Seven"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Rail > GBRS Hydra Mount",
+    "before": "Inventory > Items > Accessoires > Rail > GBRS Hydra Mount",
+    "after": "Inventory > Items > Accessoires > Rail > Support GBRS Hydra"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Rail > Leupold DeltaPoint Mount",
+    "before": "Inventory > Items > Accessoires > Rail > Leupold DeltaPoint Mount",
+    "after": "Inventory > Items > Accessoires > Rail > Support Leupold DeltaPoint"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Rail > Trijicon RMR Mount",
+    "before": "Inventory > Items > Accessoires > Rail > Trijicon RMR Mount",
+    "after": "Inventory > Items > Accessoires > Rail > Support Trijicon RMR"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Rail > VAL Aftermarket Picatinny Rail Long",
+    "before": "Inventory > Items > Accessoires > Rail > VAL Aftermarket Picatinny Rail Long",
+    "after": "Inventory > Items > Accessoires > Rail > Collier à rail Picatinny long VAL/VSS"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Rail > VAL King Arms Picatinny Basic Rail",
+    "before": "Inventory > Items > Accessoires > Rail > VAL King Arms Picatinny Basic Rail",
+    "after": "Inventory > Items > Accessoires > Rail > Collier à rail Picatinny King Arms VAL/VSS"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Sight > Leupold Carbine Optic Reflex Sight",
+    "before": "Inventory > Items > Accessoires > Viseur > Leupold Carbine optique Reflex Sight",
+    "after": "Inventory > Items > Accessoires > Viseur > Viseur reflex Leupold Carbine Optic"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Sight > Leupold DeltaPoint Reflex Sight",
+    "before": "Inventory > Items > Accessoires > Viseur > Leupold DeltaPoint Reflex Sight",
+    "after": "Inventory > Items > Accessoires > Viseur > Viseur reflex Leupold DeltaPoint"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Sight > M9A3 Short Sights",
+    "before": "Inventory > Items > Accessoires > Viseur > M9A3 Vues courtes",
+    "after": "Inventory > Items > Accessoires > Viseur > Organes de visée bas M9A3"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Sight > M9A3 Tall Sights",
+    "before": "Inventory > Items > Accessoires > Viseur > M9A3 Grandes vues",
+    "after": "Inventory > Items > Accessoires > Viseur > Organes de visée hauts M9A3"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Sight > OKP-7 Reflex Sight",
+    "before": "Inventory > Items > Accessoires > Viseur > OKP-7 Reflex Sight",
+    "after": "Inventory > Items > Accessoires > Viseur > Viseur reflex OKP-7"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Sight > OKP-77 Reflex Sight",
+    "before": "Inventory > Items > Accessoires > Viseur > OKP-77 Reflex Sight",
+    "after": "Inventory > Items > Accessoires > Viseur > Viseur reflex OKP-77"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Sight > Trijicon MRO Reflex Sight",
+    "before": "Inventory > Items > Accessoires > Viseur > Trijicon MRO Reflex Sight",
+    "after": "Inventory > Items > Accessoires > Viseur > Viseur reflex Trijicon MRO"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Sight > Trijicon RMR Miniature Reflex Sight",
+    "before": "Inventory > Items > Accessoires > Viseur > Trijicon RMR Miniature Reflex Sight",
+    "after": "Inventory > Items > Accessoires > Viseur > Viseur reflex miniature Trijicon RMR"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Sight > Zenitco BelOMO PK-06 Reflex Sight",
+    "before": "Inventory > Items > Accessoires > Viseur > Zenitco BelOMO PK-06 Reflex Sight",
+    "after": "Inventory > Items > Accessoires > Viseur > Viseur reflex Zenitco BelOMO PK-06"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > AK SAG Buffertube",
+    "before": "Inventory > Items > Accessoires > Crosse > AK SAG tube de crosse",
+    "after": "Inventory > Items > Accessoires > Crosse > Tube de crosse AK SAG"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > AR-15 Colt A2 Buffertube",
+    "before": "Inventory > Items > Accessoires > Crosse > AR-15 Colt A2 tube de crosse",
+    "after": "Inventory > Items > Accessoires > Crosse > Tube de crosse AR-15 Colt A2"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > AR-15 Odin Works Zulu Stock",
+    "before": "Inventory > Items > Accessoires > Crosse > AR-15 Odin Works Zulu 2.0 crosse",
+    "after": "Inventory > Items > Accessoires > Crosse > Crosse AR-15 Odin Works Zulu 2.0"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > AR-15 PWS Enhanced Buffertube",
+    "before": "Inventory > Items > Accessoires > Crosse > AR-15 PWS amélioré tube de crosse",
+    "after": "Inventory > Items > Accessoires > Crosse > Tube de crosse amélioré AR-15 PWS"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > AR-15 Strike SI AR Advanced Buffertube",
+    "before": "Inventory > Items > Accessoires > Crosse > AR-15 Strike SI AR avancé tube de crosse",
+    "after": "Inventory > Items > Accessoires > Crosse > Tube de crosse amélioré AR-15 Strike SI AR"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > AS VAL Buffertube Adapter",
+    "before": "Inventory > Items > Accessoires > Crosse > AS VAL Aftermarket tube de crosse adaptateur",
+    "after": "Inventory > Items > Accessoires > Crosse > Adaptateur de tube de crosse AS VAL"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > AS VAL Skeleton Stock",
+    "before": "Inventory > Items > Accessoires > Crosse > Crosse AS Val Skeleton",
+    "after": "Inventory > Items > Accessoires > Crosse > Crosse ajourée AS Val"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > AS Val Zenitco Stock Adapter",
+    "before": "Inventory > Items > Accessoires > Crosse > AS Val ZenitCo crosse adaptateur",
+    "after": "Inventory > Items > Accessoires > Crosse > Adaptateur de crosse AS Val ZenitCo"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > FAL Folding Buffertube",
+    "before": "Inventory > Items > Accessoires > Crosse > Pliage FAL tube de crosse",
+    "after": "Inventory > Items > Accessoires > Crosse > Tube de crosse repliable FAL"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > KRISS Vector Stock Adapter",
+    "before": "Inventory > Items > Accessoires > Crosse > KRISS Vector crosse adaptateur",
+    "after": "Inventory > Items > Accessoires > Crosse > Adaptateur de crosse KRISS Vector"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > LAMG Buffer Tube Stock",
+    "before": "Inventory > Items > Accessoires > Crosse > Crosse LAMG tube de crosse",
+    "after": "Inventory > Items > Accessoires > Crosse > Tube de crosse LAMG"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > M2 Tactical Pistol Grip Stock",
+    "before": "Inventory > Items > Accessoires > Crosse > Crosse M2 Tactical poignée pistolet",
+    "after": "Inventory > Items > Accessoires > Crosse > Crosse à poignée pistolet M2 Tactical"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > M700 MDT ESS Stock Adapter",
+    "before": "Inventory > Items > Accessoires > Crosse > M700 MDT ESS crosse adaptateur",
+    "after": "Inventory > Items > Accessoires > Crosse > Adaptateur de crosse M700 MDT ESS"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > MCX Folding Mini Skeleton Stock",
+    "before": "Inventory > Items > Accessoires > Crosse > Crosse MCX repliable Mini Skeleton",
+    "after": "Inventory > Items > Accessoires > Crosse > Petite crosse ajourée repliable MCX"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > MCX Folding Skeleton Stock",
+    "before": "Inventory > Items > Accessoires > Crosse > Crosse MCX repliable Skeleton",
+    "after": "Inventory > Items > Accessoires > Crosse > Crosse ajourée repliable MCX"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > MP5 A2 Fixed Buttstock",
+    "before": "Inventory > Items > Accessoires > Crosse > Crosse MP5 A2 Fixed",
+    "after": "Inventory > Items > Accessoires > Crosse > Crosse fixe MP5 A2"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > MP5 A3 F Retractable Buttstock",
+    "before": "Inventory > Items > Accessoires > Crosse > Crosse MP5 A3 F Retractable",
+    "after": "Inventory > Items > Accessoires > Crosse > Crosse rétractable MP5 A3 F"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > MP5 A3 Fixed Buttstock",
+    "before": "Inventory > Items > Accessoires > Crosse > Crosse MP5 A3 Fixed",
+    "after": "Inventory > Items > Accessoires > Crosse > Crosse fixe MP5 A3"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > SKS SAGE International SKSALCS Telescoping Stock",
+    "before": "Inventory > Items > Accessoires > Crosse > Crosse SKS SAGE International SKSALCS Telescoping",
+    "after": "Inventory > Items > Accessoires > Crosse > Crosse télescopique SKS SAGE International SKSALCS"
+  },
+  {
+    "source": "Inventory > Items > Attachments > Stock > SVDS Lynx Buffer Tube Adapter",
+    "before": "Inventory > Items > Accessoires > Crosse > SVDS Lynx tube de crosse adaptateur",
+    "after": "Inventory > Items > Accessoires > Crosse > Adaptateur de tube de crosse SVDS Lynx"
+  },
+  {
+    "source": "Inventory > Items > Barter > Bolt Cutter",
+    "before": "Inventory > Items > Troc > Coupe-boulon",
+    "after": "Inventory > Items > Troc > Coupe-boulons"
+  },
+  {
+    "source": "Inventory > Items > Barter > Tools > Bolt Cutter",
+    "before": "Inventory > Items > Troc > Outils > Coupe-boulon",
+    "after": "Inventory > Items > Troc > Outils > Coupe-boulons"
+  },
+  {
+    "source": "Inventory > Items > Gear > Helmet > Galvion Caiman Ballistic Helmet",
+    "before": "Inventory > Items > Équipement > Casque > Galvion Caiman Ballistic Helmet",
+    "after": "Inventory > Items > Équipement > Casque > Casque balistique Galvion Caiman"
+  },
+  {
+    "source": "Inventory > Items > Gear > Helmet > HHV Helmet",
+    "before": "Inventory > Items > Équipement > Casque > HHV Helmet",
+    "after": "Inventory > Items > Équipement > Casque > Casque HHV"
+  },
+  {
+    "source": "Inventory > Items > Gear > Helmet > High Cut LSHZ Helmet",
+    "before": "Inventory > Items > Équipement > Casque > High Cut LSHZ Helmet",
+    "after": "Inventory > Items > Équipement > Casque > Casque LSHZ à coupe haute"
+  },
+  {
+    "source": "Inventory > Items > Gear > Helmet > IHPS Helmet",
+    "before": "Inventory > Items > Équipement > Casque > IHPS Helmet",
+    "after": "Inventory > Items > Équipement > Casque > Casque IHPS"
+  },
+  {
+    "source": "Inventory > Items > Gear > Helmet > Kiver RSP Helmet",
+    "before": "Inventory > Items > Équipement > Casque > Kiver RSP Helmet",
+    "after": "Inventory > Items > Équipement > Casque > Casque Kiver RSP"
+  },
+  {
+    "source": "Inventory > Items > Gear > Helmet > Kiver RSP Nguyin Edition Helmet",
+    "before": "Inventory > Items > Équipement > Casque > Kiver RSP Nguyin Edition Helmet",
+    "after": "Inventory > Items > Équipement > Casque > Casque Kiver RSP Nguyin Edition"
+  },
+  {
+    "source": "Inventory > Items > Gear > Helmet > Ops-Core FAST Bump Helmet",
+    "before": "Inventory > Items > Équipement > Casque > Ops-Core FAST Bump Helmet",
+    "after": "Inventory > Items > Équipement > Casque > Casque Ops-Core FAST Bump"
+  },
+  {
+    "source": "Inventory > Items > Gear > Helmet > Team Wendy EXFIL Helmet",
+    "before": "Inventory > Items > Équipement > Casque > Team Wendy EXFIL Helmet",
+    "after": "Inventory > Items > Équipement > Casque > Casque Team Wendy EXFIL"
+  },
+  {
+    "source": "Inventory > Items > Gear > Plate Carrier > Paraclete Origin Plate Carrier",
+    "before": "Inventory > Items > Équipement > Porte-plaques > Paraclete Origin porte-plaques",
+    "after": "Inventory > Items > Équipement > Porte-plaques > Porte-plaques Paraclete Origin"
+  },
+  {
+    "source": "Inventory > Items > Gear > Unarmored Rig > Vest Virtus Unarmored Rig",
+    "before": "Inventory > Items > Équipement > Gilet tactique > Vest Virtus Unarmored Rig",
+    "after": "Inventory > Items > Équipement > Gilet tactique > Gilet tactique non blindé Virtus"
+  },
+  {
+    "source": "Items > Attachments > Dust Cover > QBZ-97 Longbow Carry Handle",
+    "before": "Items > Accessoires > Capot de culasse > QBZ-97 Poignée de transport de bardeaux",
+    "after": "Items > Accessoires > Capot de culasse > Poignée de transport QBZ-97 Longbow"
+  },
+  {
+    "source": "Items > Attachments > Foregrip > AUG Vertical Foregrip",
+    "before": "Items > Accessoires > Poignée avant > Poignée avant AUG Vertical",
+    "after": "Items > Accessoires > Poignée avant > Poignée avant verticale AUG"
+  },
+  {
+    "source": "Items > Attachments > Foregrip > Daniel Defense M-LOK Vertical Foregrip",
+    "before": "Items > Accessoires > Poignée avant > Poignée avant Daniel Defense M-LOK Vertical",
+    "after": "Items > Accessoires > Poignée avant > Poignée avant verticale Daniel Defense M-LOK"
+  },
+  {
+    "source": "Items > Attachments > Foregrip > Fortis SHIFT Short M-LOK Angled Foregrip",
+    "before": "Items > Accessoires > Poignée avant > Poignée avant Fortis SHIFT court M-LOK Angled",
+    "after": "Items > Accessoires > Poignée avant > Poignée avant courte inclinée Fortis SHIFT M-LOK"
+  },
+  {
+    "source": "Items > Attachments > Foregrip > Fortis SHIFT Vertical Foregrip",
+    "before": "Items > Accessoires > Poignée avant > Poignée avant Fortis SHIFT Vertical",
+    "after": "Items > Accessoires > Poignée avant > Poignée avant verticale Fortis SHIFT"
+  },
+  {
+    "source": "Items > Attachments > Foregrip > Kingarms Lite Angled Grip",
+    "before": "Items > Accessoires > Poignée avant > Kingarms Lite Angled Grip",
+    "after": "Items > Accessoires > Poignée avant > Poignée inclinée Kingarms Lite"
+  },
+  {
+    "source": "Items > Attachments > Foregrip > TangoDown Stubby Vertical Foregrip",
+    "before": "Items > Accessoires > Poignée avant > Poignée avant TangoDown Stubby Vertical",
+    "after": "Items > Accessoires > Poignée avant > Poignée avant verticale TangoDown Stubby"
+  },
+  {
+    "source": "Items > Attachments > Foregrip > Zenitco RK-1 45deg Foregrip",
+    "before": "Items > Accessoires > Poignée avant > Poignée avant Zenitco RK-1 angled",
+    "after": "Items > Accessoires > Poignée avant > Poignée avant inclinée Zenitco RK-1"
+  },
+  {
+    "source": "Items > Attachments > Gas Tube > M4A1 Front Sight With Gas Block",
+    "before": "Items > Accessoires > Tube à gaz > M4A1 guidon With bloc d'emprunt de gaz",
+    "after": "Items > Accessoires > Tube à gaz > Guidon avec bloc d’emprunt de gaz M4A1"
+  },
+  {
+    "source": "Items > Attachments > Handguard > MP5 ICS With Flashlight Handguard",
+    "before": "Items > Accessoires > Garde-main > Garde-main MP5 ICS With lampe torche",
+    "after": "Items > Accessoires > Garde-main > Garde-main avec lampe MP5 ICS"
+  },
+  {
+    "source": "Items > Attachments > Handguard > MP5K Polymer With Foregrip Handguard",
+    "before": "Items > Accessoires > Garde-main > Garde-main MP5K en polymère With poignée avant",
+    "after": "Items > Accessoires > Garde-main > Garde-main en polymère avec poignée avant MP5K"
+  },
+  {
+    "source": "Items > Attachments > Mag > AK 762x39 20rnd",
+    "before": "Items > Accessoires > Chargeur > AK Étoile 7.62x39mm chargeur",
+    "after": "Items > Accessoires > Chargeur > Chargeur AK Star 7.62x39mm"
+  },
+  {
+    "source": "Items > Attachments > Mag > M2 Nordic 14 inch 12ga 5-shell",
+    "before": "Items > Accessoires > Chargeur > M2 Nordic 14 pouces 12ga 5 coquillages",
+    "after": "Items > Accessoires > Chargeur > M2 Nordic 14 pouces calibre 12, 5 cartouches"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > AR-10 CMMG SV 762x51 Muzzle Device",
+    "before": "Items > Accessoires > Dispositif de bouche > AR-10 CMMG SV 7.62x51mm dispositif de bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Dispositif de bouche AR-10 CMMG SV 7.62x51mm"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > AUG RAT Worx Muzzle Adapter",
+    "before": "Items > Accessoires > Dispositif de bouche > AUG RAT Worx adaptateur de bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Adaptateur de bouche AUG RAT Worx"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > FAL Standard Muzzle",
+    "before": "Items > Accessoires > Dispositif de bouche > FAL Standard bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Dispositif de bouche standard FAL"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > Galil ACE II 762x51 Muzzle",
+    "before": "Items > Accessoires > Dispositif de bouche > Galil ACE II 7.62x51mm bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Dispositif de bouche Galil ACE II 7.62x51mm"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > KAC QDC 3-Prong Eliminator 556x45 Muzzle Device",
+    "before": "Items > Accessoires > Dispositif de bouche > KAC QDC 3-Prong Eliminateur 5.56x45mm dispositif de bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Dispositif de bouche KAC QDC 3-Prong Eliminator 5.56x45mm"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > M14 16 Inch 762x51 Muzzle Adapter",
+    "before": "Items > Accessoires > Dispositif de bouche > M14 16 pouces 7.62x51 adaptateur de bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Adaptateur de bouche M14 16 pouces 7.62x51"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > M14 22 Inch 762x51 Muzzle Adapter",
+    "before": "Items > Accessoires > Dispositif de bouche > M14 22 pouces 7.62x51 adaptateur de bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Adaptateur de bouche M14 22 pouces 7.62x51"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > M14 National Match 762x51 Muzzle Brake",
+    "before": "Items > Accessoires > Dispositif de bouche > M14 Match national 7.62x51mm frein de bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Frein de bouche M14 National Match 7.62x51mm"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > PP-19 Muzzle",
+    "before": "Items > Accessoires > Dispositif de bouche > PP-19 bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Dispositif de bouche PP-19"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > RFB 762x51 Muzzle",
+    "before": "Items > Accessoires > Dispositif de bouche > RFB 7.62x51mm dispositif de bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Dispositif de bouche RFB 7.62x51mm"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > Saiga-12K 12ga Muzzle Device",
+    "before": "Items > Accessoires > Dispositif de bouche > Saiga-12K 12ga dispositif de bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Dispositif de bouche Saiga-12K calibre 12"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > Saiga-12K GK-02 12ga Muzzle Device",
+    "before": "Items > Accessoires > Dispositif de bouche > Saiga -2K GK-02 12ga dispositif de bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Dispositif de bouche Saiga -2K GK-02 calibre 12"
+  },
+  {
+    "source": "Items > Attachments > Muzzle > Saiga-12K Tromix Monster Claw 12ga Muzzle Device",
+    "before": "Items > Accessoires > Dispositif de bouche > Saiga-12K Tromix Monster Claw 12ga dispositif de bouche",
+    "after": "Items > Accessoires > Dispositif de bouche > Dispositif de bouche Saiga-12K Tromix Monster Claw calibre 12"
+  },
+  {
+    "source": "Items > Attachments > Pistol Grip > VR80 Stock And Pistol Grip",
+    "before": "Items > Accessoires > Poignée pistolet > Poignée pistolet VR80 crosse And",
+    "after": "Items > Accessoires > Poignée pistolet > Crosse et poignée pistolet VR80"
+  },
+  {
+    "source": "Items > Attachments > Rail > Five Seven MRD Mount",
+    "before": "Items > Accessoires > Rail > Five Seven MRD Mount",
+    "after": "Items > Accessoires > Rail > Support MRD Five Seven"
+  },
+  {
+    "source": "Items > Attachments > Rail > GBRS Hydra Mount",
+    "before": "Items > Accessoires > Rail > GBRS Hydra Mount",
+    "after": "Items > Accessoires > Rail > Support GBRS Hydra"
+  },
+  {
+    "source": "Items > Attachments > Rail > Leupold DeltaPoint Mount",
+    "before": "Items > Accessoires > Rail > Leupold DeltaPoint Mount",
+    "after": "Items > Accessoires > Rail > Support Leupold DeltaPoint"
+  },
+  {
+    "source": "Items > Attachments > Rail > Trijicon RMR Mount",
+    "before": "Items > Accessoires > Rail > Trijicon RMR Mount",
+    "after": "Items > Accessoires > Rail > Support Trijicon RMR"
+  },
+  {
+    "source": "Items > Attachments > Rail > VAL Aftermarket Picatinny Rail Long",
+    "before": "Items > Accessoires > Rail > VAL Aftermarket Picatinny Rail Long",
+    "after": "Items > Accessoires > Rail > Collier à rail Picatinny long VAL/VSS"
+  },
+  {
+    "source": "Items > Attachments > Rail > VAL King Arms Picatinny Basic Rail",
+    "before": "Items > Accessoires > Rail > VAL King Arms Picatinny Basic Rail",
+    "after": "Items > Accessoires > Rail > Collier à rail Picatinny King Arms VAL/VSS"
+  },
+  {
+    "source": "Items > Attachments > Sight > Leupold Carbine Optic Reflex Sight",
+    "before": "Items > Accessoires > Viseur > Leupold Carbine optique Reflex Sight",
+    "after": "Items > Accessoires > Viseur > Viseur reflex Leupold Carbine Optic"
+  },
+  {
+    "source": "Items > Attachments > Sight > Leupold DeltaPoint Reflex Sight",
+    "before": "Items > Accessoires > Viseur > Leupold DeltaPoint Reflex Sight",
+    "after": "Items > Accessoires > Viseur > Viseur reflex Leupold DeltaPoint"
+  },
+  {
+    "source": "Items > Attachments > Sight > M9A3 Short Sights",
+    "before": "Items > Accessoires > Viseur > M9A3 Vues courtes",
+    "after": "Items > Accessoires > Viseur > Organes de visée bas M9A3"
+  },
+  {
+    "source": "Items > Attachments > Sight > M9A3 Tall Sights",
+    "before": "Items > Accessoires > Viseur > M9A3 Grandes vues",
+    "after": "Items > Accessoires > Viseur > Organes de visée hauts M9A3"
+  },
+  {
+    "source": "Items > Attachments > Sight > OKP-7 Reflex Sight",
+    "before": "Items > Accessoires > Viseur > OKP-7 Reflex Sight",
+    "after": "Items > Accessoires > Viseur > Viseur reflex OKP-7"
+  },
+  {
+    "source": "Items > Attachments > Sight > OKP-77 Reflex Sight",
+    "before": "Items > Accessoires > Viseur > OKP-77 Reflex Sight",
+    "after": "Items > Accessoires > Viseur > Viseur reflex OKP-77"
+  },
+  {
+    "source": "Items > Attachments > Sight > Trijicon MRO Reflex Sight",
+    "before": "Items > Accessoires > Viseur > Trijicon MRO Reflex Sight",
+    "after": "Items > Accessoires > Viseur > Viseur reflex Trijicon MRO"
+  },
+  {
+    "source": "Items > Attachments > Sight > Trijicon RMR Miniature Reflex Sight",
+    "before": "Items > Accessoires > Viseur > Trijicon RMR Miniature Reflex Sight",
+    "after": "Items > Accessoires > Viseur > Viseur reflex miniature Trijicon RMR"
+  },
+  {
+    "source": "Items > Attachments > Sight > Zenitco BelOMO PK-06 Reflex Sight",
+    "before": "Items > Accessoires > Viseur > Zenitco BelOMO PK-06 Reflex Sight",
+    "after": "Items > Accessoires > Viseur > Viseur reflex Zenitco BelOMO PK-06"
+  },
+  {
+    "source": "Items > Attachments > Stock > AK SAG Buffertube",
+    "before": "Items > Accessoires > Crosse > AK SAG tube de crosse",
+    "after": "Items > Accessoires > Crosse > Tube de crosse AK SAG"
+  },
+  {
+    "source": "Items > Attachments > Stock > AR-15 Colt A2 Buffertube",
+    "before": "Items > Accessoires > Crosse > AR-15 Colt A2 tube de crosse",
+    "after": "Items > Accessoires > Crosse > Tube de crosse AR-15 Colt A2"
+  },
+  {
+    "source": "Items > Attachments > Stock > AR-15 Odin Works Zulu Stock",
+    "before": "Items > Accessoires > Crosse > AR-15 Odin Works Zulu 2.0 crosse",
+    "after": "Items > Accessoires > Crosse > Crosse AR-15 Odin Works Zulu 2.0"
+  },
+  {
+    "source": "Items > Attachments > Stock > AR-15 PWS Enhanced Buffertube",
+    "before": "Items > Accessoires > Crosse > AR-15 PWS amélioré tube de crosse",
+    "after": "Items > Accessoires > Crosse > Tube de crosse amélioré AR-15 PWS"
+  },
+  {
+    "source": "Items > Attachments > Stock > AR-15 Strike SI AR Advanced Buffertube",
+    "before": "Items > Accessoires > Crosse > AR-15 Strike SI AR avancé tube de crosse",
+    "after": "Items > Accessoires > Crosse > Tube de crosse amélioré AR-15 Strike SI AR"
+  },
+  {
+    "source": "Items > Attachments > Stock > AS VAL Buffertube Adapter",
+    "before": "Items > Accessoires > Crosse > AS VAL Aftermarket tube de crosse adaptateur",
+    "after": "Items > Accessoires > Crosse > Adaptateur de tube de crosse AS VAL"
+  },
+  {
+    "source": "Items > Attachments > Stock > AS VAL Skeleton Stock",
+    "before": "Items > Accessoires > Crosse > Crosse AS Val Skeleton",
+    "after": "Items > Accessoires > Crosse > Crosse ajourée AS Val"
+  },
+  {
+    "source": "Items > Attachments > Stock > AS Val Zenitco Stock Adapter",
+    "before": "Items > Accessoires > Crosse > AS Val ZenitCo crosse adaptateur",
+    "after": "Items > Accessoires > Crosse > Adaptateur de crosse AS Val ZenitCo"
+  },
+  {
+    "source": "Items > Attachments > Stock > FAL Folding Buffertube",
+    "before": "Items > Accessoires > Crosse > Pliage FAL tube de crosse",
+    "after": "Items > Accessoires > Crosse > Tube de crosse repliable FAL"
+  },
+  {
+    "source": "Items > Attachments > Stock > KRISS Vector Stock Adapter",
+    "before": "Items > Accessoires > Crosse > KRISS Vector crosse adaptateur",
+    "after": "Items > Accessoires > Crosse > Adaptateur de crosse KRISS Vector"
+  },
+  {
+    "source": "Items > Attachments > Stock > LAMG Buffer Tube Stock",
+    "before": "Items > Accessoires > Crosse > Crosse LAMG tube de crosse",
+    "after": "Items > Accessoires > Crosse > Tube de crosse LAMG"
+  },
+  {
+    "source": "Items > Attachments > Stock > M2 Tactical Pistol Grip Stock",
+    "before": "Items > Accessoires > Crosse > Crosse M2 Tactical poignée pistolet",
+    "after": "Items > Accessoires > Crosse > Crosse à poignée pistolet M2 Tactical"
+  },
+  {
+    "source": "Items > Attachments > Stock > M700 MDT ESS Stock Adapter",
+    "before": "Items > Accessoires > Crosse > M700 MDT ESS crosse adaptateur",
+    "after": "Items > Accessoires > Crosse > Adaptateur de crosse M700 MDT ESS"
+  },
+  {
+    "source": "Items > Attachments > Stock > MCX Folding Mini Skeleton Stock",
+    "before": "Items > Accessoires > Crosse > Crosse MCX repliable Mini Skeleton",
+    "after": "Items > Accessoires > Crosse > Petite crosse ajourée repliable MCX"
+  },
+  {
+    "source": "Items > Attachments > Stock > MCX Folding Skeleton Stock",
+    "before": "Items > Accessoires > Crosse > Crosse MCX repliable Skeleton",
+    "after": "Items > Accessoires > Crosse > Crosse ajourée repliable MCX"
+  },
+  {
+    "source": "Items > Attachments > Stock > MP5 A2 Fixed Buttstock",
+    "before": "Items > Accessoires > Crosse > Crosse MP5 A2 Fixed",
+    "after": "Items > Accessoires > Crosse > Crosse fixe MP5 A2"
+  },
+  {
+    "source": "Items > Attachments > Stock > MP5 A3 F Retractable Buttstock",
+    "before": "Items > Accessoires > Crosse > Crosse MP5 A3 F Retractable",
+    "after": "Items > Accessoires > Crosse > Crosse rétractable MP5 A3 F"
+  },
+  {
+    "source": "Items > Attachments > Stock > MP5 A3 Fixed Buttstock",
+    "before": "Items > Accessoires > Crosse > Crosse MP5 A3 Fixed",
+    "after": "Items > Accessoires > Crosse > Crosse fixe MP5 A3"
+  },
+  {
+    "source": "Items > Attachments > Stock > SKS SAGE International SKSALCS Telescoping Stock",
+    "before": "Items > Accessoires > Crosse > Crosse SKS SAGE International SKSALCS Telescoping",
+    "after": "Items > Accessoires > Crosse > Crosse télescopique SKS SAGE International SKSALCS"
+  },
+  {
+    "source": "Items > Attachments > Stock > SVDS Lynx Buffer Tube Adapter",
+    "before": "Items > Accessoires > Crosse > SVDS Lynx tube de crosse adaptateur",
+    "after": "Items > Accessoires > Crosse > Adaptateur de tube de crosse SVDS Lynx"
+  },
+  {
+    "source": "Items > Barter > Bolt Cutter",
+    "before": "Items > Troc > Coupe-boulon",
+    "after": "Items > Troc > Coupe-boulons"
+  },
+  {
+    "source": "Items > Barter > Tools > Bolt Cutter",
+    "before": "Items > Troc > Outils > Coupe-boulon",
+    "after": "Items > Troc > Outils > Coupe-boulons"
+  },
+  {
+    "source": "Items > Gear > Helmet > Galvion Caiman Ballistic Helmet",
+    "before": "Items > Équipement > Casque > Galvion Caiman Ballistic Helmet",
+    "after": "Items > Équipement > Casque > Casque balistique Galvion Caiman"
+  },
+  {
+    "source": "Items > Gear > Helmet > HHV Helmet",
+    "before": "Items > Équipement > Casque > HHV Helmet",
+    "after": "Items > Équipement > Casque > Casque HHV"
+  },
+  {
+    "source": "Items > Gear > Helmet > High Cut LSHZ Helmet",
+    "before": "Items > Équipement > Casque > High Cut LSHZ Helmet",
+    "after": "Items > Équipement > Casque > Casque LSHZ à coupe haute"
+  },
+  {
+    "source": "Items > Gear > Helmet > IHPS Helmet",
+    "before": "Items > Équipement > Casque > IHPS Helmet",
+    "after": "Items > Équipement > Casque > Casque IHPS"
+  },
+  {
+    "source": "Items > Gear > Helmet > Kiver RSP Helmet",
+    "before": "Items > Équipement > Casque > Kiver RSP Helmet",
+    "after": "Items > Équipement > Casque > Casque Kiver RSP"
+  },
+  {
+    "source": "Items > Gear > Helmet > Kiver RSP Nguyin Edition Helmet",
+    "before": "Items > Équipement > Casque > Kiver RSP Nguyin Edition Helmet",
+    "after": "Items > Équipement > Casque > Casque Kiver RSP Nguyin Edition"
+  },
+  {
+    "source": "Items > Gear > Helmet > Ops-Core FAST Bump Helmet",
+    "before": "Items > Équipement > Casque > Ops-Core FAST Bump Helmet",
+    "after": "Items > Équipement > Casque > Casque Ops-Core FAST Bump"
+  },
+  {
+    "source": "Items > Gear > Helmet > Team Wendy EXFIL Helmet",
+    "before": "Items > Équipement > Casque > Team Wendy EXFIL Helmet",
+    "after": "Items > Équipement > Casque > Casque Team Wendy EXFIL"
+  },
+  {
+    "source": "Items > Gear > Plate Carrier > Paraclete Origin Plate Carrier",
+    "before": "Items > Équipement > Porte-plaques > Paraclete Origin porte-plaques",
+    "after": "Items > Équipement > Porte-plaques > Porte-plaques Paraclete Origin"
+  },
+  {
+    "source": "Items > Gear > Unarmored Rig > Vest Virtus Unarmored Rig",
+    "before": "Items > Équipement > Gilet tactique > Vest Virtus Unarmored Rig",
+    "after": "Items > Équipement > Gilet tactique > Gilet tactique non blindé Virtus"
+  },
+  {
+    "source": "Mag > AK 762x39 20rnd",
+    "before": "Chargeur > AK Étoile 7.62x39mm chargeur",
+    "after": "Chargeur > Chargeur AK Star 7.62x39mm"
+  },
+  {
+    "source": "Mag > M2 Nordic 14 inch 12ga 5-shell",
+    "before": "Chargeur > M2 Nordic 14 pouces 12ga 5 coquillages",
+    "after": "Chargeur > M2 Nordic 14 pouces calibre 12, 5 cartouches"
+  },
+  {
+    "source": "Muzzle > AR-10 CMMG SV 762x51 Muzzle Device",
+    "before": "Dispositif de bouche > AR-10 CMMG SV 7.62x51mm dispositif de bouche",
+    "after": "Dispositif de bouche > Dispositif de bouche AR-10 CMMG SV 7.62x51mm"
+  },
+  {
+    "source": "Muzzle > AUG RAT Worx Muzzle Adapter",
+    "before": "Dispositif de bouche > AUG RAT Worx adaptateur de bouche",
+    "after": "Dispositif de bouche > Adaptateur de bouche AUG RAT Worx"
+  },
+  {
+    "source": "Muzzle > FAL Standard Muzzle",
+    "before": "Dispositif de bouche > FAL Standard bouche",
+    "after": "Dispositif de bouche > Dispositif de bouche standard FAL"
+  },
+  {
+    "source": "Muzzle > Galil ACE II 762x51 Muzzle",
+    "before": "Dispositif de bouche > Galil ACE II 7.62x51mm bouche",
+    "after": "Dispositif de bouche > Dispositif de bouche Galil ACE II 7.62x51mm"
+  },
+  {
+    "source": "Muzzle > KAC QDC 3-Prong Eliminator 556x45 Muzzle Device",
+    "before": "Dispositif de bouche > KAC QDC 3-Prong Eliminateur 5.56x45mm dispositif de bouche",
+    "after": "Dispositif de bouche > Dispositif de bouche KAC QDC 3-Prong Eliminator 5.56x45mm"
+  },
+  {
+    "source": "Muzzle > M14 16 Inch 762x51 Muzzle Adapter",
+    "before": "Dispositif de bouche > M14 16 pouces 7.62x51 adaptateur de bouche",
+    "after": "Dispositif de bouche > Adaptateur de bouche M14 16 pouces 7.62x51"
+  },
+  {
+    "source": "Muzzle > M14 22 Inch 762x51 Muzzle Adapter",
+    "before": "Dispositif de bouche > M14 22 pouces 7.62x51 adaptateur de bouche",
+    "after": "Dispositif de bouche > Adaptateur de bouche M14 22 pouces 7.62x51"
+  },
+  {
+    "source": "Muzzle > M14 National Match 762x51 Muzzle Brake",
+    "before": "Dispositif de bouche > M14 Match national 7.62x51mm frein de bouche",
+    "after": "Dispositif de bouche > Frein de bouche M14 National Match 7.62x51mm"
+  },
+  {
+    "source": "Muzzle > PP-19 Muzzle",
+    "before": "Dispositif de bouche > PP-19 bouche",
+    "after": "Dispositif de bouche > Dispositif de bouche PP-19"
+  },
+  {
+    "source": "Muzzle > RFB 762x51 Muzzle",
+    "before": "Dispositif de bouche > RFB 7.62x51mm dispositif de bouche",
+    "after": "Dispositif de bouche > Dispositif de bouche RFB 7.62x51mm"
+  },
+  {
+    "source": "Muzzle > Saiga-12K 12ga Muzzle Device",
+    "before": "Dispositif de bouche > Saiga-12K 12ga dispositif de bouche",
+    "after": "Dispositif de bouche > Dispositif de bouche Saiga-12K calibre 12"
+  },
+  {
+    "source": "Muzzle > Saiga-12K GK-02 12ga Muzzle Device",
+    "before": "Dispositif de bouche > Saiga -2K GK-02 12ga dispositif de bouche",
+    "after": "Dispositif de bouche > Dispositif de bouche Saiga -2K GK-02 calibre 12"
+  },
+  {
+    "source": "Muzzle > Saiga-12K Tromix Monster Claw 12ga Muzzle Device",
+    "before": "Dispositif de bouche > Saiga-12K Tromix Monster Claw 12ga dispositif de bouche",
+    "after": "Dispositif de bouche > Dispositif de bouche Saiga-12K Tromix Monster Claw calibre 12"
+  },
+  {
+    "source": "Pistol Grip > VR80 Stock And Pistol Grip",
+    "before": "Poignée pistolet > Poignée pistolet VR80 crosse And",
+    "after": "Poignée pistolet > Crosse et poignée pistolet VR80"
+  },
+  {
+    "source": "Plate Carrier > Paraclete Origin Plate Carrier",
+    "before": "Porte-plaques > Paraclete Origin porte-plaques",
+    "after": "Porte-plaques > Porte-plaques Paraclete Origin"
+  },
+  {
+    "source": "Rail > Five Seven MRD Mount",
+    "before": "Rail > Five Seven MRD Mount",
+    "after": "Rail > Support MRD Five Seven"
+  },
+  {
+    "source": "Rail > GBRS Hydra Mount",
+    "before": "Rail > GBRS Hydra Mount",
+    "after": "Rail > Support GBRS Hydra"
+  },
+  {
+    "source": "Rail > Leupold DeltaPoint Mount",
+    "before": "Rail > Leupold DeltaPoint Mount",
+    "after": "Rail > Support Leupold DeltaPoint"
+  },
+  {
+    "source": "Rail > Trijicon RMR Mount",
+    "before": "Rail > Trijicon RMR Mount",
+    "after": "Rail > Support Trijicon RMR"
+  },
+  {
+    "source": "Rail > VAL Aftermarket Picatinny Rail Long",
+    "before": "Rail > VAL Aftermarket Picatinny Rail Long",
+    "after": "Rail > Collier à rail Picatinny long VAL/VSS"
+  },
+  {
+    "source": "Rail > VAL King Arms Picatinny Basic Rail",
+    "before": "Rail > VAL King Arms Picatinny Basic Rail",
+    "after": "Rail > Collier à rail Picatinny King Arms VAL/VSS"
+  },
+  {
+    "source": "Sight > Leupold Carbine Optic Reflex Sight",
+    "before": "Viseur > Leupold Carbine optique Reflex Sight",
+    "after": "Viseur > Viseur reflex Leupold Carbine Optic"
+  },
+  {
+    "source": "Sight > Leupold DeltaPoint Reflex Sight",
+    "before": "Viseur > Leupold DeltaPoint Reflex Sight",
+    "after": "Viseur > Viseur reflex Leupold DeltaPoint"
+  },
+  {
+    "source": "Sight > M9A3 Short Sights",
+    "before": "Viseur > M9A3 Vues courtes",
+    "after": "Viseur > Organes de visée bas M9A3"
+  },
+  {
+    "source": "Sight > M9A3 Tall Sights",
+    "before": "Viseur > M9A3 Grandes vues",
+    "after": "Viseur > Organes de visée hauts M9A3"
+  },
+  {
+    "source": "Sight > OKP-7 Reflex Sight",
+    "before": "Viseur > OKP-7 Reflex Sight",
+    "after": "Viseur > Viseur reflex OKP-7"
+  },
+  {
+    "source": "Sight > OKP-77 Reflex Sight",
+    "before": "Viseur > OKP-77 Reflex Sight",
+    "after": "Viseur > Viseur reflex OKP-77"
+  },
+  {
+    "source": "Sight > Trijicon MRO Reflex Sight",
+    "before": "Viseur > Trijicon MRO Reflex Sight",
+    "after": "Viseur > Viseur reflex Trijicon MRO"
+  },
+  {
+    "source": "Sight > Trijicon RMR Miniature Reflex Sight",
+    "before": "Viseur > Trijicon RMR Miniature Reflex Sight",
+    "after": "Viseur > Viseur reflex miniature Trijicon RMR"
+  },
+  {
+    "source": "Sight > Zenitco BelOMO PK-06 Reflex Sight",
+    "before": "Viseur > Zenitco BelOMO PK-06 Reflex Sight",
+    "after": "Viseur > Viseur reflex Zenitco BelOMO PK-06"
+  },
+  {
+    "source": "Stock > AK SAG Buffertube",
+    "before": "Crosse > AK SAG tube de crosse",
+    "after": "Crosse > Tube de crosse AK SAG"
+  },
+  {
+    "source": "Stock > AR-15 Colt A2 Buffertube",
+    "before": "Crosse > AR-15 Colt A2 tube de crosse",
+    "after": "Crosse > Tube de crosse AR-15 Colt A2"
+  },
+  {
+    "source": "Stock > AR-15 Odin Works Zulu Stock",
+    "before": "Crosse > AR-15 Odin Works Zulu 2.0 crosse",
+    "after": "Crosse > Crosse AR-15 Odin Works Zulu 2.0"
+  },
+  {
+    "source": "Stock > AR-15 PWS Enhanced Buffertube",
+    "before": "Crosse > AR-15 PWS amélioré tube de crosse",
+    "after": "Crosse > Tube de crosse amélioré AR-15 PWS"
+  },
+  {
+    "source": "Stock > AR-15 Strike SI AR Advanced Buffertube",
+    "before": "Crosse > AR-15 Strike SI AR avancé tube de crosse",
+    "after": "Crosse > Tube de crosse amélioré AR-15 Strike SI AR"
+  },
+  {
+    "source": "Stock > AS VAL Buffertube Adapter",
+    "before": "Crosse > AS VAL Aftermarket tube de crosse adaptateur",
+    "after": "Crosse > Adaptateur de tube de crosse AS VAL"
+  },
+  {
+    "source": "Stock > AS VAL Skeleton Stock",
+    "before": "Crosse > Crosse AS Val Skeleton",
+    "after": "Crosse > Crosse ajourée AS Val"
+  },
+  {
+    "source": "Stock > AS Val Zenitco Stock Adapter",
+    "before": "Crosse > AS Val ZenitCo crosse adaptateur",
+    "after": "Crosse > Adaptateur de crosse AS Val ZenitCo"
+  },
+  {
+    "source": "Stock > FAL Folding Buffertube",
+    "before": "Crosse > Pliage FAL tube de crosse",
+    "after": "Crosse > Tube de crosse repliable FAL"
+  },
+  {
+    "source": "Stock > KRISS Vector Stock Adapter",
+    "before": "Crosse > KRISS Vector crosse adaptateur",
+    "after": "Crosse > Adaptateur de crosse KRISS Vector"
+  },
+  {
+    "source": "Stock > LAMG Buffer Tube Stock",
+    "before": "Crosse > Crosse LAMG tube de crosse",
+    "after": "Crosse > Tube de crosse LAMG"
+  },
+  {
+    "source": "Stock > M2 Tactical Pistol Grip Stock",
+    "before": "Crosse > Crosse M2 Tactical poignée pistolet",
+    "after": "Crosse > Crosse à poignée pistolet M2 Tactical"
+  },
+  {
+    "source": "Stock > M700 MDT ESS Stock Adapter",
+    "before": "Crosse > M700 MDT ESS crosse adaptateur",
+    "after": "Crosse > Adaptateur de crosse M700 MDT ESS"
+  },
+  {
+    "source": "Stock > MCX Folding Mini Skeleton Stock",
+    "before": "Crosse > Crosse MCX repliable Mini Skeleton",
+    "after": "Crosse > Petite crosse ajourée repliable MCX"
+  },
+  {
+    "source": "Stock > MCX Folding Skeleton Stock",
+    "before": "Crosse > Crosse MCX repliable Skeleton",
+    "after": "Crosse > Crosse ajourée repliable MCX"
+  },
+  {
+    "source": "Stock > MP5 A2 Fixed Buttstock",
+    "before": "Crosse > Crosse MP5 A2 Fixed",
+    "after": "Crosse > Crosse fixe MP5 A2"
+  },
+  {
+    "source": "Stock > MP5 A3 F Retractable Buttstock",
+    "before": "Crosse > Crosse MP5 A3 F Retractable",
+    "after": "Crosse > Crosse rétractable MP5 A3 F"
+  },
+  {
+    "source": "Stock > MP5 A3 Fixed Buttstock",
+    "before": "Crosse > Crosse MP5 A3 Fixed",
+    "after": "Crosse > Crosse fixe MP5 A3"
+  },
+  {
+    "source": "Stock > SKS SAGE International SKSALCS Telescoping Stock",
+    "before": "Crosse > Crosse SKS SAGE International SKSALCS Telescoping",
+    "after": "Crosse > Crosse télescopique SKS SAGE International SKSALCS"
+  },
+  {
+    "source": "Stock > SVDS Lynx Buffer Tube Adapter",
+    "before": "Crosse > SVDS Lynx tube de crosse adaptateur",
+    "after": "Crosse > Adaptateur de tube de crosse SVDS Lynx"
+  },
+  {
+    "source": "Tools > Bolt Cutter",
+    "before": "Outils > Coupe-boulon",
+    "after": "Outils > Coupe-boulons"
+  },
+  {
+    "source": "Unarmored Rig > Vest Virtus Unarmored Rig",
+    "before": "Gilet tactique > Vest Virtus Unarmored Rig",
+    "after": "Gilet tactique > Gilet tactique non blindé Virtus"
+  }
+]

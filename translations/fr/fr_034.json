@@ -58,7 +58,7 @@
       "ns": "LoadingScreenHints",
       "key": "FactionReputation_Description",
       "source": "As more Operations are completed, reputation increases with each faction.Increased reputation allows for better items to be purchased from the vendor. It also unlocks greater rewards, including money and rare items.",
-      "text": "À mesure que les opérations sont terminées, la réputation augmente avec chaque faction.La réputation accrue permet d'acheter de meilleurs articles au vendeur. Il débloque également de plus grandes récompenses, y compris de l'argent et des articles rares."
+      "text": "À mesure que les opérations sont terminées, la réputation augmente avec chaque faction.La réputation accrue permet d'acheter de meilleurs objets au vendeur. Il débloque également de plus grandes récompenses, y compris de l'argent et des objets rares."
     },
     {
       "ns": "LoadingScreenHints",

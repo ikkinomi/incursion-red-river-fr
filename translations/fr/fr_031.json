@@ -130,7 +130,7 @@
       "ns": "",
       "key": "F322A269425A180C2EAAFCA02D676614",
       "source": "Need supplies? The Marketplace lets you buy gear for your raid.\r\n\r\nItems are limited by your reputation with the seller faction.\r\n\r\nDon’t want to wait? Try the Black Market – infinite stock, no restrictions, but very expensive",
-      "text": "Le Marketplace vous permet d'acheter du matériel pour votre raid.\r\n\r\nLes articles sont limités par votre réputation auprès de la faction vendeur.\r\n\r\nTu ne veux pas attendre ? Essayez le marché noir – infini crosse, pas de restrictions, mais très cher"
+      "text": "Le Marketplace vous permet d'acheter du matériel pour votre raid.\r\n\r\nLes objets sont limités par votre réputation auprès de la faction vendeur.\r\n\r\nTu ne veux pas attendre ? Essayez le marché noir – infini crosse, pas de restrictions, mais très cher"
     },
     {
       "ns": "",
@@ -148,7 +148,7 @@
       "ns": "",
       "key": "F3580A224DB3D82C8E7F1E8224196938",
       "source": "OKP-7 Reflex Sight",
-      "text": "OKP-7 Reflex Sight"
+      "text": "Viseur reflex OKP-7"
     },
     {
       "ns": "",
@@ -322,7 +322,7 @@
       "ns": "",
       "key": "F49179974C8DC99033387B93C918C090",
       "source": "Foregrip manufactured by the russian company Zenitco, mounted at a 45° angle",
-      "text": "poignée avant manufactured by the russian company Zenitco, mounted at a 45° angle"
+      "text": "Poignée avant fabriquée par la société russe Zenitco, inclinée à 45°"
     },
     {
       "ns": "",
@@ -454,7 +454,7 @@
       "ns": "",
       "key": "F5B514CE4269D469DEFA8CA7E44EA07B",
       "source": "Leupold DeltaPoint Reflex Sight",
-      "text": "Leupold DeltaPoint Reflex Sight"
+      "text": "Viseur reflex Leupold DeltaPoint"
     },
     {
       "ns": "",
@@ -466,7 +466,7 @@
       "ns": "",
       "key": "F5C580AD46C737257516159D908017DE",
       "source": "11 Inch handguard for the KRISS Vector offering M-LOK rail slots for potential tactical devices & foregrips.",
-      "text": "11 pouces garde-main pour le KRISS Vector offrant des fentes de rail M-LOK pour les dispositifs tactiques et les foregrips potentiels."
+      "text": "Garde-main de 11 pouces pour KRISS Vector avec emplacements M-LOK pour accessoires tactiques et poignées avant."
     },
     {
       "ns": "",
@@ -526,7 +526,7 @@
       "ns": "",
       "key": "F6141D814C9CCCC3CFE6DA8191522E77",
       "source": "Minimalist chest rig: magazines, a tourniquet and not much else.",
-      "text": "Minimaliste gilet tactique: chargeurs, un tourniquet et pas grand-chose d'autre."
+      "text": "Gilet tactique minimaliste : des chargeurs, un garrot et pas grand-chose d’autre."
     },
     {
       "ns": "",

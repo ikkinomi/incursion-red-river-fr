@@ -1,0 +1,2795 @@
+[
+  {
+    "ns": "",
+    "key": "00CDDF9B4517C75F560E90A2D7041282",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_001.json"
+  },
+  {
+    "ns": "",
+    "key": "01458ED64254E6BAA56DD69CD4E0FFB8",
+    "source": "Film Case",
+    "text": "Boîte de pellicule",
+    "file": "fr_001.json"
+  },
+  {
+    "ns": "",
+    "key": "022495B84F71791569087B88F2A61C16",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_001.json"
+  },
+  {
+    "ns": "",
+    "key": "026AE23E47DBEF3C3EDCBAA3971A0F36",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_001.json"
+  },
+  {
+    "ns": "",
+    "key": "029E02B449F9E2BBAE0D32A3258C39AF",
+    "source": "Item Case",
+    "text": "Caisse de rangement",
+    "file": "fr_001.json"
+  },
+  {
+    "ns": "",
+    "key": "042DE0194C97FE345C39F688525E5B23",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_001.json"
+  },
+  {
+    "ns": "",
+    "key": "04D424F7477F953900151E830D7AC0F3",
+    "source": "Military Laptop",
+    "text": "Ordinateur portable militaire",
+    "file": "fr_001.json"
+  },
+  {
+    "ns": "",
+    "key": "0505400242EF8B5F133430B2868C2F7F",
+    "source": "Chemical Crate",
+    "text": "Caisse de produits chimiques",
+    "file": "fr_001.json"
+  },
+  {
+    "ns": "",
+    "key": "064EBFC94B19EF6371576784DAA68800",
+    "source": "Export Preset",
+    "text": "Exporter la configuration",
+    "file": "fr_001.json"
+  },
+  {
+    "ns": "",
+    "key": "0798B7C140B80D0DCB52FC9E71292F11",
+    "source": "Stand. Iron",
+    "text": "Tenez-vous en place.",
+    "file": "fr_002.json"
+  },
+  {
+    "ns": "",
+    "key": "089A4D984C4FA32C1BDC4481E3F56A87",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_002.json"
+  },
+  {
+    "ns": "",
+    "key": "095936B74950D53C815B65AEDEADDBD9",
+    "source": "Toggle Crouch",
+    "text": "Basculer l'accroupissement",
+    "file": "fr_002.json"
+  },
+  {
+    "ns": "",
+    "key": "0A7712624103097CE5EA318F8940C482",
+    "source": "RFB Muzzle",
+    "text": "Dispositif de bouche RFB",
+    "file": "fr_002.json"
+  },
+  {
+    "ns": "",
+    "key": "0A94A668403D280A38FC1CBF68AC1DD9",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_002.json"
+  },
+  {
+    "ns": "",
+    "key": "0CA5DDC5463B8E7AD2B5E8818DB7E778",
+    "source": "Toolbox",
+    "text": "Boîte à outils",
+    "file": "fr_002.json"
+  },
+  {
+    "ns": "",
+    "key": "0CDFD0864F3602C61E44DAA3226B1136",
+    "source": "User: ",
+    "text": "Utilisateur : ",
+    "file": "fr_002.json"
+  },
+  {
+    "ns": "",
+    "key": "0DBC831F4C3330684224BB9AD1EAD3BA",
+    "source": "12ga Slug",
+    "text": "12ga balle unique",
+    "file": "fr_002.json"
+  },
+  {
+    "ns": "",
+    "key": "0E72F88247DC6744EA32B9AF1BE15F45",
+    "source": "12ga slug.",
+    "text": "12ga balle unique.",
+    "file": "fr_002.json"
+  },
+  {
+    "ns": "",
+    "key": "0F7374CB4B950CCE987F00A250ADD1C4",
+    "source": "Interacted",
+    "text": "Interaction effectuée",
+    "file": "fr_002.json"
+  },
+  {
+    "ns": "",
+    "key": "0F9848B14F998F2379385AB8A98C0D65",
+    "source": "Bug for spying.",
+    "text": "Micro destiné à l'espionnage.",
+    "file": "fr_002.json"
+  },
+  {
+    "ns": "",
+    "key": "10BB2CE940F2929ED371559DE1CBC8F5",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "12ED04754234E896A589708A05039DF5",
+    "source": "Download Data",
+    "text": "Télécharger les données",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "130637B142E5119F577C6E830B7E51D5",
+    "source": "Bed Roll",
+    "text": "Sac de couchage",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "13E241874C871B34807BBDA1AE1F0562",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "146AD0164B82ED17ECD22B94FFBCBBCA",
+    "source": "Hold <Red>F</> to loot rig",
+    "text": "Maintiens <Red>F</> pour fouiller le gilet tactique",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "147440B44FC5E050F4A27CB533E7D9FE",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "175A2D9140B76C9BA1DE11B3DB2C7B3C",
+    "source": "Misc Input",
+    "text": "Commandes diverses",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "17A05CE24F79A3A14D2F8496D6CA294E",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "17A5A59B43C615086DDB6FB8F8F8FBE5",
+    "source": "FAL Standard Muzzle",
+    "text": "Dispositif de bouche standard FAL",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "184C093A41D7876D5AAAF29F568C6D85",
+    "source": "Intel C",
+    "text": "Renseignements C",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "18597CAE47593632F6CF0894D6A5AEA1",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "18BDBE4348A586125B74BA9E79622BC7",
+    "source": "Upgrade Intel Center",
+    "text": "Améliorer le centre de renseignement",
+    "file": "fr_003.json"
+  },
+  {
+    "ns": "",
+    "key": "192E9DDE40B7774AB03B01AC7100A1AE",
+    "source": "Film Case",
+    "text": "Boîte de pellicule",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "194FDFEE4E5D030A9583FD9CF5431D89",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "1963D8584ECAF8FB7774B5B5BAF00A0C",
+    "source": "Use Malfunction Tooltip",
+    "text": "Afficher l'aide sur les incidents de tir",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "19ADE6E142633E9C3F936E8DD26E85A6",
+    "source": "Muzzle",
+    "text": "Dispositif de bouche",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "1A3DC8324A624BB131AD3FA4B6A7CB60",
+    "source": "Highlight",
+    "text": "Mettre en surbrillance",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "1A4642DD468009290A0754B1AE92A0A2",
+    "source": "Export Preset?",
+    "text": "Exporter la configuration ?",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "1BBD086F4895CD3F9230D5AD3F4F346E",
+    "source": "Min AI Movement  Ticks Per Second",
+    "text": "Mises à jour minimales des déplacements de l'IA par seconde",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "1BEC2AE247F68FC35DF333B4A19F48B6",
+    "source": "Export Preset",
+    "text": "Exporter la configuration",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "1C6B45DD4A6C82608A84CDB3572364E8",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "1CFD755149A435798961A3A34A630231",
+    "source": "PRESETS",
+    "text": "CONFIGURATIONS",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "1E1BAE1A4173AEFB1D6A8EB2070F3F05",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "1EC47A834FAF7995FB75F893773ED6C7",
+    "source": "Tear Gas",
+    "text": "Gaz lacrymogène",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "1F1D3D124CEB088DB39DB68B47F80A94",
+    "source": "Upscaling Quality",
+    "text": "Qualité de la mise à l'échelle",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "1FEAAD0646C10C7DC3C36CA63A6E0657",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_004.json"
+  },
+  {
+    "ns": "",
+    "key": "20AFB5D0497F9265703FD7BEB00726F2",
+    "source": "MAIN STORY",
+    "text": "HISTOIRE PRINCIPALE",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "22B0259B4CBEF47D77DB37B72C1E4A2D",
+    "source": "Chemical Bottle",
+    "text": "Flacon de produit chimique",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "22DAE9604CA419570D6215B064DABBB3",
+    "source": "Upgrade Intel Center",
+    "text": "Améliorer le centre de renseignement",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "23361CE346E96D0ED944839AC5482CAA",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "253F0D3F49E77DAE49CD0BB74C45FDF8",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "25B3F5D542F3424EA98863A95BB595AA",
+    "source": "Tuna Mix",
+    "text": "Mélange au thon",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "25FB085A42F9A2C17F2D6D8491CCA929",
+    "source": "Soup time!",
+    "text": "C'est l'heure des soupes !",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "2677FA36477E094547BB30859AD58984",
+    "source": "Download Data",
+    "text": "Télécharger les données",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "26C6748D4A78FEBAF956489ECEBC3288",
+    "source": "Intel D",
+    "text": "Renseignements D",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "26F8140B4540771F559DEEB02E2B3294",
+    "source": "Receiver",
+    "text": "Boîtier de culasse",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "2752A3B544914F37A80C219D250638E0",
+    "source": "Delete Preset?",
+    "text": "Supprimer la configuration ?",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "276C5E55460EB728924A679751FBF002",
+    "source": "FPS Limit",
+    "text": "Limite d'images par seconde",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "27E5E80E4F8DC76494399B9006022275",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_005.json"
+  },
+  {
+    "ns": "",
+    "key": "289D3FEA42B17C6F895E1C9FB98274BA",
+    "source": "Sewing Kit",
+    "text": "Nécessaire de couture",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "2927062B437B1587E64E4B94A78E5978",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "29495DD143B2FB4E26A945AD57DAC280",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "2957E4E54718BD1A620A978F1F96A983",
+    "source": "Medicals",
+    "text": "Matériel médical",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "296484094F19145DB2B1519A4AD7F94D",
+    "source": "Gas Can",
+    "text": "Bidon de carburant",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "2A5D713B4EDD831921A62C85F46A5392",
+    "source": "12ga Slug",
+    "text": "12ga balle unique",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "2AC5B3514AC4AFD384B7199709A92675",
+    "source": "DEPLOY",
+    "text": "DÉPLOIEMENT",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "2BA1DB1847D199B0491608A3F19F975E",
+    "source": "SHOTGUNS",
+    "text": "FUSILS À POMPE",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "2BA7710344763FDC8B34B883B3D79DDF",
+    "source": "Delete Preset",
+    "text": "Supprimer la configuration",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "2BC8D8BF4D343FAD45828EBF6229B569",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "2CCB209F4A7C1CD364DCBFA18A75D467",
+    "source": "Unload Ammo",
+    "text": "Retirer les munitions",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "2D7FAD744E799513F4D177BADD474FBA",
+    "source": "Unload Mag",
+    "text": "Déchargez chargeur",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "2F81A11443DC4828F4CC6D921BBC6F2F",
+    "source": "AK-12 Muzzle",
+    "text": "Dispositif de bouche AK-12",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "302F80C74F6934FE02B29AA058C5770F",
+    "source": "Invert Mouse X",
+    "text": "Inverser l'axe X de la souris",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "3066E437496ECCEDFEAF46822A1C61FD",
+    "source": "Select",
+    "text": "Sélectionner",
+    "file": "fr_006.json"
+  },
+  {
+    "ns": "",
+    "key": "310FEA4540D6D645F890AAB1349762BA",
+    "source": "Hide UI",
+    "text": "Masquer l'interface",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "312F52EF4AE0F3FEABD05AB56DC0B65F",
+    "source": "Untrack",
+    "text": "Ne plus suivre",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "3142D1A44E62E836A5738A80DC7751B3",
+    "source": "DLSR Camera",
+    "text": "Appareil photo reflex",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "317F6458464C46A6B4064096D5ED1199",
+    "source": "Upgrade Intel Center",
+    "text": "Améliorer le centre de renseignement",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "328B0A1D498D524F2C51FF8EA20ED08D",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "32FD7EBB40B04884BFD50DA305052690",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "330581E343541B137B4081940D567961",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "332A902B4AA8BF4CB926D9B6026022C9",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "332F5C28432B3346CA2D209D426D268D",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "347523024BA76187BDA91F8C63BFDE9F",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "34BBC8F54C1EC7F150CCEC887DC3B26D",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "355A3EED41D5704A8A1880B18D5929C6",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "3575A9484F5B5F598D4701AF7B5DAAF1",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "362499964CC523E7CBD99DBFB417FD3D",
+    "source": "Viewmodel Settings",
+    "text": "Réglages de l'affichage de l'arme",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "36ECFF414915FFF8AF0796AF081C1EE2",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "37A8BC6D4B77E66F59C5C796B8A1DC71",
+    "source": "Delete Preset",
+    "text": "Supprimer la configuration",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "384FA46B41FB88A93B2BAEA9463F8183",
+    "source": "Min AI Movement  Ticks Per Second",
+    "text": "Mises à jour minimales des déplacements de l'IA par seconde",
+    "file": "fr_007.json"
+  },
+  {
+    "ns": "",
+    "key": "3918F91F4ABE9182A766BCA741E70E6B",
+    "source": "Intel D",
+    "text": "Renseignements D",
+    "file": "fr_008.json"
+  },
+  {
+    "ns": "",
+    "key": "39DDC7E64B611E35B977EC96DC46EE46",
+    "source": "Show Locked Items.",
+    "text": "Afficher les objets verrouillés.",
+    "file": "fr_008.json"
+  },
+  {
+    "ns": "",
+    "key": "3A6C24D74C6F2A78191DE5B5F4E259B1",
+    "source": "Old Tech",
+    "text": "Ancien matériel électronique",
+    "file": "fr_008.json"
+  },
+  {
+    "ns": "",
+    "key": "3B360F354E1F32C328AD16897BC65126",
+    "source": "Old Communicator",
+    "text": "Ancien appareil de communication",
+    "file": "fr_008.json"
+  },
+  {
+    "ns": "",
+    "key": "3CB9DCD14944F2CA5B69988736378565",
+    "source": "Toggle Lean",
+    "text": "Basculer l'inclinaison",
+    "file": "fr_008.json"
+  },
+  {
+    "ns": "",
+    "key": "3E0EA083455F70F5FCF72DBA42ED7556",
+    "source": "Higher = Longer full auto time",
+    "text": "Plus la valeur est élevée, plus le tir automatique dure longtemps.",
+    "file": "fr_008.json"
+  },
+  {
+    "ns": "",
+    "key": "3F62DF35478503179838909D768A00EB",
+    "source": "Hide UI",
+    "text": "Masquer l'interface",
+    "file": "fr_008.json"
+  },
+  {
+    "ns": "",
+    "key": "3FEF47B84FD44A1039467180C1DA69D5",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_008.json"
+  },
+  {
+    "ns": "",
+    "key": "412DD75F4586A23CA800BEA23BE8E9AA",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_009.json"
+  },
+  {
+    "ns": "",
+    "key": "414DAE804C6B9CD18F3AE38643C3653A",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_009.json"
+  },
+  {
+    "ns": "",
+    "key": "4270E43D4CDEC1ABADEDA9B7DC87E12B",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_009.json"
+  },
+  {
+    "ns": "",
+    "key": "42DBA2D9455BFE341288E5B77C3A6998",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_009.json"
+  },
+  {
+    "ns": "",
+    "key": "43379BCF44C6BD10845BF1AAE4AF11EB",
+    "source": "ADD SOCKETS TO MESH",
+    "text": "AJOUTER DES POINTS D'ATTACHE AU MODÈLE",
+    "file": "fr_009.json"
+  },
+  {
+    "ns": "",
+    "key": "439CC1CF4FBB2465D585E9AB68782A88",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_009.json"
+  },
+  {
+    "ns": "",
+    "key": "4420502549AD02092EF2449587A6C8C5",
+    "source": "Overlap",
+    "text": "Chevauchement",
+    "file": "fr_009.json"
+  },
+  {
+    "ns": "",
+    "key": "45929ED749277290473FEB88EBCAA407",
+    "source": "RFB Sight",
+    "text": "Organe de visée RFB",
+    "file": "fr_009.json"
+  },
+  {
+    "ns": "",
+    "key": "46CB950746701B864D4FD5B2A0501206",
+    "source": "M14 Muzzle",
+    "text": "Dispositif de bouche M14",
+    "file": "fr_009.json"
+  },
+  {
+    "ns": "",
+    "key": "48670336443866818673C5B03B4A981F",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_009.json"
+  },
+  {
+    "ns": "",
+    "key": "4A990D934272BD9460D27F8B842BB7DB",
+    "source": "CUSTOM",
+    "text": "PERSONNALISÉ",
+    "file": "fr_010.json"
+  },
+  {
+    "ns": "",
+    "key": "4B079A63470C794ADADF8ABF8A9C045E",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_010.json"
+  },
+  {
+    "ns": "",
+    "key": "4BD545A64121CFAF73ACC1AE0EBB95C2",
+    "source": "Military Laptop",
+    "text": "Ordinateur portable militaire",
+    "file": "fr_010.json"
+  },
+  {
+    "ns": "",
+    "key": "4BE20FB34500B7B2D258EFABB3640DC5",
+    "source": "COPY SOCKETS",
+    "text": "COPIER LES POINTS D'ATTACHE",
+    "file": "fr_010.json"
+  },
+  {
+    "ns": "",
+    "key": "4C584FD943FE0895F5EBEF984976CE8C",
+    "source": "Usage Time",
+    "text": "Durée d'utilisation",
+    "file": "fr_010.json"
+  },
+  {
+    "ns": "",
+    "key": "4D120D8A4A6B4CA43234E5912D224F34",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_010.json"
+  },
+  {
+    "ns": "",
+    "key": "4DF2C92E4EE8CF68BA388AB32EBF9EF9",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_010.json"
+  },
+  {
+    "ns": "",
+    "key": "500F180C4748FE4BD08057B649F1B6F1",
+    "source": "Export Preset?",
+    "text": "Exporter la configuration ?",
+    "file": "fr_010.json"
+  },
+  {
+    "ns": "",
+    "key": "50D9A16A4E5BD8E073B594A8F6396A40",
+    "source": "Load Preset?",
+    "text": "Charger la configuration ?",
+    "file": "fr_010.json"
+  },
+  {
+    "ns": "",
+    "key": "510BB7804367EA2F62AF1F92C741D2A0",
+    "source": "Item Manager",
+    "text": "Gestionnaire d'objets",
+    "file": "fr_011.json"
+  },
+  {
+    "ns": "",
+    "key": "518571AB43442BDFBF7930949B2BABA1",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_011.json"
+  },
+  {
+    "ns": "",
+    "key": "53A06D41481CC3E52CAA3387420323A5",
+    "source": "Stock for RPK-74 LMG.",
+    "text": "Crosse pour la mitrailleuse légère RPK-74.",
+    "file": "fr_011.json"
+  },
+  {
+    "ns": "",
+    "key": "54BF45CF4853D1A1BEDBD4BDA4C2AC03",
+    "source": "You unlock saving & loading presets",
+    "text": "Débloque l'enregistrement et le chargement de configurations",
+    "file": "fr_011.json"
+  },
+  {
+    "ns": "",
+    "key": "554965B148D703112B86B7A4E25FEC12",
+    "source": "H - Hide UI",
+    "text": "H - Masquer l'interface",
+    "file": "fr_011.json"
+  },
+  {
+    "ns": "",
+    "key": "567484744E4C6CE08BAA02AD931ECA73",
+    "source": "FOV Settings",
+    "text": "Réglages du champ de vision",
+    "file": "fr_011.json"
+  },
+  {
+    "ns": "",
+    "key": "573EAE404478EE08048965BF7456DD96",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_011.json"
+  },
+  {
+    "ns": "",
+    "key": "58EB6C8A4A7660AF2582A59F74D3CC69",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_011.json"
+  },
+  {
+    "ns": "",
+    "key": "5A0CC6314AFEFF6AF9102B88A9A5F63A",
+    "source": "Dog Tag",
+    "text": "Plaque d'identité",
+    "file": "fr_012.json"
+  },
+  {
+    "ns": "",
+    "key": "5A227EEF4F0DCF1C6E06BF807CE5F48F",
+    "source": "Import Preset",
+    "text": "Importer une configuration",
+    "file": "fr_012.json"
+  },
+  {
+    "ns": "",
+    "key": "5D7A31BA4D7C37BAAC71728904437A55",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_012.json"
+  },
+  {
+    "ns": "",
+    "key": "5E2FB20E49C7E0FD4E8A1997D00552D0",
+    "source": "RENAME SOCKET\r\n",
+    "text": "RENOMMER LE POINT D'ATTACHE\r\n",
+    "file": "fr_012.json"
+  },
+  {
+    "ns": "",
+    "key": "5E9656E44B5164515E9F9DA19071C064",
+    "source": "Item Manager",
+    "text": "Gestionnaire d'objets",
+    "file": "fr_012.json"
+  },
+  {
+    "ns": "",
+    "key": "5EF11EC9413447A7969A8F9F9664EB6F",
+    "source": "Toggle Run",
+    "text": "Basculer la course",
+    "file": "fr_012.json"
+  },
+  {
+    "ns": "",
+    "key": "61D6CEAA4131F5FF8D77E8859A285679",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_013.json"
+  },
+  {
+    "ns": "",
+    "key": "63C4D7E04C519AFCD0ADB08DDCD14A25",
+    "source": "Gas Block",
+    "text": "bloc d'emprunt de gaz",
+    "file": "fr_013.json"
+  },
+  {
+    "ns": "",
+    "key": "640EEEED412A907ED9E224B6E980F2AF",
+    "source": "Run Virus Scan..",
+    "text": "Lancer l'analyse antivirus...",
+    "file": "fr_013.json"
+  },
+  {
+    "ns": "",
+    "key": "65215F864C7E6703F6825AA41EC01BF0",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_013.json"
+  },
+  {
+    "ns": "",
+    "key": "664ACDFC453BA4CC07FAFDBF8211A85E",
+    "source": "Potato",
+    "text": "Très faible",
+    "file": "fr_013.json"
+  },
+  {
+    "ns": "",
+    "key": "666B2BE741BDC2BEE75D5F8D1741DEBB",
+    "source": "Deploy",
+    "text": "Déploiement",
+    "file": "fr_013.json"
+  },
+  {
+    "ns": "",
+    "key": "685E3F304A7B47B1BA6049A182C35888",
+    "source": "Turn Speed",
+    "text": "Vitesse de rotation",
+    "file": "fr_013.json"
+  },
+  {
+    "ns": "",
+    "key": "6A02BE4745C5CA88507BCFAB95A2ED02",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_013.json"
+  },
+  {
+    "ns": "",
+    "key": "6A16E5CB4365DBC54008549AEF062C81",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_013.json"
+  },
+  {
+    "ns": "",
+    "key": "6A1F1786457BF04E274A088BFD67DFBF",
+    "source": "Find Item",
+    "text": "Rechercher l'élément",
+    "file": "fr_013.json"
+  },
+  {
+    "ns": "",
+    "key": "6B9FD5D845584E605002E69E1E50A4F1",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "6BB9F8A3414B54D9182F648D1432C080",
+    "source": "Invert Mouse Y",
+    "text": "Inverser l'axe Y de la souris",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "6C67ED35460F305D54944696D451C173",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "6D0A2D254940D2A989AA61B013809B4F",
+    "source": "HANDGUNS",
+    "text": "ARMES DE POING",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "6DBBCF9E4862F2DC63E908B44E7BC785",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "6DC6A898491E20F81ED9239787B432E3",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "6E434D254EDF19F6297892B931A66AAA",
+    "source": "Toggle Sneak",
+    "text": "Basculer la marche furtive",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "6E52BD1046899EE95CF2C1A5D9A9613A",
+    "source": "Higher = Slower firerate",
+    "text": "Plus la valeur est élevée, plus la cadence de tir est lente.",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "6EE806D8434BEBACEC624EA93BD807D9",
+    "source": "Save Preset?",
+    "text": "Enregistrer la configuration ?",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "6F2781ED45CBFBFF779983873C7FAFF6",
+    "source": "Bug The Warehouse",
+    "text": "Placer des micros dans l'entrepôt",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "6FAB116B4AA77DC84AB74AB15D368367",
+    "source": "Toggle Run",
+    "text": "Basculer la course",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "700A382548D4C5DFF4AD6DB9E1741973",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "714C8AA44F9EAF10B3A8DDBF5E369286",
+    "source": "Deliberate Miss Time",
+    "text": "Durée des tirs volontairement manqués",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "71B4652B4BEBB9E4104E24A9013F67BC",
+    "source": "Set Source",
+    "text": "Définition de la source",
+    "file": "fr_014.json"
+  },
+  {
+    "ns": "",
+    "key": "73D0387A41A6E1096C6BABB00CE528A0",
+    "source": "Load Preset",
+    "text": "Charger une configuration",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "73E890FC4D6C9ECB806130AEFDCBAB6C",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "7434A05C490CB3501FF42A8CE099212C",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "7486C75B46E76F37EE0362AF19FCBBB9",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "751D66EA41E0E8D87F610DB40671801E",
+    "source": "Load Preset?",
+    "text": "Charger la configuration ?",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "756AF2AC407063BCEBD755B5B266CC14",
+    "source": "Old Tech",
+    "text": "Ancien matériel électronique",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "7602329B43D3AEE95118E1AE26DDE337",
+    "source": "Item Case",
+    "text": "Caisse de rangement",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "781978E246EA2D98CBC8F6B001F067E4",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "789E596D4F16B051CF3B5A87CF156517",
+    "source": "Summary",
+    "text": "Récapitulatif",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "78F2132F4851DE9DF2FF019C12797327",
+    "source": "Hold Breath",
+    "text": "Retenir sa respiration",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "798AB14747CB6F16EE24AE8B9374F48C",
+    "source": "AI Bark Volume",
+    "text": "Volume des voix ennemies",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "79ADD3D94E385E51C99420916D3CF3DC",
+    "source": "Fix Malfunction",
+    "text": "Résoudre l'incident de tir",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "79D187CC4E15BC40AE940EAB7B78CFB1",
+    "source": "Wipe Account",
+    "text": "Réinitialiser le compte",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "7A0C7D94446C4870F6246496CAD47E20",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "7A1B429144543A0591CBD0BE49A8EBDC",
+    "source": "Crouch",
+    "text": "S'accroupir",
+    "file": "fr_015.json"
+  },
+  {
+    "ns": "",
+    "key": "7A77CC27437D6C23C7D166B537010FD5",
+    "source": "Fix Malfunction",
+    "text": "Résoudre l'incident de tir",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "7AF39D0542A730069D320F87E8301E2B",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "7B481D674DEDA8F8AF8CDE992938B209",
+    "source": "PRESET NAME",
+    "text": "NOM DE LA CONFIGURATION",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "7BC501E14DCE25F5E7DD4C8971B2242E",
+    "source": "Find Food Storage.",
+    "text": "Trouvez le stockage des aliments.",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "7CA78B9D4A0E1338C2090A92DD2A5C41",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "7CB384BA43C4978B366439A42D242B27",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "7CE83C4A47A3303B53DD6EAF2EB399A6",
+    "source": "SHOTGUNS",
+    "text": "FUSILS À POMPE",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "7D2A70924A3DC90228A61FAF9166A3C3",
+    "source": "Tactical",
+    "text": "Accessoires tactiques",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "7D347DE741C2F104ACDFC597586D8C91",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "7E4C6C0E42C2E4652153D88F07DC91F6",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "7E8F22E241303482631820AAE261314A",
+    "source": "Download Data",
+    "text": "Télécharger les données",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "7F1101A7456DC2E56047BA84E3D31C29",
+    "source": "Crouch",
+    "text": "S'accroupir",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "80134D1D4777D5D621283C838A605729",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_016.json"
+  },
+  {
+    "ns": "",
+    "key": "82272C604EB1924F642336BBBD00C9D4",
+    "source": "Import Preset?",
+    "text": "Importer la configuration ?",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "82321ADD4C7221BC11AA0CBD95E9A258",
+    "source": "Power Cable",
+    "text": "Câble d'alimentation",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "82A6BE2E4D9A1A8148B318B58CB48152",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "82B98B2D4D54640528BB58A4DD77558D",
+    "source": "Download Data",
+    "text": "Télécharger les données",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "83A37DAF4B93BC9D58F8938273746822",
+    "source": "Key & Intel Case",
+    "text": "Mallette de clés et de renseignements",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "8444A1494364CB05A8AD2184BD022C00",
+    "source": "Lean Left",
+    "text": "Se pencher à gauche",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "8460F12347164DF26444BE8BB60E8FBB",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "84E420734BF86D51F2FCF7AB136E75AD",
+    "source": "Muzzle",
+    "text": "Dispositif de bouche",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "8562B2EE46F37AA6542CC683A1C81C6C",
+    "source": "Invert Mouse Y",
+    "text": "Inverser l'axe Y de la souris",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "85B06806444A0E142A396AA495D0BBB9",
+    "source": "Save Preset",
+    "text": "Enregistrer la configuration",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "8619C0114CD8B4491EA3CDBD8DCFD3D6",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "87DEC6BA4F2FD68F5E28F0BAB05F0573",
+    "source": "PRESET NAME",
+    "text": "NOM DE LA CONFIGURATION",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "8816D4B5405BCC592F6D9494529F2DE9",
+    "source": "Use Gadget",
+    "text": "Utiliser le gadget",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "88638EED47FC21AAF23867B05310D39B",
+    "source": "Toggle Auto Ready",
+    "text": "Activer la préparation automatique",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "88C8A7FC438E34613A8E90BFA30C642C",
+    "source": "Lean Right",
+    "text": "Se pencher à droite",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "89063F034A382C5DBF154E8B40BCF72A",
+    "source": "Stop Wound",
+    "text": "Soigner la blessure",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "8991C0CF4C562EF0BF3A83BA293CDEA0",
+    "source": "Intel Center",
+    "text": "Centre de renseignement",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "89A7A185415D75F0E8C90FBD36D8751F",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_017.json"
+  },
+  {
+    "ns": "",
+    "key": "8A7F731947FF97A88BB25DB27F8B24B8",
+    "source": "HANDGUNS",
+    "text": "ARMES DE POING",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "8B012DAF46704EB22DBA97821374349E",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "8B5B4E824A2693FFC9CDA2BFA2E4DF53",
+    "source": "Some change.",
+    "text": "Un peu de changement.",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "8BDC60C746248FE23F1513800F9E1A4F",
+    "source": "Saline IV",
+    "text": "Perfusion saline",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "8BE996BB4CEAB4C5D48B9DB2C80C3614",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "8D3947D14617A92DDC9538A213A0CFCF",
+    "source": "Set Defaults",
+    "text": "Rétablir les valeurs par défaut",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "8D65A8544DD97659A3D7FEAC6BCC6574",
+    "source": "M14 Muzzle",
+    "text": "Dispositif de bouche M14",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "8D6890ED4754B654C1240A97A65C2DAE",
+    "source": "Hold Breath",
+    "text": "Retenir sa respiration",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "8D8D168B4D905E9A7734FBBEACB8E782",
+    "source": "Investigate large H.A.S.",
+    "text": "Enquêter sur les grandes unités sanitaires.",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "8E3B1167495028BC3F4C8FABCF81E73A",
+    "source": "Remove Ping",
+    "text": "Retirer le marqueur",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "8EDAB89449756B90C27E3D82AED3B738",
+    "source": "Use Auto Low Ready",
+    "text": "Abaisser automatiquement l'arme",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "8F6D35074A44E93CD8D0469EC0A69E92",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_018.json"
+  },
+  {
+    "ns": "",
+    "key": "92F6EAC442D66CD362AFB4B3C2F170F2",
+    "source": "Muzzle",
+    "text": "Dispositif de bouche",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "944A52494F11A19DFF889BA7B975D767",
+    "source": "MATCHMAKING FAILED",
+    "text": "ÉCHEC DE LA RECHERCHE DE PARTIE",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "948ED7344A1FB9CC61EC33ACDC8E11C5",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "9493BC7C4F02C1E526FEE793E4955EB2",
+    "source": "Oil? Check.",
+    "text": "Pétrole ? Bien reçu.",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "94A21C4A4EEBF7BEBF88CB8DA2C1DEF6",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "94A817FD4B3DCA8AE5D626AA92E4029D",
+    "source": "Max Full Auto Range",
+    "text": "Portée maximale du tir automatique",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "956BABB64F756B04E960F2925AB01449",
+    "source": "Viewmodel FOV",
+    "text": "Champ de vision de l'arme",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "962923E24F73B26BAF6153BE7B50C599",
+    "source": "PRESET NAME",
+    "text": "NOM DE LA CONFIGURATION",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "96486FA6477C6E82EEB8EB83C454D1E0",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "964CC4D6466F4B2BD0569988BF234689",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "978FCCF44AFEBF4F3EE40888F2ABF835",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "98EB8C3E4A5F050F9FAA05844E00438C",
+    "source": "Import Preset?",
+    "text": "Importer la configuration ?",
+    "file": "fr_019.json"
+  },
+  {
+    "ns": "",
+    "key": "9A49CF364D2B50DE73A991BCF2F58317",
+    "source": "Old Tech",
+    "text": "Ancien matériel électronique",
+    "file": "fr_020.json"
+  },
+  {
+    "ns": "",
+    "key": "9B5098C140187FA2E72125A7B352CBF8",
+    "source": "FPS Limit",
+    "text": "Limite d'images par seconde",
+    "file": "fr_020.json"
+  },
+  {
+    "ns": "",
+    "key": "9B5FC2244F6FD1D037CA16A3F8EC1606",
+    "source": "Hide UI",
+    "text": "Masquer l'interface",
+    "file": "fr_020.json"
+  },
+  {
+    "ns": "",
+    "key": "9CDBA404457E6D32244FBDB00982DEE3",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_020.json"
+  },
+  {
+    "ns": "",
+    "key": "9DA233104C4E6ABB1218E4A2466335FA",
+    "source": "Wipe Account?",
+    "text": "Réinitialiser le compte ?",
+    "file": "fr_020.json"
+  },
+  {
+    "ns": "",
+    "key": "9DB235CC43982BD3EF1FB7AD0DB0B797",
+    "source": "English",
+    "text": "Français (patch)",
+    "file": "fr_020.json"
+  },
+  {
+    "ns": "",
+    "key": "9E0B98E24B0C2C094B955691F6EA7EE4",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_020.json"
+  },
+  {
+    "ns": "",
+    "key": "9E2FF18F49AF7DC24EA6A0A3256453BC",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_020.json"
+  },
+  {
+    "ns": "",
+    "key": "A019F96140AD44ABDAF9298576560816",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_020.json"
+  },
+  {
+    "ns": "",
+    "key": "A0FD36D24641D3C23FEA6A875554A0BC",
+    "source": "CUSTOM",
+    "text": "PERSONNALISÉ",
+    "file": "fr_020.json"
+  },
+  {
+    "ns": "",
+    "key": "A11D33CE450AF874FE013091C2BEAA9D",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_020.json"
+  },
+  {
+    "ns": "",
+    "key": "A29F168E4FC75D5E57423AB7D2904E8C",
+    "source": "Assemble Preset?",
+    "text": "Assembler la configuration ?",
+    "file": "fr_021.json"
+  },
+  {
+    "ns": "",
+    "key": "A38615B6479291A37196D5A52D0D3063",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_021.json"
+  },
+  {
+    "ns": "",
+    "key": "A42D24344683BE3FD6409EBA7C1E6FED",
+    "source": "RequestLogin",
+    "text": "Demande d'ouverture de session",
+    "file": "fr_021.json"
+  },
+  {
+    "ns": "",
+    "key": "A47F576B4605083C9FDD8FA87174389D",
+    "source": "Retrack Mission",
+    "text": "Suivre à nouveau la mission",
+    "file": "fr_021.json"
+  },
+  {
+    "ns": "",
+    "key": "A78753E3479BC0FF5B790E88C910324A",
+    "source": "VOIP Volume",
+    "text": "Volume de la discussion vocale",
+    "file": "fr_021.json"
+  },
+  {
+    "ns": "",
+    "key": "A98F18B74C7F30E1E2141C88E1B2275A",
+    "source": "End Spectating",
+    "text": "Quitter le mode spectateur",
+    "file": "fr_021.json"
+  },
+  {
+    "ns": "",
+    "key": "AA4E2AAA41EDEE3F0626C880AD04C73C",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_022.json"
+  },
+  {
+    "ns": "",
+    "key": "AACE46E34B3F11F318F909A2EE878443",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_022.json"
+  },
+  {
+    "ns": "",
+    "key": "AC21DAA3426F27A895C370B99B655652",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_022.json"
+  },
+  {
+    "ns": "",
+    "key": "AD097BB2443C9DAA23AAA1AF485217EF",
+    "source": "Enter user name and password.",
+    "text": "Saisissez votre nom d'utilisateur et votre mot de passe.",
+    "file": "fr_022.json"
+  },
+  {
+    "ns": "",
+    "key": "AD265B4A414128B5FCB708952F05AFA6",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_022.json"
+  },
+  {
+    "ns": "",
+    "key": "ADDE927F43272C82A11059B8BB9D9D36",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_022.json"
+  },
+  {
+    "ns": "",
+    "key": "AF99723741BD6B9F57B37E807F778224",
+    "source": "Cash Repair",
+    "text": "Réparer avec de l'argent",
+    "file": "fr_022.json"
+  },
+  {
+    "ns": "",
+    "key": "AFF3339E46C7E1F8736071AA157B317C",
+    "source": "Muzzle",
+    "text": "Dispositif de bouche",
+    "file": "fr_022.json"
+  },
+  {
+    "ns": "",
+    "key": "B07214ED46D1DC50D3FF13936BA2F50E",
+    "source": "Select",
+    "text": "Sélectionner",
+    "file": "fr_022.json"
+  },
+  {
+    "ns": "",
+    "key": "B0999C234A66D09599B623B961ECF98E",
+    "source": "Med Box ",
+    "text": "Boîte médicale ",
+    "file": "fr_022.json"
+  },
+  {
+    "ns": "",
+    "key": "B1117DC24FD6B77BEDF5B99697153B73",
+    "source": "Crouch",
+    "text": "S'accroupir",
+    "file": "fr_022.json"
+  },
+  {
+    "ns": "",
+    "key": "B31D488742759312E87730A15D48C350",
+    "source": "Save Preset?",
+    "text": "Enregistrer la configuration ?",
+    "file": "fr_023.json"
+  },
+  {
+    "ns": "",
+    "key": "B39A401743E9BDFD4440A6B3852EBAA6",
+    "source": "Food? Check",
+    "text": "Vivres ? Bien reçu.",
+    "file": "fr_023.json"
+  },
+  {
+    "ns": "",
+    "key": "B3B1346D4F6E6F301CA66B93E3C3D855",
+    "source": "Disable Range",
+    "text": "Portée de désactivation",
+    "file": "fr_023.json"
+  },
+  {
+    "ns": "",
+    "key": "B5A16934468162B99C7E269838581AB9",
+    "source": "PRESETS",
+    "text": "CONFIGURATIONS",
+    "file": "fr_023.json"
+  },
+  {
+    "ns": "",
+    "key": "B60834504A5F08B819CA4DAA823D3DB5",
+    "source": "RFB Sight",
+    "text": "Organe de visée RFB",
+    "file": "fr_023.json"
+  },
+  {
+    "ns": "",
+    "key": "B750AAB64D11CDAEA5CCD189D305CA89",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_023.json"
+  },
+  {
+    "ns": "",
+    "key": "B790E29E416E589E4E3384B15FB7C3CE",
+    "source": "Dog Tag",
+    "text": "Plaque d'identité",
+    "file": "fr_023.json"
+  },
+  {
+    "ns": "",
+    "key": "B99152DC44A57DE9F936BFBE20AB489C",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "BA585A0149ED219EDAD8FF81B9A19E0B",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "BB09F86D42CA55CAB55F0E9D4F15C011",
+    "source": "Full Auto Max Range",
+    "text": "Portée maximale du tir automatique",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "BB47A1394161AF954EA9C78098DAA488",
+    "source": "Cooldown",
+    "text": "Temps de recharge",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "BB540390482A8071D6CD91AF76744DCC",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "BCE8F25844A67ECBBEE6DBB6C6388528",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "BD4D9C6244B3AF304ADF20B1EC133516",
+    "source": "Copy Sockets",
+    "text": "Copier les chaussettes",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "BD9292914F12941F1AA3FDA53A1B4E31",
+    "source": "Hammer time.",
+    "text": "C'est l'heure du marteau.",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "BDD8D7A44E821A565249D4AC8C0877D7",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "BDF833914BD59CDEB69A979EE9E044C4",
+    "source": "ADD SOCKETS",
+    "text": "AJOUTER DES POINTS D'ATTACHE",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "BEF425AE4DC0AA220DAF2FAF9BC6BCC3",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "BF1DAB2C47239B3A7C5785ACF0A29F9E",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "C08E8F1D4ABECB5A4F9FBFB2952FD66D",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_024.json"
+  },
+  {
+    "ns": "",
+    "key": "C215523C4C799EF8221606AAA52ED418",
+    "source": "HIVEMIND",
+    "text": "ESPRIT COLLECTIF",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C370F80F4299F856CA754FA287A611C9",
+    "source": "Material Repair",
+    "text": "Réparer avec des matériaux",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C3ED1B7F4953780C741ADF8890D1C5DF",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C415582640522C004D991AB594C747BF",
+    "source": "Laptop",
+    "text": "Ordinateur portable",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C49F6FB34C00F6B586D86A9BCFD36F90",
+    "source": "AI Bark Volume",
+    "text": "Volume des voix ennemies",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C4A164144498BC9002FD5AAF03241E04",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C54A24A549025E84F9D41793081DACD4",
+    "source": "Invert Mouse X",
+    "text": "Inverser l'axe X de la souris",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C5760B6045AF6FC78CD5CFA6CB01EC35",
+    "source": "RequestLogin",
+    "text": "Demande d'ouverture de session",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C5821F06495374078282F0B436A0A04C",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C626057B40CEE7C81C0AD182A0486EBE",
+    "source": "Body Stamina Drain",
+    "text": "Consommation d'endurance du corps",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C6DB562B4733484D6D723CBA1ECFD576",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C73AA4884316A45A712BA0BB7DDF716E",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C7D82C204F7A2EC2710A92877650FB9F",
+    "source": "Select CPU Simulation Level for AI.",
+    "text": "Choisissez le niveau de simulation de l'IA par le processeur.",
+    "file": "fr_025.json"
+  },
+  {
+    "ns": "",
+    "key": "C9578C884CA57B17621EE58F1FDFA753",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "C9FABBF44E4D42879F16F5A403499006",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "CA2B5DFD4B62B779406592B350BD08B0",
+    "source": "PRESET NAME",
+    "text": "NOM DE LA CONFIGURATION",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "CA7A76D446CA24EB0686E8B883755730",
+    "source": "Intel C",
+    "text": "Renseignements C",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "CC941C534DD4514BE6A8DFA59EA9DC44",
+    "source": "Deploy",
+    "text": "Déploiement",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "CD0190C947FEA598B2336C83042F1703",
+    "source": "Troop Movement Paper",
+    "text": "Document sur les mouvements de troupes",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "CDE17F2E458B7E6B389D198BC894435D",
+    "source": "Import Preset",
+    "text": "Importer une configuration",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "CE961D2C470CCE61BF0795BD8FE43A73",
+    "source": "Use Compass",
+    "text": "Afficher la boussole",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "CFCDE8C6412CC8F94113F881E17C6A4F",
+    "source": "Lean Right",
+    "text": "Se pencher à droite",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "D013DFE44F70CA51DA192E94A2125F5B",
+    "source": "Sewing kit",
+    "text": "Nécessaire de couture",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "D0CC33B0497051BB65D450BCDF47BD19",
+    "source": "Save Preset",
+    "text": "Enregistrer la configuration",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "D1FF7CF9442B93EBEB95C58F136E4C43",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_026.json"
+  },
+  {
+    "ns": "",
+    "key": "D2834CA245BEC78BCB0E0198D77FDADE",
+    "source": "Movement Input",
+    "text": "Commandes de déplacement",
+    "file": "fr_027.json"
+  },
+  {
+    "ns": "",
+    "key": "D37160424CA2C15D7988CABAABFF0CC1",
+    "source": "RequestLogin",
+    "text": "Demande d'ouverture de session",
+    "file": "fr_027.json"
+  },
+  {
+    "ns": "",
+    "key": "D393BC9040D7B4B164391AB827AAE283",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_027.json"
+  },
+  {
+    "ns": "",
+    "key": "D3C8319A495A4169B86EF28BAE41D69D",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_027.json"
+  },
+  {
+    "ns": "",
+    "key": "D63512294C147C9DE2BCA8B26188298F",
+    "source": "Bunker E-Key",
+    "text": "Clé électronique Bunker",
+    "file": "fr_027.json"
+  },
+  {
+    "ns": "",
+    "key": "D6B84F0C45C127E1E1ACAEA939495981",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_027.json"
+  },
+  {
+    "ns": "",
+    "key": "D76269FC4F07CC7E6A6B1E89C76AE5A6",
+    "source": "Voice Chat Output",
+    "text": "Sortie de la discussion vocale",
+    "file": "fr_027.json"
+  },
+  {
+    "ns": "",
+    "key": "D7FDD738401B8C266CB640AAD8352F1B",
+    "source": "Spraycan",
+    "text": "Bombe de peinture",
+    "file": "fr_027.json"
+  },
+  {
+    "ns": "",
+    "key": "D906A761405344F7955246B511F2D56D",
+    "source": "RequestLogin",
+    "text": "Demande d'ouverture de session",
+    "file": "fr_027.json"
+  },
+  {
+    "ns": "",
+    "key": "DA09BF2F4DE8E0FADB2C67B8FAAECF95",
+    "source": "Toggle Crouch",
+    "text": "Basculer l'accroupissement",
+    "file": "fr_027.json"
+  },
+  {
+    "ns": "",
+    "key": "DA7F34944A152F31001666A4FF70BF02",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_027.json"
+  },
+  {
+    "ns": "",
+    "key": "DAC4C0DD43920A3E0B231FA4B64C8E4A",
+    "source": "RequestLogin",
+    "text": "Demande d'ouverture de session",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "DAF07521446858414FC36C8D9EC18C00",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "DBC701864E994D528F3E71B526120E21",
+    "source": "Untrack",
+    "text": "Ne plus suivre",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "DC17CDD44BBA75FBDAEC25ACB28512F0",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "DD01109C4746924720CCCD8B7F530E1C",
+    "source": "Hold..",
+    "text": "Maintenez...",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "DECDA4AE4E6E3E5E8E0402A1043B6BFF",
+    "source": "Saline IV",
+    "text": "Perfusion saline",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "DEE80B44411C21AD4397D6B55BF590AA",
+    "source": "Toggle Lean",
+    "text": "Basculer l'inclinaison",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "E06F38444FD72CDC87A86ABED8F1FE85",
+    "source": "[RETRACKED] MAIN STORY",
+    "text": "[SUIVIE À NOUVEAU] HISTOIRE PRINCIPALE",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "E09EFBCC4050F949D5B1AA8007F11952",
+    "source": "Gas Block",
+    "text": "bloc d'emprunt de gaz",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "E0F0E263485C38560CF876932FD1219D",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "E13D79FC4B4522AFD96014B848AA2D59",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "E2AC824E458F9E014D1895ABDC933918",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_028.json"
+  },
+  {
+    "ns": "",
+    "key": "E2E812564C0A84F26B9E5294ACC9CDFD",
+    "source": "Hold <Red>F</> to loot rig",
+    "text": "Maintiens <Red>F</> pour fouiller le gilet tactique",
+    "file": "fr_029.json"
+  },
+  {
+    "ns": "",
+    "key": "E5936C644A1B49BE2EE08F8E4B03F0AF",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_029.json"
+  },
+  {
+    "ns": "",
+    "key": "E67D260A44F69B1893C99BA5904318E4",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_029.json"
+  },
+  {
+    "ns": "",
+    "key": "E6E9FFB143FF5656CE6DDA9862CE8836",
+    "source": "Keys & Intel",
+    "text": "Clés et renseignements",
+    "file": "fr_029.json"
+  },
+  {
+    "ns": "",
+    "key": "E7315A0F4C1B3EA4A26486A00409990A",
+    "source": "Higher = faster vision speed.",
+    "text": "Plus la valeur est élevée, plus la détection visuelle est rapide.",
+    "file": "fr_029.json"
+  },
+  {
+    "ns": "",
+    "key": "E7618BE74EE87DD0FEE859B04A4456A3",
+    "source": "RequestLogin",
+    "text": "Demande d'ouverture de session",
+    "file": "fr_029.json"
+  },
+  {
+    "ns": "",
+    "key": "E7E00FAA4334B9EBEFAE71A91A4EECBE",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_029.json"
+  },
+  {
+    "ns": "",
+    "key": "E80672A04377AEBA2638A9BEF59966DB",
+    "source": "Galil Muzzle",
+    "text": "Dispositif de bouche Galil",
+    "file": "fr_029.json"
+  },
+  {
+    "ns": "",
+    "key": "E92001BB45724DFC8E698B9DED0553D0",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_029.json"
+  },
+  {
+    "ns": "",
+    "key": "EAF2AFB54620F0F1AC260FB9D6715B34",
+    "source": "Frame Limit",
+    "text": "Limite d'images par seconde",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "EC29CAC54C2021B4813F2DAA4B5FFD2A",
+    "source": "Gas Can",
+    "text": "Bidon de carburant",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "EC6D6A5742393DD46692EBB0620A7078",
+    "source": "Viewmodel FOV",
+    "text": "Champ de vision de l'arme",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "EC76ABB9426F6562C0FC9781BA0DE397",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "ECB2D6BB46C2176495E30AA188E6CA9C",
+    "source": "Lean Left",
+    "text": "Se pencher à gauche",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "EDC77B60431B14A7628A3BBE29A76088",
+    "source": "Confirmed KIA",
+    "text": "Mort confirmé au combat",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "EDDA1201497EE8730FE521935AB76E03",
+    "source": "Main Quests",
+    "text": "Missions principales",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "EE351C964A5C976A5F3AC2B651418E0C",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "EED5BDBD4329D4483C5C00A340E60C94",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "EFAD40494AF3925999BC1887270D2F2F",
+    "source": "Save Current Preset?",
+    "text": "Enregistrer la configuration actuelle ?",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "EFD440474A7CE1C851D4668EFA358FB7",
+    "source": "Set Ping",
+    "text": "Placer un marqueur",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "F027A2CE4EE8EEABE8662CB7E0500777",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "F0450FED4AAD6A732F51B4B208E9F560",
+    "source": "Gear Box",
+    "text": "Boîte de vitesses",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "F12D48E149A50C4C159DC59A638D64DA",
+    "source": "Intel Center",
+    "text": "Centre de renseignement",
+    "file": "fr_030.json"
+  },
+  {
+    "ns": "",
+    "key": "F388AF50468B4F525E93F9B7484F7F1B",
+    "source": "Keybindings",
+    "text": "Affectation des touches",
+    "file": "fr_031.json"
+  },
+  {
+    "ns": "",
+    "key": "F39C231741BD2E7DF169029C4EFDD487",
+    "source": "Fix Malfunction",
+    "text": "Résoudre l'incident de tir",
+    "file": "fr_031.json"
+  },
+  {
+    "ns": "",
+    "key": "F40BC4E1464943440E823A93675F7385",
+    "source": "Use Item",
+    "text": "Utiliser l'objet",
+    "file": "fr_031.json"
+  },
+  {
+    "ns": "",
+    "key": "F40D753241FF6BC5DB9D53BCC74F94C1",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_031.json"
+  },
+  {
+    "ns": "",
+    "key": "F44DFBCF40FE347497C59BA5A4AA324B",
+    "source": "Ammo Can",
+    "text": "Boîte de munitions",
+    "file": "fr_031.json"
+  },
+  {
+    "ns": "",
+    "key": "F611C01D42F7A190EC5D07BA992521FD",
+    "source": "RequestLogin",
+    "text": "Demande d'ouverture de session",
+    "file": "fr_031.json"
+  },
+  {
+    "ns": "",
+    "key": "F653B0FB42041BA43C79F99B048264FE",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_031.json"
+  },
+  {
+    "ns": "",
+    "key": "F82202DF4EDC8B980B97F8BB488EF84A",
+    "source": "Delete Existing Sockets",
+    "text": "Supprimer les points de fixation existants",
+    "file": "fr_031.json"
+  },
+  {
+    "ns": "",
+    "key": "FA1EEDA345B0A4E45DAC2CBE2D6BFB4C",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_031.json"
+  },
+  {
+    "ns": "",
+    "key": "FC06CB42496BE57715122DAF92CEB873",
+    "source": "Hello? Yup, done. Head on out.",
+    "text": "Tu me reçois ? Oui, c'est terminé. Tu peux repartir.",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "",
+    "key": "FC680951418F021E8C1FA3AFCD195679",
+    "source": "Toggle Sneak",
+    "text": "Basculer la marche furtive",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "",
+    "key": "FCD84CCA4614765926AE13BE5F4C9AF0",
+    "source": "Download Data",
+    "text": "Télécharger les données",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "",
+    "key": "FD99E61646051FA8D398478469409115",
+    "source": "Side Quests",
+    "text": "Missions secondaires",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "",
+    "key": "FDD8C05D4EC2E2B7D54E80B728B0AE7D",
+    "source": "VOIP Volume",
+    "text": "Volume de la discussion vocale",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "",
+    "key": "FE3BA68548DB5709645EFAAF2BC8D709",
+    "source": "Fish Sauce Bottle",
+    "text": "Bouteille de sauce au poisson",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "",
+    "key": "FEB38DC34B3BE8D9AF09D192A3B26B67",
+    "source": "Place USB",
+    "text": "Placer la clé USB",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "",
+    "key": "FECAF6F14A518F43B383D09ED90AAF71",
+    "source": "Secure Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "",
+    "key": "FEE46CF3403AA4416D4CF6BD73CE07CC",
+    "source": "PP-19 Muzzle",
+    "text": "Dispositif de bouche PP-19",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "",
+    "key": "FF1ED4EE44A59AE101E202B7EB2E0A7B",
+    "source": "Place Intel",
+    "text": "Placer les renseignements",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "IRRAISettingRow",
+    "key": "Custom",
+    "source": "Custom",
+    "text": "Personnalisé",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "IRRAISettingRow.Label",
+    "key": "AISettings.AIMultiplier",
+    "source": "AI Multiplier",
+    "text": "Multiplicateur du nombre de bots",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "IRRAISettingRow.Label",
+    "key": "AISettings.MaxSearchAreaSize",
+    "source": "Max Search Area Size",
+    "text": "Étendue maximale de la zone de recherche",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "IRRAISettingRow.Warning",
+    "key": "AISettings.AimRecoveryDelayMultiplier",
+    "source": "Higher = slower fire rate.",
+    "text": "Une valeur élevée ralentit la cadence de tir.",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "IRRAISettingRow.Warning",
+    "key": "AISettings.GrenadeInaccuracy",
+    "source": "Higher = grenades land further off.",
+    "text": "Une valeur élevée augmente l’écart à l’arrivée des grenades.",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "IRRCinematicCameraMenu",
+    "key": "AddKey",
+    "source": "Add Key",
+    "text": "Ajouter un point clé",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "IRRCinematicCameraMenu",
+    "key": "Faster",
+    "source": "Faster",
+    "text": "Plus rapide",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "IRRCinematicCameraMenu",
+    "key": "FirstKey",
+    "source": "Go To First Key",
+    "text": "Aller au premier point clé",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "IRRCinematicCameraMenu",
+    "key": "HideOverlay",
+    "source": "Hide Overlay",
+    "text": "Masquer la surimpression",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "IRRCinematicCameraMenu",
+    "key": "PathFmt",
+    "source": "Camera path: {0} keys",
+    "text": "Trajectoire caméra : {0} points clés",
+    "file": "fr_032.json"
+  },
+  {
+    "ns": "IRRCinematicCameraMenu",
+    "key": "ResetSettings",
+    "source": "Reset Settings",
+    "text": "Réinitialiser les réglages",
+    "file": "fr_033.json"
+  },
+  {
+    "ns": "IRRCinematicCameraMenu",
+    "key": "Saved",
+    "source": "Saved to your user config.",
+    "text": "Enregistré dans votre configuration utilisateur.",
+    "file": "fr_033.json"
+  },
+  {
+    "ns": "IRRCinematicCameraMenu",
+    "key": "ShowOverlay",
+    "source": "Show Overlay",
+    "text": "Afficher la surimpression",
+    "file": "fr_033.json"
+  },
+  {
+    "ns": "IRRSettingHandler_Upscaling",
+    "key": "Quality_NativeAA",
+    "source": "Native AA",
+    "text": "Anticrénelage natif",
+    "file": "fr_033.json"
+  },
+  {
+    "ns": "IRRSettingImporter_AISettings",
+    "key": "DeliberateMissChance",
+    "source": "Deliberate Miss Chance",
+    "text": "Probabilité de tir volontairement manqué",
+    "file": "fr_033.json"
+  },
+  {
+    "ns": "IRRSettingImporter_AISettings",
+    "key": "DeliberateMissTime",
+    "source": "Deliberate Miss Time",
+    "text": "Durée des tirs volontairement manqués",
+    "file": "fr_033.json"
+  },
+  {
+    "ns": "IRRSettingImporter_AISettings",
+    "key": "MaxMovementTickRate",
+    "source": "Max Movement Tick Rate",
+    "text": "Fréquence maximale de mise à jour des déplacements",
+    "file": "fr_033.json"
+  },
+  {
+    "ns": "IRRSettingImporter_AISettings",
+    "key": "MuzzleFlashScale",
+    "source": "AI Muzzle Flash Size",
+    "text": "Taille de la flamme de bouche de l’IA",
+    "file": "fr_033.json"
+  },
+  {
+    "ns": "IRRSettingImporter_AISettings",
+    "key": "RepeatSenseCoef",
+    "source": "Repeat Sense Coef",
+    "text": "Coefficient de détection répétée",
+    "file": "fr_033.json"
+  },
+  {
+    "ns": "IRRSettingImporter_AISettings",
+    "key": "SuppressTargets",
+    "source": "Suppress Targets",
+    "text": "Effectuer des tirs de suppression",
+    "file": "fr_033.json"
+  },
+  {
+    "ns": "IRRSettingImporter_AISettings",
+    "key": "TimeToSee",
+    "source": "Time To See",
+    "text": "Délai de détection visuelle",
+    "file": "fr_033.json"
+  },
+  {
+    "ns": "IRRVoiceChat",
+    "key": "DefaultDevice",
+    "source": "System Default",
+    "text": "Valeur système par défaut",
+    "file": "fr_034.json"
+  },
+  {
+    "ns": "LoadingScreenHints",
+    "key": "CustomizeInput_Headline",
+    "source": "Customize Input",
+    "text": "Personnaliser les commandes",
+    "file": "fr_034.json"
+  },
+  {
+    "ns": "",
+    "key": "FE7BE869442BE8BDCD1C65B0EC8F4173",
+    "source": "Bike Shop",
+    "text": "Magasin de vélos",
+    "file": "fr_extra.json"
+  },
+  {
+    "ns": "",
+    "key": "FCBF7491453E0771363D7AA63BA84720",
+    "source": "To Main Bunker",
+    "text": "Vers le bunker principal",
+    "file": "fr_extra.json"
+  },
+  {
+    "ns": "",
+    "key": "A422136F4E71434A5781F39D01EFCEE9",
+    "source": "To Main Bunker",
+    "text": "Vers le bunker principal",
+    "file": "fr_extra.json"
+  },
+  {
+    "ns": "",
+    "key": "79FC1AB2469A64CDCE39449779BA3D13",
+    "source": "Command Room",
+    "text": "Salle de commandement",
+    "file": "fr_extra.json"
+  },
+  {
+    "ns": "",
+    "key": "3B3C97A44D53A92577C72F8BDA705D25",
+    "source": "Command Room",
+    "text": "Salle de commandement",
+    "file": "fr_extra.json"
+  },
+  {
+    "ns": "",
+    "key": "CD5F1C324550C123D663249F31A1A8E1",
+    "source": "To Cave\r\n",
+    "text": "Vers la grotte\r\n",
+    "file": "fr_extra.json"
+  },
+  {
+    "ns": "",
+    "key": "D33DA17547CF3209D196FC8AC501A3A5",
+    "source": "Upwards",
+    "text": "Vers le haut",
+    "file": "fr_extra.json"
+  },
+  {
+    "ns": "",
+    "key": "FDE350044A84E2A82DCCC1975588E6BA",
+    "source": "To Cave",
+    "text": "Vers la grotte",
+    "file": "fr_extra.json"
+  },
+  {
+    "ns": "",
+    "key": "916C3209460B58A9A774C48AE1269CF9",
+    "source": "To Cave",
+    "text": "Vers la grotte",
+    "file": "fr_extra.json"
+  },
+  {
+    "ns": "",
+    "key": "02DDCAE9456B2A78A598D1881BADD8FA",
+    "source": "Prisoner Cells",
+    "text": "Cellules des prisonniers",
+    "file": "fr_extra.json"
+  },
+  {
+    "ns": "",
+    "key": "8FE03FE24E8BA2F13AC6A8AC055CBE34",
+    "source": "Reset Selected Instances",
+    "text": "Réinitialiser les instances sélectionnées",
+    "file": "fr_update_019.json"
+  },
+  {
+    "ns": "",
+    "key": "B2114AF1459A16BDDBA10F8856705237",
+    "source": "Reset All Selected Instances",
+    "text": "Réinitialiser toutes les instances sélectionnées",
+    "file": "fr_update_019.json"
+  }
+]

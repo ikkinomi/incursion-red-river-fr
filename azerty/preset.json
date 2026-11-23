@@ -1,0 +1,72 @@
+{
+  "version": "0.1.0-beta",
+  "game_version": "1.4.0.4",
+  "steam_build": "26761568",
+  "bindings": [
+    {
+      "action": "IA_Movement_W",
+      "key": "Z",
+      "keycap": "Z"
+    },
+    {
+      "action": "IA_Movement_A",
+      "key": "Q",
+      "keycap": "Q"
+    },
+    {
+      "action": "IA_Lean_L",
+      "key": "A",
+      "keycap": "A"
+    },
+    {
+      "action": "IA_CycleTacticalAttachments",
+      "key": "W",
+      "keycap": "W"
+    },
+    {
+      "action": "IA_EquipSlot_1",
+      "key": "Ampersand",
+      "keycap": "&"
+    },
+    {
+      "action": "IA_EquipSlot_2",
+      "key": "E_AccentAigu",
+      "keycap": "é"
+    },
+    {
+      "action": "IA_EquipSlot_3",
+      "key": "Quote",
+      "keycap": "\""
+    },
+    {
+      "action": "IA_EquipSlot_4",
+      "key": "Apostrophe",
+      "keycap": "'"
+    },
+    {
+      "action": "IA_EquipSlot_SpecialEquipment",
+      "key": "LeftParantheses",
+      "keycap": "("
+    },
+    {
+      "action": "IA_EquipQuickSlot_0",
+      "key": "Hyphen",
+      "keycap": "-"
+    },
+    {
+      "action": "IA_EquipQuickSlot_1",
+      "key": "E_AccentGrave",
+      "keycap": "è"
+    },
+    {
+      "action": "IA_EquipQuickSlot_2",
+      "key": "Underscore",
+      "keycap": "_"
+    },
+    {
+      "action": "IA_EquipQuickSlot_3",
+      "key": "C_Cedille",
+      "keycap": "ç"
+    }
+  ]
+}

@@ -2,13 +2,22 @@
 
 ## Mise à jour du patch majeure
 
-**Version 0.2.0 bêta — 23 novembre 2026.** Pour **Incursion Red River 1.4.0.4**, build Steam **26761568**.
+**Version 0.2.1 bêta — 23 novembre 2026.** Pour **Incursion Red River 1.4.0.4**, build Steam **26761568**.
 
-Cette version ajoute la traduction des catégories et de nombreux noms d’objets dans l’arbre du marché, ainsi que des filtres et des chemins de catégories. Elle reprend les traductions JSON de la 0.1.9, avec ses corrections du terminal, des messages radio et des briefings.
+La 0.2.1 corrige 240 entrées et synchronise les noms du marché. Elle conserve la traduction des catégories, des filtres et des chemins de catégories ajoutée en 0.2.0. Un glossaire protège les noms du jeu, des cartes et les appellations commerciales.
 
-**Premier essai concluant et retour positif du joueur. Un test approfondi reste à faire.** La bêta n’est pas une validation de tous les objets, des achats/ventes, du marché noir ou de toutes les missions.
+**Version installée et essayée par le joueur : bon fonctionnement rapporté. Des tests approfondis restent à faire.** La bêta n’est pas une validation de tous les objets, des achats/ventes, du marché noir ou de toutes les missions.
 
-[Télécharger la 0.2.0 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.2.0-beta/Incursion_Red_River_FR_1.4.0.4_v0.2.0-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.0-beta) · [Signaler un bug ou une erreur de traduction](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
+[Télécharger la 0.2.1 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.2.1-beta/Incursion_Red_River_FR_1.4.0.4_v0.2.1-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.1-beta) · [Signaler un bug ou une erreur de traduction](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
+
+## Deux téléchargements indépendants
+
+| Téléchargement | Utilité |
+|---|---|
+| [Traduction FR 0.2.1 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.1-beta) | Textes français et complément facultatif du marché |
+| [Préréglage AZERTY 0.1.0 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/azerty-v0.1.0-beta) | Commandes françaises et rangée numérique, en gardant Windows en français |
+
+L’AZERTY n’est pas inclus dans l’archive FR. Il ne nécessite pas la traduction. [Fonctionnement, sauvegarde et installation AZERTY](azerty/README.md).
 
 ## Ce que contient l’archive
 
@@ -29,13 +38,13 @@ Si vous avez encore **`pakchunk99-French_P.pak`**, renommez uniquement ce fichie
 
 ### 2. Installer la traduction JSON
 
-1. Téléchargez et extrayez le ZIP de la 0.2.0.
+1. Téléchargez et extrayez le ZIP de la 0.2.1.
 2. Ouvrez l’Explorateur de fichiers, collez **`%LOCALAPPDATA%\Test_C\Saved\Translations`** dans sa barre d’adresse, puis validez.
 3. Si un dossier `fr` existe déjà, faites-en une copie de sauvegarde **en dehors de `Translations`**.
 4. Copiez le dossier **`fr`** de l’archive dans `Translations`. Si Windows le demande, remplacez les fichiers du patch précédent.
 5. Vérifiez le résultat : **`Translations/fr/fr_001.json`**, avec les autres fichiers JSON à côté. Il ne doit pas y avoir de dossier `fr/fr`.
 
-Depuis la 0.1.8 ou la 0.1.9, la procédure est la même. Les 36 fichiers JSON livrés ici reprennent ceux de la 0.1.9.
+Depuis la 0.1.8 ou la 0.1.9, la procédure est la même. Les 36 fichiers JSON contiennent 240 corrections par rapport à la 0.2.0. Remplacez également le complément du marché si vous l’utilisez.
 
 ### 3. Ajouter le complément du marché
 
@@ -68,7 +77,7 @@ Ce complément remplace une petite partie de l’interface et dépend de la vers
 
 Le démarrage, le chargement de la base, l’arbre de catégories en français, une sous-catégorie de capots de culasse, le filtre d’un objet, sa fiche, le chemin de catégorie, la recherche de compatibilité et le retrait de ce filtre ont été vérifiés lors du premier essai. Aucun incident ciblant les widgets modifiés ni erreur fatale/de sérialisation n’a été relevé dans le journal de ce contrôle. Le joueur confirme que cela semble bien fonctionner.
 
-Les données d’objets et les fonctions sans lien avec les changements d’affichage sont conservées. Les identifiants utilisés par les filtres et les achats ne sont pas renommés. Le nom Incursion Red River, les noms des cartes, les marques et les modèles restent dans leur forme d’origine.
+Les données d’objets et les fonctions sans lien avec les changements d’affichage sont conservées. Les identifiants utilisés par les filtres et les achats ne sont pas renommés. Les règles de relecture préservent Incursion Red River, les noms des cartes, les marques et les modèles. [Glossaire et cas ambigus](docs/GLOSSAIRE.md).
 
 **À approfondir :** achats/ventes et panier, marché noir, saisie dans la recherche, changement de langue et ensemble des objets. Certaines traductions héritées restent maladroites ou en anglais ; les libellés longs peuvent être coupés dans les petits filtres. Les en-têtes d’inventaire, certains titres de commandes, « Joinability » et « RANDOM » restent hors du périmètre de ce complément.
 

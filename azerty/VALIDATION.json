@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0-beta",
+  "game": "1.4.0.4",
+  "build": "26761568",
+  "user_test": "movement, French terminal input and equipment number row confirmed working",
+  "public_tool_tests": 7,
+  "reproduces_user_tested_profile_byte_for_byte": true,
+  "separate_download": true,
+  "contains_personal_save": false
+}

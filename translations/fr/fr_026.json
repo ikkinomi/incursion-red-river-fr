@@ -562,7 +562,7 @@
       "ns": "",
       "key": "CD4C91C94EA82B18A873A0A4AC62D490",
       "source": "HIDEOUT-01 TEST TERMINAL\n-----------------------------------------------------\nThis node exists to exercise every terminal feature.\n\n  fang\\Briefings     locked to Operator\n  fang\\Logistics     locked to Quartermaster\n  fang\\Archive       open; Classified inside needs INTEL\n  fang\\Admin         locked to Admin\n\nLogins are in Credentials.txt. Encrypted.txt only opens with the INTEL D  in your inventory. It should be on the table next to the terminal.\n\nTry: dir, cd Briefings, login, read, scan, download, run, pop, hack.",
-      "text": "HIDEOUT-01 TEST TERMINAL\n-----------------------------------------------------\nThis node exists to exercise every terminal feature.\n\n  fang\\Briefings     locked to Operator\n  fang\\Logistics     locked to Quartermaster\n  fang\\Archive       open; Classified inside needs INTEL\n  fang\\Admin         locked to Admin\n\nLogins are in Credentials.txt. Encrypted.txt only opens with the INTEL D  in your inventory. It should be on the table next to the terminal.\n\nTry: dir, cd Briefings, login, read, scan, download, run, pop, hack."
+      "text": "HIDEOUT-01 — TERMINAL DE TEST\n-----------------------------------------------------\nCe terminal permet de tester toutes les fonctionnalités.\n\n  fang\\Briefings     accès réservé à Operator\n  fang\\Logistics     accès réservé à Quartermaster\n  fang\\Archive       accès libre ; Classified nécessite INTEL\n  fang\\Admin         accès réservé à Admin\n\nLes identifiants se trouvent dans Credentials.txt. Encrypted.txt ne s’ouvre que si l’objet INTEL D est dans votre inventaire. Il devrait se trouver sur la table à côté du terminal.\n\nÀ essayer : dir, cd Briefings, login, read, scan, download, run, pop, hack."
     },
     {
       "ns": "",
@@ -832,7 +832,7 @@
       "ns": "",
       "key": "CF2EFF3546265C3F1DA2EF8E0DE0A755",
       "source": "FANG Assignment <strong>OPR_453_RR</>: <italic>Complete the listed operations while in-raid.</>",
-      "text": "Attribution FANG <strong>OPR_453_RR</>: <italic>Compléter les opérations énumérées pendant le vol.</>"
+      "text": "Contrat FANG <strong>OPR_453_RR</> : <italic>Accomplissez les opérations indiquées pendant un raid.</>"
     },
     {
       "ns": "",
@@ -880,7 +880,7 @@
       "ns": "",
       "key": "CFA04D654D3150D3AABA19840C0A4E78",
       "source": "Stock is 2/10.",
-      "text": "crosse est 2/10."
+      "text": "Stock : 2/10."
     },
     {
       "ns": "",
@@ -988,7 +988,7 @@
       "ns": "",
       "key": "D0916A5E49C6BD75F8F01DB6EAE541AB",
       "source": "Russian LShZ ballistic helmet in a high cut, leaving room for a headset.",
-      "text": "Casque balistique russe LShZ dans une coupe haute, laissant place à un casque."
+      "text": "Casque balistique russe LShZ à coupe haute, laissant de la place pour un casque audio."
     },
     {
       "ns": "",

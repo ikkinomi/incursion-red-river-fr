@@ -7,3 +7,5 @@ Saved/
 __pycache__/
 .env
 .env.*
+*.sav
+*.azerty-tmp

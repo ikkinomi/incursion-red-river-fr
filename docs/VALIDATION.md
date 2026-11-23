@@ -1,30 +1,37 @@
-# Validation de la 0.2.0 bêta
+# Audit de la traduction française 0.2.1 bêta
 
-Date : **23 novembre 2026**. Jeu **1.4.0.4**, build Steam **26761568**.
+23 novembre 2026. Cible : Incursion Red River 1.4.0.4, build Steam 26761568.
 
-## Contenu
+## Résultat
 
-- 36 fichiers JSON, 6 894 entrées : 6 798 textes du modèle du jeu et 96 entrées supplémentaires. Leur contenu reprend la 0.1.9.
-- Complément du marché : cinq widgets, six conversions d’affichage modifiées et une table de 5 277 entrées, incluant des noms conservés et des chemins composés. Ce chiffre ne signifie pas 5 277 nouvelles phrases traduites.
-- Le binaire est identique à celui installé et essayé sous le nom TEST1. Son empreinte SHA-256 est fournie dans les contrôles.
+Les **6 894 entrées des 36 JSON** ont été contrôlées structurellement et comparées au modèle anglais courant : **6 798 entrées du modèle et 96 supplémentaires**. La relecture sémantique est ciblée ; elle ne signifie pas que chaque longue description a été relue intégralement.
 
-## Contrôles des fichiers
+La copie contient **240 entrées corrigées**, pour **230 sources distinctes**. La table du marché comporte **368 valeurs modifiées, chemins composés compris** : ce ne sont pas autant de nouvelles phrases indépendantes.
 
-Les fonctions modifiées sont relues et comparées à leur représentation attendue. Les tailles de bytecode, les sauts, les contextes et les points d’entrée sont contrôlés. Les autres exports sont conservés octet pour octet. Les 12 fichiers du .pak ont été vérifiés après empaquetage. Un contrôle sur les expressions réellement compilées couvre 31 722 cas avec un modèle des appels natifs, dont libellés inconnus et langues différentes du français. Ce modèle ne remplace pas l’exécution dans Unreal.
+## Corrections concrètes
 
-## Premier essai en jeu
+- En-tête des quantités du marché : Stock, au lieu de Crosse. Les catégories et objets de type crosse restent correctement traduits par Crosse.
+- Indicateur de disponibilité : Stock : 2/10. Le message sur les objets échangeables parle désormais du stock du marchand.
+- Noms conservés : AK Star, QBZ-97 Longbow, Paraclete Origin, Team Wendy, National Match, noms du jeu et des cartes, Discord, NVIDIA Reflex et Boost.
+- Objectifs FANG : contrats à accomplir pendant un raid, objectifs d’extraction et de livraison reformulés. Le tutoriel distingue missions scénarisées et contrats.
+- Caméra de casque, vitesse initiale, descriptions de gilets, casques, crosses et accessoires : correction de contresens et de phrases mêlant français et anglais.
+- Ajout d’un glossaire et de règles de contexte, notamment pour Stock, Star, Boost et Bunker. Les commandes du terminal et les noms de fichiers sont préservés.
 
-Vérifiés : démarrage, chargement de la base, catégories françaises, feuilles d’objets dans la sous-catégorie des capots de culasse, filtre retournant le bon objet AK Izhmash, fiche et chemin de catégorie, recherche de compatibilité et retrait de ce filtre. Aucun incident lié aux widgets modifiés ni erreur fatale/de sérialisation n’a été relevé dans le journal pendant ce contrôle. Les 36 fichiers JSON installés sont restés inchangés et le rapport du jeu indique 6 798/6 798 textes utilisés, plus 96 hors modèle, sans erreur de formatage.
+## Contrôles passés
 
-Le joueur confirme que cela semble bien fonctionner et indique qu’il refera un test approfondi plus tard. Il s’agit d’une validation initiale, pas d’une garantie d’absence de bug sur tous les écrans ou toutes les configurations.
+Aucune erreur sur les identifiants, sources, doublons, variables, balises, sauts de ligne et espaces aux extrémités. 667 occurrences de noms protégés vérifiées, ainsi que les commandes du terminal placées entre accents graves.
 
-## Encore à tester ou à relire
+Le complément du marché a été reconstruit hors jeu avec la nouvelle table. Ses **10 fichiers de widgets sont identiques à ceux du complément testé** ; seuls les deux fichiers de la table sont régénérés. Les 12 fichiers empaquetés ont été extraits et comparés. **31674 cas passent dans le modèle des appels natifs sur les expressions existantes** ; cela ne remplace pas une exécution dans Unreal.
 
-- Achats/ventes et panier ; marché noir ; saisie dans la recherche ; changement de langue ; ensemble des objets et des écrans.
-- Formulations héritées de la traduction existante, dont certains noms d’objets maladroits ou conservés en anglais.
-- Libellés longs dans des filtres à largeur fixe : une coupure a été observée sur un nom long.
-- En-têtes d’inventaire, certains titres des commandes, Joinability et RANDOM : non corrigés par ce complément du marché.
+## Ce qui reste ouvert
 
-## Compatibilité et retrait
+- Les alertes des heuristiques ciblées ont été traitées. Cela ne certifie pas une relecture humaine exhaustive.
+- 399 entrées avec forte expansion de longueur sont listées dans TEXTES-LONGS-A-VERIFIER.json. Sans affichage en jeu, ce sont des risques potentiels, pas des débordements constatés.
+- En-têtes d’inventaire et d’équipement, titres de sections des commandes, Joinability et RANDOM : ce complément ne corrige pas ces zones. Elles nécessiteraient un chantier d’interface séparé.
+- Marché noir, panier, achats/ventes, recherche au clavier et tous les écrans restent à vérifier en jeu.
 
-Le complément remplace des ressources d’interface liées à ce build. Le désactiver avant de jouer sur un nouveau build et refaire les contrôles après une mise à jour. Le renommer en `.pak.disabled` suffit à le retirer ; la traduction JSON reste indépendante. Aucun ancien patch n’est réactivé.
+## Situation et suite
+
+La relecture a été préparée hors jeu, puis installée à la demande du joueur. Il rapporte que la traduction fonctionne. Le problème de rangée numérique concernait le profil AZERTY séparé et a été corrigé avant son essai positif. Les contrôles techniques ne prouvent pas une couverture exhaustive en jeu.
+
+Les achats/ventes, le marché noir, tous les écrans et la lisibilité complète restent à approfondir. Voir le README pour l’installation, les sauvegardes et le retour arrière.

@@ -22,7 +22,7 @@
       "ns": "",
       "key": "71DD90B74631499D973B14B1E18E4C7E",
       "source": "handgun suppressor mainly intended to be used with 9x19mm ammunition",
-      "text": "handgun silencieux mainly intended to be used with 9x19mm munitions"
+      "text": "Silencieux pour arme de poing principalement destiné aux munitions de 9x19mm"
     },
     {
       "ns": "",
@@ -34,7 +34,7 @@
       "ns": "",
       "key": "71E329B444AE8E216F8D3BBA1843016C",
       "source": "Team Wendy EXFIL Helmet",
-      "text": "Team Wendy EXFIL Helmet"
+      "text": "Casque Team Wendy EXFIL"
     },
     {
       "ns": "",
@@ -298,7 +298,7 @@
       "ns": "",
       "key": "73B6783D41AD5CB3C5F058931889EF93",
       "source": "20 Inch barrel for the SR-25",
-      "text": "20 pouces canon for the SR-25"
+      "text": "Canon de 20 pouces pour le SR-25"
     },
     {
       "ns": "",
@@ -340,7 +340,7 @@
       "ns": "",
       "key": "73F5E9624F88337A4D4758A0D32F88CA",
       "source": "There are two types of missions:\r\n\r\n-> Story missions: Marked with a star. They progress the story and give strong rewards.\r\n\r\n-> Assignments: General repeating missions that provide decent rewards.",
-      "text": "Il existe deux types de missions :\r\n\r\n-> Missions d'histoire : marquée d'une étoile. Ils font avancer l'histoire et donnent de fortes récompenses.\r\n\r\n-> Affectations : Missions générales répétitives offrant des récompenses décentes."
+      "text": "Il existe deux types de missions :\r\n\r\n-> Missions scénarisées : signalées par une étoile. Elles font avancer l’histoire et offrent des récompenses importantes.\r\n\r\n-> Contrats : missions répétables offrant des récompenses intéressantes."
     },
     {
       "ns": "",
@@ -352,7 +352,7 @@
       "ns": "",
       "key": "7428D4A94ABD80DE580D77ABC695E319",
       "source": "In order to assemble the preset you need to purchase the following items.",
-      "text": "Pour assembler le préréglage, vous devez acheter les articles suivants."
+      "text": "Pour assembler le préréglage, vous devez acheter les objets suivants."
     },
     {
       "ns": "",
@@ -484,7 +484,7 @@
       "ns": "",
       "key": "752367D94D02978996DEF8BF4319A5BA",
       "source": "16 Inch barrel for the SR-25",
-      "text": "16 pouces canon for the SR-25"
+      "text": "Canon de 16 pouces pour le SR-25"
     },
     {
       "ns": "",
@@ -538,7 +538,7 @@
       "ns": "",
       "key": "757F7E954367114615A34EA3E33D2ED2",
       "source": "AVS carrier configured for a squad leader, with admin and radio pouches up front.",
-      "text": "Support AVS configuré pour un chef d'équipe, avec des pochettes d'administration et de radio à l'avant."
+      "text": "Porte-plaques AVS configuré pour un chef d’escouade, avec poches utilitaires et radio à l’avant."
     },
     {
       "ns": "",
@@ -730,7 +730,7 @@
       "ns": "",
       "key": "774A805349523C7631DBAEB88ED694E9",
       "source": "Small rail for tactical attachments that can be installed on the KRISS Vector receiver.",
-      "text": "Petit rail pour les accessoires tactiques qui peuvent être installés sur le récepteur KRISS Vector."
+      "text": "Petit rail pour accessoires tactiques destiné au boîtier de culasse du KRISS Vector."
     },
     {
       "ns": "",
@@ -850,7 +850,7 @@
       "ns": "",
       "key": "783ED1974AB43BA0653277B41DAAF9B0",
       "source": "Daniel Defense Buttstock is a Buttstock designed for the AR-15 family. It requires a buffertube.",
-      "text": "Daniel Defense crosse est un crosse conçu pour la famille AR-15. Il nécessite un tube de crosse."
+      "text": "La crosse Daniel Defense est conçue pour la gamme AR-15. Elle nécessite un tube de crosse."
     },
     {
       "ns": "",
@@ -958,7 +958,7 @@
       "ns": "",
       "key": "78DC8FC84523C43129142D8A70C24688",
       "source": "MP5 ICS With Flashlight Handguard",
-      "text": "Garde-main MP5 ICS With lampe torche"
+      "text": "Garde-main avec lampe MP5 ICS"
     },
     {
       "ns": "",
@@ -1006,7 +1006,7 @@
       "ns": "",
       "key": "792738E54AB5C208ED8270A742CECEDD",
       "source": "FANG Assignment <strong>RET_623_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
-      "text": "Attribution FANG <strong>RET_623_RR</>: <italic>Récupérer toutes les preuves dans les zones marquées et les livrer.</>"
+      "text": "Contrat FANG <strong>RET_623_RR</> : <italic>Récupérez toutes les preuves dans les zones indiquées et livrez-les.</>"
     },
     {
       "ns": "",
@@ -1018,7 +1018,7 @@
       "ns": "",
       "key": "793BB9354117B708DCDE2E99B3F1CF00",
       "source": "FANG Assignment <strong>RET_297_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
-      "text": "Attribution FANG <strong>RET_297_RR</>: <italic>Récupérer toutes les preuves dans les zones marquées et les livrer.</>"
+      "text": "Contrat FANG <strong>RET_297_RR</> : <italic>Récupérez toutes les preuves dans les zones indiquées et livrez-les.</>"
     },
     {
       "ns": "",

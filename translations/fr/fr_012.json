@@ -658,7 +658,7 @@
       "ns": "",
       "key": "5E3A53934133A7E5B943D38C896BE7D8",
       "source": "Custom, leight weight stock for the MCX family.",
-      "text": "Personnalisé, poids de light crosse pour la famille MCX."
+      "text": "Crosse personnalisée légère pour la gamme MCX."
     },
     {
       "ns": "",
@@ -712,7 +712,7 @@
       "ns": "",
       "key": "5E8CA8404165EFBFDDDE55968BF16640",
       "source": "Bunker Large Safe Key",
-      "text": "Clé du grand coffre du bunker"
+      "text": "Clé du grand coffre de Bunker"
     },
     {
       "ns": "",
@@ -778,7 +778,7 @@
       "ns": "",
       "key": "5F1B8D27E6A34C09B7D2F4E8A1C63B90",
       "source": "Using the \"hack\" command on a terminal in raid requires an intrusion device in your inventory. Devices can be recovered from special units in raid. Every command executed during an automatic hack drains the device's battery – bypassing a login costs more.\r\n\r\nOnce started, the \"hack\" command continues even if you leave the terminal, so you can defend your position. Inventory checks, such as scanning an item you carry, still count your inventory while the automatic hack runs – keep the required items on you until it is finished.",
-      "text": "L'utilisation de la commande \"hack\" sur un terminal en raid nécessite un dispositif d'intrusion dans votre inventaire. Les appareils peuvent être récupérés dans des unités spéciales lors d'un raid. Chaque commande exécutée lors d'un hack automatique draine la batterie de l'appareil – contourner un login coûte plus cher.\r\n\r\nUne fois démarré, la commande \"hack\" continue même si vous quittez le terminal, de sorte que vous pouvez défendre votre position. Les vérifications d'inventaire, comme la numérisation d'un article que vous transportez, comptent toujours votre inventaire pendant que le hack automatique fonctionne – gardez les articles requis sur vous jusqu'à ce qu'il soit terminé."
+      "text": "L'utilisation de la commande \"hack\" sur un terminal en raid nécessite un dispositif d'intrusion dans votre inventaire. Les appareils peuvent être récupérés dans des unités spéciales lors d'un raid. Chaque commande exécutée lors d'un hack automatique draine la batterie de l'appareil – contourner un login coûte plus cher.\r\n\r\nUne fois démarré, la commande \"hack\" continue même si vous quittez le terminal, de sorte que vous pouvez défendre votre position. Les vérifications d'inventaire, comme la numérisation d'un objet que vous transportez, comptent toujours votre inventaire pendant que le hack automatique fonctionne – gardez les objets requis sur vous jusqu'à ce qu'il soit terminé."
     },
     {
       "ns": "",
@@ -910,7 +910,7 @@
       "ns": "",
       "key": "5FF724CA4C6D2556224DF29CDD20B884",
       "source": "Front rail mount for QBZ-97",
-      "text": "avant rail mount for QBZ-97"
+      "text": "Support de rail avant pour QBZ-97"
     },
     {
       "ns": "",
@@ -940,7 +940,7 @@
       "ns": "",
       "key": "603CFAB543EDBAFE429A49B9C04CF7EA",
       "source": "AR-15 Odin Works Zulu 2.0 Stock",
-      "text": "AR-15 Odin Works Zulu 2.0 crosse"
+      "text": "Crosse AR-15 Odin Works Zulu 2.0"
     },
     {
       "ns": "",
@@ -1048,7 +1048,7 @@
       "ns": "",
       "key": "60CD37AC489B651F1A7632812BFB8BF6",
       "source": "QBZ-97 Longbow Carry Handle",
-      "text": "QBZ-97 Poignée de transport de bardeaux"
+      "text": "Poignée de transport QBZ-97 Longbow"
     },
     {
       "ns": "",
@@ -1066,7 +1066,7 @@
       "ns": "",
       "key": "60E08AD540C8DCDC0ECA1692EA949A93",
       "source": "FANG Assignment <strong>OPR_700_RR</>: <italic>Complete the listed operations while in-raid.</>",
-      "text": "Attribution FANG <strong>OPR_700_RR</>: <italic>Compléter les opérations énumérées pendant le vol.</>"
+      "text": "Contrat FANG <strong>OPR_700_RR</> : <italic>Accomplissez les opérations indiquées pendant un raid.</>"
     },
     {
       "ns": "",
@@ -1102,7 +1102,7 @@
       "ns": "",
       "key": "6109E93549AEEC1C5F33C6AADEA00FA9",
       "source": "A 20 Inch Barrel for the AR-15 plattform for 5.56x45mm Ammunition.",
-      "text": "Un canon de 20 pouces pour le plattforme AR-15 pour 5.56x45mm munitions."
+      "text": "Canon de 20 pouces pour la plateforme AR-15, destiné aux munitions de 5.56x45mm."
     },
     {
       "ns": "",

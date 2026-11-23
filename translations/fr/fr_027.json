@@ -196,7 +196,7 @@
       "ns": "",
       "key": "D334CC504C3D0BA4CBB853ABA8300A4F",
       "source": "We're low on tech supplies and need to resupply. Collect old tech items that can be reused and sell them to the vendor for recycling.",
-      "text": "On est à court d'approvisionnements technologiques et on a besoin de réapprovisionner. Recueillir les anciens articles de technologie qui peuvent être réutilisés et les vendre au vendeur pour recyclage."
+      "text": "On est à court d'approvisionnements technologiques et on a besoin de réapprovisionner. Recueillir les anciens objets de technologie qui peuvent être réutilisés et les vendre au vendeur pour recyclage."
     },
     {
       "ns": "",
@@ -376,7 +376,7 @@
       "ns": "",
       "key": "D4157ED94B91F81335C12C86BD35D0B4",
       "source": "Daniel Defense M-LOK Vertical Foregrip",
-      "text": "Poignée avant Daniel Defense M-LOK Vertical"
+      "text": "Poignée avant verticale Daniel Defense M-LOK"
     },
     {
       "ns": "",
@@ -442,7 +442,7 @@
       "ns": "",
       "key": "D4E171FD4EC5BA37D926C1911CEDA811",
       "source": "FANG Assignment <strong>OPR_999_RR</>: <italic>Complete the listed operations while in-raid.</>",
-      "text": "Attribution FANG <strong>OPR_999_RR</>: <italic>Compléter les opérations énumérées pendant le vol.</>"
+      "text": "Contrat FANG <strong>OPR_999_RR</> : <italic>Accomplissez les opérations indiquées pendant un raid.</>"
     },
     {
       "ns": "",
@@ -520,7 +520,7 @@
       "ns": "",
       "key": "D5672D26465163980062D0B9136A301B",
       "source": "Vest Virtus Unarmored Rig",
-      "text": "Vest Virtus Unarmored Rig"
+      "text": "Gilet tactique non blindé Virtus"
     },
     {
       "ns": "",
@@ -790,7 +790,7 @@
       "ns": "",
       "key": "D76286B44CF1DEF28D1BFB83BFF96582",
       "source": "AK-12 Buffer Tube",
-      "text": "Crosse AK-12 tube de"
+      "text": "Tube de crosse AK-12"
     },
     {
       "ns": "",
@@ -880,7 +880,7 @@
       "ns": "",
       "key": "D848B0F042ACCAF07513D6A8A91E04B3",
       "source": "VSS Cover",
-      "text": "VSS Cover"
+      "text": "Capot VSS"
     },
     {
       "ns": "",

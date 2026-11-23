@@ -376,7 +376,7 @@
       "ns": "",
       "key": "6CBBCC6A4DC99D803ECCB1AFFADE3349",
       "source": "Agent, we have a critical task for you. Head to the elevator room inside the bunker and secure the classified intel stored there. Once you have the item, it must be placed in the secure container located on the lowest level of the vehicle lift. ",
-      "text": "Agent, nous avons une tâche critique pour vous. Rendez-vous dans la salle de l'ascenseur à l'intérieur du bunker et sécurisez les renseignements classifiés qui y sont stockés. Une fois que vous avez l'article, il doit être placé dans le conteneur sécurisé situé au niveau le plus bas de l'ascenseur du véhicule. "
+      "text": "Agent, nous avons une tâche critique pour vous. Rendez-vous dans la salle de l'ascenseur à l'intérieur du bunker et sécurisez les renseignements classifiés qui y sont stockés. Une fois que vous avez l'objet, il doit être placé dans le conteneur sécurisé situé au niveau le plus bas de l'ascenseur du véhicule. "
     },
     {
       "ns": "",
@@ -556,7 +556,7 @@
       "ns": "",
       "key": "6DD72E80448E006DB8568A9620A381E8",
       "source": "Remote camera. Great for spying or protection!",
-      "text": "Caméra à distance. Idéal pour espionner ou protéger !"
+      "text": "Caméra déportée. Idéale pour la surveillance ou la protection !"
     },
     {
       "ns": "",
@@ -802,7 +802,7 @@
       "ns": "",
       "key": "6F1F80DD4426E7F74BE3E2B954FC599B",
       "source": "The AVS Delta Backpack is a robust and adaptable backpack designed for military and tactical applications. Crafted for durability, it offers ample storage space and modular attachment points for gear and equipment. This backpack is favored by military and law enforcement personnel for its versatility and capacity to carry essential items during missions and operations. It provides the adaptability and functionality required for personnel in the field.",
-      "text": "L'AVS Delta sac à dos est un sac à dos robuste et adaptable conçu pour des applications militaires et tactiques. Conçu pour la durabilité, il offre un grand espace de stockage et des points de fixation modulaires pour les engins et les équipements. Ce sac à dos est favorisé par les militaires et les forces de l'ordre pour sa polyvalence et sa capacité à transporter des articles essentiels pendant les missions et les opérations. Il fournit l'adaptabilité et la fonctionnalité requises pour le personnel sur le terrain."
+      "text": "L'AVS Delta sac à dos est un sac à dos robuste et adaptable conçu pour des applications militaires et tactiques. Conçu pour la durabilité, il offre un grand espace de stockage et des points de fixation modulaires pour les engins et les équipements. Ce sac à dos est favorisé par les militaires et les forces de l'ordre pour sa polyvalence et sa capacité à transporter des objets essentiels pendant les missions et les opérations. Il fournit l'adaptabilité et la fonctionnalité requises pour le personnel sur le terrain."
     },
     {
       "ns": "",
@@ -970,7 +970,7 @@
       "ns": "",
       "key": "702DA3BB479CD009176E0991900CC71D",
       "source": "M2 Nordic 14 inch 12ga 5-shell",
-      "text": "M2 Nordic 14 pouces 12ga 5 coquillages"
+      "text": "M2 Nordic 14 pouces calibre 12, 5 cartouches"
     },
     {
       "ns": "",
@@ -1096,7 +1096,7 @@
       "ns": "",
       "key": "710FE4B64CA426DBCDD25B922EE48999",
       "source": "Kiver RSP Nguyin Edition Helmet",
-      "text": "Kiver RSP Nguyin Edition Helmet"
+      "text": "Casque Kiver RSP Nguyin Edition"
     },
     {
       "ns": "",

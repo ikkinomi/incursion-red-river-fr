@@ -502,7 +502,7 @@
       "ns": "",
       "key": "8D65A8544DD97659A3D7FEAC6BCC6574",
       "source": "M14 Muzzle",
-      "text": "M14 bouche"
+      "text": "Dispositif de bouche M14"
     },
     {
       "ns": "",
@@ -628,13 +628,13 @@
       "ns": "",
       "key": "8E121B794026B19559D0F09A8A2DB36B",
       "source": "DISCLAIMER: You will fail your current tracked contract and lose all your items if you have chosen custom loadout.",
-      "text": "DISCLAIMER: Vous échouerez votre contrat actuel suivi et perdrez tous vos articles si vous avez choisi équipement personnalisé."
+      "text": "DISCLAIMER: Vous échouerez votre contrat actuel suivi et perdrez tous vos objets si vous avez choisi équipement personnalisé."
     },
     {
       "ns": "",
       "key": "8E1A8BC04209BEDE5394E485C9649608",
       "source": "Magpul UBR is a Buttstock designed for the AR-15 family. It requires no buffertube.",
-      "text": "Magpul UBR est un crosse conçu pour la famille AR-15. Il ne nécessite pas de tube de crosse."
+      "text": "La crosse Magpul UBR est conçue pour la gamme AR-15. Elle ne nécessite pas de tube de crosse."
     },
     {
       "ns": "",
@@ -796,7 +796,7 @@
       "ns": "",
       "key": "8F3F0E414613ECEA8EA2D39F6E56B5F2",
       "source": "Combat Application Tourniquet. Stops light and heavy bleeding in seconds.",
-      "text": "Application de combat Tourniquet. Arrête les saignements légers et lourds en quelques secondes."
+      "text": "Garrot Combat Application Tourniquet. Arrête les saignements légers et importants en quelques secondes."
     },
     {
       "ns": "",
@@ -808,7 +808,7 @@
       "ns": "",
       "key": "8F6359ED4F370FB5F569A78BD4459096",
       "source": "Zenitco RK-1 angled foregrip",
-      "text": "Poignée avant Zenitco RK-1 angled"
+      "text": "Poignée avant inclinée Zenitco RK-1"
     },
     {
       "ns": "",
@@ -862,7 +862,7 @@
       "ns": "",
       "key": "8FDE38CF49B71798460A35A33E0F1587",
       "source": "Croatian full-cut ballistic helmet. Basic protection at a low weight.",
-      "text": "Casque balistique croate pleine coupe. Protection de base à faible poids."
+      "text": "Casque balistique croate à couverture intégrale. Protection de base et poids réduit."
     },
     {
       "ns": "",
@@ -988,7 +988,7 @@
       "ns": "",
       "key": "90DF538C4977F72FAD6C229B5B25D7F3",
       "source": "Stock for the RPK produced by the ukrainian company KPYK",
-      "text": "crosse for the RPK produced by the ukrainian company KPYK"
+      "text": "Crosse pour RPK fabriquée par la société ukrainienne KPYK"
     },
     {
       "ns": "",
@@ -1084,7 +1084,7 @@
       "ns": "",
       "key": "91B95A794D15137CFFFA71BA3D121315",
       "source": "MP5 A3 Fixed Buttstock",
-      "text": "Crosse MP5 A3 Fixed"
+      "text": "Crosse fixe MP5 A3"
     },
     {
       "ns": "",
@@ -1156,7 +1156,7 @@
       "ns": "",
       "key": "922F2BDC4F31BA2CB1E33B9D6BA78B1A",
       "source": "AVS PL SGT Vest",
-      "text": "AVS PL SGT Vest"
+      "text": "Gilet AVS PL SGT"
     },
     {
       "ns": "",

@@ -1,0 +1,112 @@
+{
+  "version": "relecture-test2",
+  "preserve_names": [
+    "Incursion Red River",
+    "Quarry",
+    "Outskirts",
+    "Delta",
+    "Bunker",
+    "Discord",
+    "NVIDIA Reflex",
+    "FANG",
+    "UICS",
+    "VLF",
+    "IGC",
+    "Team Wendy",
+    "Longbow",
+    "Paraclete Origin",
+    "National Match"
+  ],
+  "preserve_exact_sources": [
+    "Boost",
+    "On + Boost"
+  ],
+  "contextual_rules": [
+    {
+      "source": "Stock",
+      "context": "vendor quantity header",
+      "key": "3FB5E6334103C8519F640493F70A5671",
+      "text": "Stock"
+    },
+    {
+      "source": "Stock",
+      "context": "weapon attachment category or item",
+      "text": "Crosse"
+    },
+    {
+      "source": "Star",
+      "context": "AK Star model",
+      "text": "Star"
+    },
+    {
+      "source": "star",
+      "context": "story mission icon",
+      "text": "étoile"
+    },
+    {
+      "source": "Boost",
+      "context": "NVIDIA Reflex option",
+      "text": "Boost"
+    },
+    {
+      "source": "Stamina Boost",
+      "context": "gameplay effect",
+      "text": "Bonus d’endurance"
+    },
+    {
+      "source": "bunker",
+      "context": "ordinary noun in a description",
+      "text": "bunker / bunkers"
+    },
+    {
+      "source": "Assignment",
+      "context": "repeatable FANG task",
+      "text": "Contrat"
+    },
+    {
+      "source": "assignment",
+      "context": "job or posting in dialogue",
+      "text": "mission / affectation selon le contexte"
+    }
+  ],
+  "glossary": {
+    "Item": "Objet",
+    "Attachment": "Accessoire",
+    "Dust Cover": "Capot de culasse",
+    "Foregrip": "Poignée avant",
+    "Sight": "Organe de visée",
+    "Reflex Sight": "Viseur reflex",
+    "Buttstock": "Crosse",
+    "Buffertube": "Tube de crosse",
+    "Plate Carrier": "Porte-plaques",
+    "Tactical Rig": "Gilet tactique",
+    "Barter": "Troc",
+    "Salvage": "Récupération",
+    "Muzzle Velocity": "Vitesse initiale",
+    "Tourniquet": "Garrot",
+    "Story missions": "Missions scénarisées"
+  },
+  "terminal_commands": [
+    "cd",
+    "dir",
+    "read",
+    "run",
+    "scan",
+    "download",
+    "pop",
+    "login",
+    "logout",
+    "shutdown",
+    "help"
+  ],
+  "invariants": [
+    "ns",
+    "key",
+    "source",
+    "format placeholders",
+    "rich text tags",
+    "file names",
+    "source line break sequences"
+  ],
+  "note": "Context wins over substring replacement. Do not rename models or gameplay identifiers."
+}

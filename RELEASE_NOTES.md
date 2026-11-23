@@ -1,15 +1,14 @@
-# Mise à jour du patch majeure
+# Traduction française 0.2.1 bêta
 
-**0.2.0 bêta — Incursion Red River 1.4.0.4 / Steam 26761568 — 23 novembre 2026**
+Pour Incursion Red River 1.4.0.4 / build Steam 26761568.
 
-- Nouveau complément pour les catégories du marché, les feuilles d’objets, les filtres et les chemins de catégories.
-- Traduction JSON de la 0.1.9 incluse, avec les corrections du terminal, de messages radio et de briefings.
-- Installation revue : dossier `fr` dans `%LOCALAPPDATA%\Test_C\Saved\Translations`, puis complément `pakchunk98-FrenchMarketTest_P.pak` dans `Test_C/Content/Paks` du jeu.
-- L’ancien `pakchunk99-French_P.pak` doit rester désactivé.
-- Retour à l’anglais prévu pour un libellé inconnu ; noms propres et identifiants fonctionnels conservés.
+- 240 entrées corrigées : Stock/Crosse selon le contexte, noms AK Star, Longbow, Paraclete Origin et Team Wendy, contrats FANG, terminal et descriptions d’équipement.
+- 368 valeurs de la table du marché synchronisées, chemins composés compris ; les dix fichiers des widgets testés restent identiques.
+- Glossaire et règles de conservation des noms ajoutés. Contrôles des 6 894 entrées : aucune erreur de structure, variable, balise ou identité ; 667 occurrences de noms protégés vérifiées.
+- Installation et essai par le joueur : bon fonctionnement rapporté. Cela ne constitue pas un test exhaustif de tous les objets, missions ou transactions.
 
-**Premier essai concluant, confirmé par le joueur. Test approfondi à venir.** Le démarrage, les catégories, un filtre d’objet, sa fiche et la recherche de compatibilité ont été contrôlés. Les achats/ventes, le panier, le marché noir, la saisie dans la recherche, le changement de langue et tous les objets ne sont pas encore validés en jeu. Quelques formulations et textes longs restent à revoir.
+**Mettre à jour les deux composants**, jeu fermé : `fr/` dans `%LOCALAPPDATA%/Test_C/Saved/Translations`, puis le nouveau `pakchunk98-FrenchMarketTest_P.pak` dans `Test_C/Content/Paks` du jeu. Le nom du .pak est identique, son contenu a changé. Garder l’ancien pakchunk99 désactivé. Désactiver le complément du marché après une mise à jour du jeu jusqu’à nouvelle validation.
 
-**Après une mise à jour du jeu, désactivez le complément du marché jusqu’à nouvelle vérification de compatibilité.** Le dossier de traduction JSON est indépendant.
+Le préréglage AZERTY est un [téléchargement séparé](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/azerty-v0.1.0-beta), facultatif et indépendant. Il n’est pas inclus dans ce ZIP.
 
-[Installation complète](https://github.com/ikkinomi/incursion-red-river-fr#installation-ou-mise-à-jour) · [Signaler un bug ou une erreur de traduction](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
+[Installation](https://github.com/ikkinomi/incursion-red-river-fr#installation-ou-mise-à-jour) · [Signaler un bug ou une erreur de traduction](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)

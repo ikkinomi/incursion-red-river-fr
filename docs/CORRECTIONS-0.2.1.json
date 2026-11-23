@@ -1,0 +1,2642 @@
+[
+  {
+    "file": "fr_001.json",
+    "ns": "",
+    "key": "001E6F914C2C60921CAE8D86836CBAAF",
+    "source": "The 12/70mm Buckshot is a shotgun shell designed for close-quarters combat and hunting applications. It features a 12-gauge shell with a length of 70 millimeters. Inside the shell, multiple spherical lead pellets, commonly referred to as 'buckshot,' are loaded. Upon firing, the shell discharges these pellets in a spread pattern, making it highly effective for short-range engagements and hunting larger game. The 12/70mm Buckshot is favored by hunters and law enforcement for its ability to deliver a wide and powerful impact on the target, making it a reliable choice in various scenarios.",
+    "before": "Le 12/70mm chevrotine est une coque fusil à pompe conçue pour des applications de combat et de chasse à proximité. Il dispose d'une coquille de 12 calibres d'une longueur de 70 millimètres. À l'intérieur de la coque, plusieurs boulettes de plomb sphériques, communément appelées «chevrotine», sont chargées. En tirant, la coquille décharge ces boulettes dans un motif de propagation, ce qui le rend très efficace pour les fiançailles à courte portée et la chasse au gros gibier. Le 12/70mm chevrotine est favorisé par les chasseurs et les forces de l'ordre pour sa capacité à fournir un impact large et puissant sur la cible, ce qui en fait un choix fiable dans différents scénarios.",
+    "after": "La cartouche de chevrotine 12/70mm est destinée aux engagements à courte distance et à la chasse. Il s’agit d’une cartouche de calibre 12 longue de 70 millimètres, contenant plusieurs projectiles sphériques en plomb appelés « chevrotines ». Ces projectiles se dispersent lors du tir, ce qui rend cette munition adaptée aux courtes distances et à la chasse au gros gibier. La chevrotine 12/70mm est appréciée des chasseurs et des forces de l’ordre pour son impact puissant et réparti sur la cible, qui en fait un choix fiable dans diverses situations.",
+    "reasons": [
+      "relecture de description"
+    ]
+  },
+  {
+    "file": "fr_001.json",
+    "ns": "",
+    "key": "01BADBD54B846F3A57B4F5A9C1F4A67B",
+    "source": "Compact Handguard for the KRISS Vector offering M-LOK rail slots for potential tactical devices & foregrips.",
+    "before": "Compact garde-main pour le KRISS Vector offrant des fentes de rail M-LOK pour les dispositifs tactiques et les foregrips potentiels.",
+    "after": "Garde-main compact pour KRISS Vector avec emplacements M-LOK pour accessoires tactiques et poignées avant.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_001.json",
+    "ns": "",
+    "key": "036CB7D94F24585F0221FE84CADBBA79",
+    "source": "FANG Assignment <strong>RET_511_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
+    "before": "Attribution FANG <strong>RET_511_RR</>: <italic>Récupérer toutes les preuves dans les zones marquées et les livrer.</>",
+    "after": "Contrat FANG <strong>RET_511_RR</> : <italic>Récupérez toutes les preuves dans les zones indiquées et livrez-les.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_001.json",
+    "ns": "",
+    "key": "03AEA7844CEBD738CE37AF82C56619AD",
+    "source": "Wilcox RAPTAR S Laser Range Finder",
+    "before": "Wilcox RAPTAR S Laser Range Finder",
+    "after": "Télémètre laser Wilcox RAPTAR S",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_001.json",
+    "ns": "",
+    "key": "03E2065F48271798DB4ABC87F2D3533B",
+    "source": "AK Star 7.62x39mm magazine",
+    "before": "AK Étoile 7.62x39mm chargeur",
+    "after": "Chargeur AK Star 7.62x39mm",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_001.json",
+    "ns": "",
+    "key": "05D4BED445698EF44830DEA4E108AD6C",
+    "source": "FAL Folding Buffertube",
+    "before": "Pliage FAL tube de crosse",
+    "after": "Tube de crosse repliable FAL",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_001.json",
+    "ns": "",
+    "key": "05F5437F4B8466D01AAF9AA79E8EB19C",
+    "source": "M14 22 Inch 7.62x51 Muzzle Adapter",
+    "before": "M14 22 pouces 7.62x51 adaptateur de bouche",
+    "after": "Adaptateur de bouche M14 22 pouces 7.62x51",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_001.json",
+    "ns": "",
+    "key": "06D37794436624A72F862DA8A0621CFE",
+    "source": "Ghillie wrap for the SR-25 handguard.",
+    "before": "Enveloppement de Ghillie pour le SR-25 garde-main.",
+    "after": "Housse de camouflage ghillie pour le garde-main du SR-25.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_001.json",
+    "ns": "",
+    "key": "06F9A35F46CFDB337D04B19001442B79",
+    "source": "Leupold DeltaPoint Mount",
+    "before": "Leupold DeltaPoint Mount",
+    "after": "Support Leupold DeltaPoint",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_002.json",
+    "ns": "",
+    "key": "0869DB9B4D336720C164F1AA64C48BF4",
+    "source": "Haley Strategic D3CRM chest rig with pouches for rifle and pistol magazines.",
+    "before": "Haley Strategic D3CRM gilet tactique avec pochettes pour fusil et pistolet chargeurs.",
+    "after": "Gilet tactique Haley Strategic D3CRM avec poches pour chargeurs de fusil et de pistolet.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_002.json",
+    "ns": "",
+    "key": "098F56E14087383525D1BE9F18D8019C",
+    "source": "KRISS Vector Stock Adapter",
+    "before": "KRISS Vector crosse adaptateur",
+    "after": "Adaptateur de crosse KRISS Vector",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_002.json",
+    "ns": "",
+    "key": "09A4CD414A5795EF1E50699FD8EE792E",
+    "source": "High Cut LSHZ Helmet",
+    "before": "High Cut LSHZ Helmet",
+    "after": "Casque LSHZ à coupe haute",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_002.json",
+    "ns": "",
+    "key": "09C590FE47C1CA9165F99FAB0C036DF5",
+    "source": "Extendable stock from SAG for the AK.",
+    "before": "crosse extensible de SAG pour le AK.",
+    "after": "Crosse extensible SAG pour AK.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_002.json",
+    "ns": "",
+    "key": "0A7712624103097CE5EA318F8940C482",
+    "source": "RFB Muzzle",
+    "before": "RFB bouche",
+    "after": "Dispositif de bouche RFB",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_002.json",
+    "ns": "",
+    "key": "0BA578EC49862C141AAF2F871B21E7B1",
+    "source": "High-quality optical sight that offers a fixed 4x Zoom and a picatinny rail system on top to fit on a secondary reflex sight.",
+    "before": "Vue optique de haute qualité qui offre un zoom fixe 4x et un système de rail picatinny sur le dessus pour s'adapter à une vue réflexe secondaire.",
+    "after": "Viseur optique de haute qualité à grossissement fixe 4x, avec un rail Picatinny supérieur pour accueillir un viseur reflex secondaire.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_002.json",
+    "ns": "",
+    "key": "0C82C8004A1DD426DFF4A0BFF3D3813E",
+    "source": "Saiga -2K GK-02 12ga Muzzle Device",
+    "before": "Saiga -2K GK-02 12ga dispositif de bouche",
+    "after": "Dispositif de bouche Saiga -2K GK-02 calibre 12",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_003.json",
+    "ns": "",
+    "key": "10838BDC482B22766D1350AAEFE824FE",
+    "source": "Foldable stock for the FN FAL.",
+    "before": "pliable crosse pour la FN FAL.",
+    "after": "Crosse repliable pour le FN FAL.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_003.json",
+    "ns": "",
+    "key": "11CED00246FDE41E72E42E89CE09C214",
+    "source": "Russian stock designed for AK rifles. Needs the right adapter to fit on any rifle.",
+    "before": "Russe crosse conçu pour les fusils AK. Il a besoin du bon adaptateur pour s'adapter à n'importe quel fusil.",
+    "after": "Crosse russe conçue pour les fusils AK. Un adaptateur approprié est nécessaire pour l’utiliser sur un autre fusil.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_003.json",
+    "ns": "",
+    "key": "11EF54154DDF0B274BD8A6B3C02227EE",
+    "source": "FANG Assignment <strong>RET_622_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
+    "before": "Attribution FANG <strong>RET_622_RR</>: <italic>Récupérer toutes les preuves dans les zones marquées et les livrer.</>",
+    "after": "Contrat FANG <strong>RET_622_RR</> : <italic>Récupérez toutes les preuves dans les zones indiquées et livrez-les.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_003.json",
+    "ns": "",
+    "key": "124653134E6A133C0CA8C09F7A08F054",
+    "source": "AS Val Cover",
+    "before": "AS Val Cover",
+    "after": "Capot AS Val",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_003.json",
+    "ns": "",
+    "key": "1482699D4FC6BE323B8F87AEFB0DF372",
+    "source": "US Modular Integrated Communications Helmet. Cut away at the ears to fit a headset.",
+    "before": "Casque de communication intégré modulaire américain. Couper les oreilles pour s'adapter à un casque.",
+    "after": "Casque américain Modular Integrated Communications Helmet. Échancré au niveau des oreilles pour accueillir un casque audio.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_003.json",
+    "ns": "",
+    "key": "14E321634EE8DB95B82B3DA60D643A99",
+    "source": "AS Val ZenitCo stock adapter",
+    "before": "AS Val ZenitCo crosse adaptateur",
+    "after": "Adaptateur de crosse AS Val ZenitCo",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_003.json",
+    "ns": "",
+    "key": "156548C94D4B36AA4860D0A0BA1894F2",
+    "source": "MCX RATTLER HANDGUARD",
+    "before": "MCX RATTLER HANDGUARD",
+    "after": "GARDE-MAIN MCX RATTLER",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_003.json",
+    "ns": "",
+    "key": "16B99D8E4B5F6DE921F77BA5ED931EB3",
+    "source": "Modular ballistic helmet with rails and a shroud as standard.",
+    "before": "Casque balistique modulaire avec des rails et un linceul standard.",
+    "after": "Casque balistique modulaire équipé de série de rails et d’un support frontal.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_003.json",
+    "ns": "",
+    "key": "17A5A59B43C615086DDB6FB8F8F8FBE5",
+    "source": "FAL Standard Muzzle",
+    "before": "FAL Standard bouche",
+    "after": "Dispositif de bouche standard FAL",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_003.json",
+    "ns": "",
+    "key": "184583B94702F094D7221D8A35674AE7",
+    "source": "A tactical belt to fit in magazines, ammunition or medical items.",
+    "before": "Une ceinture tactique pour s'adapter à chargeurs, munitions ou des articles médicaux.",
+    "after": "Ceinture tactique pouvant accueillir des chargeurs, des munitions ou du matériel médical.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_003.json",
+    "ns": "",
+    "key": "189C03E14502D1930F6560938284B183",
+    "source": "AVS PL SGT Vest",
+    "before": "AVS PL SGT Vest",
+    "after": "Gilet AVS PL SGT",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_004.json",
+    "ns": "",
+    "key": "1946B7524E9AA2D58E5918ABF5AE1936",
+    "source": "Advanced stock for the FN FAL.",
+    "before": "crosse avancé pour le FN FAL.",
+    "after": "Crosse améliorée pour le FN FAL.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_004.json",
+    "ns": "",
+    "key": "194FABFF458F699BD697AB84DD7182AB",
+    "source": "Folding stock for the KRISS Vector.",
+    "before": "Pliage crosse pour le KRISS Vector.",
+    "after": "Crosse repliable pour le KRISS Vector.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_004.json",
+    "ns": "",
+    "key": "1A4C0DA948D313C1F0D819BB402942F6",
+    "source": "AUG RAT Worx Muzzle Adapter",
+    "before": "AUG RAT Worx adaptateur de bouche",
+    "after": "Adaptateur de bouche AUG RAT Worx",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_004.json",
+    "ns": "",
+    "key": "1BC897DD4E678A592371E78103764A21",
+    "source": "FANG Assignment <strong>EXT_140_RR</>: <italic>Extract on any map without having a backpack equipped.</>",
+    "before": "Attribution FANG <strong>EXT_140_RR</>: <italic>Extraire sur n'importe quelle carte sans avoir un sac à dos équipé.</>",
+    "after": "Contrat FANG <strong>EXT_140_RR</> : <italic>Réussissez une extraction sur n’importe quelle carte sans sac à dos équipé.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_004.json",
+    "ns": "",
+    "key": "1BFFBCC94E4D24A6AB5BA182132B1458",
+    "source": "Muzzle Velocity",
+    "before": "bouche Velocity",
+    "after": "Vitesse initiale",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_004.json",
+    "ns": "",
+    "key": "1C077CA0433F2129B9D8488DA6239F46",
+    "source": "M9A3 Tall Sights",
+    "before": "M9A3 Grandes vues",
+    "after": "Organes de visée hauts M9A3",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_004.json",
+    "ns": "",
+    "key": "1C1666F34ABE7043E04C3CB32AD0C112",
+    "source": "Buffertube",
+    "before": "tube de crosse",
+    "after": "Tube de crosse",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_004.json",
+    "ns": "",
+    "key": "1C5A122347079C0643F666872064CEA5",
+    "source": "AK Izhmash Polymer Stock is a modern and durable upgrade designed for AK-pattern rifles. ",
+    "before": "AK Izhmash Polymer crosse est une mise à niveau moderne et durable conçue pour les fusils AK. ",
+    "after": "La crosse en polymère AK Izhmash est une amélioration moderne et robuste conçue pour les fusils de type AK. ",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_004.json",
+    "ns": "",
+    "key": "1DDA56484996EC9FA30CCCB3035C38B3",
+    "source": "Custom stock for the MCX family.",
+    "before": "Personnalisé crosse pour la famille MCX.",
+    "after": "Crosse personnalisée pour la gamme MCX.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_004.json",
+    "ns": "",
+    "key": "1F8B3716409CE732E3BB6197E4D5EF5F",
+    "source": "The AVS Delta Backpack is a robust and adaptable backpack designed for military and tactical applications. Crafted for durability, it offers ample storage space and modular attachment points for gear and equipment. This backpack is favored by military and law enforcement personnel for its versatility and capacity to carry essential items during missions and operations. It provides the adaptability and functionality required for personnel in the field.",
+    "before": "L'AVS Delta sac à dos est un sac à dos robuste et adaptable conçu pour des applications militaires et tactiques. Conçu pour la durabilité, il offre un grand espace de stockage et des points de fixation modulaires pour les engins et les équipements. Ce sac à dos est favorisé par les militaires et les forces de l'ordre pour sa polyvalence et sa capacité à transporter des articles essentiels pendant les missions et les opérations. Il fournit l'adaptabilité et la fonctionnalité requises pour le personnel sur le terrain.",
+    "after": "L'AVS Delta sac à dos est un sac à dos robuste et adaptable conçu pour des applications militaires et tactiques. Conçu pour la durabilité, il offre un grand espace de stockage et des points de fixation modulaires pour les engins et les équipements. Ce sac à dos est favorisé par les militaires et les forces de l'ordre pour sa polyvalence et sa capacité à transporter des objets essentiels pendant les missions et les opérations. Il fournit l'adaptabilité et la fonctionnalité requises pour le personnel sur le terrain.",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_005.json",
+    "ns": "",
+    "key": "202A269D45456F58DBBCAE8E4028EA6F",
+    "source": "Key for large safes on delta.",
+    "before": "Clé pour les grands coffres-forts sur delta.",
+    "after": "Clé des grands coffres de Delta.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_005.json",
+    "ns": "",
+    "key": "265E29EF49DAC2EAE4410FB3F7A2BA4A",
+    "source": "Stock from SAGE compatible with the AR-15 platform.",
+    "before": "crosse de SAGE compatible avec la plateforme AR-15.",
+    "after": "Crosse SAGE compatible avec la plateforme AR-15.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_006.json",
+    "ns": "",
+    "key": "29D4DD9D44943DDC4D1FA7B503AFE15B",
+    "source": "The Zulu 2.0 is a buttstock mounted in the place of an AR-15 buffertube.",
+    "before": "Le Zulu 2.0 est un crosse monté à la place d'un AR-15 tube de crosse.",
+    "after": "La Zulu 2.0 est une crosse qui remplace le tube de crosse d’un AR-15.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_006.json",
+    "ns": "",
+    "key": "2BAECADE49A9323F27AF299AC4FDEE4B",
+    "source": "FANG Assignment <strong>EXT_271_RR</>: <italic>Extract with a loot value over $20.000.</>",
+    "before": "Attribution FANG <strong>EXT_271_RR</>: <italic>Extrait d'un butin de plus de 20 000 $.</>",
+    "after": "Contrat FANG <strong>EXT_271_RR</> : <italic>Réussissez une extraction avec un butin d’une valeur supérieure à 20 000 $.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_006.json",
+    "ns": "",
+    "key": "2D4D57AD4527B07147DBB6B46D0A94E0",
+    "source": "HHV Helmet",
+    "before": "HHV Helmet",
+    "after": "Casque HHV",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_006.json",
+    "ns": "",
+    "key": "2E13F25842BA2EB5A9016890E13F0E60",
+    "source": "Simple skeleton stock for the AS Val rifle.",
+    "before": "Simple squelette crosse pour le fusil AS Val.",
+    "after": "Crosse ajourée simple pour le fusil AS Val.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_006.json",
+    "ns": "",
+    "key": "2E793D0F42428944AA7AC39F2B5C66FB",
+    "source": "Standard stock for the AKS-74U",
+    "before": "crosse standard pour le AKS-74U",
+    "after": "Crosse standard pour l’AKS-74U",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_006.json",
+    "ns": "",
+    "key": "2F81A11443DC4828F4CC6D921BBC6F2F",
+    "source": "AK-12 Muzzle",
+    "before": "AK-12 bouche",
+    "after": "Dispositif de bouche AK-12",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_006.json",
+    "ns": "",
+    "key": "2F95EF6C487EC95ED44EB290B83126E9",
+    "source": "Key for compact safes on delta.",
+    "before": "Clé pour les coffres compacts sur delta.",
+    "after": "Clé des petits coffres de Delta.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_007.json",
+    "ns": "",
+    "key": "32153E1D40CE3B702D07A1B4AF76958B",
+    "source": "Custom stock for the MCX family.",
+    "before": "Personnalisé crosse pour la famille MCX.",
+    "after": "Crosse personnalisée pour la gamme MCX.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_007.json",
+    "ns": "",
+    "key": "34677123414899F7CDF3E6B67346949C",
+    "source": "A small skeletonized angled foregrip manufactured by Fortis that supports M-LOK.",
+    "before": "Un petit poignée avant à angle squeletté fabriqué par Fortis qui supporte M-LOK.",
+    "after": "Petite poignée avant ajourée et inclinée fabriquée par Fortis, compatible M-LOK.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_007.json",
+    "ns": "",
+    "key": "36E82D414639DBE0A96BCFBF0F2ABFC8",
+    "source": "Skeleton folding stock for SVDS marksman rifle.",
+    "before": "Skeleton pliant crosse pour SVDS fusil de précision.",
+    "after": "Crosse ajourée repliable pour le fusil de précision SVDS.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_007.json",
+    "ns": "",
+    "key": "377ED9D149F8FEFF865F5FA817AB50D5",
+    "source": "Holds 5 additional 12-gauge shotgun shells.",
+    "before": "Conserve 5 autres coquilles fusil à pompe de calibre 12.",
+    "after": "Contient 5 cartouches supplémentaires de calibre 12.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_007.json",
+    "ns": "",
+    "key": "37E52EF14E48178E60C0958EFC528BC9",
+    "source": "24 Inch Barrel for the Remington M700",
+    "before": "24 pouces canon for the Remington M700",
+    "after": "Canon de 24 pouces pour le Remington M700",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_008.json",
+    "ns": "",
+    "key": "39CED5AF437FFA091C660FBC42A01138",
+    "source": "VR80 Stock And Pistol Grip",
+    "before": "Poignée pistolet VR80 crosse And",
+    "after": "Crosse et poignée pistolet VR80",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_008.json",
+    "ns": "",
+    "key": "3A4AB72E45A4C1FA8F5D7DB978415CFD",
+    "source": "Variant of AK-74 rifle featuring a foldable stock.",
+    "before": "Variante du fusil AK-74 avec un crosse pliable.",
+    "after": "Variante du fusil AK-74 dotée d’une crosse repliable.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_008.json",
+    "ns": "",
+    "key": "3CD879664C5FECDF9807BFAB23C5EC7A",
+    "source": "Standard stock for the FN FAL.",
+    "before": "Standard crosse pour le FN FAL.",
+    "after": "Crosse standard pour le FN FAL.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_008.json",
+    "ns": "",
+    "key": "3ED0DB714DB27E527142938BFD0FE914",
+    "source": "Ops-Core FAST Bump Helmet",
+    "before": "Ops-Core FAST Bump Helmet",
+    "after": "Casque Ops-Core FAST Bump",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_008.json",
+    "ns": "",
+    "key": "3F5375D64E92D8B99083859EFED5BADE",
+    "source": "The HK MP5 End-Cap Buttstock is a short stock for the MP5 family.",
+    "before": "La HK MP5 End-Cap crosse est une crosse courte pour la famille MP5.",
+    "after": "La crosse HK MP5 End-Cap est une crosse courte pour la gamme MP5.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_008.json",
+    "ns": "",
+    "key": "3FB5E6334103C8519F640493F70A5671",
+    "source": "Stock",
+    "before": "Crosse",
+    "after": "Stock",
+    "reasons": [
+      "en-tête des quantités, pas une pièce d’arme"
+    ]
+  },
+  {
+    "file": "fr_008.json",
+    "ns": "",
+    "key": "3FB73798470DA7A98EDE97ACC5AADBF8",
+    "source": "Collapsible Stock is a custom stock for the MCX family.",
+    "before": "Collapsible crosse est un crosse personnalisé pour la famille MCX.",
+    "after": "Crosse télescopique personnalisée pour la gamme MCX.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_009.json",
+    "ns": "",
+    "key": "423A1FBC4B3D651B5DC9798381A8DBB3",
+    "source": "Five Seven MRD Mount",
+    "before": "Five Seven MRD Mount",
+    "after": "Support MRD Five Seven",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_009.json",
+    "ns": "",
+    "key": "42BDB5C74062DDD4D2A12C8061AF716B",
+    "source": "Paraclete Origin Plate Carrier",
+    "before": "Paraclete Origin porte-plaques",
+    "after": "Porte-plaques Paraclete Origin",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_009.json",
+    "ns": "",
+    "key": "42CF14334BBE5738DF5247A8608C99E3",
+    "source": "Stock for the Remington M700 manufactured by MDT. It is part of the ESS chassis.",
+    "before": "crosse pour le Remington M700 fabriqué par MDT. Il fait partie du châssis ESS.",
+    "after": "Crosse pour Remington M700 fabriquée par MDT. Elle fait partie du châssis ESS.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_009.json",
+    "ns": "",
+    "key": "45108AFB4CD3980E49B3CFB36B4215A4",
+    "source": "val buffertube",
+    "before": "val tube de crosse",
+    "after": "Tube de crosse Val",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_009.json",
+    "ns": "",
+    "key": "45929ED749277290473FEB88EBCAA407",
+    "source": "RFB Sight",
+    "before": "RFB Sight",
+    "after": "Organe de visée RFB",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_009.json",
+    "ns": "",
+    "key": "46CB950746701B864D4FD5B2A0501206",
+    "source": "M14 Muzzle",
+    "before": "M14 bouche",
+    "after": "Dispositif de bouche M14",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_009.json",
+    "ns": "",
+    "key": "479151414D8177E59D2198AFAF58BB41",
+    "source": "Zenitco BelOMO PK-06 Reflex Sight",
+    "before": "Zenitco BelOMO PK-06 Reflex Sight",
+    "after": "Viseur reflex Zenitco BelOMO PK-06",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_009.json",
+    "ns": "",
+    "key": "48277F5341B6B1051F7040B4D62A6D55",
+    "source": "The MP5 A3 Fixed Buttstock is a reliable and stable stock designed for MP5 family.",
+    "before": "La MP5 A3 fixe crosse est une crosse fiable et stable conçue pour la famille MP5.",
+    "after": "La crosse fixe MP5 A3 est une crosse fiable et stable conçue pour la gamme MP5.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_009.json",
+    "ns": "",
+    "key": "4829B9E249E8F2AB46F5E5A0EAAA5CF9",
+    "source": "Trijicon RMR Mount",
+    "before": "Trijicon RMR Mount",
+    "after": "Support Trijicon RMR",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_009.json",
+    "ns": "",
+    "key": "482B4BC149D628F854660A936F839421",
+    "source": "Are you sure you want to discard the item? Once discarded, it will permanently vanish from your inventory!",
+    "before": "Voulez-vous vraiment jeter l'article? Une fois jeté, il disparaîtra définitivement de votre inventaire !",
+    "after": "Voulez-vous vraiment jeter l'objet? Une fois jeté, il disparaîtra définitivement de votre inventaire !",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_010.json",
+    "ns": "",
+    "key": "4AB331374BA5FB8BBD2C93B11047114F",
+    "source": "Galil ACE II 7.62x51mm Muzzle",
+    "before": "Galil ACE II 7.62x51mm bouche",
+    "after": "Dispositif de bouche Galil ACE II 7.62x51mm",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_010.json",
+    "ns": "",
+    "key": "4ACB82E04060669B43B8F9AB60C8884B",
+    "source": "SKS SAGE International SKSALCS Telescoping Stock",
+    "before": "Crosse SKS SAGE International SKSALCS Telescoping",
+    "after": "Crosse télescopique SKS SAGE International SKSALCS",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_010.json",
+    "ns": "",
+    "key": "4B5228924AF793E909FC92B2BF414925",
+    "source": "Holds 8 additional 12-gauge shotgun shells.",
+    "before": "Conserve 8 coquilles supplémentaires de 12 calibres fusil à pompe.",
+    "after": "Contient 8 cartouches supplémentaires de calibre 12.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_010.json",
+    "ns": "",
+    "key": "4E5409A845EF8B4179E66ABB91DC3024",
+    "source": "Sling for the KRISS Vector Buffertube adapter.",
+    "before": "Sling pour l'adaptateur KRISS Vector tube de crosse.",
+    "after": "Sangle pour l’adaptateur de tube de crosse KRISS Vector.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_010.json",
+    "ns": "",
+    "key": "4E987B0D4B4F6623C92AB4ADF6B0A5EC",
+    "source": "Galvion Caiman Ballistic Helmet",
+    "before": "Galvion Caiman Ballistic Helmet",
+    "after": "Casque balistique Galvion Caiman",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_010.json",
+    "ns": "",
+    "key": "4F1763CA40B6929011B1BBA3715B602E",
+    "source": "Buffer tube stock for the Knight's Armament Company LAMG. Should be compatibile with AR-15 stocks.",
+    "before": "tube de crosse crosse pour la Knight's Armment Company LAMG. Doit être compatibile avec les stocks AR-15.",
+    "after": "Tube de crosse pour la LAMG de Knight's Armament Company. Devrait être compatible avec les crosses AR-15.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_011.json",
+    "ns": "",
+    "key": "510C1C924848480E99D374A7F857E17A",
+    "source": "M14 National Match 7.62x51mm Muzzle Brake",
+    "before": "M14 Match national 7.62x51mm frein de bouche",
+    "after": "Frein de bouche M14 National Match 7.62x51mm",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_011.json",
+    "ns": "",
+    "key": "530BC11548F9D25AE3760996FF032768",
+    "source": "Daniel Defense Picatinny Foregrip. It can be installed on any M-LOK compatible slots.",
+    "before": "Daniel Defense Picatinny poignée avant. Il peut être installé sur toutes les fentes compatibles M-LOK.",
+    "after": "Poignée avant Daniel Defense Picatinny. Compatible avec les emplacements M-LOK.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_011.json",
+    "ns": "",
+    "key": "53A06D41481CC3E52CAA3387420323A5",
+    "source": "Stock for RPK-74 LMG.",
+    "before": "crosse pour RPK-74 LMG.",
+    "after": "Crosse pour la mitrailleuse légère RPK-74.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_011.json",
+    "ns": "",
+    "key": "53C4ED1F428F2AD8DA5410A315819BD8",
+    "source": "Magpul CTR is a Buttstock designed for the AR-15 family. It requires a buffertube.",
+    "before": "Magpul CTR est un crosse conçu pour la famille AR-15. Il nécessite un tube de crosse.",
+    "after": "La crosse Magpul CTR est conçue pour la gamme AR-15. Elle nécessite un tube de crosse.",
+    "reasons": [
+      "description de crosse"
+    ]
+  },
+  {
+    "file": "fr_011.json",
+    "ns": "",
+    "key": "576994174C28614D10E37E8DC9E8C126",
+    "source": "M2 Tactical Pistol Grip Stock",
+    "before": "Crosse M2 Tactical poignée pistolet",
+    "after": "Crosse à poignée pistolet M2 Tactical",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_012.json",
+    "ns": "",
+    "key": "5E3A53934133A7E5B943D38C896BE7D8",
+    "source": "Custom, leight weight stock for the MCX family.",
+    "before": "Personnalisé, poids de light crosse pour la famille MCX.",
+    "after": "Crosse personnalisée légère pour la gamme MCX.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_012.json",
+    "ns": "",
+    "key": "5E8CA8404165EFBFDDDE55968BF16640",
+    "source": "Bunker Large Safe Key",
+    "before": "Clé du grand coffre du bunker",
+    "after": "Clé du grand coffre de Bunker",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_012.json",
+    "ns": "",
+    "key": "5F1B8D27E6A34C09B7D2F4E8A1C63B90",
+    "source": "Using the \"hack\" command on a terminal in raid requires an intrusion device in your inventory. Devices can be recovered from special units in raid. Every command executed during an automatic hack drains the device's battery – bypassing a login costs more.\r\n\r\nOnce started, the \"hack\" command continues even if you leave the terminal, so you can defend your position. Inventory checks, such as scanning an item you carry, still count your inventory while the automatic hack runs – keep the required items on you until it is finished.",
+    "before": "L'utilisation de la commande \"hack\" sur un terminal en raid nécessite un dispositif d'intrusion dans votre inventaire. Les appareils peuvent être récupérés dans des unités spéciales lors d'un raid. Chaque commande exécutée lors d'un hack automatique draine la batterie de l'appareil – contourner un login coûte plus cher.\r\n\r\nUne fois démarré, la commande \"hack\" continue même si vous quittez le terminal, de sorte que vous pouvez défendre votre position. Les vérifications d'inventaire, comme la numérisation d'un article que vous transportez, comptent toujours votre inventaire pendant que le hack automatique fonctionne – gardez les articles requis sur vous jusqu'à ce qu'il soit terminé.",
+    "after": "L'utilisation de la commande \"hack\" sur un terminal en raid nécessite un dispositif d'intrusion dans votre inventaire. Les appareils peuvent être récupérés dans des unités spéciales lors d'un raid. Chaque commande exécutée lors d'un hack automatique draine la batterie de l'appareil – contourner un login coûte plus cher.\r\n\r\nUne fois démarré, la commande \"hack\" continue même si vous quittez le terminal, de sorte que vous pouvez défendre votre position. Les vérifications d'inventaire, comme la numérisation d'un objet que vous transportez, comptent toujours votre inventaire pendant que le hack automatique fonctionne – gardez les objets requis sur vous jusqu'à ce qu'il soit terminé.",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_012.json",
+    "ns": "",
+    "key": "5FF724CA4C6D2556224DF29CDD20B884",
+    "source": "Front rail mount for QBZ-97",
+    "before": "avant rail mount for QBZ-97",
+    "after": "Support de rail avant pour QBZ-97",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_012.json",
+    "ns": "",
+    "key": "603CFAB543EDBAFE429A49B9C04CF7EA",
+    "source": "AR-15 Odin Works Zulu 2.0 Stock",
+    "before": "AR-15 Odin Works Zulu 2.0 crosse",
+    "after": "Crosse AR-15 Odin Works Zulu 2.0",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_012.json",
+    "ns": "",
+    "key": "60CD37AC489B651F1A7632812BFB8BF6",
+    "source": "QBZ-97 Longbow Carry Handle",
+    "before": "QBZ-97 Poignée de transport de bardeaux",
+    "after": "Poignée de transport QBZ-97 Longbow",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_012.json",
+    "ns": "",
+    "key": "60E08AD540C8DCDC0ECA1692EA949A93",
+    "source": "FANG Assignment <strong>OPR_700_RR</>: <italic>Complete the listed operations while in-raid.</>",
+    "before": "Attribution FANG <strong>OPR_700_RR</>: <italic>Compléter les opérations énumérées pendant le vol.</>",
+    "after": "Contrat FANG <strong>OPR_700_RR</> : <italic>Accomplissez les opérations indiquées pendant un raid.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_012.json",
+    "ns": "",
+    "key": "6109E93549AEEC1C5F33C6AADEA00FA9",
+    "source": "A 20 Inch Barrel for the AR-15 plattform for 5.56x45mm Ammunition.",
+    "before": "Un canon de 20 pouces pour le plattforme AR-15 pour 5.56x45mm munitions.",
+    "after": "Canon de 20 pouces pour la plateforme AR-15, destiné aux munitions de 5.56x45mm.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_013.json",
+    "ns": "",
+    "key": "658FCB3D474A962AD61D848A0364C4A3",
+    "source": "Vest Virtus Unarmored Rig",
+    "before": "Vest Virtus Unarmored Rig",
+    "after": "Gilet tactique non blindé Virtus",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_013.json",
+    "ns": "",
+    "key": "65BB140740F1CF08F91EA996D643C6AD",
+    "source": "M700 MDT ESS Stock Adapter",
+    "before": "M700 MDT ESS crosse adaptateur",
+    "after": "Adaptateur de crosse M700 MDT ESS",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_013.json",
+    "ns": "",
+    "key": "671BDC04469F640AC9EE97A9C7D9914C",
+    "source": "Custom, very lightweight stock for the MCX family.",
+    "before": "Personnalisé, très léger crosse pour la famille MCX.",
+    "after": "Crosse personnalisée très légère pour la gamme MCX.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_013.json",
+    "ns": "",
+    "key": "672A560648AC0B64B57468AFEE8A6150",
+    "source": "You can modify both weapons from your stash and weapons previewed from the Marketplace.\r\n\r\nLocked attachments are clearly marked – unlock them via reputation. Items cannot directly be bought from the black market.",
+    "before": "Vous pouvez modifier à la fois armes de votre réserve et armes prévisualisés depuis le marché.\r\n\r\nLes accessoires verrouillées sont clairement marquées – déverrouillez-les par réputation. Les articles ne peuvent pas être achetés directement sur le marché noir.",
+    "after": "Vous pouvez modifier à la fois armes de votre réserve et armes prévisualisés depuis le marché.\r\n\r\nLes accessoires verrouillées sont clairement marquées – déverrouillez-les par réputation. Les objets ne peuvent pas être achetés directement sur le marché noir.",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_013.json",
+    "ns": "",
+    "key": "67E869A44D6F7852A4467FA054A41C6E",
+    "source": "Laser Detection",
+    "before": "Laser Detection",
+    "after": "Détection laser",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_013.json",
+    "ns": "",
+    "key": "68206C534B775D09D59C71B964705DD6",
+    "source": "AK-74 Wooden Stock is a classic and iconic accessory tailored for AK-74 rifles.",
+    "before": "AK-74 Wooden crosse est un accessoire classique et emblématique conçu pour les fusils AK-74.",
+    "after": "La crosse en bois AK-74 est un accessoire classique et emblématique conçu pour les fusils AK-74.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_013.json",
+    "ns": "",
+    "key": "6821C47E42E85013B96CD6981091003F",
+    "source": "LAMG Buffer Tube Stock",
+    "before": "Crosse LAMG tube de crosse",
+    "after": "Tube de crosse LAMG",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_013.json",
+    "ns": "",
+    "key": "691BFC1C4B65D329236C8E8DF135167D",
+    "source": "Paraclete Origin",
+    "before": "Origine du paraclete",
+    "after": "Paraclete Origin",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_013.json",
+    "ns": "",
+    "key": "69246BBA40AFFFCB8FB84782ADBF732A",
+    "source": "M4A1 Front Sight With Gas Block",
+    "before": "M4A1 guidon With bloc d'emprunt de gaz",
+    "after": "Guidon avec bloc d’emprunt de gaz M4A1",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_013.json",
+    "ns": "",
+    "key": "699F80A947A9797E8517CF93FCDC271C",
+    "source": "Adapter for the SVD Rotor43 Suppressor",
+    "before": "Silencieux adaptateur for the SVD Rotor43",
+    "after": "Adaptateur pour le silencieux SVD Rotor43",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_014.json",
+    "ns": "",
+    "key": "6CBBCC6A4DC99D803ECCB1AFFADE3349",
+    "source": "Agent, we have a critical task for you. Head to the elevator room inside the bunker and secure the classified intel stored there. Once you have the item, it must be placed in the secure container located on the lowest level of the vehicle lift. ",
+    "before": "Agent, nous avons une tâche critique pour vous. Rendez-vous dans la salle de l'ascenseur à l'intérieur du bunker et sécurisez les renseignements classifiés qui y sont stockés. Une fois que vous avez l'article, il doit être placé dans le conteneur sécurisé situé au niveau le plus bas de l'ascenseur du véhicule. ",
+    "after": "Agent, nous avons une tâche critique pour vous. Rendez-vous dans la salle de l'ascenseur à l'intérieur du bunker et sécurisez les renseignements classifiés qui y sont stockés. Une fois que vous avez l'objet, il doit être placé dans le conteneur sécurisé situé au niveau le plus bas de l'ascenseur du véhicule. ",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_014.json",
+    "ns": "",
+    "key": "6DD72E80448E006DB8568A9620A381E8",
+    "source": "Remote camera. Great for spying or protection!",
+    "before": "Caméra à distance. Idéal pour espionner ou protéger !",
+    "after": "Caméra déportée. Idéale pour la surveillance ou la protection !",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_014.json",
+    "ns": "",
+    "key": "6F1F80DD4426E7F74BE3E2B954FC599B",
+    "source": "The AVS Delta Backpack is a robust and adaptable backpack designed for military and tactical applications. Crafted for durability, it offers ample storage space and modular attachment points for gear and equipment. This backpack is favored by military and law enforcement personnel for its versatility and capacity to carry essential items during missions and operations. It provides the adaptability and functionality required for personnel in the field.",
+    "before": "L'AVS Delta sac à dos est un sac à dos robuste et adaptable conçu pour des applications militaires et tactiques. Conçu pour la durabilité, il offre un grand espace de stockage et des points de fixation modulaires pour les engins et les équipements. Ce sac à dos est favorisé par les militaires et les forces de l'ordre pour sa polyvalence et sa capacité à transporter des articles essentiels pendant les missions et les opérations. Il fournit l'adaptabilité et la fonctionnalité requises pour le personnel sur le terrain.",
+    "after": "L'AVS Delta sac à dos est un sac à dos robuste et adaptable conçu pour des applications militaires et tactiques. Conçu pour la durabilité, il offre un grand espace de stockage et des points de fixation modulaires pour les engins et les équipements. Ce sac à dos est favorisé par les militaires et les forces de l'ordre pour sa polyvalence et sa capacité à transporter des objets essentiels pendant les missions et les opérations. Il fournit l'adaptabilité et la fonctionnalité requises pour le personnel sur le terrain.",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_014.json",
+    "ns": "",
+    "key": "702DA3BB479CD009176E0991900CC71D",
+    "source": "M2 Nordic 14 inch 12ga 5-shell",
+    "before": "M2 Nordic 14 pouces 12ga 5 coquillages",
+    "after": "M2 Nordic 14 pouces calibre 12, 5 cartouches",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_014.json",
+    "ns": "",
+    "key": "710FE4B64CA426DBCDD25B922EE48999",
+    "source": "Kiver RSP Nguyin Edition Helmet",
+    "before": "Kiver RSP Nguyin Edition Helmet",
+    "after": "Casque Kiver RSP Nguyin Edition",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "71DD90B74631499D973B14B1E18E4C7E",
+    "source": "handgun suppressor mainly intended to be used with 9x19mm ammunition",
+    "before": "handgun silencieux mainly intended to be used with 9x19mm munitions",
+    "after": "Silencieux pour arme de poing principalement destiné aux munitions de 9x19mm",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "71E329B444AE8E216F8D3BBA1843016C",
+    "source": "Team Wendy EXFIL Helmet",
+    "before": "Team Wendy EXFIL Helmet",
+    "after": "Casque Team Wendy EXFIL",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "73B6783D41AD5CB3C5F058931889EF93",
+    "source": "20 Inch barrel for the SR-25",
+    "before": "20 pouces canon for the SR-25",
+    "after": "Canon de 20 pouces pour le SR-25",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "73F5E9624F88337A4D4758A0D32F88CA",
+    "source": "There are two types of missions:\r\n\r\n-> Story missions: Marked with a star. They progress the story and give strong rewards.\r\n\r\n-> Assignments: General repeating missions that provide decent rewards.",
+    "before": "Il existe deux types de missions :\r\n\r\n-> Missions d'histoire : marquée d'une étoile. Ils font avancer l'histoire et donnent de fortes récompenses.\r\n\r\n-> Affectations : Missions générales répétitives offrant des récompenses décentes.",
+    "after": "Il existe deux types de missions :\r\n\r\n-> Missions scénarisées : signalées par une étoile. Elles font avancer l’histoire et offrent des récompenses importantes.\r\n\r\n-> Contrats : missions répétables offrant des récompenses intéressantes.",
+    "reasons": [
+      "tutoriel des missions"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "7428D4A94ABD80DE580D77ABC695E319",
+    "source": "In order to assemble the preset you need to purchase the following items.",
+    "before": "Pour assembler le préréglage, vous devez acheter les articles suivants.",
+    "after": "Pour assembler le préréglage, vous devez acheter les objets suivants.",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "752367D94D02978996DEF8BF4319A5BA",
+    "source": "16 Inch barrel for the SR-25",
+    "before": "16 pouces canon for the SR-25",
+    "after": "Canon de 16 pouces pour le SR-25",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "757F7E954367114615A34EA3E33D2ED2",
+    "source": "AVS carrier configured for a squad leader, with admin and radio pouches up front.",
+    "before": "Support AVS configuré pour un chef d'équipe, avec des pochettes d'administration et de radio à l'avant.",
+    "after": "Porte-plaques AVS configuré pour un chef d’escouade, avec poches utilitaires et radio à l’avant.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "774A805349523C7631DBAEB88ED694E9",
+    "source": "Small rail for tactical attachments that can be installed on the KRISS Vector receiver.",
+    "before": "Petit rail pour les accessoires tactiques qui peuvent être installés sur le récepteur KRISS Vector.",
+    "after": "Petit rail pour accessoires tactiques destiné au boîtier de culasse du KRISS Vector.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "783ED1974AB43BA0653277B41DAAF9B0",
+    "source": "Daniel Defense Buttstock is a Buttstock designed for the AR-15 family. It requires a buffertube.",
+    "before": "Daniel Defense crosse est un crosse conçu pour la famille AR-15. Il nécessite un tube de crosse.",
+    "after": "La crosse Daniel Defense est conçue pour la gamme AR-15. Elle nécessite un tube de crosse.",
+    "reasons": [
+      "description de crosse"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "78DC8FC84523C43129142D8A70C24688",
+    "source": "MP5 ICS With Flashlight Handguard",
+    "before": "Garde-main MP5 ICS With lampe torche",
+    "after": "Garde-main avec lampe MP5 ICS",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "792738E54AB5C208ED8270A742CECEDD",
+    "source": "FANG Assignment <strong>RET_623_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
+    "before": "Attribution FANG <strong>RET_623_RR</>: <italic>Récupérer toutes les preuves dans les zones marquées et les livrer.</>",
+    "after": "Contrat FANG <strong>RET_623_RR</> : <italic>Récupérez toutes les preuves dans les zones indiquées et livrez-les.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_015.json",
+    "ns": "",
+    "key": "793BB9354117B708DCDE2E99B3F1CF00",
+    "source": "FANG Assignment <strong>RET_297_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
+    "before": "Attribution FANG <strong>RET_297_RR</>: <italic>Récupérer toutes les preuves dans les zones marquées et les livrer.</>",
+    "after": "Contrat FANG <strong>RET_297_RR</> : <italic>Récupérez toutes les preuves dans les zones indiquées et livrez-les.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_016.json",
+    "ns": "",
+    "key": "7ACD61D345D94C7EDEC1928523AE4B14",
+    "source": "A Stock Adapter for AR-15 stocks by MDT for the Remington M700.",
+    "before": "Un adaptateur crosse pour les stocks AR-15 par MDT pour le Remington M700.",
+    "after": "Adaptateur MDT pour crosses AR-15 destiné au Remington M700.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_016.json",
+    "ns": "",
+    "key": "7B9EF587479E43E24D9C28B95F1E7A88",
+    "source": "High-cut ballistic helmet with side rails for a headset and light mounts.",
+    "before": "Casque balistique haute coupe avec rails latéraux pour casque et supports de lumière.",
+    "after": "Casque balistique à coupe haute avec rails latéraux pour casque audio et supports de lampe.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_016.json",
+    "ns": "",
+    "key": "7BCBAA8349DFD36B2B09F0BD0907F943",
+    "source": "A Chassis for the Remington M700. Offers a slots for an handguard, pistol grip and stock. ",
+    "before": "Un châssis pour le Remington M700. Offre des emplacements pour un garde-main, poignée pistolet et crosse. ",
+    "after": "Châssis pour Remington M700, avec emplacements pour un garde-main, une poignée pistolet et une crosse. ",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_016.json",
+    "ns": "",
+    "key": "7BEA8641427F368B9443C592131CE861",
+    "source": "MP5 A3 F Retractable Buttstock",
+    "before": "Crosse MP5 A3 F Retractable",
+    "after": "Crosse rétractable MP5 A3 F",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_016.json",
+    "ns": "",
+    "key": "7D46B53640EF013CD1E3D5ADEDEDBCA1",
+    "source": "FANG Assignment <strong>RET_266_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
+    "before": "Attribution FANG <strong>RET_266_RR</>: <italic>Récupérer toutes les preuves dans les zones marquées et les livrer.</>",
+    "after": "Contrat FANG <strong>RET_266_RR</> : <italic>Récupérez toutes les preuves dans les zones indiquées et livrez-les.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_016.json",
+    "ns": "",
+    "key": "7D4AF0894A0BCC4CCDD62082BCEC9ED2",
+    "source": "Russian stock designed for AK rifles. Needs the right adapter to fit on any rifle.",
+    "before": "Russe crosse conçu pour les fusils AK. Il a besoin du bon adaptateur pour s'adapter à n'importe quel fusil.",
+    "after": "Crosse russe conçue pour les fusils AK. Un adaptateur approprié est nécessaire pour l’utiliser sur un autre fusil.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_016.json",
+    "ns": "",
+    "key": "7DF6FFEF4769DDF0ED6B458A3AC8BF55",
+    "source": "MP5 A2 Fixed Buttstock",
+    "before": "Crosse MP5 A2 Fixed",
+    "after": "Crosse fixe MP5 A2",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_016.json",
+    "ns": "",
+    "key": "7E73F87D4830ADE3000BB49B887F770A",
+    "source": "AS Val Skeleton Stock",
+    "before": "Crosse AS Val Skeleton",
+    "after": "Crosse ajourée AS Val",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_016.json",
+    "ns": "",
+    "key": "7F3F428C4A5FF51EF8BCD4AE0F132EE5",
+    "source": "TangoDown Stubby Vertical Foregrip",
+    "before": "Poignée avant TangoDown Stubby Vertical",
+    "after": "Poignée avant verticale TangoDown Stubby",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_016.json",
+    "ns": "",
+    "key": "7F515AB744942D2B9844D9BF54145167",
+    "source": "Standard M4SS is a Buttstock designed for the AR-15 family. It requires a buffertube.",
+    "before": "La norme M4SS est une crosse conçue pour la famille AR-15. Il nécessite un tube de crosse.",
+    "after": "La crosse M4SS standard est conçue pour la gamme AR-15. Elle nécessite un tube de crosse.",
+    "reasons": [
+      "description de crosse"
+    ]
+  },
+  {
+    "file": "fr_016.json",
+    "ns": "",
+    "key": "804F4C2E402528A86DE7338AB9916B1F",
+    "source": "Leupold Carbine Optic Reflex Sight",
+    "before": "Leupold Carbine optique Reflex Sight",
+    "after": "Viseur reflex Leupold Carbine Optic",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_017.json",
+    "ns": "",
+    "key": "81B2AFA24F96D8A7E26E2F815D2F20B2",
+    "source": "SVDS Lynx Buffer Tube Adapter",
+    "before": "SVDS Lynx tube de crosse adaptateur",
+    "after": "Adaptateur de tube de crosse SVDS Lynx",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_017.json",
+    "ns": "",
+    "key": "81BF341043B6F58C926B9F9EE2B1766C",
+    "source": "RFB 7.62x51mm Muzzle Device",
+    "before": "RFB 7.62x51mm dispositif de bouche",
+    "after": "Dispositif de bouche RFB 7.62x51mm",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_017.json",
+    "ns": "",
+    "key": "8397D34A4C400139AD9E0987A004E726",
+    "source": "Buffertube for the FN FAL to make it compatible with the AR-15 buttstocks.",
+    "before": "tube de crosse pour le FN FAL pour le rendre compatible avec les fesses AR-15.",
+    "after": "Tube de crosse pour FN FAL permettant l’utilisation de crosses AR-15.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_017.json",
+    "ns": "",
+    "key": "85C716EC455E284ADFBF7A85B4527505",
+    "source": "Kiver RSP Helmet",
+    "before": "Kiver RSP Helmet",
+    "after": "Casque Kiver RSP",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_017.json",
+    "ns": "",
+    "key": "87A5AA1D42F8C9436E496DB4A72D3BB7",
+    "source": "The MP5 A2 Fixed Buttstock is a durable and functional stock designed specifically for the MP5 family.",
+    "before": "Le MP5 A2 fixe crosse est un crosse durable et fonctionnel conçu spécifiquement pour la famille MP5.",
+    "after": "La crosse fixe MP5 A2 est une crosse robuste et fonctionnelle conçue spécialement pour la gamme MP5.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_017.json",
+    "ns": "",
+    "key": "891F9A03466AE868DA2E2D869A1E320D",
+    "source": "A 18 Inch Barrel for the AR-15 plattform for 5.56x45mm Ammunition.",
+    "before": "A 18 pouces canon pour la plateforme AR-15 pour 5.56x45mm munitions.",
+    "after": "Canon de 18 pouces pour la plateforme AR-15, destiné aux munitions de 5.56x45mm.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_017.json",
+    "ns": "",
+    "key": "893DC5B24552FFB34ACECDADA89712C3",
+    "source": "10 round VR80 mag, for 12ga shells.",
+    "before": "10 cartouches VR80 chargeur, pour les coques 12ga.",
+    "after": "Chargeur VR80 de 10 cartouches de calibre 12.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_018.json",
+    "ns": "",
+    "key": "8D65A8544DD97659A3D7FEAC6BCC6574",
+    "source": "M14 Muzzle",
+    "before": "M14 bouche",
+    "after": "Dispositif de bouche M14",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_018.json",
+    "ns": "",
+    "key": "8E121B794026B19559D0F09A8A2DB36B",
+    "source": "DISCLAIMER: You will fail your current tracked contract and lose all your items if you have chosen custom loadout.",
+    "before": "DISCLAIMER: Vous échouerez votre contrat actuel suivi et perdrez tous vos articles si vous avez choisi équipement personnalisé.",
+    "after": "DISCLAIMER: Vous échouerez votre contrat actuel suivi et perdrez tous vos objets si vous avez choisi équipement personnalisé.",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_018.json",
+    "ns": "",
+    "key": "8E1A8BC04209BEDE5394E485C9649608",
+    "source": "Magpul UBR is a Buttstock designed for the AR-15 family. It requires no buffertube.",
+    "before": "Magpul UBR est un crosse conçu pour la famille AR-15. Il ne nécessite pas de tube de crosse.",
+    "after": "La crosse Magpul UBR est conçue pour la gamme AR-15. Elle ne nécessite pas de tube de crosse.",
+    "reasons": [
+      "description de crosse"
+    ]
+  },
+  {
+    "file": "fr_018.json",
+    "ns": "",
+    "key": "8F3F0E414613ECEA8EA2D39F6E56B5F2",
+    "source": "Combat Application Tourniquet. Stops light and heavy bleeding in seconds.",
+    "before": "Application de combat Tourniquet. Arrête les saignements légers et lourds en quelques secondes.",
+    "after": "Garrot Combat Application Tourniquet. Arrête les saignements légers et importants en quelques secondes.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_018.json",
+    "ns": "",
+    "key": "8F6359ED4F370FB5F569A78BD4459096",
+    "source": "Zenitco RK-1 angled foregrip",
+    "before": "Poignée avant Zenitco RK-1 angled",
+    "after": "Poignée avant inclinée Zenitco RK-1",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_018.json",
+    "ns": "",
+    "key": "8FDE38CF49B71798460A35A33E0F1587",
+    "source": "Croatian full-cut ballistic helmet. Basic protection at a low weight.",
+    "before": "Casque balistique croate pleine coupe. Protection de base à faible poids.",
+    "after": "Casque balistique croate à couverture intégrale. Protection de base et poids réduit.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_018.json",
+    "ns": "",
+    "key": "90DF538C4977F72FAD6C229B5B25D7F3",
+    "source": "Stock for the RPK produced by the ukrainian company KPYK",
+    "before": "crosse for the RPK produced by the ukrainian company KPYK",
+    "after": "Crosse pour RPK fabriquée par la société ukrainienne KPYK",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_018.json",
+    "ns": "",
+    "key": "91B95A794D15137CFFFA71BA3D121315",
+    "source": "MP5 A3 Fixed Buttstock",
+    "before": "Crosse MP5 A3 Fixed",
+    "after": "Crosse fixe MP5 A3",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_018.json",
+    "ns": "",
+    "key": "922F2BDC4F31BA2CB1E33B9D6BA78B1A",
+    "source": "AVS PL SGT Vest",
+    "before": "AVS PL SGT Vest",
+    "after": "Gilet AVS PL SGT",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_019.json",
+    "ns": "",
+    "key": "9260228147F8E4485FD29BA43969081B",
+    "source": "Holds 7 additional 12-gauge shotgun shells.",
+    "before": "Conserve 7 coquilles supplémentaires de 12 calibres fusil à pompe.",
+    "after": "Contient 7 cartouches supplémentaires de calibre 12.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_019.json",
+    "ns": "",
+    "key": "93BDE78F4A3ADA7E88D389B5C7FFAABC",
+    "source": "FANG Assignment <strong>EXT_665_RR</>: <italic>Extract on any map without taking any damage.</>",
+    "before": "Attribution FANG <strong>EXT_665_RR</>: <italic>Extraire sur n'importe quelle carte sans prendre aucun dommage.</>",
+    "after": "Contrat FANG <strong>EXT_665_RR</> : <italic>Réussissez une extraction sur n’importe quelle carte sans subir de dégâts.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_019.json",
+    "ns": "",
+    "key": "93C12460433166C8BCF194B021E349F1",
+    "source": "AR-15 Strike SI AR Advanced Buffertube",
+    "before": "AR-15 Strike SI AR avancé tube de crosse",
+    "after": "Tube de crosse amélioré AR-15 Strike SI AR",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_019.json",
+    "ns": "",
+    "key": "95EC4E464169DC6E887CE1B9F09E5F9E",
+    "source": "It allows you to mount sights above the receiver.",
+    "before": "Il vous permet de monter des vues au-dessus du récepteur.",
+    "after": "Permet de placer des organes de visée au-dessus du boîtier de culasse.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_019.json",
+    "ns": "",
+    "key": "983C7A2048DC1F3A26D47CA39E2E1575",
+    "source": "Dust cover for the Saiga-12K shotgun",
+    "before": "capot de culasse for the Saiga-12K fusil à pompe",
+    "after": "Capot de culasse pour le Saiga-12K",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_019.json",
+    "ns": "",
+    "key": "99432A744EDF7A6764D9D19FE7534B4C",
+    "source": "Saiga-12K Tromix Monster Claw 12ga Muzzle Device",
+    "before": "Saiga-12K Tromix Monster Claw 12ga dispositif de bouche",
+    "after": "Dispositif de bouche Saiga-12K Tromix Monster Claw calibre 12",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_020.json",
+    "ns": "",
+    "key": "9ADCECD943B966D16B79B8B0A2C2796D",
+    "source": "M2 ComforTech Field Stock is a specialized stock designed for Benelli M2 shotguns.",
+    "before": "M2 ComforTech Field crosse est un crosse spécialisé conçu pour les fusils de chasse Benelli M2.",
+    "after": "La crosse M2 ComforTech Field est spécialement conçue pour les fusils Benelli M2.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_020.json",
+    "ns": "",
+    "key": "9CA7B8574EB88FD7E39CBEAF675F2BF0",
+    "source": "The MP5 A3 F Retractable Buttstock is a versatile and adjustable stock designed for the MP5 family.",
+    "before": "Le MP5 A3 F Rétractable crosse est un crosse polyvalent et réglable conçu pour la famille MP5.",
+    "after": "La crosse rétractable MP5 A3 F est une crosse polyvalente et réglable conçue pour la gamme MP5.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_020.json",
+    "ns": "",
+    "key": "9DE797E74FACE74ADE4E51BEA8D25925",
+    "source": "MP5K Polymer With Foregrip Handguard",
+    "before": "Garde-main MP5K en polymère With poignée avant",
+    "after": "Garde-main en polymère avec poignée avant MP5K",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_020.json",
+    "ns": "",
+    "key": "9ED7CDB84DA6FF2B6EFB77ABA3BE838A",
+    "source": "Stand. Stock",
+    "before": "Stand. crosse",
+    "after": "Crosse standard",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_020.json",
+    "ns": "",
+    "key": "9EFC3F6D4DFE171FAC577A9099F8E812",
+    "source": "Trijicon RMR Miniature Reflex Sight",
+    "before": "Trijicon RMR Miniature Reflex Sight",
+    "after": "Viseur reflex miniature Trijicon RMR",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_020.json",
+    "ns": "",
+    "key": "9F626CAE4281D5DC23C99C810D5C31EB",
+    "source": "A 16 Inch Barrel for the AR-15 plattform for 5.56x45mm Ammunition.",
+    "before": "A 16 pouces canon pour le plattforme AR-15 pour 5.56x45mm munitions.",
+    "after": "Canon de 16 pouces pour la plateforme AR-15, destiné aux munitions de 5.56x45mm.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_020.json",
+    "ns": "",
+    "key": "9FA2EEF24217CBFCF081AC9862DC8658",
+    "source": "Light FAST shell with rails and an NVG shroud. Built for bumps more than bullets.",
+    "before": "Coque FAST légère avec rails et un linceul NVG. Construit pour des bosses plus que des balles.",
+    "after": "Coque FAST légère avec rails et support NVG. Conçue pour protéger des chocs plutôt que des balles.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_020.json",
+    "ns": "",
+    "key": "9FF471954ECE34F3A71049993966A2D0",
+    "source": "Provides a picatinny rail sight mount for the AUG A3.",
+    "before": "Fournit un picatinny rail vision monture pour le AUG A3.",
+    "after": "Support de visée à rail Picatinny pour l’AUG A3.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_020.json",
+    "ns": "",
+    "key": "A058927545E47459CCB21294D3121814",
+    "source": "Fortis SHIFT Vertical Foregrip",
+    "before": "Poignée avant Fortis SHIFT Vertical",
+    "after": "Poignée avant verticale Fortis SHIFT",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_020.json",
+    "ns": "",
+    "key": "A0A6EF784493AD40D8C0EAAB9D8A70FE",
+    "source": "VAL/VSS long Picatinny rail ring",
+    "before": "VAL/VSS long Picatinny rail ring",
+    "after": "Collier à rail Picatinny long VAL/VSS",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_021.json",
+    "ns": "",
+    "key": "A29E382A4E439EB0331C5EA078082900",
+    "source": "Trijicon MRO Reflex Sight",
+    "before": "Trijicon MRO Reflex Sight",
+    "after": "Viseur reflex Trijicon MRO",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_021.json",
+    "ns": "",
+    "key": "A2EFDC1C4ACA648F8E508FBF03165B61",
+    "source": "HHV Helmet",
+    "before": "HHV Helmet",
+    "after": "Casque HHV",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_021.json",
+    "ns": "",
+    "key": "A36E88A848D3A227750F339B53B0DFB9",
+    "source": "AR-10 CMMG SV 7.62x51mm Muzzle Device",
+    "before": "AR-10 CMMG SV 7.62x51mm dispositif de bouche",
+    "after": "Dispositif de bouche AR-10 CMMG SV 7.62x51mm",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_021.json",
+    "ns": "",
+    "key": "A373BC5E484E891746264C9608B65FB3",
+    "source": "Saiga-12K 12ga Muzzle Device",
+    "before": "Saiga-12K 12ga dispositif de bouche",
+    "after": "Dispositif de bouche Saiga-12K calibre 12",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_021.json",
+    "ns": "",
+    "key": "A561B395408EE1C8CB5D00BA91EAB1E7",
+    "source": "Kingarms Lite Angled Grip",
+    "before": "Kingarms Lite Angled Grip",
+    "after": "Poignée inclinée Kingarms Lite",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_022.json",
+    "ns": "",
+    "key": "ABAB7E064EF80CC8DFB103A2701A38E1",
+    "source": "ACE Ultra Lite Stock is a Buttstock designed for the AR-15 family. It requires no buffertube.",
+    "before": "ACE Ultra Lite crosse est un crosse conçu pour la famille AR-15. Il ne nécessite pas de tube de crosse.",
+    "after": "La crosse ACE Ultra Lite est conçue pour la gamme AR-15. Elle ne nécessite pas de tube de crosse.",
+    "reasons": [
+      "description de crosse"
+    ]
+  },
+  {
+    "file": "fr_022.json",
+    "ns": "",
+    "key": "ACA4300E4BC7A1980B54A9B3E33D4633",
+    "source": "Bolt Cutter",
+    "before": "Coupe-boulon",
+    "after": "Coupe-boulons",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_022.json",
+    "ns": "",
+    "key": "ACE4837A47D4268F168700BAAB385110",
+    "source": "Standard stock for the PP-19 Vityaz.",
+    "before": "Standard crosse pour le PP-19 Vityaz.",
+    "after": "Crosse standard pour le PP-19 Vityaz.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_022.json",
+    "ns": "",
+    "key": "ADFE4EC44D9B2478290FF387BB69D035",
+    "source": "FANG Assignment <strong>OPR_205_RR</>: <italic>Complete the listed operations while in-raid.</>",
+    "before": "Attribution FANG <strong>OPR_205_RR</>: <italic>Compléter les opérations énumérées pendant le vol.</>",
+    "after": "Contrat FANG <strong>OPR_205_RR</> : <italic>Accomplissez les opérations indiquées pendant un raid.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_022.json",
+    "ns": "",
+    "key": "AF66CBE14783747806602C8700ECA22E",
+    "source": "Booting HIDEOUT-01...\r\nMounting volume fang ........ OK\r\nChecking relay uplink ........",
+    "before": "Démarrage de HIDEOUT-01...\r\nMontage volumétrique ........ OK\r\nVérification de la liaison ascendante du relais ........",
+    "after": "Démarrage de HIDEOUT-01...\r\nMontage du volume fang ........ OK\r\nVérification de la liaison montante du relais ........",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_022.json",
+    "ns": "",
+    "key": "B0A114E443D934389E492D9BDABCD8A1",
+    "source": "VLTOR IMOD is a Buttstock designed for the AR-15 family. It requires a buffertube.",
+    "before": "VLTOR IMOD est un crosse conçu pour la famille AR-15. Il nécessite un tube de crosse.",
+    "after": "La crosse VLTOR IMOD est conçue pour la gamme AR-15. Elle nécessite un tube de crosse.",
+    "reasons": [
+      "description de crosse"
+    ]
+  },
+  {
+    "file": "fr_022.json",
+    "ns": "",
+    "key": "B0F36EFF47409C20F80E538F7B68A123",
+    "source": "IHPS Helmet",
+    "before": "IHPS Helmet",
+    "after": "Casque IHPS",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_023.json",
+    "ns": "",
+    "key": "B22ABCBC4EA0C0B950DCE8A90138BA8E",
+    "source": "CMMG Ripstock Buttstock for AR-15 rifles.",
+    "before": "CMMG Ripstock crosse pour fusils AR-15.",
+    "after": "Crosse CMMG Ripstock pour fusils AR-15.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_023.json",
+    "ns": "",
+    "key": "B264784A43A5B8DA8F56D3830D0DBF35",
+    "source": "14.5 Inch Barrel for the AR-15 plattform.",
+    "before": "14.5 Inch canon pour le plattforme AR-15.",
+    "after": "Canon de 14.5 pouces pour la plateforme AR-15.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_023.json",
+    "ns": "",
+    "key": "B32F4B634C89D7C3D4B20999A0281EC1",
+    "source": "Inforce WMLx is a strong Flashlight also fitting on handgun rails.",
+    "before": "Inforce WMLx est une lampe de poche forte qui s'adapte également aux rails des armes de poing.",
+    "after": "L’Inforce WMLx est une lampe puissante également compatible avec les rails d’armes de poing.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_023.json",
+    "ns": "",
+    "key": "B39A5D8049948B11C4CC3D9180BEC1A2",
+    "source": "Variation of the AS Val rifle. Designed for long range combat. It features a wooden stock integrated with the pistol grip.",
+    "before": "Variation du fusil AS Val. Conçu pour le combat à longue portée. Il dispose d'un crosse en bois intégré avec le poignée pistolet.",
+    "after": "Variante du fusil AS Val conçue pour les engagements à longue distance. Elle possède une crosse en bois intégrant la poignée pistolet.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_023.json",
+    "ns": "",
+    "key": "B4D37CEB4A4B041B4E2BBB8838B50A82",
+    "source": "AR-15 PWS Enhanced Buffertube",
+    "before": "AR-15 PWS amélioré tube de crosse",
+    "after": "Tube de crosse amélioré AR-15 PWS",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_023.json",
+    "ns": "",
+    "key": "B60834504A5F08B819CA4DAA823D3DB5",
+    "source": "RFB Sight",
+    "before": "RFB Sight",
+    "after": "Organe de visée RFB",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_023.json",
+    "ns": "",
+    "key": "B8B0BB0F49EBD1A04A70C7AC3D984960",
+    "source": "The laptop located within your hideout functions as the primary device for tracking contracts and challenges, purchasing new items, and embarking on missions. It also serves as the venue for forming groups and inviting your friends to join!",
+    "before": "L'ordinateur portable situé dans votre base fonctionne comme l'appareil principal pour le suivi des contrats et des défis, l'achat de nouveaux articles et l'embarquement dans les missions. Il sert également de lieu pour former des groupes et inviter vos amis à se joindre!",
+    "after": "L'ordinateur portable situé dans votre base fonctionne comme l'appareil principal pour le suivi des contrats et des défis, l'achat de nouveaux objets et l'embarquement dans les missions. Il sert également de lieu pour former des groupes et inviter vos amis à se joindre!",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_023.json",
+    "ns": "",
+    "key": "B8B2E6D9408C3F8CDEB071A8CA8F9B30",
+    "source": "A rifle reflex sight manufactured by Trijicon, mounted on a picatinny-compatible mount.",
+    "before": "Une vue réflexe de fusil fabriqué par Trijicon, monté sur un support compatible picatinny.",
+    "after": "Viseur reflex pour fusil fabriqué par Trijicon, monté sur un support compatible Picatinny.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_024.json",
+    "ns": "",
+    "key": "BB027A634176DB0760FF50BC8A39B615",
+    "source": "DCS plate carrier kitted with AK pouches, a dump pouch and groin protection.",
+    "before": "DCS porte-plaques kitted avec des pochettes AK, une pochette à benne et une protection à l'aine.",
+    "after": "Porte-plaques DCS équipé de poches pour chargeurs AK, d’une poche de délestage et d’une protection de l’aine.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_024.json",
+    "ns": "",
+    "key": "BBB96AA7459A4B3D560D22A4479B641C",
+    "source": "Stock of the AK-12 rifle. Despite appearance it is not compatibile with AR-15 stocks.",
+    "before": "crosse du fusil AK-12. Malgré son apparence, il n'est pas compatible avec les stocks AR-15.",
+    "after": "Crosse du fusil AK-12. Malgré son apparence, elle n’est pas compatible avec les crosses AR-15.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_024.json",
+    "ns": "",
+    "key": "BEA83BC440987322C62A709F690DAB63",
+    "source": "Wooden Stock for the VSS Vintorez",
+    "before": "en bois crosse for the VSS Vintorez",
+    "after": "Crosse en bois pour le VSS Vintorez",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_024.json",
+    "ns": "",
+    "key": "BEFE59004ED4206D13A693B4CD28917F",
+    "source": "10.5 Inch Barrel for the AR-15 plattform.",
+    "before": "10.5 pouces canon pour le plattforme AR-15.",
+    "after": "Canon de 10.5 pouces pour la plateforme AR-15.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_024.json",
+    "ns": "",
+    "key": "C010D48B41A00AE4EAB1A4BE5B7CBD5E",
+    "source": "M14 16 Inch 7.62x51 Muzzle Adapter",
+    "before": "M14 16 pouces 7.62x51 adaptateur de bouche",
+    "after": "Adaptateur de bouche M14 16 pouces 7.62x51",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C1BD461D451BBAAA33E16699F6EF5694",
+    "source": "OKP-77 Reflex Sight",
+    "before": "OKP-77 Reflex Sight",
+    "after": "Viseur reflex OKP-77",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C2698B5947882B7F0940A8BCBC32A869",
+    "source": "Cheek rest for QBZ-97 stock. Looks comfortable!",
+    "before": "Repose-toi pour QBZ-97 crosse. Ça a l'air confortable !",
+    "after": "Appuie-joue pour la crosse du QBZ-97. Ça a l’air confortable !",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C2E533694F52C98FB19F8195B7CCE4CA",
+    "source": "AS VAL Aftermarket Buffer Tube Adapter",
+    "before": "AS VAL Aftermarket tube de crosse adaptateur",
+    "after": "Adaptateur de tube de crosse AS VAL",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C35DC7604379C17A56061C85544FF44E",
+    "source": "Provides a picatinny rail sight mount for the AUG A3.",
+    "before": "Fournit un picatinny rail vision monture pour le AUG A3.",
+    "after": "Support de visée à rail Picatinny pour l’AUG A3.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C3B10CDC411D46EC7AA2738B85983D2F",
+    "source": "AUG Vertical Foregrip",
+    "before": "Poignée avant AUG Vertical",
+    "after": "Poignée avant verticale AUG",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C4EE33A9447BC15C74A7969C256BDD04",
+    "source": "Variant of 7.62x54mmR SVD designated marksman rifle featuring a foldable stock.",
+    "before": "Variante de 7.62x54mmR SVD désigné fusil de précision avec un crosse pliable.",
+    "after": "Variante du fusil de précision SVD en 7.62x54mmR équipée d’une crosse repliable.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C4FC85424AF0C49A890457AFDB8CC333",
+    "source": "GBRS Hydra Mount",
+    "before": "GBRS Hydra Mount",
+    "after": "Support GBRS Hydra",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C5FD0288401CFC5511FB539B676C7DB7",
+    "source": "National Match muzzle device for the M14 rifle.",
+    "before": "Match national dispositif de bouche pour le fusil M14.",
+    "after": "Dispositif de bouche National Match pour le fusil M14.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C72DCDA3483B5750F651A1A12CF8E620",
+    "source": "Ghillie wrap for the SR-25 stock.",
+    "before": "Enveloppement de Ghillie pour le SR-25 crosse.",
+    "after": "Housse de camouflage ghillie pour la crosse du SR-25.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C7C39FF747F355C04E1F7C80AEEB2488",
+    "source": "Team Wendy EXFIL ballistic helmet. Light, well balanced and built to carry night vision.",
+    "before": "Casque balistique de l'équipe Wendy EXFIL. Léger, bien équilibré et construit pour porter la vision nocturne.",
+    "after": "Casque balistique Team Wendy EXFIL. Léger, bien équilibré et conçu pour accueillir un dispositif de vision nocturne.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C843D66E48CACB9C2E958DAD3C5E4D0A",
+    "source": "11.5 Inch Barrel for the AR-15 plattform.",
+    "before": "11.5 Inch canon pour la plateforme AR-15.",
+    "after": "Canon de 11.5 pouces pour la plateforme AR-15.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_025.json",
+    "ns": "",
+    "key": "C879606F4228A77E256D3CA723C80076",
+    "source": "Stock for the Honey Badger rifle.",
+    "before": "crosse pour le fusil Honey Badger.",
+    "after": "Crosse pour le fusil Honey Badger.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_026.json",
+    "ns": "",
+    "key": "CD4C91C94EA82B18A873A0A4AC62D490",
+    "source": "HIDEOUT-01 TEST TERMINAL\n-----------------------------------------------------\nThis node exists to exercise every terminal feature.\n\n  fang\\Briefings     locked to Operator\n  fang\\Logistics     locked to Quartermaster\n  fang\\Archive       open; Classified inside needs INTEL\n  fang\\Admin         locked to Admin\n\nLogins are in Credentials.txt. Encrypted.txt only opens with the INTEL D  in your inventory. It should be on the table next to the terminal.\n\nTry: dir, cd Briefings, login, read, scan, download, run, pop, hack.",
+    "before": "HIDEOUT-01 TEST TERMINAL\n-----------------------------------------------------\nThis node exists to exercise every terminal feature.\n\n  fang\\Briefings     locked to Operator\n  fang\\Logistics     locked to Quartermaster\n  fang\\Archive       open; Classified inside needs INTEL\n  fang\\Admin         locked to Admin\n\nLogins are in Credentials.txt. Encrypted.txt only opens with the INTEL D  in your inventory. It should be on the table next to the terminal.\n\nTry: dir, cd Briefings, login, read, scan, download, run, pop, hack.",
+    "after": "HIDEOUT-01 — TERMINAL DE TEST\n-----------------------------------------------------\nCe terminal permet de tester toutes les fonctionnalités.\n\n  fang\\Briefings     accès réservé à Operator\n  fang\\Logistics     accès réservé à Quartermaster\n  fang\\Archive       accès libre ; Classified nécessite INTEL\n  fang\\Admin         accès réservé à Admin\n\nLes identifiants se trouvent dans Credentials.txt. Encrypted.txt ne s’ouvre que si l’objet INTEL D est dans votre inventaire. Il devrait se trouver sur la table à côté du terminal.\n\nÀ essayer : dir, cd Briefings, login, read, scan, download, run, pop, hack.",
+    "reasons": [
+      "notice interne du terminal ; commandes et chemins conservés"
+    ]
+  },
+  {
+    "file": "fr_026.json",
+    "ns": "",
+    "key": "CF2EFF3546265C3F1DA2EF8E0DE0A755",
+    "source": "FANG Assignment <strong>OPR_453_RR</>: <italic>Complete the listed operations while in-raid.</>",
+    "before": "Attribution FANG <strong>OPR_453_RR</>: <italic>Compléter les opérations énumérées pendant le vol.</>",
+    "after": "Contrat FANG <strong>OPR_453_RR</> : <italic>Accomplissez les opérations indiquées pendant un raid.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_026.json",
+    "ns": "",
+    "key": "CFA04D654D3150D3AABA19840C0A4E78",
+    "source": "Stock is 2/10.",
+    "before": "crosse est 2/10.",
+    "after": "Stock : 2/10.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_026.json",
+    "ns": "",
+    "key": "D0916A5E49C6BD75F8F01DB6EAE541AB",
+    "source": "Russian LShZ ballistic helmet in a high cut, leaving room for a headset.",
+    "before": "Casque balistique russe LShZ dans une coupe haute, laissant place à un casque.",
+    "after": "Casque balistique russe LShZ à coupe haute, laissant de la place pour un casque audio.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_027.json",
+    "ns": "",
+    "key": "D334CC504C3D0BA4CBB853ABA8300A4F",
+    "source": "We're low on tech supplies and need to resupply. Collect old tech items that can be reused and sell them to the vendor for recycling.",
+    "before": "On est à court d'approvisionnements technologiques et on a besoin de réapprovisionner. Recueillir les anciens articles de technologie qui peuvent être réutilisés et les vendre au vendeur pour recyclage.",
+    "after": "On est à court d'approvisionnements technologiques et on a besoin de réapprovisionner. Recueillir les anciens objets de technologie qui peuvent être réutilisés et les vendre au vendeur pour recyclage.",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_027.json",
+    "ns": "",
+    "key": "D4157ED94B91F81335C12C86BD35D0B4",
+    "source": "Daniel Defense M-LOK Vertical Foregrip",
+    "before": "Poignée avant Daniel Defense M-LOK Vertical",
+    "after": "Poignée avant verticale Daniel Defense M-LOK",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_027.json",
+    "ns": "",
+    "key": "D4E171FD4EC5BA37D926C1911CEDA811",
+    "source": "FANG Assignment <strong>OPR_999_RR</>: <italic>Complete the listed operations while in-raid.</>",
+    "before": "Attribution FANG <strong>OPR_999_RR</>: <italic>Compléter les opérations énumérées pendant le vol.</>",
+    "after": "Contrat FANG <strong>OPR_999_RR</> : <italic>Accomplissez les opérations indiquées pendant un raid.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_027.json",
+    "ns": "",
+    "key": "D5672D26465163980062D0B9136A301B",
+    "source": "Vest Virtus Unarmored Rig",
+    "before": "Vest Virtus Unarmored Rig",
+    "after": "Gilet tactique non blindé Virtus",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_027.json",
+    "ns": "",
+    "key": "D76286B44CF1DEF28D1BFB83BFF96582",
+    "source": "AK-12 Buffer Tube",
+    "before": "Crosse AK-12 tube de",
+    "after": "Tube de crosse AK-12",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_027.json",
+    "ns": "",
+    "key": "D848B0F042ACCAF07513D6A8A91E04B3",
+    "source": "VSS Cover",
+    "before": "VSS Cover",
+    "after": "Capot VSS",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_028.json",
+    "ns": "",
+    "key": "DDB286064B9CE526D4716D86CB379DE0",
+    "source": "BCMGUNFIGHTER Mod 0 is a Buttstock designed for the AR-15 family. It requires a buffertube.",
+    "before": "BCMGUNFIGHTER Mod 0 est un crosse conçu pour la famille AR-15. Il nécessite un tube de crosse.",
+    "after": "La crosse BCMGUNFIGHTER Mod 0 est conçue pour la gamme AR-15. Elle nécessite un tube de crosse.",
+    "reasons": [
+      "description de crosse"
+    ]
+  },
+  {
+    "file": "fr_028.json",
+    "ns": "",
+    "key": "DEB413EC41185EBD37E4F2B3141728AB",
+    "source": "AK SAG Buffertube",
+    "before": "AK SAG tube de crosse",
+    "after": "Tube de crosse AK SAG",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_028.json",
+    "ns": "",
+    "key": "DF6951224E87F07EB22A89A6EF6CF90E",
+    "source": "FANG Assignment <strong>RET_512_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
+    "before": "Attribution FANG <strong>RET_512_RR</>: <italic>Récupérer toutes les preuves dans les zones marquées et les livrer.</>",
+    "after": "Contrat FANG <strong>RET_512_RR</> : <italic>Récupérez toutes les preuves dans les zones indiquées et livrez-les.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_028.json",
+    "ns": "",
+    "key": "E204821147251037A280369A870BAC1B",
+    "source": "Strike Industries Viper Mod 1 is a Buttstock designed for the AR-15 family. It requires a buffertube.",
+    "before": "Strike Industries Viper Mod 1 est un crosse conçu pour la famille AR-15. Il nécessite un tube de crosse.",
+    "after": "La crosse Strike Industries Viper Mod 1 est conçue pour la gamme AR-15. Elle nécessite un tube de crosse.",
+    "reasons": [
+      "description de crosse"
+    ]
+  },
+  {
+    "file": "fr_029.json",
+    "ns": "",
+    "key": "E4DAD8744686282517CD998B8AD0ACA4",
+    "source": "MCX Folding Skeleton Stock",
+    "before": "Crosse MCX repliable Skeleton",
+    "after": "Crosse ajourée repliable MCX",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_029.json",
+    "ns": "",
+    "key": "E50CD8E1457144DE8D1CDCBFFD4257F3",
+    "source": "Fortis SHIFT Short M-LOK Angled Foregrip",
+    "before": "Poignée avant Fortis SHIFT court M-LOK Angled",
+    "after": "Poignée avant courte inclinée Fortis SHIFT M-LOK",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_029.json",
+    "ns": "",
+    "key": "E5F7C5F04EC4749E78E6FF9B03CA2262",
+    "source": "Wooden stock for the FN FAL.",
+    "before": "crosse en bois pour la FN FAL.",
+    "after": "Crosse en bois pour le FN FAL.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_029.json",
+    "ns": "",
+    "key": "E66F4A7C4222B587DBAD70A385EF79C4",
+    "source": "Super high-cut FAST MT shell. Very light and keeps the ears free, at the cost of side coverage.",
+    "before": "Super haute coupe FAST MT coque. Très léger et garde les oreilles libres, au prix d'une couverture latérale.",
+    "after": "Coque FAST MT à coupe très haute. Très légère, elle dégage les oreilles au prix d’une protection latérale réduite.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_029.json",
+    "ns": "",
+    "key": "E73F6B29446AE6915444A3A21899EB1C",
+    "source": "5 round VR80 mag, for 12ga shells.",
+    "before": "5 cartouches VR80 chargeur, pour les coques 12ga.",
+    "after": "Chargeur VR80 de 5 cartouches de calibre 12.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_029.json",
+    "ns": "",
+    "key": "E75B2F3B486870D9AE87538F0EB366EB",
+    "source": "Adapter to mount a zenitco PT-1 or PT-3 stock on an AS VAL.",
+    "before": "Adaptateur pour monter un zénitco PT-1 ou PT-3 crosse sur un AS VAL.",
+    "after": "Adaptateur pour crosse Zenitco PT-1 ou PT-3 destiné à l’AS VAL.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_029.json",
+    "ns": "",
+    "key": "E80672A04377AEBA2638A9BEF59966DB",
+    "source": "Galil Muzzle",
+    "before": "Galil bouche",
+    "after": "Dispositif de bouche Galil",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_029.json",
+    "ns": "",
+    "key": "E995846A4948028EF50EC0B33D008520",
+    "source": "Bunker Compact Safe Key",
+    "before": "Clé du petit coffre du bunker",
+    "after": "Clé du petit coffre de Bunker",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_029.json",
+    "ns": "",
+    "key": "EA563328448887B04C464FB66540021D",
+    "source": "MCX Folding Mini Skeleton Stock",
+    "before": "Crosse MCX repliable Mini Skeleton",
+    "after": "Petite crosse ajourée repliable MCX",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_030.json",
+    "ns": "",
+    "key": "ECBE726A447C25FB06AB10B40E2ACA78",
+    "source": "Low-profile carrier with top-end plates. No pouches — pair it with a chest rig.",
+    "before": "Porte profil bas avec plaques haut de gamme. Pas de pochettes — jumelez-la avec un gilet tactique.",
+    "after": "Porte-plaques discret équipé de plaques haut de gamme. Sans poches : à associer à un gilet tactique.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_030.json",
+    "ns": "",
+    "key": "ED86118A46C0F4660324DB8DC6D1F110",
+    "source": "FANG Assignment <strong>RET_267_RR</>: <italic>Retrieve all evidence at marked areas and deliver them.</>",
+    "before": "Attribution FANG <strong>RET_267_RR</>: <italic>Récupérer toutes les preuves dans les zones marquées et les livrer.</>",
+    "after": "Contrat FANG <strong>RET_267_RR</> : <italic>Récupérez toutes les preuves dans les zones indiquées et livrez-les.</>",
+    "reasons": [
+      "objectif de contrat"
+    ]
+  },
+  {
+    "file": "fr_030.json",
+    "ns": "",
+    "key": "EFCDB7AA4783781F8D74AFBA4B386BC8",
+    "source": "The M2 Tactical Pistol Grip Stock is a specialized stock designed for Benelli M2.",
+    "before": "Le M2 tactique poignée pistolet crosse est un crosse spécialisé conçu pour Benelli M2.",
+    "after": "La crosse à poignée pistolet M2 Tactical est spécialement conçue pour le Benelli M2.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_030.json",
+    "ns": "",
+    "key": "F0D90F0A42A617F155A1BFAD37850A84",
+    "source": "VAL/VSS King Arms Picatinny rail ring",
+    "before": "VAL/VSS King Arms Picatinny rail ring",
+    "after": "Collier à rail Picatinny King Arms VAL/VSS",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_030.json",
+    "ns": "",
+    "key": "F10A7B56453F63481BCFB79A782A58B9",
+    "source": "M9A3 Short Sights",
+    "before": "M9A3 Vues courtes",
+    "after": "Organes de visée bas M9A3",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_030.json",
+    "ns": "",
+    "key": "F1D2A3F54DC4109982C3E5B6E0B3B532",
+    "source": "BCM Gunfighter Mod3 Foregrip. It can be installed on any M-LOK compatible slots.",
+    "before": "BCM Gunfighter Mod3 poignée avant. Il peut être installé sur toutes les fentes compatibles M-LOK.",
+    "after": "Poignée avant BCM Gunfighter Mod3. Compatible avec les emplacements M-LOK.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_031.json",
+    "ns": "",
+    "key": "F322A269425A180C2EAAFCA02D676614",
+    "source": "Need supplies? The Marketplace lets you buy gear for your raid.\r\n\r\nItems are limited by your reputation with the seller faction.\r\n\r\nDon’t want to wait? Try the Black Market – infinite stock, no restrictions, but very expensive",
+    "before": "Le Marketplace vous permet d'acheter du matériel pour votre raid.\r\n\r\nLes articles sont limités par votre réputation auprès de la faction vendeur.\r\n\r\nTu ne veux pas attendre ? Essayez le marché noir – infini crosse, pas de restrictions, mais très cher",
+    "after": "Le Marketplace vous permet d'acheter du matériel pour votre raid.\r\n\r\nLes objets sont limités par votre réputation auprès de la faction vendeur.\r\n\r\nTu ne veux pas attendre ? Essayez le marché noir – infini crosse, pas de restrictions, mais très cher",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_031.json",
+    "ns": "",
+    "key": "F3580A224DB3D82C8E7F1E8224196938",
+    "source": "OKP-7 Reflex Sight",
+    "before": "OKP-7 Reflex Sight",
+    "after": "Viseur reflex OKP-7",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_031.json",
+    "ns": "",
+    "key": "F49179974C8DC99033387B93C918C090",
+    "source": "Foregrip manufactured by the russian company Zenitco, mounted at a 45° angle",
+    "before": "poignée avant manufactured by the russian company Zenitco, mounted at a 45° angle",
+    "after": "Poignée avant fabriquée par la société russe Zenitco, inclinée à 45°",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_031.json",
+    "ns": "",
+    "key": "F5B514CE4269D469DEFA8CA7E44EA07B",
+    "source": "Leupold DeltaPoint Reflex Sight",
+    "before": "Leupold DeltaPoint Reflex Sight",
+    "after": "Viseur reflex Leupold DeltaPoint",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_031.json",
+    "ns": "",
+    "key": "F5C580AD46C737257516159D908017DE",
+    "source": "11 Inch handguard for the KRISS Vector offering M-LOK rail slots for potential tactical devices & foregrips.",
+    "before": "11 pouces garde-main pour le KRISS Vector offrant des fentes de rail M-LOK pour les dispositifs tactiques et les foregrips potentiels.",
+    "after": "Garde-main de 11 pouces pour KRISS Vector avec emplacements M-LOK pour accessoires tactiques et poignées avant.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_031.json",
+    "ns": "",
+    "key": "F6141D814C9CCCC3CFE6DA8191522E77",
+    "source": "Minimalist chest rig: magazines, a tourniquet and not much else.",
+    "before": "Minimaliste gilet tactique: chargeurs, un tourniquet et pas grand-chose d'autre.",
+    "after": "Gilet tactique minimaliste : des chargeurs, un garrot et pas grand-chose d’autre.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_032.json",
+    "ns": "",
+    "key": "FB72401149E006AA25C96689F888E545",
+    "source": "LMT Sopmod stock for AR-15 compatibile rifles.",
+    "before": "LMT Sopmod crosse pour fusils compatibile AR-15.",
+    "after": "Crosse LMT Sopmod pour fusils compatibles AR-15.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_032.json",
+    "ns": "",
+    "key": "FC9C520F422DA3024FCC7991A6E428AD",
+    "source": "KAC QDC 3-Prong Eliminator 5.56x45mm Muzzle Device",
+    "before": "KAC QDC 3-Prong Eliminateur 5.56x45mm dispositif de bouche",
+    "after": "Dispositif de bouche KAC QDC 3-Prong Eliminator 5.56x45mm",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_032.json",
+    "ns": "",
+    "key": "FD905CEB4DFB938A15A0088EC1EBC04B",
+    "source": "AR-15 Colt A2 Buffertube",
+    "before": "AR-15 Colt A2 tube de crosse",
+    "after": "Tube de crosse AR-15 Colt A2",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_032.json",
+    "ns": "",
+    "key": "FEE46CF3403AA4416D4CF6BD73CE07CC",
+    "source": "PP-19 Muzzle",
+    "before": "PP-19 bouche",
+    "after": "Dispositif de bouche PP-19",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_033.json",
+    "ns": "IRRInbox",
+    "key": "OpComplete_1",
+    "source": "Operation complete on {Level}, operator. Item and cash rewards are in your inbox - collect them when you are ready.",
+    "before": "Opération terminée le {Level}, opérateur. L'article et les récompenses en espèces sont dans votre boîte de réception - collectez-les lorsque vous êtes prêt.",
+    "after": "Opération terminée le {Level}, opérateur. L'objet et les récompenses en espèces sont dans votre boîte de réception - collectez-les lorsque vous êtes prêt.",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  },
+  {
+    "file": "fr_033.json",
+    "ns": "IRRRaidTrader",
+    "key": "ForeignItem",
+    "source": "Only your own items or the trader's stock can be traded.",
+    "before": "Seuls vos propres articles ou le crosse du trader peuvent être échangés.",
+    "after": "Seuls vos objets et ceux du stock du marchand peuvent être échangés.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_033.json",
+    "ns": "IRRSettingImporter_AISettings",
+    "key": "LaserDetection",
+    "source": "Laser Detection",
+    "before": "Laser Detection",
+    "after": "Détection laser",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_033.json",
+    "ns": "IRRSettingImporter_AISettings",
+    "key": "MuzzleFlashScale",
+    "source": "AI Muzzle Flash Size",
+    "before": "AI bouche Flash Size",
+    "after": "Taille de la flamme de bouche de l’IA",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_033.json",
+    "ns": "IRRSpectatorMenu",
+    "key": "Started",
+    "source": "Helmet cam started.",
+    "before": "La caméra du casque a commencé.",
+    "after": "Caméra de casque activée.",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_033.json",
+    "ns": "IRRSpectatorMenu",
+    "key": "StartedFmt",
+    "source": "Helmet cam: {0}",
+    "before": "Came du casque : {0}",
+    "after": "Caméra de casque : {0}",
+    "reasons": [
+      "relecture ciblée"
+    ]
+  },
+  {
+    "file": "fr_034.json",
+    "ns": "LoadingScreenHints",
+    "key": "FactionReputation_Description",
+    "source": "As more Operations are completed, reputation increases with each faction.Increased reputation allows for better items to be purchased from the vendor. It also unlocks greater rewards, including money and rare items.",
+    "before": "À mesure que les opérations sont terminées, la réputation augmente avec chaque faction.La réputation accrue permet d'acheter de meilleurs articles au vendeur. Il débloque également de plus grandes récompenses, y compris de l'argent et des articles rares.",
+    "after": "À mesure que les opérations sont terminées, la réputation augmente avec chaque faction.La réputation accrue permet d'acheter de meilleurs objets au vendeur. Il débloque également de plus grandes récompenses, y compris de l'argent et des objets rares.",
+    "reasons": [
+      "glossaire des objets"
+    ]
+  }
+]

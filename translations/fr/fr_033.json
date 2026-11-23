@@ -298,7 +298,7 @@
       "ns": "IRRInbox",
       "key": "OpComplete_1",
       "source": "Operation complete on {Level}, operator. Item and cash rewards are in your inbox - collect them when you are ready.",
-      "text": "Opération terminée le {Level}, opérateur. L'article et les récompenses en espèces sont dans votre boîte de réception - collectez-les lorsque vous êtes prêt."
+      "text": "Opération terminée le {Level}, opérateur. L'objet et les récompenses en espèces sont dans votre boîte de réception - collectez-les lorsque vous êtes prêt."
     },
     {
       "ns": "IRRInbox",
@@ -436,7 +436,7 @@
       "ns": "IRRRaidTrader",
       "key": "ForeignItem",
       "source": "Only your own items or the trader's stock can be traded.",
-      "text": "Seuls vos propres articles ou le crosse du trader peuvent être échangés."
+      "text": "Seuls vos objets et ceux du stock du marchand peuvent être échangés."
     },
     {
       "ns": "IRRRaidTrader",
@@ -850,7 +850,7 @@
       "ns": "IRRSettingImporter_AISettings",
       "key": "LaserDetection",
       "source": "Laser Detection",
-      "text": "Laser Detection"
+      "text": "Détection laser"
     },
     {
       "ns": "IRRSettingImporter_AISettings",
@@ -916,7 +916,7 @@
       "ns": "IRRSettingImporter_AISettings",
       "key": "MuzzleFlashScale",
       "source": "AI Muzzle Flash Size",
-      "text": "AI bouche Flash Size"
+      "text": "Taille de la flamme de bouche de l’IA"
     },
     {
       "ns": "IRRSettingImporter_AISettings",
@@ -1126,13 +1126,13 @@
       "ns": "IRRSpectatorMenu",
       "key": "Started",
       "source": "Helmet cam started.",
-      "text": "La caméra du casque a commencé."
+      "text": "Caméra de casque activée."
     },
     {
       "ns": "IRRSpectatorMenu",
       "key": "StartedFmt",
       "source": "Helmet cam: {0}",
-      "text": "Came du casque : {0}"
+      "text": "Caméra de casque : {0}"
     },
     {
       "ns": "IRRSpectatorMenu",
