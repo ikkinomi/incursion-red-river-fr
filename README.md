@@ -1,5 +1,11 @@
 # Incursion Red River — Traduction française
 
+## Guides Steam
+
+[Guide de la traduction FR](https://steamcommunity.com/sharedfiles/filedetails/?id=3835740541) · [Guide du préréglage AZERTY](https://steamcommunity.com/sharedfiles/filedetails/?id=3844936408)
+
+Les deux compléments sont indépendants et disposent chacun de leur téléchargement et de leur formulaire de signalement.
+
 ## Mise à jour du patch majeure
 
 **Version 0.2.1 bêta — 23 novembre 2026.** Pour **Incursion Red River 1.4.0.4**, build Steam **26761568**.

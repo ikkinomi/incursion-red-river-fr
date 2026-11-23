@@ -6,6 +6,12 @@ Ce complément permet de jouer avec ZQSD et les touches de la rangée française
 
 Il fonctionne indépendamment de la traduction française. [Téléchargement AZERTY](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/azerty-v0.1.0-beta) · [Traduction française](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.1-beta) · [Signaler un bug](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=azerty.md)
 
+## Guides Steam
+
+[Guide de la traduction FR](https://steamcommunity.com/sharedfiles/filedetails/?id=3835740541) · [Guide du préréglage AZERTY](https://steamcommunity.com/sharedfiles/filedetails/?id=3844936408)
+
+Les deux compléments sont indépendants et disposent chacun de leur téléchargement et de leur formulaire de signalement.
+
 ## Fonctionnement
 
 L’outil fusionne 13 affectations avec le fichier personnel `EnhancedInputUserSettings.sav`, jeu fermé. Il ne remplace pas votre profil par celui d’un autre joueur. Il conserve les autres personnalisations, y compris les entrées manette ; les 13 actions du préréglage prennent les touches indiquées ci-dessous.
