@@ -1,23 +1,43 @@
 {
-  "version": "0.1.9-beta",
+  "version": "0.2.0-beta",
   "game_version": "1.4.0.4",
   "steam_build": "26761568",
-  "date": "2026-11-22",
-  "json_files": 36,
-  "entries": 6894,
-  "template_entries": 6798,
-  "supplemental_entries": 96,
-  "changed_or_added_entries": 1092,
-  "new_template_entries_filled": 25,
-  "format_only_changes": 78,
-  "static_validation_errors": 0,
-  "runtime_validation": "not_run_for_this_revision",
-  "coverage": "entire native template and existing translations scanned; targeted manual semantic review, not an assertion of complete human proofreading",
-  "unresolved_runtime_labels": [
-    "inventory headings and equipment slots",
-    "vendor dynamic categories and item labels",
-    "keybind section headings",
-    "Joinability: invariant text",
-    "RANDOM: session string"
-  ]
+  "date": "2026-11-23",
+  "native_json_files": 36,
+  "native_entries": 6894,
+  "native_template_entries": 6798,
+  "native_supplemental_entries": 96,
+  "native_translation_content": "unchanged from 0.1.9",
+  "market_widgets": 5,
+  "market_display_sites": 6,
+  "market_table_entries": 5277,
+  "market_pak_sha256": "02a79a9a3f0a79aa30beef4ee1d33c4ac12c7afeb07d3d004a518f20359f08d3",
+  "static_validation": "passed",
+  "expression_model_cases": 31722,
+  "runtime_validation": "initial market test passed",
+  "user_report": "Initial test looks good; in-depth retest planned later.",
+  "runtime_checks": [
+    "startup",
+    "hideout",
+    "category tree",
+    "item leaves in one subtree",
+    "item filter",
+    "item details",
+    "category breadcrumb",
+    "linked search",
+    "filter removal"
+  ],
+  "not_yet_runtime_verified": [
+    "cart and purchases/sales",
+    "black market",
+    "text search",
+    "language switching",
+    "all items/screens"
+  ],
+  "known_limits": [
+    "some existing translations remain awkward or English",
+    "long filter labels may clip",
+    "inventory/keybind headings and lobby labels remain outside this market complement"
+  ],
+  "disable_market_pak_after_game_update": true
 }

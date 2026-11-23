@@ -1,19 +1,23 @@
 ---
-name: Correction de traduction
-about: Signaler un texte incorrect, un mot anglais ou un problème d'affichage
-title: "[Traduction] "
+name: Bug ou erreur de traduction
+about: Signaler une traduction, un texte coupé ou un problème avec le patch français
+title: "[Patch FR] "
 labels: ''
 assignees: ''
 ---
 
 **Version du jeu et du patch :**
 
-**Menu ou mission concerné :**
+**Complément du marché installé :** oui / non
 
-**Texte affiché :**
+**Type de problème :** traduction / affichage / plantage / autre
 
-**Correction proposée :**
+**Menu, objet ou mission concerné :**
+
+**Texte affiché ou problème rencontré :**
+
+**Correction proposée, si vous en avez une :**
+
+**Étapes pour retrouver le problème :**
 
 **Capture éventuelle :**
-
-**Étapes pour retrouver le texte :**

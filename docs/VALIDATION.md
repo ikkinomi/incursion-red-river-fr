@@ -1,39 +1,30 @@
-# Audit de la traduction 0.1.9 bêta
+# Validation de la 0.2.0 bêta
 
-Jeu installé : **Incursion Red River 1.4.0.4**, build Steam **26761568**. Audit du 22 novembre 2026.
+Date : **23 novembre 2026**. Jeu **1.4.0.4**, build Steam **26761568**.
 
-## Étendue et résultat
+## Contenu
 
-L’ensemble des fichiers installés et des 6 798 textes du modèle anglais courant a été comparé. Le build installé n’a pas changé depuis la 0.1.8. Les 25 textes manquants du rapport sont des outils d’édition ou des états internes, désormais couverts ; ce ne sont pas 25 nouveautés de gameplay.
+- 36 fichiers JSON, 6 894 entrées : 6 798 textes du modèle du jeu et 96 entrées supplémentaires. Leur contenu reprend la 0.1.9.
+- Complément du marché : cinq widgets, six conversions d’affichage modifiées et une table de 5 277 entrées, incluant des noms conservés et des chemins composés. Ce chiffre ne signifie pas 5 277 nouvelles phrases traduites.
+- Le binaire est identique à celui installé et essayé sous le nom TEST1. Son empreinte SHA-256 est fournie dans les contrôles.
 
-Cette révision contient 6 894 entrées : les 6 798 du modèle et les 96 entrées supplémentaires déjà présentes. Les contrôles portent sur les identifiants et sources inchangés, doublons, variables, balises, sauts de ligne, espaces aux extrémités, noms de fichiers, noms de cartes, noms propres balisés et mots russes/vietnamiens. Ils passent sans erreur. Le détail chiffré est dans VALIDATION.json.
+## Contrôles des fichiers
 
-La relecture sémantique cible les signalements, les documents du terminal, les messages radio récurrents, plusieurs briefings et les anomalies repérées par le scan. Elle ne constitue pas une certification que chaque longue description est désormais parfaite. Les variantes répétées ont été corrigées ensemble.
+Les fonctions modifiées sont relues et comparées à leur représentation attendue. Les tailles de bytecode, les sauts, les contextes et les points d’entrée sont contrôlés. Les autres exports sont conservés octet pour octet. Les 12 fichiers du .pak ont été vérifiés après empaquetage. Un contrôle sur les expressions réellement compilées couvre 31 722 cas avec un modèle des appels natifs, dont libellés inconnus et langues différentes du français. Ce modèle ne remplace pas l’exécution dans Unreal.
 
-## Corrections notables
+## Premier essai en jeu
 
-- PROJECT EMBER : conservation du titre et traduction fidèle du message de test, qui vérifie la condition HasItem. Le contenu de test existe déjà dans l’anglais du jeu ; aucun texte narratif n’a été inventé.
-- Relecture des documents et messages du terminal : habilitations, commandes, téléchargement, fermeture de session et aperçus de documents.
-- « Film Case » : « Boîte de pellicule » ; « Cornflakes » : « Flocons de maïs » ; « Check Magazine » : « Vérifier le chargeur ».
-- « Laser Range Finder » : « Télémètre laser » ; nom compact du dispositif : « TactiNav (GCPS) ».
-- Messages radio tronqués ou calqués : phrases de validation, départ vers l’extraction, ordres de mission et confirmations de frappe.
-- Noms de cartes Quarry, Delta, Outskirts et Bunker conservés ; restauration des noms de personnages et des passages russes/vietnamiens altérés.
-- Discord, NVIDIA Reflex, Boost et Incursion Red River restent des appellations d’origine.
+Vérifiés : démarrage, chargement de la base, catégories françaises, feuilles d’objets dans la sous-catégorie des capots de culasse, filtre retournant le bon objet AK Izhmash, fiche et chemin de catégorie, recherche de compatibilité et retrait de ce filtre. Aucun incident lié aux widgets modifiés ni erreur fatale/de sérialisation n’a été relevé dans le journal pendant ce contrôle. Les 36 fichiers JSON installés sont restés inchangés et le rapport du jeu indique 6 798/6 798 textes utilisés, plus 96 hors modèle, sans erreur de formatage.
 
-## Pourquoi certains textes des captures restent en anglais
+Le joueur confirme que cela semble bien fonctionner et indique qu’il refera un test approfondi plus tard. Il s’agit d’une validation initiale, pas d’une garantie d’absence de bug sur tous les écrans ou toutes les configurations.
 
-Ces limites ont été vérifiées dans les ressources de la version installée, extraites en lecture seule. Les fichiers de traduction ne peuvent remplacer que les textes dotés d’une identité de localisation. Ajouter un faux identifiant JSON ou une traduction d’une autre occurrence identique ne modifie pas un texte invariant ou construit à partir d’un nom interne.
+## Encore à tester ou à relire
 
-| Zone | Constat dans les ressources actuelles | Conséquence |
-| --- | --- | --- |
-| En-têtes inventaire | W_InventoryHeadline convertit Headline avec Conv_NameToText ; W_InventorySection fait de même avec SectionName | GEAR, INVENTORY, TACTICAL RIG, BACKPACK et certains autres titres échappent aux JSON |
-| Emplacements d’équipement | W_EquipToContainer convertit Headline avec Conv_NameToText | HEADGEAR, Plate Carrier, Tactical Rig, backpack, Device restent concernés |
-| Catégories du marché | W_VendorCategoryFilter convertit CallFunc_Array_Get_Item avec Conv_StringToText | Ammunition, Attachments, Dust Cover, Gas Tube et autres libellés dynamiques ne passent pas par les entrées localisées homonymes |
-| Titres de commandes | WB_KeybindsSettings contient des noms de sections transmis à W_InventorySection | EQUIPMENT INPUT, COMBAT INPUT et autres titres peuvent rester en anglais malgré leurs traductions existantes |
-| Salon | WBP_KronosLobby contient « Joinability: » comme texte invariant sans identité ; la valeur de session est convertie depuis une FString | « Joinability » et « RANDOM » ne sont pas corrigeables avec les seuls JSON |
+- Achats/ventes et panier ; marché noir ; saisie dans la recherche ; changement de langue ; ensemble des objets et des écrans.
+- Formulations héritées de la traduction existante, dont certains noms d’objets maladroits ou conservés en anglais.
+- Libellés longs dans des filtres à largeur fixe : une coupure a été observée sur un nom long.
+- En-têtes d’inventaire, certains titres des commandes, Joinability et RANDOM : non corrigés par ce complément du marché.
 
-Pour résoudre ces cas à la source, les développeurs doivent exposer des FText localisables dans leur modèle. L’autre possibilité est un mod binaire spécifique à chaque build. Aucun ancien .pak ni remplacement de Blueprint n’est inclus ou réactivé dans cette révision.
+## Compatibilité et retrait
 
-## Validation en jeu encore nécessaire
-
-Cette révision n’a pas été chargée dans le jeu pendant cet audit. Le rapport _Report.txt existant se rapporte à la 0.1.8. Au prochain lancement, vérifier le nouveau rapport, le terminal, les commandes, les missions et les sous-titres. Un rapport sans erreur de formatage ne prouve pas que tous les textes visibles passent par la localisation.
+Le complément remplace des ressources d’interface liées à ce build. Le désactiver avant de jouer sur un nouveau build et refaire les contrôles après une mise à jour. Le renommer en `.pak.disabled` suffit à le retirer ; la traduction JSON reste indépendante. Aucun ancien patch n’est réactivé.

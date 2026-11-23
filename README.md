@@ -1,63 +1,87 @@
 # Incursion Red River — Traduction française
 
-Traduction communautaire pour **Incursion Red River 1.4.0.4**, build Steam **26761568**.
+## Mise à jour du patch majeure
 
-**Version 0.1.9 bêta.** Audit et corrections du 22 novembre 2026. Les contrôles statiques des fichiers sont réussis ; la validation en jeu de cette révision reste à effectuer. Le test en partie précédemment confirmé concernait la 0.1.8.
+**Version 0.2.0 bêta — 23 novembre 2026.** Pour **Incursion Red River 1.4.0.4**, build Steam **26761568**.
 
-[Télécharger la 0.1.9 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.1.9-beta/Incursion_Red_River_FR_1.4.0.4_v0.1.9-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.1.9-beta)
+Cette version ajoute la traduction des catégories et de nombreux noms d’objets dans l’arbre du marché, ainsi que des filtres et des chemins de catégories. Elle reprend les traductions JSON de la 0.1.9, avec ses corrections du terminal, des messages radio et des briefings.
 
-## Migration depuis la 0.1.7 et les versions précédentes
+**Premier essai concluant et retour positif du joueur. Un test approfondi reste à faire.** La bêta n’est pas une validation de tous les objets, des achats/ventes, du marché noir ou de toutes les missions.
 
-**Fermez le jeu et désactivez l’ancien patch avant d’installer la 0.1.9.**
+[Télécharger la 0.2.0 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.2.0-beta/Incursion_Red_River_FR_1.4.0.4_v0.2.0-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.0-beta) · [Signaler un bug ou une erreur de traduction](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
 
-1. Dans Steam, ouvrez **Incursion Red River → Propriétés → Fichiers installés → Parcourir**.
-2. Ouvrez `Test_C/Content/Paks`.
-3. Renommez uniquement `pakchunk99-French_P.pak` en `pakchunk99-French_P.pak.disabled`, ou déplacez ce fichier dans un dossier de sauvegarde hors du jeu.
-4. Installez ensuite le dossier `fr` selon les étapes ci-dessous.
+## Ce que contient l’archive
 
-L’ancien patch remplaçait des composants du jeu prévus pour une version antérieure. La 0.1.9 utilise le système de langues communautaires intégré au jeu depuis les derniers hotfixes.
+- **`fr/`** : la traduction communautaire habituelle, à placer dans le dossier de traductions de Windows.
+- **`Test_C/Content/Paks/pakchunk98-FrenchMarketTest_P.pak`** : le nouveau complément d’affichage du marché, à placer dans le dossier du jeu. Il reste facultatif : sans lui, la traduction JSON fonctionne, mais certaines catégories du marché restent en anglais.
 
-## Installation de la 0.1.9
+**Les deux dossiers vont à des endroits différents.** Extraire le ZIP ne suffit pas à installer le patch.
 
-1. Lancez le jeu une fois pour qu’il crée son dossier de traductions, puis fermez-le.
-2. Téléchargez et extrayez le ZIP ci-dessus.
-3. Appuyez sur **Windows + R**, saisissez `%LOCALAPPDATA%\Test_C\Saved\Translations`, puis validez.
-4. Copiez le dossier **`fr`** de l’archive dans ce dossier. Le résultat doit être `Translations/fr/fr_001.json`, avec les autres fichiers JSON à côté.
-5. Lancez le jeu et choisissez **Français** dans **Paramètres → Langue**. L’ancien choix **English / Français (patch)** concernait les versions précédentes.
+## Installation ou mise à jour
 
-Lors d’une prochaine mise à jour de la traduction, jeu fermé, remplacez les fichiers de votre dossier `fr` avec ceux de la nouvelle archive.
+### 1. Fermer le jeu et désactiver l’ancien patch .pak
 
-## Nouveautés et validation
+Si le jeu n’a jamais été lancé, lancez-le une première fois pour qu’il crée son dossier de traductions, puis fermez-le.
 
-- 6 894 entrées : les 6 798 textes du modèle courant et 96 entrées supplémentaires.
-- 1 092 entrées modifiées ou ajoutées, dont 78 changements limités aux espaces et sauts de ligne.
-- Corrections du terminal, des messages radio récurrents, de plusieurs briefings et de libellés mal traduits.
-- Noms du jeu, des cartes, des personnages et des marques préservés, notamment Discord et NVIDIA Reflex / Boost.
-- Les 25 textes internes auparavant manquants sont couverts ; ils ne correspondent pas à 25 nouveautés de gameplay.
-- Contrôles des identifiants, sources, doublons, variables, balises, sauts de ligne et noms propres réussis.
+Dans Steam, ouvrez **Incursion Red River → Propriétés → Fichiers installés → Parcourir**, puis `Test_C/Content/Paks`.
 
-**Limites connues :** les en-têtes d’inventaire, certaines catégories dynamiques du marché, des titres de commandes, « Joinability » et « RANDOM » sont construits hors du système de localisation. Les JSON seuls ne peuvent pas les corriger. Aucun ancien .pak n’est réactivé.
+Si vous avez encore **`pakchunk99-French_P.pak`**, renommez uniquement ce fichier en **`pakchunk99-French_P.pak.disabled`**, ou déplacez-le dans un dossier de sauvegarde hors du jeu. Il appartient aux anciens patchs et doit rester désactivé. Conservez les archives d’origine du jeu.
 
-Cette bêta n’a pas encore été testée en jeu. Le rapport sans erreur de la 0.1.8 ne vaut pas validation de la 0.1.9. La relecture sémantique est ciblée ; chaque longue description, chaque mission et chaque écran n’ont pas été validés individuellement. [Audit détaillé et diagnostic des textes bloqués](docs/AUDIT-0.1.9.md).
+### 2. Installer la traduction JSON
 
-## Si le jeu plante au démarrage
+1. Téléchargez et extrayez le ZIP de la 0.2.0.
+2. Ouvrez l’Explorateur de fichiers, collez **`%LOCALAPPDATA%\Test_C\Saved\Translations`** dans sa barre d’adresse, puis validez.
+3. Si un dossier `fr` existe déjà, faites-en une copie de sauvegarde **en dehors de `Translations`**.
+4. Copiez le dossier **`fr`** de l’archive dans `Translations`. Si Windows le demande, remplacez les fichiers du patch précédent.
+5. Vérifiez le résultat : **`Translations/fr/fr_001.json`**, avec les autres fichiers JSON à côté. Il ne doit pas y avoir de dossier `fr/fr`.
 
-Vérifiez d’abord que l’ancien `pakchunk99-French_P.pak` est désactivé. Un essai sur le PC de test a également révélé une erreur DirectX `DXGI_ERROR_INVALID_CALL` en plein écran à 3440 × 1440. Un démarrage en mode fenêtré a permis d’atteindre le menu. Ce résultat concerne la configuration testée et ne constitue pas une correction universelle de tous les plantages.
+Depuis la 0.1.8 ou la 0.1.9, la procédure est la même. Les 36 fichiers JSON livrés ici reprennent ceux de la 0.1.9.
 
-Si Steam signale des fichiers corrompus, utilisez **Propriétés → Fichiers installés → Vérifier l’intégrité des fichiers du jeu**.
+### 3. Ajouter le complément du marché
 
-## Désactivation et diagnostic de la traduction
+1. Retournez dans le dossier du jeu ouvert depuis Steam : `PROJECT QUARANTINE`.
+2. Ouvrez **`Test_C/Content/Paks`**.
+3. Copiez-y **`pakchunk98-FrenchMarketTest_P.pak`**, qui se trouve au même chemin dans l’archive.
+4. Si vous utilisiez déjà ce complément de test, remplacez uniquement ce fichier, jeu fermé.
 
-Choisissez une autre langue dans les paramètres. Pour retirer la traduction, jeu fermé, déplacez le dossier `fr` hors de `Translations`.
+Résultat attendu : **`PROJECT QUARANTINE/Test_C/Content/Paks/pakchunk98-FrenchMarketTest_P.pak`**.
 
-Le jeu écrit `_Report.txt` et `_Todo_*.json` dans le dossier de langue. Ces fichiers indiquent les textes chargés, manquants ou à adapter après une mise à jour. Les fichiers commençant par `_` sont des rapports générés par le jeu.
+Ce fichier est le nouveau complément vérifié pour le build indiqué. **Il ne faut pas réactiver l’ancien `pakchunk99-French_P.pak`.** Aucun injecteur ni UE4SS n’est nécessaire.
 
-## Signaler une correction
+### 4. Choisir la langue
 
-Indiquez la version du jeu, le texte concerné et, si possible, une capture. [Signaler un problème](https://github.com/ikkinomi/incursion-red-river-fr/issues)
+Lancez le jeu et choisissez **Français** dans **Paramètres → Langue**, puis ouvrez le marché. Le message de démarrage **« Mods are installed »** est normal avec le complément du marché. Il ne constitue pas, à lui seul, une erreur de fichiers corrompus.
 
-Les fichiers éditables actuels se trouvent dans [`translations/fr`](translations/fr). Conservez `ns`, `key`, `source`, les variables et les balises. Modifiez le champ `text`, puis changez de langue et revenez au français pour recharger les traductions. Les anciens CSV restent disponibles comme références historiques.
+## Après une mise à jour du jeu
 
-[Validation](docs/VALIDATION.md) · [Historique](CHANGELOG.md) · [Crédits](CREDITS.md)
+**Fermez le jeu et désactivez le complément du marché avant de jouer sur un nouveau build**, en renommant `pakchunk98-FrenchMarketTest_P.pak` en `pakchunk98-FrenchMarketTest_P.pak.disabled`. Attendez une nouvelle vérification de compatibilité avant de le réactiver.
+
+Ce complément remplace une petite partie de l’interface et dépend de la version du jeu. La traduction JSON est indépendante et peut rester installée ; le jeu signale les textes à adapter dans `_Report.txt` et `_Todo_*.json`.
+
+## Retrait et diagnostic
+
+- **Retirer seulement le complément du marché :** jeu fermé, renommez `pakchunk98-FrenchMarketTest_P.pak` en `pakchunk98-FrenchMarketTest_P.pak.disabled`. La traduction JSON reste disponible.
+- **Retirer toute la traduction :** désactivez le complément, puis déplacez le dossier `fr` hors de `Translations` et choisissez une autre langue.
+- **Si le jeu plante :** commencez par désactiver le complément du marché et vérifiez que l’ancien `pakchunk99-French_P.pak` est également désactivé. Si le problème persiste ou si Steam signale des fichiers corrompus, utilisez **Propriétés → Fichiers installés → Vérifier l’intégrité des fichiers du jeu**.
+
+## Ce qui a été vérifié
+
+Le démarrage, le chargement de la base, l’arbre de catégories en français, une sous-catégorie de capots de culasse, le filtre d’un objet, sa fiche, le chemin de catégorie, la recherche de compatibilité et le retrait de ce filtre ont été vérifiés lors du premier essai. Aucun incident ciblant les widgets modifiés ni erreur fatale/de sérialisation n’a été relevé dans le journal de ce contrôle. Le joueur confirme que cela semble bien fonctionner.
+
+Les données d’objets et les fonctions sans lien avec les changements d’affichage sont conservées. Les identifiants utilisés par les filtres et les achats ne sont pas renommés. Le nom Incursion Red River, les noms des cartes, les marques et les modèles restent dans leur forme d’origine.
+
+**À approfondir :** achats/ventes et panier, marché noir, saisie dans la recherche, changement de langue et ensemble des objets. Certaines traductions héritées restent maladroites ou en anglais ; les libellés longs peuvent être coupés dans les petits filtres. Les en-têtes d’inventaire, certains titres de commandes, « Joinability » et « RANDOM » restent hors du périmètre de ce complément.
+
+[Détail des vérifications et des limites](docs/VALIDATION.md).
+
+## Signaler un bug ou une erreur de traduction
+
+[**Ouvrir directement le formulaire de signalement sur GitHub**](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
+
+Indiquez la version du jeu et du patch, si le complément du marché est installé, l’écran concerné, le texte observé et les étapes pour le retrouver. Une capture et une proposition de correction sont les bienvenues. Un compte GitHub est nécessaire pour envoyer le signalement.
+
+Les fichiers éditables de la traduction native sont dans [`translations/fr`](translations/fr). Conservez `ns`, `key`, `source`, les variables et les balises ; modifiez uniquement `text`. La table `translations/market-display-fr.json` documente les libellés compilés dans le complément et ne se copie pas dans le dossier `fr`.
+
+[Historique](CHANGELOG.md) · [Crédits](CREDITS.md)
 
 Projet communautaire non officiel.
