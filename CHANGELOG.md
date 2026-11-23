@@ -1,3 +1,13 @@
+# En préparation — assistants TEST 1, 24 novembre 2026
+
+- Contrôle réutilisable des traductions et comparaison avec le modèle anglais / une référence antérieure ; règles du glossaire exécutées automatiquement, rapport de longueurs et brouillon des textes à adapter.
+- 28 propositions de libellés courts, pour 52 entrées, conservées hors des traductions actives en attendant le contrôle visuel.
+- Assistant FR avec détection des bibliothèques Steam, aperçu, complément du marché facultatif soumis au build validé, sauvegarde et restauration contrôlée.
+- Interface AZERTY et diagnostic des 13 affectations, conflits et autres commandes conservées. Les touches restent identiques à la 0.1.0.
+- Essais automatiques et copies locales : voir les validations TEST1. L’affichage des fenêtres reste à confirmer sur le bureau du joueur ; aucune nouvelle publication à ce stade.
+
+---
+
 # Traduction française 0.2.1 bêta
 
 Pour Incursion Red River 1.4.0.4 / build Steam 26761568.

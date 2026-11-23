@@ -1,5 +1,7 @@
 # Incursion Red River — Préréglage AZERTY 0.1.0 bêta
 
+Une [interface et un diagnostic 0.2.0 sont en préparation locale](ASSISTANT-TEST.md). Les liens de publication ci-dessous concernent encore la 0.1.0 ; les 13 touches sont identiques.
+
 Ce complément permet de jouer avec ZQSD et les touches de la rangée française, tout en gardant Windows en français pour écrire dans le terminal de hack. Les déplacements, le terminal et les raccourcis d’équipement ont été essayés par le joueur, qui confirme leur fonctionnement.
 
 **Pour Windows et un clavier AZERTY français classique. Vérifié sur Incursion Red River 1.4.0.4 / build 26761568.** Les dispositions belge ou française normalisée récente peuvent avoir une rangée différente.

@@ -1,5 +1,6 @@
 @echo off
 setlocal
+chcp 65001 >nul
 cd /d "%~dp0"
 where py >nul 2>nul
 if errorlevel 1 goto use_python
@@ -10,15 +11,20 @@ where python >nul 2>nul
 if errorlevel 1 goto missing
 set "AZERTY_PYTHON=python"
 :menu
-echo Incursion Red River - AZERTY 0.1.0 beta
+echo Incursion Red River - Assistant AZERTY (version de test)
+echo 0. Interface graphique
 echo 1. Preview / Apercu
 echo 2. Install / Installer - game must be closed
 echo 3. Restore / Restaurer
 echo Q. Quitter
-choice /c 123Q /n /m "Choix : "
-if errorlevel 4 exit /b 0
-if errorlevel 3 goto restore
-if errorlevel 2 goto install
+choice /c 0123Q /n /m "Choix : "
+if errorlevel 5 exit /b 0
+if errorlevel 4 goto restore
+if errorlevel 3 goto install
+if errorlevel 2 goto preview
+%AZERTY_PYTHON% "%~dp0interface.py"
+goto done
+:preview
 %AZERTY_PYTHON% "%~dp0azerty.py" preview
 goto done
 :install

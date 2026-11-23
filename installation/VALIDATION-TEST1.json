@@ -1,0 +1,18 @@
+{
+  "candidate": "assistants-test1",
+  "date": "2026-11-24",
+  "game_version": "1.4.0.4",
+  "steam_build": "26761568",
+  "unit_tests": 22,
+  "game_launched": false,
+  "installed_game_modified": false,
+  "published": false,
+  "gui_validation": "not visually verified: Windows control could not activate the Tk window",
+  "user_test": "pending",
+  "operation_count": 39,
+  "native_files": 36,
+  "market_pak": true,
+  "legacy_pak_disable_and_restore": true,
+  "roundtrip_exact": true,
+  "real_process_guard": true
+}

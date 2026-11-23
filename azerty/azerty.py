@@ -164,51 +164,112 @@ def save_backup(directory, path, before, after, version):
     (directory / (name + '.json')).write_text(json.dumps(record, indent=2) + '\n', encoding='utf-8')
     return backup
 
+
+def load_preset():
+    return json.loads(Path(__file__).with_name('preset.json').read_text(encoding='utf-8-sig'))
+
+
+def diagnose(data, preset=None):
+    """Diagnostic local ; les affectations absentes du .sav sont des valeurs implicites."""
+    preset = preset or load_preset()
+    _, rows, _ = parse(data)
+    requested = {b['action']: b['key'] for b in preset['bindings']}
+    bindings = []
+    for binding in preset['bindings']:
+        matches = [r for r in rows if r['keyboard'] and r['name'] == binding['action']]
+        current = [r['key'] for r in matches]
+        state = ('duplicate' if len(matches) > 1 else 'implicit' if not matches
+                 else 'ok' if current[0] == binding['key'] else 'different')
+        bindings.append(dict(binding, current=current, state=state))
+    conflicts = [{'action': r['name'], 'key': r['key']} for r in rows
+                 if r['keyboard'] and r['name'] not in requested and r['key'] in requested.values()]
+    preserved = [{'action': r['name'], 'key': r['key'], 'keyboard': r['keyboard']} for r in rows
+                 if not r['keyboard'] or r['name'] not in requested]
+    duplicates = [b['action'] for b in bindings if b['state'] == 'duplicate']
+    result = {'schema': 1, 'preset_version': preset['version'], 'target_game_version': preset['game_version'],
+              'target_steam_build': preset['steam_build'], 'profile_sha256': digest(data),
+              'all_bindings_applied': all(b['state'] == 'ok' for b in bindings),
+              'can_install': not conflicts and not duplicates, 'bindings': bindings,
+              'conflicts': conflicts, 'preserved': preserved,
+              'limits': 'Le .sav ne contient que les personnalisations : les nouvelles actions et touches par défaut du jeu ne peuvent pas être déduites de ce fichier. Le build du jeu n’est pas vérifié par ce diagnostic.'}
+    return result
+
+
+def format_diagnosis(report):
+    states = {'ok': 'OK', 'implicit': 'non enregistrée (valeur du jeu)',
+              'different': 'différente du préréglage', 'duplicate': 'doublon : installation refusée'}
+    lines = ['Profil AZERTY : ' + ('déjà appliqué' if report['all_bindings_applied'] else 'à installer ou à réappliquer'), '']
+    for b in report['bindings']:
+        lines.append(f"{b.get('label', b['action'])} : {', '.join(b['current']) or 'implicite'} → {b['keycap']} [{states[b['state']]}]")
+    lines += ['', 'Autres commandes conservées :']
+    lines += [f"  {r['action']} = {r['key']}" + ('' if r['keyboard'] else ' (manette/autre entrée)') for r in report['preserved']]
+    if report['conflicts']:
+        lines += ['', 'CONFLITS :'] + [f"  {r['action']} utilise déjà {r['key']}" for r in report['conflicts']]
+    lines += ['', report['limits']]
+    return '\n'.join(lines)
+
+
+def install(path, backups):
+    path, backups = Path(path).resolve(), Path(backups)
+    before = path.read_bytes()
+    preset = load_preset()
+    after = apply_preset(before, preset['bindings'])
+    if after == before:
+        return 'Le profil AZERTY est déjà appliqué. Aucun fichier modifié.'
+    assert_game_closed()
+    backup = save_backup(backups, path, before, after, preset['version'])
+    replace_profile(path, before, after)
+    return 'AZERTY installé. Sauvegarde des commandes précédentes : ' + str(backup)
+
+
+def restore(path, backups):
+    path, backups = Path(path).resolve(), Path(backups)
+    before = path.read_bytes()
+    assert_game_closed()
+    for file in sorted(backups.glob('*.json'), reverse=True):
+        record = json.loads(file.read_text(encoding='utf-8-sig'))
+        if record['profile'].casefold() != str(path).casefold() or record['after_sha256'] != digest(before):
+            continue
+        if Path(record['backup']).name != record['backup']:
+            raise ValueError('Invalid backup path.')
+        original = (backups / record['backup']).read_bytes()
+        if digest(original) != record['before_sha256']:
+            raise ValueError('Backup checksum mismatch.')
+        replace_profile(path, before, original)
+        return 'Commandes précédentes restaurées. Le jeu n’a pas été lancé.'
+    raise ValueError('Aucune sauvegarde correspondante. Le jeu a peut-être réécrit le profil. Les sauvegardes restent disponibles ; conservez votre fichier actuel avant une restauration manuelle.')
+
 def main(argv=None):
     local = Path(os.environ.get('LOCALAPPDATA', str(Path.home()))) / 'Test_C'
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('action', choices=['preview', 'install', 'restore'], nargs='?', default='preview')
+    parser.add_argument('action', choices=['preview', 'diagnose', 'install', 'restore'], nargs='?', default='preview')
     parser.add_argument('--profile', type=Path, default=local / 'Saved/SaveGames/EnhancedInputUserSettings.sav')
     parser.add_argument('--backups', type=Path, default=local / 'AZERTY-Backups')
+    parser.add_argument('--json', type=Path, help='Exporter le diagnostic local (peut contenir des touches personnalisées).')
     args = parser.parse_args(argv)
     path = args.profile.resolve()
     if not path.is_file():
         raise ValueError('No input profile found. Launch the game once, save a key binding, close it, then retry.')
-    before = path.read_bytes()
     if args.action == 'restore':
-        assert_game_closed()
-        for file in sorted(args.backups.glob('*.json'), reverse=True):
-            record = json.loads(file.read_text(encoding='utf-8'))
-            if record['profile'].casefold() != str(path).casefold() or record['after_sha256'] != digest(before):
-                continue
-            if Path(record['backup']).name != record['backup']:
-                raise ValueError('Invalid backup path.')
-            original = (args.backups / record['backup']).read_bytes()
-            if digest(original) != record['before_sha256']:
-                raise ValueError('Backup checksum mismatch.')
-            replace_profile(path, before, original)
-            print('Previous controls restored. The game was not launched.')
-            return
-        raise ValueError('No matching backup. The game may have rewritten the profile. Backups remain available; save your current file before restoring one manually.')
-    preset = json.loads(Path(__file__).with_name('preset.json').read_text(encoding='utf-8'))
-    after = apply_preset(before, preset['bindings'])
-    for row in preset['bindings']:
-        # Escape keycaps so Windows consoles with a legacy code page can display the output.
-        print(row['action'] + ' -> ' + row['key'])
-    if before == after:
-        print('The AZERTY preset is already applied. No file was changed.')
-    elif args.action == 'preview':
-        print('Preview only. Use install with the game closed to apply the preset.')
+        print(restore(path, args.backups))
+    elif args.action == 'install':
+        print(install(path, args.backups))
     else:
-        assert_game_closed()
-        backup = save_backup(args.backups, path, before, after, preset['version'])
-        replace_profile(path, before, after)
-        print('AZERTY installed. Original backup: ' + str(backup))
-        print('Keep Windows in French. The game was not launched.')
+        report = diagnose(path.read_bytes())
+        print(format_diagnosis(report))
+        if args.json:
+            args.json.parent.mkdir(parents=True, exist_ok=True)
+            args.json.write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+        if not report['can_install']:
+            return 1
+    return 0
 
 if __name__ == '__main__':
+    if hasattr(sys.stdout, 'reconfigure'):
+        sys.stdout.reconfigure(encoding='utf-8', errors='backslashreplace')
+        sys.stderr.reconfigure(encoding='utf-8', errors='backslashreplace')
     try:
-        main()
+        sys.exit(main())
     except (ValueError, OSError, KeyError, struct.error, subprocess.SubprocessError) as error:
         print('ERROR: ' + str(error), file=sys.stderr)
         sys.exit(1)

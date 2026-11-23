@@ -1,5 +1,5 @@
 {
-  "version": "relecture-test2",
+  "version": "maintenance-1",
   "preserve_names": [
     "Incursion Red River",
     "Quarry",
@@ -15,7 +15,8 @@
     "Team Wendy",
     "Longbow",
     "Paraclete Origin",
-    "National Match"
+    "National Match",
+    "AK Star"
   ],
   "preserve_exact_sources": [
     "Boost",

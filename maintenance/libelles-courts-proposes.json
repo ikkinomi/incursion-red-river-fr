@@ -1,0 +1,470 @@
+[
+  {
+    "ns": "",
+    "key": "00CDDF9B4517C75F560E90A2D7041282",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_001.json",
+    "proposed": "Prendre les infos",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "022495B84F71791569087B88F2A61C16",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_001.json",
+    "proposed": "Prendre les infos",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "026AE23E47DBEF3C3EDCBAA3971A0F36",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_001.json",
+    "proposed": "Prendre les infos",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "064EBFC94B19EF6371576784DAA68800",
+    "source": "Export Preset",
+    "text": "Exporter la configuration",
+    "file": "fr_001.json",
+    "proposed": "Exporter le profil",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "089A4D984C4FA32C1BDC4481E3F56A87",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_002.json",
+    "proposed": "Prendre les infos",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "146AD0164B82ED17ECD22B94FFBCBBCA",
+    "source": "Hold <Red>F</> to loot rig",
+    "text": "Maintiens <Red>F</> pour fouiller le gilet tactique",
+    "file": "fr_003.json",
+    "proposed": "Maintiens <Red>F</> : fouiller le gilet",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "1A3DC8324A624BB131AD3FA4B6A7CB60",
+    "source": "Highlight",
+    "text": "Mettre en surbrillance",
+    "file": "fr_004.json",
+    "proposed": "Surligner",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "1A4642DD468009290A0754B1AE92A0A2",
+    "source": "Export Preset?",
+    "text": "Exporter la configuration ?",
+    "file": "fr_004.json",
+    "proposed": "Exporter le profil ?",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "1BEC2AE247F68FC35DF333B4A19F48B6",
+    "source": "Export Preset",
+    "text": "Exporter la configuration",
+    "file": "fr_004.json",
+    "proposed": "Exporter le profil",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "2752A3B544914F37A80C219D250638E0",
+    "source": "Delete Preset?",
+    "text": "Supprimer la configuration ?",
+    "file": "fr_005.json",
+    "proposed": "Supprimer le profil ?",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "276C5E55460EB728924A679751FBF002",
+    "source": "FPS Limit",
+    "text": "Limite d'images par seconde",
+    "file": "fr_005.json",
+    "proposed": "Limite de FPS",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "2BA7710344763FDC8B34B883B3D79DDF",
+    "source": "Delete Preset",
+    "text": "Supprimer la configuration",
+    "file": "fr_006.json",
+    "proposed": "Supprimer le profil",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "302F80C74F6934FE02B29AA058C5770F",
+    "source": "Invert Mouse X",
+    "text": "Inverser l'axe X de la souris",
+    "file": "fr_006.json",
+    "proposed": "Inverser souris X",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "37A8BC6D4B77E66F59C5C796B8A1DC71",
+    "source": "Delete Preset",
+    "text": "Supprimer la configuration",
+    "file": "fr_007.json",
+    "proposed": "Supprimer le profil",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "39DDC7E64B611E35B977EC96DC46EE46",
+    "source": "Show Locked Items.",
+    "text": "Afficher les objets verrouillés.",
+    "file": "fr_008.json",
+    "proposed": "Objets verrouillés.",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "3A6C24D74C6F2A78191DE5B5F4E259B1",
+    "source": "Old Tech",
+    "text": "Ancien matériel électronique",
+    "file": "fr_008.json",
+    "proposed": "Vieille électronique",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "4270E43D4CDEC1ABADEDA9B7DC87E12B",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_009.json",
+    "proposed": "Prendre les infos",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "43F9A9004C9CA722F15655B7A3F8A61C",
+    "source": "VSync",
+    "text": "Synchronisation verticale",
+    "file": "fr_009.json",
+    "proposed": "Synchro verticale",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "4DF2C92E4EE8CF68BA388AB32EBF9EF9",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_010.json",
+    "proposed": "Prendre les infos",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "500F180C4748FE4BD08057B649F1B6F1",
+    "source": "Export Preset?",
+    "text": "Exporter la configuration ?",
+    "file": "fr_010.json",
+    "proposed": "Exporter le profil ?",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "50D9A16A4E5BD8E073B594A8F6396A40",
+    "source": "Load Preset?",
+    "text": "Charger la configuration ?",
+    "file": "fr_010.json",
+    "proposed": "Charger le profil ?",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "567484744E4C6CE08BAA02AD931ECA73",
+    "source": "FOV Settings",
+    "text": "Réglages du champ de vision",
+    "file": "fr_011.json",
+    "proposed": "Champ de vision",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "5A227EEF4F0DCF1C6E06BF807CE5F48F",
+    "source": "Import Preset",
+    "text": "Importer une configuration",
+    "file": "fr_012.json",
+    "proposed": "Importer un profil",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "5D7A31BA4D7C37BAAC71728904437A55",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_012.json",
+    "proposed": "Prendre les infos",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "6BB9F8A3414B54D9182F648D1432C080",
+    "source": "Invert Mouse Y",
+    "text": "Inverser l'axe Y de la souris",
+    "file": "fr_014.json",
+    "proposed": "Inverser souris Y",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "6EE806D8434BEBACEC624EA93BD807D9",
+    "source": "Save Preset?",
+    "text": "Enregistrer la configuration ?",
+    "file": "fr_014.json",
+    "proposed": "Enregistrer le profil ?",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "73D0387A41A6E1096C6BABB00CE528A0",
+    "source": "Load Preset",
+    "text": "Charger une configuration",
+    "file": "fr_015.json",
+    "proposed": "Charger un profil",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "751D66EA41E0E8D87F610DB40671801E",
+    "source": "Load Preset?",
+    "text": "Charger la configuration ?",
+    "file": "fr_015.json",
+    "proposed": "Charger le profil ?",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "756AF2AC407063BCEBD755B5B266CC14",
+    "source": "Old Tech",
+    "text": "Ancien matériel électronique",
+    "file": "fr_015.json",
+    "proposed": "Vieille électronique",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "82272C604EB1924F642336BBBD00C9D4",
+    "source": "Import Preset?",
+    "text": "Importer la configuration ?",
+    "file": "fr_017.json",
+    "proposed": "Importer un profil ?",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "8562B2EE46F37AA6542CC683A1C81C6C",
+    "source": "Invert Mouse Y",
+    "text": "Inverser l'axe Y de la souris",
+    "file": "fr_017.json",
+    "proposed": "Inverser souris Y",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "85B06806444A0E142A396AA495D0BBB9",
+    "source": "Save Preset",
+    "text": "Enregistrer la configuration",
+    "file": "fr_017.json",
+    "proposed": "Enregistrer le profil",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "8D3947D14617A92DDC9538A213A0CFCF",
+    "source": "Set Defaults",
+    "text": "Rétablir les valeurs par défaut",
+    "file": "fr_018.json",
+    "proposed": "Valeurs par défaut",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "944A52494F11A19DFF889BA7B975D767",
+    "source": "MATCHMAKING FAILED",
+    "text": "ÉCHEC DE LA RECHERCHE DE PARTIE",
+    "file": "fr_019.json",
+    "proposed": "RECHERCHE ÉCHOUÉE",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "956BABB64F756B04E960F2925AB01449",
+    "source": "Viewmodel FOV",
+    "text": "Champ de vision de l'arme",
+    "file": "fr_019.json",
+    "proposed": "Champ de vision : arme",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "98EB8C3E4A5F050F9FAA05844E00438C",
+    "source": "Import Preset?",
+    "text": "Importer la configuration ?",
+    "file": "fr_019.json",
+    "proposed": "Importer un profil ?",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "9A49CF364D2B50DE73A991BCF2F58317",
+    "source": "Old Tech",
+    "text": "Ancien matériel électronique",
+    "file": "fr_020.json",
+    "proposed": "Vieille électronique",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "9B5098C140187FA2E72125A7B352CBF8",
+    "source": "FPS Limit",
+    "text": "Limite d'images par seconde",
+    "file": "fr_020.json",
+    "proposed": "Limite de FPS",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "A78753E3479BC0FF5B790E88C910324A",
+    "source": "VOIP Volume",
+    "text": "Volume de la discussion vocale",
+    "file": "fr_021.json",
+    "proposed": "Volume vocal",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "B31D488742759312E87730A15D48C350",
+    "source": "Save Preset?",
+    "text": "Enregistrer la configuration ?",
+    "file": "fr_023.json",
+    "proposed": "Enregistrer le profil ?",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "C54A24A549025E84F9D41793081DACD4",
+    "source": "Invert Mouse X",
+    "text": "Inverser l'axe X de la souris",
+    "file": "fr_025.json",
+    "proposed": "Inverser souris X",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "CDE17F2E458B7E6B389D198BC894435D",
+    "source": "Import Preset",
+    "text": "Importer une configuration",
+    "file": "fr_026.json",
+    "proposed": "Importer un profil",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "D0CC33B0497051BB65D450BCDF47BD19",
+    "source": "Save Preset",
+    "text": "Enregistrer la configuration",
+    "file": "fr_026.json",
+    "proposed": "Enregistrer le profil",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "D393BC9040D7B4B164391AB827AAE283",
+    "source": "Pickup Intel",
+    "text": "Récupérer les renseignements",
+    "file": "fr_027.json",
+    "proposed": "Prendre les infos",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "D76269FC4F07CC7E6A6B1E89C76AE5A6",
+    "source": "Voice Chat Output",
+    "text": "Sortie de la discussion vocale",
+    "file": "fr_027.json",
+    "proposed": "Sortie vocale",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "E2E812564C0A84F26B9E5294ACC9CDFD",
+    "source": "Hold <Red>F</> to loot rig",
+    "text": "Maintiens <Red>F</> pour fouiller le gilet tactique",
+    "file": "fr_029.json",
+    "proposed": "Maintiens <Red>F</> : fouiller le gilet",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "EAF2AFB54620F0F1AC260FB9D6715B34",
+    "source": "Frame Limit",
+    "text": "Limite d'images par seconde",
+    "file": "fr_030.json",
+    "proposed": "Limite de FPS",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "EC6D6A5742393DD46692EBB0620A7078",
+    "source": "Viewmodel FOV",
+    "text": "Champ de vision de l'arme",
+    "file": "fr_030.json",
+    "proposed": "Champ de vision : arme",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "EFAD40494AF3925999BC1887270D2F2F",
+    "source": "Save Current Preset?",
+    "text": "Enregistrer la configuration actuelle ?",
+    "file": "fr_030.json",
+    "proposed": "Enregistrer ce profil ?",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "FDD8C05D4EC2E2B7D54E80B728B0AE7D",
+    "source": "VOIP Volume",
+    "text": "Volume de la discussion vocale",
+    "file": "fr_032.json",
+    "proposed": "Volume vocal",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "IRRAISettingRow.Label",
+    "key": "AISettings.MaxSearchAreaSize",
+    "source": "Max Search Area Size",
+    "text": "Étendue maximale de la zone de recherche",
+    "file": "fr_032.json",
+    "proposed": "Zone de recherche max.",
+    "status": "à vérifier dans le widget avant intégration"
+  },
+  {
+    "ns": "",
+    "key": "9BB0E10E40E321727FD2DE9FDC58E78F",
+    "source": "VSync",
+    "text": "Synchronisation verticale",
+    "file": "fr_extra.json",
+    "proposed": "Synchro verticale",
+    "status": "à vérifier dans le widget avant intégration"
+  }
+]

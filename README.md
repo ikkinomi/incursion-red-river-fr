@@ -2,6 +2,8 @@
 
 ## Guides Steam
 
+**En préparation locale :** [assistant d’installation FR](installation/README.md), [interface et diagnostic AZERTY](azerty/ASSISTANT-TEST.md), [contrôles de maintenance](maintenance/README.md). Ces nouveautés ne font pas encore partie des téléchargements publics ci-dessous.
+
 [Guide de la traduction FR](https://steamcommunity.com/sharedfiles/filedetails/?id=3835740541) · [Guide du préréglage AZERTY](https://steamcommunity.com/sharedfiles/filedetails/?id=3844936408)
 
 Les deux compléments sont indépendants et disposent chacun de leur téléchargement et de leur formulaire de signalement.

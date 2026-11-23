@@ -1,0 +1,17 @@
+{
+  "candidate": "assistants-test1",
+  "date": "2026-11-24",
+  "game_version": "1.4.0.4",
+  "steam_build": "26761568",
+  "unit_tests": 22,
+  "game_launched": false,
+  "installed_game_modified": false,
+  "published": false,
+  "gui_validation": "not visually verified: Windows control could not activate the Tk window",
+  "user_test": "pending",
+  "preset_version": "0.2.0-test1",
+  "real_copy_regression_tests": 7,
+  "reproduces_user_tested_profile_byte_for_byte": true,
+  "bindings_changed": false,
+  "live_profile_expected_bindings": 13
+}

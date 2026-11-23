@@ -1,72 +1,85 @@
 {
-  "version": "0.1.0-beta",
+  "version": "0.2.0-test1",
   "game_version": "1.4.0.4",
   "steam_build": "26761568",
   "bindings": [
     {
       "action": "IA_Movement_W",
       "key": "Z",
-      "keycap": "Z"
+      "keycap": "Z",
+      "label": "Avancer"
     },
     {
       "action": "IA_Movement_A",
       "key": "Q",
-      "keycap": "Q"
+      "keycap": "Q",
+      "label": "Aller à gauche"
     },
     {
       "action": "IA_Lean_L",
       "key": "A",
-      "keycap": "A"
+      "keycap": "A",
+      "label": "Se pencher à gauche"
     },
     {
       "action": "IA_CycleTacticalAttachments",
       "key": "W",
-      "keycap": "W"
+      "keycap": "W",
+      "label": "Faire défiler les accessoires"
     },
     {
       "action": "IA_EquipSlot_1",
       "key": "Ampersand",
-      "keycap": "&"
+      "keycap": "&",
+      "label": "Arme principale"
     },
     {
       "action": "IA_EquipSlot_2",
       "key": "E_AccentAigu",
-      "keycap": "é"
+      "keycap": "é",
+      "label": "Arme secondaire"
     },
     {
       "action": "IA_EquipSlot_3",
       "key": "Quote",
-      "keycap": "\""
+      "keycap": "\"",
+      "label": "Arme de poing"
     },
     {
       "action": "IA_EquipSlot_4",
       "key": "Apostrophe",
-      "keycap": "'"
+      "keycap": "'",
+      "label": "TactiNav"
     },
     {
       "action": "IA_EquipSlot_SpecialEquipment",
       "key": "LeftParantheses",
-      "keycap": "("
+      "keycap": "(",
+      "label": "Équipement spécial"
     },
     {
       "action": "IA_EquipQuickSlot_0",
       "key": "Hyphen",
-      "keycap": "-"
+      "keycap": "-",
+      "label": "Emplacement rapide 1"
     },
     {
       "action": "IA_EquipQuickSlot_1",
       "key": "E_AccentGrave",
-      "keycap": "è"
+      "keycap": "è",
+      "label": "Emplacement rapide 2"
     },
     {
       "action": "IA_EquipQuickSlot_2",
       "key": "Underscore",
-      "keycap": "_"
+      "keycap": "_",
+      "label": "Emplacement rapide 3"
     },
     {
       "action": "IA_EquipQuickSlot_3",
       "key": "C_Cedille",
-      "keycap": "ç"
+      "keycap": "ç",
+      "label": "Emplacement rapide 4"
     }
   ]
 }
