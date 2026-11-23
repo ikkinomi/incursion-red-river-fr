@@ -12,7 +12,7 @@ Les deux compléments sont indépendants et disposent chacun de leur télécharg
 
 La 0.2.1 corrige 240 entrées et synchronise les noms du marché. Elle conserve la traduction des catégories, des filtres et des chemins de catégories ajoutée en 0.2.0. Un glossaire protège les noms du jeu, des cartes et les appellations commerciales.
 
-**Version installée et essayée par le joueur : bon fonctionnement rapporté. Des tests approfondis restent à faire.** La bêta n’est pas une validation de tous les objets, des achats/ventes, du marché noir ou de toutes les missions.
+**J’ai installé et testé cette version : elle fonctionne bien sur ma configuration. Des tests approfondis restent à faire.** La bêta n’est pas une validation de tous les objets, des achats/ventes, du marché noir ou de toutes les missions.
 
 [Télécharger la 0.2.1 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.2.1-beta/Incursion_Red_River_FR_1.4.0.4_v0.2.1-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.1-beta) · [Signaler un bug ou une erreur de traduction](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
 
@@ -81,7 +81,7 @@ Ce complément remplace une petite partie de l’interface et dépend de la vers
 
 ## Ce qui a été vérifié
 
-Le démarrage, le chargement de la base, l’arbre de catégories en français, une sous-catégorie de capots de culasse, le filtre d’un objet, sa fiche, le chemin de catégorie, la recherche de compatibilité et le retrait de ce filtre ont été vérifiés lors du premier essai. Aucun incident ciblant les widgets modifiés ni erreur fatale/de sérialisation n’a été relevé dans le journal de ce contrôle. Le joueur confirme que cela semble bien fonctionner.
+Le démarrage, le chargement de la base, l’arbre de catégories en français, une sous-catégorie de capots de culasse, le filtre d’un objet, sa fiche, le chemin de catégorie, la recherche de compatibilité et le retrait de ce filtre ont été vérifiés lors du premier essai. Aucun incident ciblant les widgets modifiés ni erreur fatale/de sérialisation n’a été relevé dans le journal de ce contrôle. J’ai testé le patch et tout semble bien fonctionner.
 
 Les données d’objets et les fonctions sans lien avec les changements d’affichage sont conservées. Les identifiants utilisés par les filtres et les achats ne sont pas renommés. Les règles de relecture préservent Incursion Red River, les noms des cartes, les marques et les modèles. [Glossaire et cas ambigus](docs/GLOSSAIRE.md).
 
