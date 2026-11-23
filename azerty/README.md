@@ -1,6 +1,6 @@
 # Incursion Red River — Préréglage AZERTY 0.1.0 bêta
 
-Ce complément permet de jouer avec ZQSD et les touches de la rangée française, tout en gardant Windows en français pour écrire dans le terminal de hack. Les déplacements, le terminal et les raccourcis d’équipement ont été essayés par le joueur, qui confirme leur fonctionnement.
+Ce complément permet de jouer avec ZQSD et les touches de la rangée française, tout en gardant Windows en français pour écrire dans le terminal de hack. J’ai testé les déplacements, la saisie au terminal et les raccourcis d’équipement : tout fonctionne bien sur ma configuration.
 
 **Pour Windows et un clavier AZERTY français classique. Vérifié sur Incursion Red River 1.4.0.4 / build 26761568.** Les dispositions belge ou française normalisée récente peuvent avoir une rangée différente.
 
@@ -53,7 +53,7 @@ Ce retour arrière remet les commandes qui précédaient l’installation de cet
 
 ## Limites et vérifications
 
-Le profil a été testé en jeu sur une configuration. L’outil public reproduit octet pour octet le profil validé et a passé sept tests, dont installation/restauration sur copies, conservation d’autres commandes et de la manette, refus de conflits, fichiers tronqués et formats non pris en charge. Cela ne garantit pas toutes les configurations Windows.
+J’ai testé ce profil en jeu sur ma configuration. L’outil public reproduit octet pour octet le profil validé et a passé sept tests, dont installation/restauration sur copies, conservation d’autres commandes et de la manette, refus de conflits, fichiers tronqués et formats non pris en charge. Cela ne garantit pas toutes les configurations Windows.
 
 Pas d’injecteur, de DLL, de macro, de programme résident ni de modification des archives ou de l’exécutable du jeu. Python ne sert qu’à lire et écrire les préférences, puis se ferme. Aucune certification par un fournisseur d’anticheat n’est revendiquée.
 
