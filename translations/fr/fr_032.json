@@ -406,7 +406,7 @@
       "ns": "",
       "key": "FDD8C05D4EC2E2B7D54E80B728B0AE7D",
       "source": "VOIP Volume",
-      "text": "Volume de la discussion vocale"
+      "text": "Volume vocal"
     },
     {
       "ns": "",
@@ -1006,7 +1006,7 @@
       "ns": "IRRAISettingRow.Label",
       "key": "AISettings.MaxSearchAreaSize",
       "source": "Max Search Area Size",
-      "text": "Étendue maximale de la zone de recherche"
+      "text": "Zone de recherche max."
     },
     {
       "ns": "IRRAISettingRow.Label",

@@ -7,8 +7,8 @@ from installation import fr_manager as manager
 
 def launch(args):
     root = tk.Tk()
-    root.title('Incursion Red River — Assistant traduction FR 0.2.2 bêta')
-    root.geometry('980x750')
+    root.title('Incursion Red River — Assistant traduction FR 0.3.0 bêta')
+    root.geometry('1120x800')
     root.minsize(780, 650)
     frame = ttk.Frame(root, padding=18)
     frame.pack(fill='both', expand=True)
@@ -87,6 +87,16 @@ def launch(args):
     install_button = ttk.Button(buttons, text='Installer', state='disabled', command=install)
     install_button.pack(side='left', padx=8)
     ttk.Button(buttons, text='Restaurer une sauvegarde', command=restore).pack(side='left')
+    def check_update():
+        invalidate()
+        try:
+            report = manager.check_update(args.source, Path(target.get()), Path(game.get()) if game.get() else None)
+            render(manager.describe_update(report))
+            status.set('Contrôle après mise à jour terminé. Aucun fichier modifié.')
+        except Exception as error:
+            render(str(error))
+            status.set('Contrôle interrompu. Aucun fichier modifié.')
+    ttk.Button(buttons, text='Contrôler après une mise à jour', command=check_update).pack(side='left', padx=8)
     ttk.Button(buttons, text='Fermer', command=root.destroy).pack(side='right')
     ttk.Label(frame, text='Sauvegardes : ' + str(args.backups), wraplength=920).pack(anchor='w')
     for variable in (game, target, market):

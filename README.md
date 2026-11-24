@@ -10,20 +10,20 @@ Les deux compléments sont indépendants et disposent chacun de leur télécharg
 
 ## Mise à jour du patch majeure
 
-**Version 0.2.2 bêta — 24 novembre 2026.** Pour **Incursion Red River 1.4.0.4**, build Steam **26761568**.
+**Version 0.3.0 bêta — 24 novembre 2026.** Pour **Incursion Red River 1.4.0.4**, build Steam **26761568**.
 
-La 0.2.2 ajoute l’assistant d’installation et les contrôles de maintenance. Les textes et le complément du marché restent identiques à la 0.2.1 : ses 240 corrections sont incluses. Elle conserve la traduction des catégories, des filtres et des chemins de catégories ajoutée en 0.2.0. Un glossaire protège les noms du jeu, des cartes et les appellations commerciales.
+La 0.3.0 ajoute les assistants Windows autonomes : Python n’est plus à installer pour utiliser leurs fenêtres. Le mode manuel reste disponible dans le même ZIP. Le complément du marché reste identique à la 0.2.1 ; 35 entrées de la traduction JSON ont été relues et raccourcies (22 libellés), sans modifier les noms du jeu, des cartes, des marques et des modèles.
 
-**J’ai vérifié les fenêtres, les aperçus, l’installation et la restauration des deux assistants sur des copies. Le refus d’un build incompatible fonctionne aussi.** La traduction et les 13 touches AZERTY avaient déjà été essayées en jeu ; je n’ai pas refait de partie pour cette mise à jour des assistants. Des tests approfondis restent à faire. La bêta n’est pas une validation de tous les objets, des achats/ventes, du marché noir ou de toutes les missions.
+**J’ai vérifié les exécutables et les contrôles sur des copies. Les textes et le préréglage complet ont déjà été testés en jeu ; les nouveaux libellés et les modes AZERTY partiels restent à essayer en partie.** Les vérifications automatiques ne garantissent pas tous les écrans ou toutes les configurations. Les captures montrent uniquement des dossiers de démonstration, sans nom Windows ni chemin personnel.
 
-[Télécharger la 0.2.2 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.2.2-beta/Incursion_Red_River_FR_1.4.0.4_v0.2.2-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.2-beta) · [Signaler un bug ou une erreur de traduction](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
+[Télécharger la 0.3.0 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.3.0-beta/Incursion_Red_River_FR_1.4.0.4_v0.3.0-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.3.0-beta) · [Signaler un bug ou une erreur de traduction](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
 
 ## Deux téléchargements indépendants
 
 | Téléchargement | Utilité |
 |---|---|
-| [Traduction FR 0.2.2 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.2-beta) | Textes français et complément facultatif du marché |
-| [Préréglage AZERTY 0.2.0 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/azerty-v0.2.0-beta) | Commandes françaises et rangée numérique, en gardant Windows en français |
+| [Traduction FR 0.3.0 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.3.0-beta) | Textes français et complément facultatif du marché |
+| [Préréglage AZERTY 0.3.0 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/azerty-v0.3.0-beta) | Commandes françaises et rangée numérique, en gardant Windows en français |
 
 L’AZERTY n’est pas inclus dans l’archive FR. Il ne nécessite pas la traduction. [Fonctionnement, sauvegarde et installation AZERTY](azerty/README.md).
 
@@ -38,21 +38,22 @@ L’AZERTY n’est pas inclus dans l’archive FR. Il ne nécessite pas la tradu
 
 Fermez le jeu avant toute modification. Le même ZIP FR permet de choisir entre les deux méthodes ci-dessous. Il n’est pas nécessaire de les cumuler.
 
-### Méthode A — Avec l’assistant
+### Méthode A — Assistant Windows, sans Python à installer
 
-1. Installez une version maintenue de [Python pour Windows](https://www.python.org/downloads/windows/), avec Tcl/Tk. Python 3.11 ou plus récent conseillé ; aucune bibliothèque supplémentaire.
-2. Téléchargez le ZIP FR et extrayez **tous ses fichiers** dans un dossier indépendant du jeu et de Translations.
-3. Ouvrez **INSTALLER-FR.cmd**.
-4. Vérifiez les chemins proposés. L’assistant cherche le jeu dans les bibliothèques Steam et préremplit le dossier Translations du compte Windows. Si plusieurs installations sont trouvées, ou aucune, utilisez **Parcourir…**.
-5. Cochez le complément du marché si souhaité. Il est accepté seulement pour le build Steam validé.
-6. Cliquez sur **Vérifier et afficher l’aperçu**, lisez les fichiers concernés, puis **Installer** et confirmez.
-7. Lancez le jeu vous-même et choisissez Français.
+1. Fermez le jeu. Téléchargez le ZIP FR et extrayez **tous ses fichiers** dans un dossier indépendant du jeu et de Translations.
+2. Ouvrez **INSTALLER-FR.exe**. Conservez les fichiers qui l’accompagnent : l’exécutable seul ne contient pas la traduction à copier.
+3. Vérifiez le dossier du jeu trouvé dans les bibliothèques Steam et le dossier Translations proposé pour votre compte Windows. Utilisez **Parcourir…** si nécessaire.
+4. Cochez le complément du marché si souhaité. Il reste facultatif et son installation exige le build validé.
+5. Cliquez sur **Vérifier et afficher l’aperçu**, lisez les changements prévus, puis sur **Installer** et confirmez.
+6. Lancez le jeu vous-même et choisissez Français.
 
-Les vérifications et l’aperçu n’écrivent rien dans le jeu. Les fichiers remplacés sont sauvegardés avant la copie dans `%LOCALAPPDATA%/Test_C/FR-Backups`. **Restaurer une sauvegarde** permet de choisir une transaction précédente ; un fichier modifié depuis cette installation est protégé contre l’écrasement. [Fonctionnement détaillé](installation/README.md).
+Les fichiers remplacés sont sauvegardés dans `%LOCALAPPDATA%/Test_C/FR-Backups`. **Restaurer une sauvegarde** permet de choisir une transaction et refuse d’écraser un fichier modifié depuis son installation.
 
-![Installation FR vérifiée sur une copie](docs/images/assistant-fr-installation.jpg)
+Après une mise à jour, **Contrôler après une mise à jour** lit le build Steam, les empreintes des fichiers installés et le dernier modèle anglais généré par le jeu, s’il existe. Il signale les fichiers absents ou différents et un complément du marché actif sur un build non validé. Ce bouton ne télécharge, ne corrige et ne désactive rien automatiquement. Le modèle anglais et les _Todo reflètent le dernier lancement du jeu, pas une vérification des nouveautés en ligne.
 
-*Les captures viennent des essais sur des copies : leurs chemins sont ceux du dossier de test. Sur votre PC, vérifiez les destinations proposées.*
+L’exécutable fonctionne sous Windows x64 et intègre son environnement Python/Tk. Il n’injecte rien dans le jeu et ne reste pas ouvert pendant la partie. Les scripts restent disponibles pour ceux qui utilisent Python avec Tcl/Tk. [Détails de l’assistant](installation/README.md).
+
+![Assistant FR, essai dans des dossiers de démonstration](docs/images/assistant-fr-installation.jpg)
 
 ### Méthode B — Installation manuelle, sans Python
 
@@ -68,13 +69,13 @@ Si vous avez encore **`pakchunk99-French_P.pak`**, renommez uniquement ce fichie
 
 #### 2. Installer la traduction JSON
 
-1. Téléchargez et extrayez le ZIP de la 0.2.2.
+1. Téléchargez et extrayez le ZIP de la 0.3.0.
 2. Ouvrez l’Explorateur de fichiers, collez **`%LOCALAPPDATA%\Test_C\Saved\Translations`** dans sa barre d’adresse, puis validez.
 3. Si un dossier `fr` existe déjà, faites-en une copie de sauvegarde **en dehors de `Translations`**.
 4. Copiez le dossier **`fr`** de l’archive dans `Translations`. Si Windows le demande, remplacez les fichiers du patch précédent.
 5. Vérifiez le résultat : **`Translations/fr/fr_001.json`**, avec les autres fichiers JSON à côté. Il ne doit pas y avoir de dossier `fr/fr`.
 
-Depuis la 0.1.8 ou la 0.1.9, la procédure est la même. Les 36 fichiers JSON contiennent les 240 corrections de la 0.2.1. Depuis la 0.2.1, les textes et le complément du marché sont identiques ; l’assistant est la nouveauté. Remplacez également le complément du marché si vous l’utilisez.
+Depuis une ancienne version, remplacez les 36 JSON. Le complément du marché est inchangé depuis la 0.2.1 : remplacez-le seulement s’il vient d’une version antérieure. L’ancien pakchunk99 doit rester désactivé.
 
 #### 3. Ajouter le complément du marché
 
@@ -127,4 +128,4 @@ Projet communautaire non officiel.
 
 ## Suivre les prochaines mises à jour
 
-[Contrôles automatiques](maintenance/README.md) · [28 propositions de libellés courts à vérifier](maintenance/LIBELLES-COURTS.md). Les propositions courtes ne sont pas activées dans cette version. Le modèle anglais reflète le dernier lancement du jeu ; ces contrôles ne remplacent pas un essai en partie.
+[Contrôles automatiques](maintenance/README.md) · [Corrections de la 0.3.0](docs/CORRECTIONS-0.3.0.json) · [Propositions encore à confirmer](maintenance/LIBELLES-COURTS.md). Les formulations ambiguës restent en relecture ; aucun nouveau lancement du jeu n’a été effectué pour cette mise à jour.

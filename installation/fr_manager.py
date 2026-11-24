@@ -13,9 +13,10 @@ import sys
 import tempfile
 import uuid
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(sys.executable).resolve().parent if getattr(sys, 'frozen', False) else Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 from maintenance.translation_audit import audit
+from common.steam import compatibility
 
 PAK = 'pakchunk98-FrenchMarketTest_P.pak'
 OLD_PAK = 'pakchunk99-French_P.pak'
@@ -170,6 +171,60 @@ def describe(plan):
     return '\n'.join(lines + [''] + plan['notices'])
 
 
+def check_update(source, translations, game=None, manifest=None):
+    """Contrôle local de la copie installée et du dernier modèle anglais généré."""
+    manifest = manifest or json_read(Path(__file__).with_name('manifest.json'))
+    source, translations = Path(source), Path(translations)
+    target = translations / 'fr'
+    expected = manifest['json_files']
+    installed = {p.name: digest(p.read_bytes()) for p in target.glob('*.json') if not p.name.startswith('_')}
+    matching = sum(installed.get(name) == value for name, value in expected.items())
+    equivalent = set()
+    for name in set(expected) & set(installed):
+        try:
+            # L’ordre des champs, l’indentation et les fins de ligne ne changent pas les textes.
+            if json_read(target / name) == json_read(source / name):
+                equivalent.add(name)
+        except (OSError, ValueError):
+            pass
+    english = translations / '_English'
+    report = audit(target, json_read(ROOT / 'docs/REGLES-TRADUCTION.json'), english if english.is_dir() else None) if target.is_dir() else None
+    build = compatibility(manifest['steam_build'], game)
+    paks = Path(game) / 'Test_C/Content/Paks' if game else None
+    market = paks / PAK if paks else None
+    active = bool(market and market.is_file())
+    market_known = bool(active and digest(market.read_bytes()) == manifest['market_sha256'])
+    return {'schema': 1, 'compatibility': build, 'matching_files': matching, 'expected_files': len(expected),
+            'matching_content_files': len(equivalent),
+            'format_only_files': sorted(n for n in equivalent if installed[n] != expected[n]),
+            'missing_files': sorted(set(expected) - set(installed)), 'different_files': sorted(n for n in expected if n in installed and n not in equivalent),
+            'extra_files': sorted(set(installed) - set(expected)), 'audit': report['summary'] if report else None,
+            'market_active': active, 'market_validated': market_known and build['state'] == 'validated',
+            'legacy_pak_active': bool(paks and (paks / OLD_PAK).is_file()),
+            'english_available': english.is_dir()}
+
+
+def describe_update(report):
+    lines = [report['compatibility']['message'], '',
+             f"Traduction installée : {report['matching_content_files']}/{report['expected_files']} fichiers au contenu identique à cette publication."]
+    if report['format_only_files']:
+        lines.append('Différences de mise en forme uniquement : ' + str(len(report['format_only_files'])) + ' fichier(s), sans changement de texte.')
+    for key, title in [('missing_files', 'Absents'), ('different_files', 'Différents ou personnalisés'), ('extra_files', 'JSON supplémentaires')]:
+        if report[key]:
+            lines.append(title + ' : ' + ', '.join(report[key]))
+    if report['audit']:
+        lines.append('Contrôle des textes : ' + str(report['audit']['errors']) + ' erreur(s), ' + str(report['audit']['game_todos']) + ' entrée(s) _Todo.')
+    if report['market_active']:
+        lines.append('Complément du marché : ' + ('empreinte et build validés.' if report['market_validated'] else 'à désactiver avant de jouer : build ou empreinte non validé.'))
+    else:
+        lines.append('Complément du marché : absent ou désactivé (facultatif).')
+    if report['legacy_pak_active']:
+        lines.append('ATTENTION : ancien pakchunk99 actif, à désactiver.')
+    lines += ['', ('Le modèle anglais et les _Todo reflètent le dernier lancement du jeu.' if report['english_available'] else 'Modèle anglais absent : les nouveaux textes du jeu ne sont pas vérifiés.'),
+              'Contrôle local, sans réseau, installation ni lancement du jeu. Les fichiers différents ne sont pas corrigés automatiquement.']
+    return '\n'.join(lines)
+
+
 def current(path):
     path = assert_plain_path(path)
     if path.exists() and not path.is_file():
@@ -287,7 +342,7 @@ def restore(transaction):
 
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('action', choices=['preview', 'install', 'restore', 'gui'], nargs='?', default='gui')
+    parser.add_argument('action', choices=['preview', 'install', 'restore', 'check', 'gui'], nargs='?', default='gui')
     parser.add_argument('--translations', type=Path, default=local_base() / 'Saved/Translations')
     parser.add_argument('--source', type=Path, default=defaults()[0])
     parser.add_argument('--game', type=Path)
@@ -298,6 +353,10 @@ def main(argv=None):
     if args.action == 'gui':
         from installation.interface import launch
         launch(args)
+    elif args.action == 'check':
+        games = detect_games() if args.game is None else []
+        game = args.game or (games[0] if len(games) == 1 else None)
+        print(describe_update(check_update(args.source, args.translations, game)))
     elif args.action == 'restore':
         if not args.transaction:
             raise ValueError('Indiquez --transaction avec le dossier de sauvegarde à restaurer.')

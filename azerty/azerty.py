@@ -16,6 +16,10 @@ import sys
 import tempfile
 import uuid
 
+if not getattr(sys, 'frozen', False):
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from common.steam import compatibility
+
 PROFILE_CLASS = '/Script/EnhancedInput.EnhancedPlayerMappableKeyProfile'
 PROFILE_ID = 'InputUserSettings.Profiles.Default'
 
@@ -166,12 +170,25 @@ def save_backup(directory, path, before, after, version):
 
 
 def load_preset():
-    return json.loads(Path(__file__).with_name('preset.json').read_text(encoding='utf-8-sig'))
+    path = Path(sys.executable).with_name('preset.json') if getattr(sys, 'frozen', False) else Path(__file__).with_name('preset.json')
+    return json.loads(path.read_text(encoding='utf-8-sig'))
 
 
-def diagnose(data, preset=None):
+def select_preset(mode='all', preset=None):
+    if mode not in ('all', 'movement', 'equipment'):
+        raise ValueError('Mode AZERTY inconnu.')
+    preset = dict(preset or load_preset())
+    preset['bindings'] = [b for b in preset['bindings'] if mode == 'all' or
+                          b['action'].startswith('IA_Equip') == (mode == 'equipment')]
+    if not preset['bindings']:
+        raise ValueError('Ce mode ne contient aucune affectation.')
+    preset['mode'] = mode
+    return preset
+
+
+def diagnose(data, preset=None, mode='all'):
     """Diagnostic local ; les affectations absentes du .sav sont des valeurs implicites."""
-    preset = preset or load_preset()
+    preset = select_preset(mode, preset)
     _, rows, _ = parse(data)
     requested = {b['action']: b['key'] for b in preset['bindings']}
     bindings = []
@@ -186,7 +203,7 @@ def diagnose(data, preset=None):
     preserved = [{'action': r['name'], 'key': r['key'], 'keyboard': r['keyboard']} for r in rows
                  if not r['keyboard'] or r['name'] not in requested]
     duplicates = [b['action'] for b in bindings if b['state'] == 'duplicate']
-    result = {'schema': 1, 'preset_version': preset['version'], 'target_game_version': preset['game_version'],
+    result = {'schema': 1, 'mode': mode, 'preset_version': preset['version'], 'target_game_version': preset['game_version'],
               'target_steam_build': preset['steam_build'], 'profile_sha256': digest(data),
               'all_bindings_applied': all(b['state'] == 'ok' for b in bindings),
               'can_install': not conflicts and not duplicates, 'bindings': bindings,
@@ -209,10 +226,10 @@ def format_diagnosis(report):
     return '\n'.join(lines)
 
 
-def install(path, backups):
+def install(path, backups, mode='all'):
     path, backups = Path(path).resolve(), Path(backups)
     before = path.read_bytes()
-    preset = load_preset()
+    preset = select_preset(mode)
     after = apply_preset(before, preset['bindings'])
     if after == before:
         return 'Le profil AZERTY est déjà appliqué. Aucun fichier modifié.'
@@ -245,6 +262,8 @@ def main(argv=None):
     parser.add_argument('action', choices=['preview', 'diagnose', 'install', 'restore'], nargs='?', default='preview')
     parser.add_argument('--profile', type=Path, default=local / 'Saved/SaveGames/EnhancedInputUserSettings.sav')
     parser.add_argument('--backups', type=Path, default=local / 'AZERTY-Backups')
+    parser.add_argument('--mode', choices=['all', 'movement', 'equipment'], default='all', help='Les deux groupes, déplacements/actions, ou rangée d’équipement.')
+    parser.add_argument('--game', type=Path, help='Installation Steam pour le contrôle du build.')
     parser.add_argument('--json', type=Path, help='Exporter le diagnostic local (peut contenir des touches personnalisées).')
     args = parser.parse_args(argv)
     path = args.profile.resolve()
@@ -253,10 +272,12 @@ def main(argv=None):
     if args.action == 'restore':
         print(restore(path, args.backups))
     elif args.action == 'install':
-        print(install(path, args.backups))
+        print(install(path, args.backups, args.mode))
     else:
-        report = diagnose(path.read_bytes())
+        report = diagnose(path.read_bytes(), mode=args.mode)
+        report['compatibility'] = compatibility(load_preset()['steam_build'], args.game)
         print(format_diagnosis(report))
+        print(report['compatibility']['message'])
         if args.json:
             args.json.parent.mkdir(parents=True, exist_ok=True)
             args.json.write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

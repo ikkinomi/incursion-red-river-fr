@@ -310,7 +310,7 @@
       "ns": "",
       "key": "73D0387A41A6E1096C6BABB00CE528A0",
       "source": "Load Preset",
-      "text": "Charger une configuration"
+      "text": "Charger un profil"
     },
     {
       "ns": "",
@@ -472,7 +472,7 @@
       "ns": "",
       "key": "751D66EA41E0E8D87F610DB40671801E",
       "source": "Load Preset?",
-      "text": "Charger la configuration ?"
+      "text": "Charger le profil ?"
     },
     {
       "ns": "",

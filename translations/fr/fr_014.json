@@ -208,7 +208,7 @@
       "ns": "",
       "key": "6BB9F8A3414B54D9182F648D1432C080",
       "source": "Invert Mouse Y",
-      "text": "Inverser l'axe Y de la souris"
+      "text": "Inverser souris Y"
     },
     {
       "ns": "",
@@ -724,7 +724,7 @@
       "ns": "",
       "key": "6EE806D8434BEBACEC624EA93BD807D9",
       "source": "Save Preset?",
-      "text": "Enregistrer la configuration ?"
+      "text": "Enregistrer le profil ?"
     },
     {
       "ns": "",

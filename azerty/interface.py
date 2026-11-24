@@ -15,10 +15,11 @@ def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--profile', type=Path, default=local / 'Saved/SaveGames/EnhancedInputUserSettings.sav')
     parser.add_argument('--backups', type=Path, default=local / 'AZERTY-Backups')
+    parser.add_argument('--game', type=Path)
     args = parser.parse_args(argv)
     root = tk.Tk()
-    root.title('Incursion Red River — Assistant AZERTY 0.2.0 bêta')
-    root.geometry('960x690')
+    root.title('Incursion Red River — Assistant AZERTY 0.3.0 bêta')
+    root.geometry('1020x770')
     root.minsize(760, 580)
     frame = ttk.Frame(root, padding=18)
     frame.pack(fill='both', expand=True)
@@ -34,6 +35,11 @@ def main(argv=None):
             profile.set(selected)
             verify()
     ttk.Button(line, text='Parcourir…', command=choose).pack(side='left', padx=(8, 0))
+    mode = tk.StringVar(value='all')
+    groups = ttk.LabelFrame(frame, text='Touches à appliquer', padding=8)
+    groups.pack(fill='x', pady=(10, 0))
+    for label, value in [('Les deux groupes (13 touches)', 'all'), ('Déplacements et actions (4)', 'movement'), ('Rangée d’équipement (9)', 'equipment')]:
+        ttk.Radiobutton(groups, text=label, variable=mode, value=value, command=lambda: verify()).pack(side='left', padx=7)
     status = tk.StringVar(value='Cliquez sur Vérifier pour lire les commandes actuelles.')
     ttk.Label(frame, textvariable=status, wraplength=900).pack(anchor='w', pady=12)
     text = tk.Text(frame, wrap='word', font=('Consolas', 10), padx=12, pady=10)
@@ -45,7 +51,7 @@ def main(argv=None):
         text.config(state='disabled')
     def verify():
         try:
-            report = azerty.diagnose(Path(profile.get()).read_bytes())
+            report = azerty.diagnose(Path(profile.get()).read_bytes(), mode=mode.get())
             show(azerty.format_diagnosis(report))
             status.set('Profil déjà configuré.' if report['all_bindings_applied'] else 'Installation possible après vérification des touches.' if report['can_install'] else 'Conflit ou doublon : consultez le détail ci-dessous.')
             install_button.config(state='normal' if report['can_install'] and not report['all_bindings_applied'] else 'disabled')
@@ -60,13 +66,14 @@ def main(argv=None):
             report = verify()
             if report is None or not report['can_install']:
                 return
-            prompt = 'Appliquer les 13 touches affichées ? Les autres commandes seront conservées et une sauvegarde sera créée.'
+            prompt = f"Appliquer les {len(report['bindings'])} touches affichées ? Les autres commandes seront conservées et une sauvegarde sera créée."
         else:
             prompt = 'Restaurer les commandes précédentes ? La restauration exige une sauvegarde correspondant exactement au profil actuel.'
         if not messagebox.askyesno('Confirmer', prompt, parent=root):
             return
         try:
-            result = getattr(azerty, action)(Path(profile.get()), args.backups)
+            result = (azerty.install(Path(profile.get()), args.backups, mode.get()) if action == 'install'
+                      else azerty.restore(Path(profile.get()), args.backups))
             verify()
             status.set(result)
         except Exception as error:
@@ -78,6 +85,14 @@ def main(argv=None):
     install_button = ttk.Button(buttons, text='Installer', state='disabled', command=lambda: change('install'))
     install_button.pack(side='left', padx=8)
     ttk.Button(buttons, text='Restaurer', command=lambda: change('restore')).pack(side='left')
+    def check_update():
+        report = verify()
+        if report is not None:
+            build = azerty.compatibility(azerty.load_preset()['steam_build'], args.game)
+            show(build['message'] + '\n\n' + azerty.format_diagnosis(report) +
+                 '\n\nContrôle local en lecture seule. Le build connu ne garantit pas toutes les nouvelles commandes. Aucun téléchargement ni lancement du jeu.')
+            status.set('Contrôle après mise à jour terminé. Aucun fichier modifié.')
+    ttk.Button(buttons, text='Contrôler après une mise à jour', command=check_update).pack(side='left', padx=8)
     ttk.Button(buttons, text='Fermer', command=root.destroy).pack(side='right')
     ttk.Label(frame, text='Sauvegardes : ' + str(args.backups), wraplength=900).pack(anchor='w')
     root.mainloop()

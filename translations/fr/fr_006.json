@@ -550,7 +550,7 @@
       "ns": "",
       "key": "2BA7710344763FDC8B34B883B3D79DDF",
       "source": "Delete Preset",
-      "text": "Supprimer la configuration"
+      "text": "Supprimer le profil"
     },
     {
       "ns": "",
@@ -1132,7 +1132,7 @@
       "ns": "",
       "key": "302F80C74F6934FE02B29AA058C5770F",
       "source": "Invert Mouse X",
-      "text": "Inverser l'axe X de la souris"
+      "text": "Inverser souris X"
     },
     {
       "ns": "",

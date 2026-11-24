@@ -136,7 +136,7 @@
       "ns": "",
       "key": "82272C604EB1924F642336BBBD00C9D4",
       "source": "Import Preset?",
-      "text": "Importer la configuration ?"
+      "text": "Importer un profil ?"
     },
     {
       "ns": "",
@@ -598,7 +598,7 @@
       "ns": "",
       "key": "8562B2EE46F37AA6542CC683A1C81C6C",
       "source": "Invert Mouse Y",
-      "text": "Inverser l'axe Y de la souris"
+      "text": "Inverser souris Y"
     },
     {
       "ns": "",
@@ -628,7 +628,7 @@
       "ns": "",
       "key": "85B06806444A0E142A396AA495D0BBB9",
       "source": "Save Preset",
-      "text": "Enregistrer la configuration"
+      "text": "Enregistrer le profil"
     },
     {
       "ns": "",

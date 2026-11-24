@@ -646,7 +646,7 @@
       "ns": "",
       "key": "CDE17F2E458B7E6B389D198BC894435D",
       "source": "Import Preset",
-      "text": "Importer une configuration"
+      "text": "Importer un profil"
     },
     {
       "ns": "",
@@ -1018,7 +1018,7 @@
       "ns": "",
       "key": "D0CC33B0497051BB65D450BCDF47BD19",
       "source": "Save Preset",
-      "text": "Enregistrer la configuration"
+      "text": "Enregistrer le profil"
     },
     {
       "ns": "",

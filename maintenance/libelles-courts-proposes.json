@@ -33,7 +33,7 @@
     "text": "Exporter la configuration",
     "file": "fr_001.json",
     "proposed": "Exporter le profil",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -69,7 +69,7 @@
     "text": "Exporter la configuration ?",
     "file": "fr_004.json",
     "proposed": "Exporter le profil ?",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -78,7 +78,7 @@
     "text": "Exporter la configuration",
     "file": "fr_004.json",
     "proposed": "Exporter le profil",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -87,7 +87,7 @@
     "text": "Supprimer la configuration ?",
     "file": "fr_005.json",
     "proposed": "Supprimer le profil ?",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -96,7 +96,7 @@
     "text": "Limite d'images par seconde",
     "file": "fr_005.json",
     "proposed": "Limite de FPS",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -105,7 +105,7 @@
     "text": "Supprimer la configuration",
     "file": "fr_006.json",
     "proposed": "Supprimer le profil",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -114,7 +114,7 @@
     "text": "Inverser l'axe X de la souris",
     "file": "fr_006.json",
     "proposed": "Inverser souris X",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -123,7 +123,7 @@
     "text": "Supprimer la configuration",
     "file": "fr_007.json",
     "proposed": "Supprimer le profil",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -131,8 +131,8 @@
     "source": "Show Locked Items.",
     "text": "Afficher les objets verrouillés.",
     "file": "fr_008.json",
-    "proposed": "Objets verrouillés.",
-    "status": "à vérifier dans le widget avant intégration"
+    "proposed": "Afficher objets verrouillés.",
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -159,7 +159,7 @@
     "text": "Synchronisation verticale",
     "file": "fr_009.json",
     "proposed": "Synchro verticale",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -177,7 +177,7 @@
     "text": "Exporter la configuration ?",
     "file": "fr_010.json",
     "proposed": "Exporter le profil ?",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -186,7 +186,7 @@
     "text": "Charger la configuration ?",
     "file": "fr_010.json",
     "proposed": "Charger le profil ?",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -195,7 +195,7 @@
     "text": "Réglages du champ de vision",
     "file": "fr_011.json",
     "proposed": "Champ de vision",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -204,7 +204,7 @@
     "text": "Importer une configuration",
     "file": "fr_012.json",
     "proposed": "Importer un profil",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -222,7 +222,7 @@
     "text": "Inverser l'axe Y de la souris",
     "file": "fr_014.json",
     "proposed": "Inverser souris Y",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -231,7 +231,7 @@
     "text": "Enregistrer la configuration ?",
     "file": "fr_014.json",
     "proposed": "Enregistrer le profil ?",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -240,7 +240,7 @@
     "text": "Charger une configuration",
     "file": "fr_015.json",
     "proposed": "Charger un profil",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -249,7 +249,7 @@
     "text": "Charger la configuration ?",
     "file": "fr_015.json",
     "proposed": "Charger le profil ?",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -267,7 +267,7 @@
     "text": "Importer la configuration ?",
     "file": "fr_017.json",
     "proposed": "Importer un profil ?",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -276,7 +276,7 @@
     "text": "Inverser l'axe Y de la souris",
     "file": "fr_017.json",
     "proposed": "Inverser souris Y",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -285,7 +285,7 @@
     "text": "Enregistrer la configuration",
     "file": "fr_017.json",
     "proposed": "Enregistrer le profil",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -294,7 +294,7 @@
     "text": "Rétablir les valeurs par défaut",
     "file": "fr_018.json",
     "proposed": "Valeurs par défaut",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -321,7 +321,7 @@
     "text": "Importer la configuration ?",
     "file": "fr_019.json",
     "proposed": "Importer un profil ?",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -339,7 +339,7 @@
     "text": "Limite d'images par seconde",
     "file": "fr_020.json",
     "proposed": "Limite de FPS",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -348,7 +348,7 @@
     "text": "Volume de la discussion vocale",
     "file": "fr_021.json",
     "proposed": "Volume vocal",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -357,7 +357,7 @@
     "text": "Enregistrer la configuration ?",
     "file": "fr_023.json",
     "proposed": "Enregistrer le profil ?",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -366,7 +366,7 @@
     "text": "Inverser l'axe X de la souris",
     "file": "fr_025.json",
     "proposed": "Inverser souris X",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -375,7 +375,7 @@
     "text": "Importer une configuration",
     "file": "fr_026.json",
     "proposed": "Importer un profil",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -384,7 +384,7 @@
     "text": "Enregistrer la configuration",
     "file": "fr_026.json",
     "proposed": "Enregistrer le profil",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -402,7 +402,7 @@
     "text": "Sortie de la discussion vocale",
     "file": "fr_027.json",
     "proposed": "Sortie vocale",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -420,7 +420,7 @@
     "text": "Limite d'images par seconde",
     "file": "fr_030.json",
     "proposed": "Limite de FPS",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -438,7 +438,7 @@
     "text": "Enregistrer la configuration actuelle ?",
     "file": "fr_030.json",
     "proposed": "Enregistrer ce profil ?",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -447,7 +447,7 @@
     "text": "Volume de la discussion vocale",
     "file": "fr_032.json",
     "proposed": "Volume vocal",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "IRRAISettingRow.Label",
@@ -456,7 +456,7 @@
     "text": "Étendue maximale de la zone de recherche",
     "file": "fr_032.json",
     "proposed": "Zone de recherche max.",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   },
   {
     "ns": "",
@@ -465,6 +465,6 @@
     "text": "Synchronisation verticale",
     "file": "fr_extra.json",
     "proposed": "Synchro verticale",
-    "status": "à vérifier dans le widget avant intégration"
+    "status": "appliqué en 0.3.0 ; rendu en jeu à confirmer"
   }
 ]

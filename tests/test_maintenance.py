@@ -102,6 +102,44 @@ class AuditTests(unittest.TestCase):
 
 
 class AzertyTests(unittest.TestCase):
+    def test_partial_groups_preserve_other_group_and_custom_keys(self):
+        data = profile([('IA_Crouch', 'C'), ('IA_EquipSlot_1', 'F1'), ('IA_Movement_W', 'Up')])
+        controls = azerty.select_preset('movement')['bindings']
+        equipment = azerty.select_preset('equipment')['bindings']
+        self.assertEqual((len(controls), len(equipment)), (4, 9))
+        moved = azerty.apply_preset(data, controls)
+        _, rows, _ = azerty.parse(moved)
+        keys = {r['name']: r['key'] for r in rows}
+        self.assertEqual(keys['IA_EquipSlot_1'], 'F1')
+        self.assertEqual(keys['IA_Crouch'], 'C')
+        equipped = azerty.apply_preset(data, equipment)
+        self.assertEqual({r['name']: r['key'] for r in azerty.parse(equipped)[1]}['IA_Movement_W'], 'Up')
+        self.assertTrue(azerty.diagnose(moved, mode='movement')['all_bindings_applied'])
+        self.assertFalse(azerty.diagnose(moved, mode='equipment')['all_bindings_applied'])
+
+    def test_partial_group_keeps_conflict_refusal(self):
+        data = profile([('IA_Inventory', 'Z')])
+        self.assertFalse(azerty.diagnose(data, mode='movement')['can_install'])
+        self.assertTrue(azerty.diagnose(data, mode='equipment')['can_install'])
+        with self.assertRaises(ValueError):
+            azerty.select_preset('invalid')
+
+    @patch.object(azerty, 'assert_game_closed')
+    def test_partial_installs_and_restores_are_exact(self, _guard):
+        with tempfile.TemporaryDirectory() as folder:
+            path, backups = Path(folder) / 'input.sav', Path(folder) / 'backups'
+            original = profile([('IA_Crouch', 'C')])
+            path.write_bytes(original)
+            azerty.install(path, backups, 'movement')
+            movement = path.read_bytes()
+            self.assertTrue(azerty.diagnose(movement, mode='movement')['all_bindings_applied'])
+            azerty.install(path, backups, 'equipment')
+            self.assertEqual(path.read_bytes(), azerty.apply_preset(original, azerty.load_preset()['bindings']))
+            azerty.restore(path, backups)
+            self.assertEqual(path.read_bytes(), movement)
+            azerty.restore(path, backups)
+            self.assertEqual(path.read_bytes(), original)
+
     def test_diagnostic_reports_reset_keys_and_conflicts(self):
         data = profile([('IA_Movement_W', 'W'), ('IA_Inventory', 'Z')])
         report = azerty.diagnose(data)
@@ -176,6 +214,31 @@ class InstallerTests(unittest.TestCase):
 
     def plan(self, market=False):
         return installer.plan_install(self.source, self.translations, self.game, market, self.manifest, self.pak)
+
+    @patch.object(installer, 'assert_game_closed')
+    def test_update_check_reports_new_build_without_writing(self, _guard):
+        transaction = installer.apply_plan(self.plan(True), self.backups)
+        before = {p: p.read_bytes() for p in self.base.rglob('*') if p.is_file()}
+        report = installer.check_update(self.source, self.translations, self.game, self.manifest)
+        self.assertTrue(report['market_validated'])
+        self.assertEqual(report['matching_files'], 1)
+        self.assertEqual(before, {p: p.read_bytes() for p in self.base.rglob('*') if p.is_file()})
+        self.set_build('456')
+        report = installer.check_update(self.source, self.translations, self.game, self.manifest)
+        self.assertEqual(report['compatibility']['state'], 'changed')
+        self.assertFalse(report['market_validated'])
+        self.assertIn('à désactiver', installer.describe_update(report))
+
+    @patch.object(installer, 'assert_game_closed')
+    def test_update_check_accepts_equivalent_json_formatting(self, _guard):
+        installer.apply_plan(self.plan(), self.backups)
+        path = self.translations / 'fr/fr_001.json'
+        path.write_text(json.dumps(json.loads(path.read_text(encoding='utf-8')), ensure_ascii=True), encoding='utf-8')
+        report = installer.check_update(self.source, self.translations, self.game, self.manifest)
+        self.assertEqual(report['matching_files'], 0)
+        self.assertEqual(report['matching_content_files'], 1)
+        self.assertEqual(report['different_files'], [])
+        self.assertEqual(report['format_only_files'], ['fr_001.json'])
 
     @patch.object(installer, 'assert_game_closed')
     def test_install_and_restore_keep_reports_and_other_files(self, _guard):

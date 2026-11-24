@@ -11,6 +11,20 @@ from maintenance.translation_audit import dump
 ROOT = Path(__file__).resolve().parents[1]
 
 
+def verified_images(directory, prefix):
+    """Ne distribue que les captures relues pour les données personnelles."""
+    directory = Path(directory)
+    approval = json.loads((directory / 'PRIVACY.json').read_text(encoding='utf-8'))
+    result = []
+    for path in sorted(directory.glob(prefix + '*.jpg')):
+        if approval.get('files', {}).get(path.name) != hashlib.sha256(path.read_bytes()).hexdigest():
+            raise ValueError('Capture non approuvée pour publication : ' + path.name)
+        result.append(path)
+    if not result:
+        raise ValueError('Captures de démonstration absentes.')
+    return result
+
+
 def packaged_readme(text, directory=''):
     def link(match):
         label, target = match.groups()
@@ -21,7 +35,7 @@ def packaged_readme(text, directory=''):
     return re.sub(r'(?<!!)\[([^\]]*)\]\(([^)]+)\)', link, text)
 
 
-def build(output, release=False):
+def build(output, release=False, executables=None):
     output = Path(output).resolve()
     output.mkdir(parents=True, exist_ok=True)
     fr = {ROOT / 'INSTALLER-FR.cmd': 'INSTALLER-FR.cmd',
@@ -37,17 +51,31 @@ def build(output, release=False):
     az = {ROOT / 'azerty' / name: name for name in ('azerty.py', 'interface.py', 'preset.json', 'AZERTY.cmd')}
     az[ROOT / 'azerty/ASSISTANT-TEST.md'] = 'LISEZ-MOI.md'
     az[ROOT / 'azerty/VALIDATION-TEST1.json'] = 'VALIDATION-TEST1.json'
+    for path in (ROOT / 'common').glob('*.py'):
+        fr[path] = 'common/' + path.name
+        az[path] = 'common/' + path.name
+    for path in (ROOT / 'maintenance/licenses').glob('*.txt'):
+        fr[path] = 'Licences/' + path.name
+        az[path] = 'Licences/' + path.name
     versions = (json.loads((ROOT / 'installation/manifest.json').read_text(encoding='utf-8'))['translation_version'],
                 json.loads((ROOT / 'azerty/preset.json').read_text(encoding='utf-8'))['version'])
     if release:
+        if executables is None:
+            raise ValueError('Indiquez le dossier des exécutables Windows validés avec --executables.')
+        executables = Path(executables)
+        for filename, entries in [('INSTALLER-FR.exe', fr), ('AZERTY.exe', az)]:
+            path = executables / filename
+            if not path.is_file() or path.read_bytes()[:2] != b'MZ':
+                raise ValueError('Exécutable Windows absent ou invalide : ' + filename)
+            entries[path] = filename
         fr[ROOT / 'README.md'] = 'LISEZ-MOI.md'
         del fr[ROOT / 'installation/README.md']
         fr[ROOT / 'installation/README.md'] = 'installation/README.md'
         az.pop(ROOT / 'azerty/ASSISTANT-TEST.md')
         az[ROOT / 'azerty/README.md'] = 'LISEZ-MOI.md'
-        for path in (ROOT / 'docs/images').glob('assistant-fr-*.jpg'):
+        for path in verified_images(ROOT / 'docs/images', 'assistant-fr-'):
             fr[path] = 'docs/images/' + path.name
-        for path in (ROOT / 'docs/images').glob('assistant-azerty-*.jpg'):
+        for path in verified_images(ROOT / 'docs/images', 'assistant-azerty-'):
             az[path] = 'images/' + path.name
     names = ([f'Incursion_Red_River_FR_1.4.0.4_v{versions[0]}.zip', f'Incursion_Red_River_AZERTY_1.4.0.4_v{versions[1]}.zip']
              if release else ['IRR_Assistant_FR_0.2.1_TEST1.zip', 'IRR_Assistant_AZERTY_0.2.0_TEST1.zip'])
@@ -81,5 +109,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', type=Path, required=True)
     parser.add_argument('--release', action='store_true')
+    parser.add_argument('--executables', type=Path)
     args = parser.parse_args()
-    print(build(args.output, args.release))
+    print(build(args.output, args.release, args.executables))

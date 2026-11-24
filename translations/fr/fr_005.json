@@ -1030,7 +1030,7 @@
       "ns": "",
       "key": "2752A3B544914F37A80C219D250638E0",
       "source": "Delete Preset?",
-      "text": "Supprimer la configuration ?"
+      "text": "Supprimer le profil ?"
     },
     {
       "ns": "",
@@ -1054,7 +1054,7 @@
       "ns": "",
       "key": "276C5E55460EB728924A679751FBF002",
       "source": "FPS Limit",
-      "text": "Limite d'images par seconde"
+      "text": "Limite de FPS"
     },
     {
       "ns": "",

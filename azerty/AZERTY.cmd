@@ -2,6 +2,10 @@
 setlocal
 chcp 65001 >nul
 cd /d "%~dp0"
+if exist "%~dp0AZERTY.exe" (
+  start "" "%~dp0AZERTY.exe"
+  exit /b 0
+)
 where py >nul 2>nul
 if errorlevel 1 goto use_python
 set "AZERTY_PYTHON=py -3"
@@ -11,7 +15,7 @@ where python >nul 2>nul
 if errorlevel 1 goto missing
 set "AZERTY_PYTHON=python"
 :menu
-echo Incursion Red River - AZERTY 0.2.0 beta
+echo Incursion Red River - AZERTY 0.3.0 beta
 echo 0. Interface graphique
 echo 1. Preview / Apercu
 echo 2. Install / Installer - game must be closed

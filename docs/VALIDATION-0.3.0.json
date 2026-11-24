@@ -1,0 +1,29 @@
+{
+  "version": "0.3.0-beta",
+  "target_game_version": "1.4.0.4",
+  "target_steam_build": "26761568",
+  "unit_tests": 29,
+  "additional_complete_preset_tests": 7,
+  "translation_entries": 6894,
+  "translation_static_errors": 0,
+  "translation_glossary_warnings": 1,
+  "translation_entries_changed": 35,
+  "new_translation_labels": 22,
+  "standalone_fr_install_restore_on_copy": true,
+  "standalone_azerty_three_modes_install_restore_on_copies": true,
+  "standalone_extracted_zip_without_python_in_path": true,
+  "complete_preset_matches_previous_game_test": true,
+  "new_gui_visual_check": false,
+  "new_screenshots_privacy_review": false,
+  "new_in_game_test": false,
+  "installed_game_modified": false,
+  "public_release_ready": false,
+  "pending": [
+    "Afficher les nouvelles fenêtres dans la session Windows et contrôler leur rendu.",
+    "Prendre les captures dans les dossiers de démonstration et remplacer les anciennes captures publiques.",
+    "Retirer les captures non anonymisées des anciennes archives publiques concernées.",
+    "Publier les archives après les derniers contrôles et vérifier GitHub Actions.",
+    "Actualiser les guides Steam et vérifier leur affichage public.",
+    "Faire essayer en jeu les nouveaux libellés et les modes AZERTY partiels."
+  ]
+}

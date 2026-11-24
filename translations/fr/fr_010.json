@@ -1096,7 +1096,7 @@
       "ns": "",
       "key": "500F180C4748FE4BD08057B649F1B6F1",
       "source": "Export Preset?",
-      "text": "Exporter la configuration ?"
+      "text": "Exporter le profil ?"
     },
     {
       "ns": "",
@@ -1174,7 +1174,7 @@
       "ns": "",
       "key": "50D9A16A4E5BD8E073B594A8F6396A40",
       "source": "Load Preset?",
-      "text": "Charger la configuration ?"
+      "text": "Charger le profil ?"
     },
     {
       "ns": "",

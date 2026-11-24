@@ -76,7 +76,7 @@
       "ns": "",
       "key": "EAF2AFB54620F0F1AC260FB9D6715B34",
       "source": "Frame Limit",
-      "text": "Limite d'images par seconde"
+      "text": "Limite de FPS"
     },
     {
       "ns": "",
@@ -820,7 +820,7 @@
       "ns": "",
       "key": "EFAD40494AF3925999BC1887270D2F2F",
       "source": "Save Current Preset?",
-      "text": "Enregistrer la configuration actuelle ?"
+      "text": "Enregistrer ce profil ?"
     },
     {
       "ns": "",

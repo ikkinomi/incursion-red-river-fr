@@ -316,7 +316,7 @@
       "ns": "",
       "key": "1A4642DD468009290A0754B1AE92A0A2",
       "source": "Export Preset?",
-      "text": "Exporter la configuration ?"
+      "text": "Exporter le profil ?"
     },
     {
       "ns": "",
@@ -580,7 +580,7 @@
       "ns": "",
       "key": "1BEC2AE247F68FC35DF333B4A19F48B6",
       "source": "Export Preset",
-      "text": "Exporter la configuration"
+      "text": "Exporter le profil"
     },
     {
       "ns": "",

@@ -1,48 +1,31 @@
-# Assistant d’installation FR — 0.2.2 bêta
+# Assistant FR 0.3.0 bêta
 
-Cette version ajoute une installation guidée facultative à la traduction existante, pour Incursion Red River **1.4.0.4 / build Steam 26761568**. Les textes et le complément du marché restent identiques à ceux de la publication 0.2.1. J’ai vérifié la fenêtre, l’aperçu, l’installation et la restauration sur des copies. Le refus d’un build non compatible fonctionne aussi. Un essai complet sur une installation de jeu reste à faire.
+Le ZIP public contient **INSTALLER-FR.exe** : aucun Python à installer pour la fenêtre. Extraire tous les fichiers, fermer le jeu, vérifier les chemins détectés, afficher l’aperçu puis confirmer l’installation. [Procédure complète et méthode manuelle](../README.md#installation-ou-mise-à-jour).
 
-Le même ZIP permet aussi [l’installation manuelle, sans Python](../README.md#méthode-b--installation-manuelle-sans-python). Les deux méthodes installent les mêmes fichiers.
+La traduction JSON et le complément facultatif du marché sont séparés. Le complément exige le build Steam 26761568 (jeu 1.4.0.4). Les empreintes et la structure de la traduction sont contrôlées avant la copie. L’ancien pakchunk99 est désactivé si présent, avec sauvegarde et annonce dans l’aperçu.
 
-## Utilisation
+**Contrôler après une mise à jour** lit les empreintes installées, le build Steam local, le dernier modèle _English et les _Todo disponibles. Il signale un complément actif non validé. Aucun correctif, téléchargement ou lancement du jeu n’est effectué par ce contrôle.
 
-1. Installer une version maintenue de Python 3 avec Tkinter, depuis [python.org](https://www.python.org/downloads/windows/). Python 3.11 ou plus récent conseillé ; aucune bibliothèque à télécharger en plus.
-2. Extraire tous les fichiers du ZIP dans un dossier indépendant du jeu et de Translations.
-3. Fermer le jeu, puis ouvrir `INSTALLER-FR.cmd`.
-4. Vérifier le dossier du jeu détecté dans les bibliothèques Steam et le dossier Windows `Translations`. En cas de plusieurs installations, sélectionner la bonne.
-5. Cocher le complément du marché si souhaité. Il est refusé si le build Steam est inconnu ou différent du build validé.
-6. Cliquer sur **Vérifier et afficher l’aperçu**, lire les fichiers concernés, puis **Installer** et confirmer.
-7. Lancer le jeu soi-même et choisir Français.
+Les fichiers remplacés sont sauvegardés dans `%LOCALAPPDATA%/Test_C/FR-Backups`, avec journal et empreintes. Une interruption tente de remettre les fichiers précédents. **Restaurer une sauvegarde** demande le dossier de transaction et refuse les fichiers modifiés depuis l’installation ; la restauration crée sa propre sauvegarde de retour. Les rapports _Report et _Todo sont conservés. Les dossiers vides créés peuvent rester présents.
 
-La fenêtre ne lance jamais le jeu. Les vérifications et l’aperçu sont en lecture seule. Le profil clavier n’est pas concerné par cet assistant ; le téléchargement AZERTY reste séparé.
+Les autres archives du jeu ne sont pas modifiées. Un JSON personnel supplémentaire dans fr doit être sauvegardé hors de ce dossier avant l’installation, pour éviter les doublons d’identités.
 
-L’assistant vérifie les empreintes des sources et leur structure avant la copie. Il conserve les rapports `_Report.txt` et `_Todo_*.json`. Si un fichier JSON personnel supplémentaire est présent dans fr, il demande de le sauvegarder hors de ce dossier pour éviter un doublon d’identités.
+## Scripts facultatifs
 
-Si l’ancien `pakchunk99-French_P.pak` est actif dans le dossier du jeu choisi, l’aperçu annonce sa désactivation. Cette opération et son contenu sont sauvegardés. Les autres archives du jeu sont conservées.
-
-## Sauvegardes et restauration
-
-Avant la copie, les fichiers remplacés sont sauvegardés dans `%LOCALAPPDATA%/Test_C/FR-Backups`, avec un journal et des empreintes. Une installation interrompue tente de remettre les fichiers précédents ; les sauvegardes et le journal restent disponibles si une récupération manuelle est nécessaire.
-
-Pour revenir en arrière, fermer le jeu, cliquer sur **Restaurer une sauvegarde** et sélectionner le dossier de transaction voulu. L’assistant refuse d’écraser un fichier modifié depuis l’installation. La restauration crée elle-même une sauvegarde de retour. Les dossiers vides créés lors d’une installation peuvent rester présents.
-
-Après une mise à jour du jeu, désactiver le complément du marché jusqu’à nouvelle validation. La traduction JSON peut être installée séparément. Le gestionnaire lit le manifeste Steam local ; il ne vérifie pas les dernières versions en ligne.
-
-## Commandes facultatives
-
-Depuis le dossier extrait :
+Python reste nécessaire seulement pour utiliser les sources :
 
 ```text
-py -3 installation/fr_manager.py preview
+py -3 installation/fr_manager.py gui
 py -3 installation/fr_manager.py preview --market
+py -3 installation/fr_manager.py check
 py -3 installation/fr_manager.py install --market
-py -3 installation/fr_manager.py restore --transaction "chemin/vers/la/sauvegarde"
+py -3 installation/fr_manager.py restore --transaction "dossier de sauvegarde"
 ```
 
-Options : `--game` pour PROJECT QUARANTINE, `--translations` pour le dossier Translations, `--source` pour fr, `--backups` pour la destination des sauvegardes. La commande `install` applique directement les changements ; utiliser d’abord `preview`.
+Options : --game, --translations, --source et --backups. La commande install applique directement les changements : utiliser preview avant. Le gestionnaire utilise la configuration Steam locale et ne consulte pas les dernières versions en ligne.
 
-[Guide Steam FR](https://steamcommunity.com/sharedfiles/filedetails/?id=3835740541) · [Signaler un problème](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
+![Restauration sur une copie de démonstration](../docs/images/assistant-fr-restauration.jpg)
 
-![Restauration FR sur une copie](../docs/images/assistant-fr-restauration.jpg)
+![Build non validé refusé](../docs/images/assistant-fr-refus-build.jpg)
 
-Les captures montrent les dossiers de test ; vérifiez les chemins proposés sur votre PC.
+[Guide Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3835740541) · [Signaler un problème](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)

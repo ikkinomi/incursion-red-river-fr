@@ -12,7 +12,7 @@ py -3 maintenance/translation_audit.py --market translations/market-display-fr.j
 
 Le rapport vérifie les identités ns/key, les doublons, les textes vides, variables, balises, retours à la ligne, espaces de bord, noms de fichiers, commandes entre accents graves, appellations protégées et chemins du marché. Les divergences de glossaire sont des avertissements à relire, car le contexte prime.
 
-Le contrôle de longueur est une **heuristique**. Un texte français plus long n’est pas forcément coupé ; un texte non signalé n’est pas forcément adapté au widget. `textes-a-verifier.json` est une liste de contrôle à l’écran. Les propositions courtes relues sont dans `LIBELLES-COURTS.md` et `libelles-courts-proposes.json` ; elles ne sont pas appliquées automatiquement.
+Le contrôle de longueur est une **heuristique**. Un texte français plus long n’est pas forcément coupé ; un texte non signalé n’est pas forcément adapté au widget. `textes-a-verifier.json` est une liste de contrôle à l’écran. La 0.3.0 applique 35 entrées relues (22 libellés). Les propositions restantes et leur statut sont dans `LIBELLES-COURTS.md` et `libelles-courts-proposes.json` ; l’audit ne modifie aucun texte automatiquement.
 
 ## Comparer avec les textes du jeu
 
@@ -46,4 +46,19 @@ py -3 -m unittest discover -s tests -v
 
 Les essais d’écriture utilisent uniquement des dossiers temporaires et des profils synthétiques. Les contrôles de processus sont simulés dans cette suite pour éprouver les refus ; les essais locaux supplémentaires utilisent des copies du profil validé en jeu.
 
-Le workflow GitHub `controle.yml` est préparé pour exécuter ces contrôles à chaque push ou pull request et conserver le rapport. Son exécution sur GitHub reste à vérifier après publication. Les actions suivent leurs documentations officielles : [checkout](https://github.com/actions/checkout), [setup-python](https://github.com/actions/setup-python), [upload-artifact](https://github.com/actions/upload-artifact).
+Le workflow GitHub `controle.yml` exécute les contrôles à chaque push ou pull request et conserve le rapport. Il a fonctionné pour la 0.2.2 ; son résultat doit être vérifié pour chaque nouvelle publication. Les actions suivent leurs documentations officielles : [checkout](https://github.com/actions/checkout), [setup-python](https://github.com/actions/setup-python), [upload-artifact](https://github.com/actions/upload-artifact).
+
+## Construire les assistants Windows autonomes
+
+Sur Windows x64, avec Python et Tcl/Tk :
+
+```text
+py -3 -m venv work/build-venv
+work/build-venv/Scripts/python.exe -m pip install -r maintenance/build-requirements.txt
+work/build-venv/Scripts/python.exe maintenance/build_windows.py --output work/bin
+py -3 -m maintenance.package_assistants --release --executables work/bin --output work/release
+```
+
+Les deux exécutables intègrent Python et Tk ; ils utilisent les fichiers de données placés à côté dans le ZIP. Leurs empreintes doivent être publiées avec l’archive. Le mode manuel et les sources restent disponibles. Le dossier Licences accompagne les deux distributions. [Fonctionnement des ressources PyInstaller](https://www.pyinstaller.org/en/stable/runtime-information.html).
+
+La préparation publique exige `docs/images/PRIVACY.json` : chaque capture doit correspondre à son empreinte après relecture des données personnelles. Un changement ou un ajout d’image exige une nouvelle relecture. Une empreinte ne remplace pas le contrôle visuel : les captures doivent venir de vrais essais dans des dossiers de démonstration, sans nom Windows ni chemins personnels.
