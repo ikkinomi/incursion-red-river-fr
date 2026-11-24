@@ -207,7 +207,9 @@ def apply_plan(plan, backups):
     for op in operations:
         if current(op['path']) != op['before']:
             raise ValueError('Un fichier a changé depuis l’aperçu. Relancez Vérifier.')
-    backups = assert_plain_path(backups)
+    # Normaliser aussi la destination : Windows peut fournir TEMP en nom 8.3.
+    # Le contrôle des jonctions/liens reste effectué avant la résolution.
+    backups = assert_plain_path(backups).resolve()
     # Les sauvegardes ne doivent jamais se retrouver dans les dossiers lus par le jeu.
     protected = {Path(plan['target']).parent.resolve()}
     protected.update(op['path'].parent.resolve() for op in operations)

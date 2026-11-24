@@ -261,6 +261,21 @@ class InstallerTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'sauvegardes hors'):
             installer.apply_plan(self.plan(), self.translations / 'backup')
 
+    @unittest.skipUnless(os.name == 'nt', 'Windows short paths')
+    @patch.object(installer, 'assert_game_closed')
+    def test_backups_short_alias_cannot_go_in_loaded_folder(self, _guard):
+        import ctypes
+        folder = self.base / 'long temporary folder name'
+        folder.mkdir()
+        buffer = ctypes.create_unicode_buffer(32768)
+        if not ctypes.windll.kernel32.GetShortPathNameW(str(folder), buffer, len(buffer)) or '~' not in buffer.value:
+            self.skipTest('8.3 aliases unavailable')
+        self.translations = folder / 'Translations'
+        short_backup = Path(buffer.value) / 'Translations/backup'
+        with self.assertRaisesRegex(ValueError, 'sauvegardes hors'):
+            installer.apply_plan(self.plan(), short_backup)
+        self.assertFalse(short_backup.exists())
+
     def test_real_process_guard_detects_running_game_output(self):
         with patch.object(installer.os, 'name', 'nt'), patch.object(installer.subprocess, 'run') as tasklist:
             tasklist.return_value.stdout = b'"Test_C.exe","123","Console","1","100 K"'
