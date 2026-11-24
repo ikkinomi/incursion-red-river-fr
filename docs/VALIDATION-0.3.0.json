@@ -2,7 +2,7 @@
   "version": "0.3.0-beta",
   "target_game_version": "1.4.0.4",
   "target_steam_build": "26761568",
-  "unit_tests": 29,
+  "unit_tests": 30,
   "additional_complete_preset_tests": 7,
   "translation_entries": 6894,
   "translation_static_errors": 0,

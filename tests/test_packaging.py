@@ -4,9 +4,17 @@ from pathlib import Path
 import tempfile
 import unittest
 from maintenance.package_assistants import verified_images
+from installation import fr_manager
 
 
 class PublicationPrivacyTests(unittest.TestCase):
+    def test_distributed_json_matches_installer_manifest(self):
+        root = Path(__file__).resolve().parents[1]
+        manifest = json.loads((root / 'installation/manifest.json').read_text(encoding='utf-8'))
+        actual = {p.name: hashlib.sha256(p.read_bytes()).hexdigest() for p in (root / 'translations/fr').glob('*.json') if not p.name.startswith('_')}
+        self.assertEqual(actual, manifest['json_files'])
+        self.assertEqual(hashlib.sha256((root / 'patch/Test_C/Content/Paks' / fr_manager.PAK).read_bytes()).hexdigest(), manifest['market_sha256'])
+
     def test_added_or_changed_capture_requires_new_review(self):
         with tempfile.TemporaryDirectory() as temp:
             folder = Path(temp)

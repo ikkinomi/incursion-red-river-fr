@@ -6,7 +6,7 @@ Pour Incursion Red River 1.4.0.4 / build Steam 26761568.
 - Installation manuelle conservée dans le même ZIP ; complément du marché toujours facultatif et inchangé depuis la 0.2.1.
 - Contrôle local après mise à jour : build, empreintes et dernier modèle anglais généré, sans correction automatique.
 - 35 entrées relues et raccourcies (22 libellés). Noms du jeu, des cartes et des modèles préservés.
-- 29 tests du dépôt et 7 tests supplémentaires du préréglage complet passent. Les nouveaux textes et modes partiels restent à essayer en jeu. Aucun nouveau lancement du jeu pour cette version.
+- 30 tests du dépôt et 7 tests supplémentaires du préréglage complet passent. Les nouveaux textes et modes partiels restent à essayer en jeu. Aucun nouveau lancement du jeu pour cette version.
 - Captures prises dans des dossiers de démonstration : aucun nom Windows ni chemin personnel visible.
 
 [Installation et choix manuel/assistant](https://github.com/ikkinomi/incursion-red-river-fr#installation-ou-mise-à-jour) · [Guide Steam FR](https://steamcommunity.com/sharedfiles/filedetails/?id=3835740541) · [Signaler une erreur](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
