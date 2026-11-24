@@ -1,5 +1,7 @@
 # Incursion Red River — Traduction française
 
+**Depuis la version 0.3.0, il n’y a plus besoin d’installer Python.** Ouvrez `INSTALLER-FR.exe` pour la traduction ou `AZERTY.exe` pour les commandes, après avoir extrait tous les fichiers du ZIP correspondant. L’environnement nécessaire est intégré aux assistants. L’installation manuelle reste également possible sans Python. **Seuls les scripts `.py` facultatifs nécessitent une installation séparée de Python.**
+
 ## Guides Steam
 
 **Deux méthodes au choix : installation manuelle ou assistant facultatif.** [Détail de l’assistant FR](installation/README.md) · [Interface et diagnostic AZERTY](azerty/README.md) · [Outils de maintenance](maintenance/README.md).

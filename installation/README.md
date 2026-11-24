@@ -1,5 +1,7 @@
 # Assistant FR 0.3.0 bêta
 
+**Depuis la version 0.3.0, il n’y a plus besoin d’installer Python.** Ouvrez `INSTALLER-FR.exe` pour la traduction ou `AZERTY.exe` pour les commandes, après avoir extrait tous les fichiers du ZIP correspondant. L’environnement nécessaire est intégré aux assistants. L’installation manuelle reste également possible sans Python. **Seuls les scripts `.py` facultatifs nécessitent une installation séparée de Python.**
+
 Le ZIP public contient **INSTALLER-FR.exe** : aucun Python à installer pour la fenêtre. Extraire tous les fichiers, fermer le jeu, vérifier les chemins détectés, afficher l’aperçu puis confirmer l’installation. [Procédure complète et méthode manuelle](../README.md#installation-ou-mise-à-jour).
 
 La traduction JSON et le complément facultatif du marché sont séparés. Le complément exige le build Steam 26761568 (jeu 1.4.0.4). Les empreintes et la structure de la traduction sont contrôlées avant la copie. L’ancien pakchunk99 est désactivé si présent, avec sauvegarde et annonce dans l’aperçu.

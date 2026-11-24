@@ -1,5 +1,7 @@
 # Incursion Red River — Préréglage AZERTY 0.3.0 bêta
 
+**Depuis la version 0.3.0, il n’y a plus besoin d’installer Python.** Ouvrez `INSTALLER-FR.exe` pour la traduction ou `AZERTY.exe` pour les commandes, après avoir extrait tous les fichiers du ZIP correspondant. L’environnement nécessaire est intégré aux assistants. L’installation manuelle reste également possible sans Python. **Seuls les scripts `.py` facultatifs nécessitent une installation séparée de Python.**
+
 La 0.3.0 ajoute un assistant Windows autonome, trois choix de touches et un contrôle local après mise à jour. Le choix complet conserve les 13 affectations de la 0.1.0 déjà testée en jeu. Les modes partiels ont été vérifiés sur copies ; ils restent à essayer en partie.
 
 Ce complément permet de jouer avec ZQSD et les touches de la rangée française, tout en gardant Windows en français pour écrire dans le terminal de hack. J’ai testé les déplacements, la saisie au terminal et les raccourcis d’équipement : tout fonctionne bien sur ma configuration.

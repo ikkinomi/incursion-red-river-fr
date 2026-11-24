@@ -1,5 +1,7 @@
 # FR 0.3.0 bêta — assistant autonome et textes courts
 
+**Depuis la 0.3.0 : aucun Python à installer.** Extrayez tous les fichiers du ZIP puis ouvrez **INSTALLER-FR.exe**. L’environnement est intégré à l’assistant ; la méthode manuelle fonctionne aussi sans Python. Seuls les scripts `.py` facultatifs nécessitent Python séparément.
+
 Pour Incursion Red River 1.4.0.4 / build Steam 26761568.
 
 - Assistant Windows x64 : ouvrir INSTALLER-FR.exe après extraction complète, sans Python à installer.

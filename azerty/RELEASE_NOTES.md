@@ -1,5 +1,7 @@
 # AZERTY 0.3.0 bêta — assistant autonome et groupes de touches
 
+**Depuis la 0.3.0 : aucun Python à installer.** Extrayez tous les fichiers du ZIP puis ouvrez **AZERTY.exe**. L’environnement est intégré à l’assistant ; la méthode manuelle fonctionne aussi sans Python. Seuls les scripts `.py` facultatifs nécessitent Python séparément.
+
 Pour Windows x64 et AZERTY français classique, profil vérifié sur Incursion Red River 1.4.0.4 / UE 5.6.
 
 - Ouvrir AZERTY.exe après extraction complète, avec preset.json à côté. Aucun Python à installer pour la fenêtre.
