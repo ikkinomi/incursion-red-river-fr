@@ -17,7 +17,7 @@ def main(argv=None):
     parser.add_argument('--backups', type=Path, default=local / 'AZERTY-Backups')
     args = parser.parse_args(argv)
     root = tk.Tk()
-    root.title('Incursion Red River — Assistant AZERTY (version de test)')
+    root.title('Incursion Red River — Assistant AZERTY 0.2.0 bêta')
     root.geometry('960x690')
     root.minsize(760, 580)
     frame = ttk.Frame(root, padding=18)

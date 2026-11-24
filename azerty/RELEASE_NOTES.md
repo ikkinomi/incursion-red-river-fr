@@ -1,13 +1,13 @@
-# Préréglage AZERTY 0.1.0 bêta
+# AZERTY 0.2.0 bêta — interface et diagnostic
 
-Téléchargement indépendant de la traduction FR, pour Windows et AZERTY français classique. Vérifié sur Incursion Red River 1.4.0.4 / build 26761568.
+Téléchargement indépendant de la traduction, pour Windows et AZERTY français classique. Profil cible : Incursion Red River 1.4.0.4 / UE 5.6.
 
-ZQSD, A/E, accessoires sur W et rangée & é " ' ( - è _ ç sans Maj. Garder Windows en français pour la saisie au terminal. J’ai testé les mouvements, la saisie au terminal et les neuf raccourcis : tout fonctionne sur ma configuration.
+- Les 13 touches restent identiques à la 0.1.0 déjà essayée en jeu : ZQSD, A/E, W et la rangée & é " ' ( - è _ ç sans Maj.
+- Interface : Vérifier les touches, Installer, Restaurer. Python avec Tcl/Tk nécessaire ; l’ancien mode en console reste disponible.
+- Aperçu des touches actuelles, conflits et commandes conservées. Sauvegarde avant modification, restauration contrôlée, profil binaire validé et jeu fermé exigé.
+- J’ai testé les fenêtres, les confirmations, l’installation et la restauration sur une copie du profil. L’outil reproduit le profil validé en jeu. Je n’ai pas refait de partie pour cette mise à jour.
+- Le guide explique aussi le réglage manuel dans le jeu, avec la limite de la saisie des caractères français non vérifiée dans son menu. Aucune sauvegarde personnelle n’est fournie.
 
-L’outil Python fusionne treize affectations dans vos préférences et sauvegarde le fichier d’origine. Il conserve les autres commandes ; aucun profil personnel n’est distribué. Installation jeu fermé, refus des conflits et des formats non pris en charge, restauration incluse. Python 3 est nécessaire, sans bibliothèque supplémentaire.
+[Fonctionnement et deux méthodes](https://github.com/ikkinomi/incursion-red-river-fr/tree/main/azerty) · [Guide Steam AZERTY](https://steamcommunity.com/sharedfiles/filedetails/?id=3844936408) · [Signaler un problème](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=azerty.md)
 
-Sept tests de l’outil passent, notamment la reproduction exacte du profil essayé et l’installation/restauration sur copies. Compatibilité de toutes les configurations non garantie. Pas d’injecteur ni de programme résident ; aucune certification anticheat revendiquée.
-
-Extraire tous les fichiers, lire LISEZ-MOI.md, puis ouvrir AZERTY.cmd. La [traduction française](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.1-beta) reste un téléchargement séparé.
-
-[Fonctionnement et installation](https://github.com/ikkinomi/incursion-red-river-fr/tree/main/azerty) · [Signaler un bug](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=azerty.md)
+La [traduction FR 0.2.2](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.2-beta) reste séparée. Gardez Windows en français pour écrire dans le terminal. Pas d’injecteur ni de programme résident ; aucune certification anticheat revendiquée.

@@ -1,6 +1,8 @@
-# Assistant d’installation FR — version de test
+# Assistant d’installation FR — 0.2.2 bêta
 
-Cette version ajoute une installation guidée à la traduction **0.2.1 bêta** existante, pour Incursion Red River **1.4.0.4 / build Steam 26761568**. Les textes et le complément du marché restent identiques à ceux de la publication 0.2.1. J’ai vérifié la fenêtre, l’aperçu, l’installation et la restauration sur des copies. Le refus d’un build non compatible fonctionne aussi. Un essai complet sur une installation de jeu reste à faire.
+Cette version ajoute une installation guidée facultative à la traduction existante, pour Incursion Red River **1.4.0.4 / build Steam 26761568**. Les textes et le complément du marché restent identiques à ceux de la publication 0.2.1. J’ai vérifié la fenêtre, l’aperçu, l’installation et la restauration sur des copies. Le refus d’un build non compatible fonctionne aussi. Un essai complet sur une installation de jeu reste à faire.
+
+Le même ZIP permet aussi [l’installation manuelle, sans Python](../README.md#méthode-b--installation-manuelle-sans-python). Les deux méthodes installent les mêmes fichiers.
 
 ## Utilisation
 
@@ -40,3 +42,7 @@ py -3 installation/fr_manager.py restore --transaction "chemin/vers/la/sauvegard
 Options : `--game` pour PROJECT QUARANTINE, `--translations` pour le dossier Translations, `--source` pour fr, `--backups` pour la destination des sauvegardes. La commande `install` applique directement les changements ; utiliser d’abord `preview`.
 
 [Guide Steam FR](https://steamcommunity.com/sharedfiles/filedetails/?id=3835740541) · [Signaler un problème](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
+
+![Restauration FR sur une copie](../docs/images/assistant-fr-restauration.jpg)
+
+Les captures montrent les dossiers de test ; vérifiez les chemins proposés sur votre PC.

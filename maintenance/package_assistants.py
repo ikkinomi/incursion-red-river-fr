@@ -1,14 +1,27 @@
-"""Prépare deux archives de test indépendantes, sans publication ni installation."""
+"""Prépare deux archives indépendantes, sans publication ni installation."""
 import argparse
 import hashlib
+import json
 from pathlib import Path
+import posixpath
+import re
 import zipfile
 from maintenance.translation_audit import dump
 
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def build(output):
+def packaged_readme(text, directory=''):
+    def link(match):
+        label, target = match.groups()
+        if target.startswith(('https://', 'http://', '#')):
+            return match[0]
+        path = posixpath.normpath(posixpath.join(directory, target))
+        return '[' + label + '](https://github.com/ikkinomi/incursion-red-river-fr/blob/main/' + path + ')'
+    return re.sub(r'(?<!!)\[([^\]]*)\]\(([^)]+)\)', link, text)
+
+
+def build(output, release=False):
     output = Path(output).resolve()
     output.mkdir(parents=True, exist_ok=True)
     fr = {ROOT / 'INSTALLER-FR.cmd': 'INSTALLER-FR.cmd',
@@ -24,10 +37,30 @@ def build(output):
     az = {ROOT / 'azerty' / name: name for name in ('azerty.py', 'interface.py', 'preset.json', 'AZERTY.cmd')}
     az[ROOT / 'azerty/ASSISTANT-TEST.md'] = 'LISEZ-MOI.md'
     az[ROOT / 'azerty/VALIDATION-TEST1.json'] = 'VALIDATION-TEST1.json'
+    versions = (json.loads((ROOT / 'installation/manifest.json').read_text(encoding='utf-8'))['translation_version'],
+                json.loads((ROOT / 'azerty/preset.json').read_text(encoding='utf-8'))['version'])
+    if release:
+        fr[ROOT / 'README.md'] = 'LISEZ-MOI.md'
+        del fr[ROOT / 'installation/README.md']
+        fr[ROOT / 'installation/README.md'] = 'installation/README.md'
+        az.pop(ROOT / 'azerty/ASSISTANT-TEST.md')
+        az[ROOT / 'azerty/README.md'] = 'LISEZ-MOI.md'
+        for path in (ROOT / 'docs/images').glob('assistant-fr-*.jpg'):
+            fr[path] = 'docs/images/' + path.name
+        for path in (ROOT / 'docs/images').glob('assistant-azerty-*.jpg'):
+            az[path] = 'images/' + path.name
+    names = ([f'Incursion_Red_River_FR_1.4.0.4_v{versions[0]}.zip', f'Incursion_Red_River_AZERTY_1.4.0.4_v{versions[1]}.zip']
+             if release else ['IRR_Assistant_FR_0.2.1_TEST1.zip', 'IRR_Assistant_AZERTY_0.2.0_TEST1.zip'])
     result = []
-    for name, entries in [('IRR_Assistant_FR_0.2.1_TEST1.zip', fr), ('IRR_Assistant_AZERTY_0.2.0_TEST1.zip', az)]:
+    for name, entries in zip(names, (fr, az)):
         # Liste explicite : aucune sauvegarde ou donnée personnelle n’est distribuée.
         data = {target: path.read_bytes() for path, target in entries.items()}
+        if release:
+            is_azerty = 'AZERTY' in name
+            doc = packaged_readme(data['LISEZ-MOI.md'].decode('utf-8'), 'azerty' if is_azerty else '')
+            if is_azerty:
+                doc = doc.replace('../docs/images/', 'images/')
+            data['LISEZ-MOI.md'] = doc.encode('utf-8')
         sums = ''.join(hashlib.sha256(value).hexdigest() + '  ' + target + '\n' for target, value in sorted(data.items()))
         data['SHA256SUMS.txt'] = sums.encode('utf-8')
         archive = output / name
@@ -47,4 +80,6 @@ def build(output):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--output', type=Path, required=True)
-    print(build(parser.parse_args().output))
+    parser.add_argument('--release', action='store_true')
+    args = parser.parse_args()
+    print(build(args.output, args.release))

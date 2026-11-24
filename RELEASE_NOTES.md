@@ -1,14 +1,15 @@
-# Traduction française 0.2.1 bêta
+# Traduction FR 0.2.2 bêta — assistant facultatif
 
 Pour Incursion Red River 1.4.0.4 / build Steam 26761568.
 
-- 240 entrées corrigées : Stock/Crosse selon le contexte, noms AK Star, Longbow, Paraclete Origin et Team Wendy, contrats FANG, terminal et descriptions d’équipement.
-- 368 valeurs de la table du marché synchronisées, chemins composés compris ; les dix fichiers des widgets testés restent identiques.
-- Glossaire et règles de conservation des noms ajoutés. Contrôles des 6 894 entrées : aucune erreur de structure, variable, balise ou identité ; 667 occurrences de noms protégés vérifiées.
-- J’ai installé et testé cette version : elle fonctionne bien sur ma configuration. Cela ne constitue pas un test exhaustif de tous les objets, missions ou transactions.
+- Même traduction et même complément du marché que la 0.2.1, avec ses 240 corrections.
+- Un seul ZIP, deux méthodes : copie manuelle sans Python ou assistant graphique facultatif avec Python et Tcl/Tk.
+- Détection des bibliothèques Steam, aperçu, sauvegardes et restauration. Le complément du marché reste facultatif et son installation est refusée sur un build non validé.
+- Glossaire relié au contrôle des traductions, comparaison des nouvelles sources, rapports de longueurs et 28 propositions de libellés courts laissées en relecture.
+- J’ai vérifié les fenêtres, l’installation et la restauration sur des copies. 22 tests du dépôt et 7 tests AZERTY supplémentaires passent. Je n’ai pas relancé le jeu pour cette mise à jour des assistants.
 
-**Mettre à jour les deux composants**, jeu fermé : `fr/` dans `%LOCALAPPDATA%/Test_C/Saved/Translations`, puis le nouveau `pakchunk98-FrenchMarketTest_P.pak` dans `Test_C/Content/Paks` du jeu. Le nom du .pak est identique, son contenu a changé. Garder l’ancien pakchunk99 désactivé. Désactiver le complément du marché après une mise à jour du jeu jusqu’à nouvelle validation.
+[Installation et choix de la méthode](https://github.com/ikkinomi/incursion-red-river-fr#installation-ou-mise-à-jour) · [Guide Steam FR](https://steamcommunity.com/sharedfiles/filedetails/?id=3835740541) · [Signaler un bug ou une erreur](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
 
-Le préréglage AZERTY est un [téléchargement séparé](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/azerty-v0.1.0-beta), facultatif et indépendant. Il n’est pas inclus dans ce ZIP.
+Le [complément AZERTY 0.2.0](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/azerty-v0.2.0-beta) est un téléchargement séparé.
 
-[Installation](https://github.com/ikkinomi/incursion-red-river-fr#installation-ou-mise-à-jour) · [Signaler un bug ou une erreur de traduction](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
+Fermez le jeu avant toute modification. Gardez l’ancien pakchunk99 désactivé. Désactivez le complément du marché après une mise à jour du jeu jusqu’à nouvelle validation. Les essais ne couvrent pas toutes les configurations ni tous les écrans.

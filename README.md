@@ -2,7 +2,7 @@
 
 ## Guides Steam
 
-**En préparation locale :** [assistant d’installation FR](installation/README.md), [interface et diagnostic AZERTY](azerty/ASSISTANT-TEST.md), [contrôles de maintenance](maintenance/README.md). Ces nouveautés ne font pas encore partie des téléchargements publics ci-dessous.
+**Deux méthodes au choix : installation manuelle ou assistant facultatif.** [Détail de l’assistant FR](installation/README.md) · [Interface et diagnostic AZERTY](azerty/README.md) · [Outils de maintenance](maintenance/README.md).
 
 [Guide de la traduction FR](https://steamcommunity.com/sharedfiles/filedetails/?id=3835740541) · [Guide du préréglage AZERTY](https://steamcommunity.com/sharedfiles/filedetails/?id=3844936408)
 
@@ -10,20 +10,20 @@ Les deux compléments sont indépendants et disposent chacun de leur télécharg
 
 ## Mise à jour du patch majeure
 
-**Version 0.2.1 bêta — 23 novembre 2026.** Pour **Incursion Red River 1.4.0.4**, build Steam **26761568**.
+**Version 0.2.2 bêta — 24 novembre 2026.** Pour **Incursion Red River 1.4.0.4**, build Steam **26761568**.
 
-La 0.2.1 corrige 240 entrées et synchronise les noms du marché. Elle conserve la traduction des catégories, des filtres et des chemins de catégories ajoutée en 0.2.0. Un glossaire protège les noms du jeu, des cartes et les appellations commerciales.
+La 0.2.2 ajoute l’assistant d’installation et les contrôles de maintenance. Les textes et le complément du marché restent identiques à la 0.2.1 : ses 240 corrections sont incluses. Elle conserve la traduction des catégories, des filtres et des chemins de catégories ajoutée en 0.2.0. Un glossaire protège les noms du jeu, des cartes et les appellations commerciales.
 
-**J’ai installé et testé cette version : elle fonctionne bien sur ma configuration. Des tests approfondis restent à faire.** La bêta n’est pas une validation de tous les objets, des achats/ventes, du marché noir ou de toutes les missions.
+**J’ai vérifié les fenêtres, les aperçus, l’installation et la restauration des deux assistants sur des copies. Le refus d’un build incompatible fonctionne aussi.** La traduction et les 13 touches AZERTY avaient déjà été essayées en jeu ; je n’ai pas refait de partie pour cette mise à jour des assistants. Des tests approfondis restent à faire. La bêta n’est pas une validation de tous les objets, des achats/ventes, du marché noir ou de toutes les missions.
 
-[Télécharger la 0.2.1 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.2.1-beta/Incursion_Red_River_FR_1.4.0.4_v0.2.1-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.1-beta) · [Signaler un bug ou une erreur de traduction](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
+[Télécharger la 0.2.2 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/download/v0.2.2-beta/Incursion_Red_River_FR_1.4.0.4_v0.2.2-beta.zip) · [Voir la publication](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.2-beta) · [Signaler un bug ou une erreur de traduction](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
 
 ## Deux téléchargements indépendants
 
 | Téléchargement | Utilité |
 |---|---|
-| [Traduction FR 0.2.1 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.1-beta) | Textes français et complément facultatif du marché |
-| [Préréglage AZERTY 0.1.0 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/azerty-v0.1.0-beta) | Commandes françaises et rangée numérique, en gardant Windows en français |
+| [Traduction FR 0.2.2 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.2-beta) | Textes français et complément facultatif du marché |
+| [Préréglage AZERTY 0.2.0 bêta](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/azerty-v0.2.0-beta) | Commandes françaises et rangée numérique, en gardant Windows en français |
 
 L’AZERTY n’est pas inclus dans l’archive FR. Il ne nécessite pas la traduction. [Fonctionnement, sauvegarde et installation AZERTY](azerty/README.md).
 
@@ -36,7 +36,29 @@ L’AZERTY n’est pas inclus dans l’archive FR. Il ne nécessite pas la tradu
 
 ## Installation ou mise à jour
 
-### 1. Fermer le jeu et désactiver l’ancien patch .pak
+Fermez le jeu avant toute modification. Le même ZIP FR permet de choisir entre les deux méthodes ci-dessous. Il n’est pas nécessaire de les cumuler.
+
+### Méthode A — Avec l’assistant
+
+1. Installez une version maintenue de [Python pour Windows](https://www.python.org/downloads/windows/), avec Tcl/Tk. Python 3.11 ou plus récent conseillé ; aucune bibliothèque supplémentaire.
+2. Téléchargez le ZIP FR et extrayez **tous ses fichiers** dans un dossier indépendant du jeu et de Translations.
+3. Ouvrez **INSTALLER-FR.cmd**.
+4. Vérifiez les chemins proposés. L’assistant cherche le jeu dans les bibliothèques Steam et préremplit le dossier Translations du compte Windows. Si plusieurs installations sont trouvées, ou aucune, utilisez **Parcourir…**.
+5. Cochez le complément du marché si souhaité. Il est accepté seulement pour le build Steam validé.
+6. Cliquez sur **Vérifier et afficher l’aperçu**, lisez les fichiers concernés, puis **Installer** et confirmez.
+7. Lancez le jeu vous-même et choisissez Français.
+
+Les vérifications et l’aperçu n’écrivent rien dans le jeu. Les fichiers remplacés sont sauvegardés avant la copie dans `%LOCALAPPDATA%/Test_C/FR-Backups`. **Restaurer une sauvegarde** permet de choisir une transaction précédente ; un fichier modifié depuis cette installation est protégé contre l’écrasement. [Fonctionnement détaillé](installation/README.md).
+
+![Installation FR vérifiée sur une copie](docs/images/assistant-fr-installation.jpg)
+
+*Les captures viennent des essais sur des copies : leurs chemins sont ceux du dossier de test. Sur votre PC, vérifiez les destinations proposées.*
+
+### Méthode B — Installation manuelle, sans Python
+
+La procédure ci-dessous reste disponible. Les scripts de l’assistant ne sont pas nécessaires pour copier les fichiers à la main.
+
+#### 1. Fermer le jeu et désactiver l’ancien patch .pak
 
 Si le jeu n’a jamais été lancé, lancez-le une première fois pour qu’il crée son dossier de traductions, puis fermez-le.
 
@@ -44,17 +66,17 @@ Dans Steam, ouvrez **Incursion Red River → Propriétés → Fichiers installé
 
 Si vous avez encore **`pakchunk99-French_P.pak`**, renommez uniquement ce fichier en **`pakchunk99-French_P.pak.disabled`**, ou déplacez-le dans un dossier de sauvegarde hors du jeu. Il appartient aux anciens patchs et doit rester désactivé. Conservez les archives d’origine du jeu.
 
-### 2. Installer la traduction JSON
+#### 2. Installer la traduction JSON
 
-1. Téléchargez et extrayez le ZIP de la 0.2.1.
+1. Téléchargez et extrayez le ZIP de la 0.2.2.
 2. Ouvrez l’Explorateur de fichiers, collez **`%LOCALAPPDATA%\Test_C\Saved\Translations`** dans sa barre d’adresse, puis validez.
 3. Si un dossier `fr` existe déjà, faites-en une copie de sauvegarde **en dehors de `Translations`**.
 4. Copiez le dossier **`fr`** de l’archive dans `Translations`. Si Windows le demande, remplacez les fichiers du patch précédent.
 5. Vérifiez le résultat : **`Translations/fr/fr_001.json`**, avec les autres fichiers JSON à côté. Il ne doit pas y avoir de dossier `fr/fr`.
 
-Depuis la 0.1.8 ou la 0.1.9, la procédure est la même. Les 36 fichiers JSON contiennent 240 corrections par rapport à la 0.2.0. Remplacez également le complément du marché si vous l’utilisez.
+Depuis la 0.1.8 ou la 0.1.9, la procédure est la même. Les 36 fichiers JSON contiennent les 240 corrections de la 0.2.1. Depuis la 0.2.1, les textes et le complément du marché sont identiques ; l’assistant est la nouveauté. Remplacez également le complément du marché si vous l’utilisez.
 
-### 3. Ajouter le complément du marché
+#### 3. Ajouter le complément du marché
 
 1. Retournez dans le dossier du jeu ouvert depuis Steam : `PROJECT QUARANTINE`.
 2. Ouvrez **`Test_C/Content/Paks`**.
@@ -65,7 +87,7 @@ Résultat attendu : **`PROJECT QUARANTINE/Test_C/Content/Paks/pakchunk98-FrenchM
 
 Ce fichier est le nouveau complément vérifié pour le build indiqué. **Il ne faut pas réactiver l’ancien `pakchunk99-French_P.pak`.** Aucun injecteur ni UE4SS n’est nécessaire.
 
-### 4. Choisir la langue
+#### 4. Choisir la langue
 
 Lancez le jeu et choisissez **Français** dans **Paramètres → Langue**, puis ouvrez le marché. Le message de démarrage **« Mods are installed »** est normal avec le complément du marché. Il ne constitue pas, à lui seul, une erreur de fichiers corrompus.
 
@@ -102,3 +124,7 @@ Les fichiers éditables de la traduction native sont dans [`translations/fr`](tr
 [Historique](CHANGELOG.md) · [Crédits](CREDITS.md)
 
 Projet communautaire non officiel.
+
+## Suivre les prochaines mises à jour
+
+[Contrôles automatiques](maintenance/README.md) · [28 propositions de libellés courts à vérifier](maintenance/LIBELLES-COURTS.md). Les propositions courtes ne sont pas activées dans cette version. Le modèle anglais reflète le dernier lancement du jeu ; ces contrôles ne remplacent pas un essai en partie.

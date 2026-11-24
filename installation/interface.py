@@ -7,7 +7,7 @@ from installation import fr_manager as manager
 
 def launch(args):
     root = tk.Tk()
-    root.title('Incursion Red River — Assistant traduction FR (version de test)')
+    root.title('Incursion Red River — Assistant traduction FR 0.2.2 bêta')
     root.geometry('980x750')
     root.minsize(780, 650)
     frame = ttk.Frame(root, padding=18)

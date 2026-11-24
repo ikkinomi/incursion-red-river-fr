@@ -11,7 +11,7 @@ where python >nul 2>nul
 if errorlevel 1 goto missing
 set "AZERTY_PYTHON=python"
 :menu
-echo Incursion Red River - Assistant AZERTY (version de test)
+echo Incursion Red River - AZERTY 0.2.0 beta
 echo 0. Interface graphique
 echo 1. Preview / Apercu
 echo 2. Install / Installer - game must be closed

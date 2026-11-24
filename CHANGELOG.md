@@ -1,10 +1,32 @@
-# En préparation — assistants TEST 1, 24 novembre 2026
+# Traduction FR 0.2.2 bêta — assistant facultatif
 
-- Contrôle réutilisable des traductions et comparaison avec le modèle anglais / une référence antérieure ; règles du glossaire exécutées automatiquement, rapport de longueurs et brouillon des textes à adapter.
-- 28 propositions de libellés courts, pour 52 entrées, conservées hors des traductions actives en attendant le contrôle visuel.
-- Assistant FR avec détection des bibliothèques Steam, aperçu, complément du marché facultatif soumis au build validé, sauvegarde et restauration contrôlée.
-- Interface AZERTY et diagnostic des 13 affectations, conflits et autres commandes conservées. Les touches restent identiques à la 0.1.0.
-- Essais automatiques et copies locales : voir les validations TEST1. J’ai vérifié les deux fenêtres, les aperçus, les confirmations, l’installation et la restauration sur des copies le 24 novembre. Le refus d’un build incompatible a aussi été vérifié. Aucun nouvel essai en partie ni nouvelle publication à ce stade.
+Pour Incursion Red River 1.4.0.4 / build Steam 26761568.
+
+- Même traduction et même complément du marché que la 0.2.1, avec ses 240 corrections.
+- Un seul ZIP, deux méthodes : copie manuelle sans Python ou assistant graphique facultatif avec Python et Tcl/Tk.
+- Détection des bibliothèques Steam, aperçu, sauvegardes et restauration. Le complément du marché reste facultatif et son installation est refusée sur un build non validé.
+- Glossaire relié au contrôle des traductions, comparaison des nouvelles sources, rapports de longueurs et 28 propositions de libellés courts laissées en relecture.
+- J’ai vérifié les fenêtres, l’installation et la restauration sur des copies. 22 tests du dépôt et 7 tests AZERTY supplémentaires passent. Je n’ai pas relancé le jeu pour cette mise à jour des assistants.
+
+[Installation et choix de la méthode](https://github.com/ikkinomi/incursion-red-river-fr#installation-ou-mise-à-jour) · [Guide Steam FR](https://steamcommunity.com/sharedfiles/filedetails/?id=3835740541) · [Signaler un bug ou une erreur](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=correction.md)
+
+Le [complément AZERTY 0.2.0](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/azerty-v0.2.0-beta) est un téléchargement séparé.
+
+Fermez le jeu avant toute modification. Gardez l’ancien pakchunk99 désactivé. Désactivez le complément du marché après une mise à jour du jeu jusqu’à nouvelle validation. Les essais ne couvrent pas toutes les configurations ni tous les écrans.
+
+# AZERTY 0.2.0 bêta — interface et diagnostic
+
+Téléchargement indépendant de la traduction, pour Windows et AZERTY français classique. Profil cible : Incursion Red River 1.4.0.4 / UE 5.6.
+
+- Les 13 touches restent identiques à la 0.1.0 déjà essayée en jeu : ZQSD, A/E, W et la rangée & é " ' ( - è _ ç sans Maj.
+- Interface : Vérifier les touches, Installer, Restaurer. Python avec Tcl/Tk nécessaire ; l’ancien mode en console reste disponible.
+- Aperçu des touches actuelles, conflits et commandes conservées. Sauvegarde avant modification, restauration contrôlée, profil binaire validé et jeu fermé exigé.
+- J’ai testé les fenêtres, les confirmations, l’installation et la restauration sur une copie du profil. L’outil reproduit le profil validé en jeu. Je n’ai pas refait de partie pour cette mise à jour.
+- Le guide explique aussi le réglage manuel dans le jeu, avec la limite de la saisie des caractères français non vérifiée dans son menu. Aucune sauvegarde personnelle n’est fournie.
+
+[Fonctionnement et deux méthodes](https://github.com/ikkinomi/incursion-red-river-fr/tree/main/azerty) · [Guide Steam AZERTY](https://steamcommunity.com/sharedfiles/filedetails/?id=3844936408) · [Signaler un problème](https://github.com/ikkinomi/incursion-red-river-fr/issues/new?template=azerty.md)
+
+La [traduction FR 0.2.2](https://github.com/ikkinomi/incursion-red-river-fr/releases/tag/v0.2.2-beta) reste séparée. Gardez Windows en français pour écrire dans le terminal. Pas d’injecteur ni de programme résident ; aucune certification anticheat revendiquée.
 
 ---
 
