@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "reviewed_utc": "2026-11-24T07:52:28.249287+00:00",
+  "method": "Captures natives de vrais essais sur copies sous C:/IRR-Demo-030. Encodage JPEG uniquement ; aucun nom Windows ni chemin personnel visible après relecture.",
+  "files": {
+    "assistant-azerty-installation.jpg": "9ad8bbfb4e32cec4a79622e00d52f9b26bbbfb95452418a59f7a86b8d08f89d9",
+    "assistant-azerty-restauration.jpg": "11ab054834e532c8f175d27488ce2e4439566276e0818f1c7cd08b17584a5817",
+    "assistant-azerty-controle.jpg": "af4cd2e2e66e986fecdb1c9dae07040696114ff51211dbdf490e8753912d6b65",
+    "assistant-fr-installation.jpg": "42ddabe58b840067ef70e8b543f586e9faf8d4964790cc33291d47f359722b20",
+    "assistant-fr-restauration.jpg": "2debf664b35dbcb9f46e80844cdcc3c156007a1b29c1dc9a68dd1864388e0963",
+    "assistant-fr-refus-build.jpg": "705b4a987ae87f6f8f9a1b920dbe82c326132fc28da162c9f5a21973798fc863",
+    "assistant-fr-controle.jpg": "10c6dd6f43351fab7c163af13419df1ca8b6cbb80380a6ab10cd337cfcc7f9f4"
+  }
+}

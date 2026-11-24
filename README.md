@@ -55,6 +55,8 @@ L’exécutable fonctionne sous Windows x64 et intègre son environnement Python
 
 ![Assistant FR, essai dans des dossiers de démonstration](docs/images/assistant-fr-installation.jpg)
 
+![Contrôle local après mise à jour, sur une copie](docs/images/assistant-fr-controle.jpg)
+
 ### Méthode B — Installation manuelle, sans Python
 
 La procédure ci-dessous reste disponible. Les scripts de l’assistant ne sont pas nécessaires pour copier les fichiers à la main.

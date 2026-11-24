@@ -72,6 +72,10 @@ def build(output, release=False, executables=None):
         del fr[ROOT / 'installation/README.md']
         fr[ROOT / 'installation/README.md'] = 'installation/README.md'
         az.pop(ROOT / 'azerty/ASSISTANT-TEST.md')
+        fr.pop(ROOT / 'installation/VALIDATION-TEST1.json')
+        az.pop(ROOT / 'azerty/VALIDATION-TEST1.json')
+        fr[ROOT / 'docs/VALIDATION-0.3.0.json'] = 'VALIDATION.json'
+        az[ROOT / 'docs/VALIDATION-0.3.0.json'] = 'VALIDATION.json'
         az[ROOT / 'azerty/README.md'] = 'LISEZ-MOI.md'
         for path in verified_images(ROOT / 'docs/images', 'assistant-fr-'):
             fr[path] = 'docs/images/' + path.name

@@ -86,4 +86,6 @@ Une action absente du .sav est une valeur implicite du jeu. Ce fichier ne permet
 
 ![Restauration AZERTY dans un dossier de démonstration](../docs/images/assistant-azerty-restauration.jpg)
 
+![Contrôle du profil et du build, sur une copie](../docs/images/assistant-azerty-controle.jpg)
+
 Les captures montrent des copies de test. Aucun nom de compte Windows ou chemin personnel n’y est affiché.

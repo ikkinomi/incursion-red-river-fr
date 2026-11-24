@@ -13,17 +13,18 @@
   "standalone_azerty_three_modes_install_restore_on_copies": true,
   "standalone_extracted_zip_without_python_in_path": true,
   "complete_preset_matches_previous_game_test": true,
-  "new_gui_visual_check": false,
-  "new_screenshots_privacy_review": false,
+  "new_gui_visual_check": true,
+  "new_screenshots_privacy_review": true,
   "new_in_game_test": false,
   "installed_game_modified": false,
-  "public_release_ready": false,
+  "public_release_ready": true,
   "pending": [
-    "Afficher les nouvelles fenêtres dans la session Windows et contrôler leur rendu.",
-    "Prendre les captures dans les dossiers de démonstration et remplacer les anciennes captures publiques.",
-    "Retirer les captures non anonymisées des anciennes archives publiques concernées.",
-    "Publier les archives après les derniers contrôles et vérifier GitHub Actions.",
-    "Actualiser les guides Steam et vérifier leur affichage public.",
-    "Faire essayer en jeu les nouveaux libellés et les modes AZERTY partiels."
-  ]
+    "Publier et vérifier les téléchargements et les guides.",
+    "Essayer en jeu les nouveaux libellés et les modes AZERTY partiels."
+  ],
+  "gui_fr_install_restore": true,
+  "gui_fr_incompatible_build_refused": true,
+  "gui_azerty_three_previews": true,
+  "gui_azerty_install_restore_exact": true,
+  "gui_update_checks_read_only": true
 }
